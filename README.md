@@ -11,6 +11,6 @@ Designed by Carolina Giovagnoli for Huerta Tipográfica.
 
 Andada ht es una tipografía para textos, de serif slab-orgánico, estilo híbrido y contraste medio. Está diseñada para abordar la problemática de un idioma específico, el guaraní, y su convivencia con el castellano. El pusó, signo intervocálico que utiliza este idioma, se diferencia de la comilla y tiene entidad de letra, ya que es una consonante, no es un acento ni un signo de puntuación. Para el diseño de los dígrafos –dos letras que representan un sonido– no se utiliza el recurso de las ligaduras, sino que se trabajaron como pares de letras. 
 
-Más información si quieres tipear en facilmente saltillo o puso: https://github.com/huertatipografica/teclado-Guarani
+Más información si quieres tipear facilmente saltillo o puso: https://github.com/huertatipografica/teclado-Guarani
 
 Diseñado por Carolina Giovagnoli para Huerta Tipográfica.
