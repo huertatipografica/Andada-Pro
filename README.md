@@ -1,8 +1,11 @@
 # Andada
-Andada ht is an organic-slab serif, hybrid style and a solid design of medium stroke contrast. It is a type for text written in Guaraní and Spanish. The main goal of its design is not reducing a culture to an aesthetic fact. The pusó, an inter vowel sign that the Guaraní language uses similar to an apostrophe, was designed in consonance with the vowels and, from this sign, the diacritics (which Guaraní heavily uses) were designed. The digraphs were created by pairs, instead of designing them as ligatures. Particular attention was paid to the diacritics design so they could have a great performance in languages where its use is frequent.
+Andada ht was born from the relationship between language and typography. It is an organic-slab serif, hybrid style and medium contrast type for text. Initially it was designed to be used in a specific bilingual context, Spanish and Guaraní (pre-hispanic) languages therefore the language is its design criteria.
 
-This font has received an award at the Ibero-America Design Biennial. The Biennial has been shown in Spain, Argentina, Chile, El Salvador, Uruguay, Bolivia, Colombia and Venezuela.
+The Guaraní language uses the latin system, it has a character named puso, which is an identifying sign for Guaraní, like the ñ in Spanish, the č in Czech or the ß in German. The correct sign to represent the puso is the saltillo (Saltillo uniA78B, saltillo uniA78C), but usually it’s replaced by an apostrophe because the saltillo does not appear in the spanish, english or portuguese keyboards layouts.
 
+During these 10 years of work I have looked for different solutions to improve the composition of text in guaraní, from the typographical and technical points of view.
+
+I have developed a new keyboard distribution, which allows the guaraní language users to normally type in their language.
 More info if you want to type saltillo oder puso: https://github.com/huertatipografica/teclado-Guarani
 
 Designed by Carolina Giovagnoli for Huerta Tipográfica.
