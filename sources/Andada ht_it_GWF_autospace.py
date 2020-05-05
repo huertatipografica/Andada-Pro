@@ -7,11 +7,11 @@
 *,Letter,Lowercase,1,x,*,
 
 # Small caps
-*,Letter,Smallcaps,1.35,h.sc,*,
+*,Letter,Smallcaps,1.3,h.sc,*,
 *,Punctuation,Smallcaps,1.6,*,*,
 
 # Letras-numeros-puntaución-symbols small / superior .sups
-# esto esta espaciado con el RMX *,Letter,Small,1.2,x.sups,*,
+*,Letter,Small,0.8,x.sups,*,
 *,Punctuation,Small,1.4,*,*,
 *,Number,Small,1.2,*,*,
 *,Symbol,Small,1.2,*,*,
@@ -42,8 +42,9 @@
 
 # Symbols
 *,Symbol,Currency,1.6,*,*,
-*,Symbol,Math,1.8,*,*,
-*,Symbol,*,1.8,*,*,
+#*,Symbol,*,1.5,*,*,
+#*,Mark,*,1,*,*,
+*,Symbol,Other,1.7,*,*
 
 # Devanagari
 devanagari,Letter,Other,1,devaHeight,*,
