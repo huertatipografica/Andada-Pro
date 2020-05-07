@@ -1,4 +1,4 @@
-!(IMG ANDADA)(https://github.com/huertatipografica/Andada/blob/master/img/Andada%20ht-2020-02.png?raw=true)
+![IMG ANDADA](https://github.com/huertatipografica/Andada/blob/master/img/Andada%20ht-2020-02.png?raw=true)
 ## Andada
 Andada ht was born from the relationship between language and typography. It is an organic-slab serif, hybrid style and medium contrast type for text. Initially it was designed to be used in a specific bilingual context, Spanish and Guaraní (pre-hispanic) languages therefore the language is its design criteria.
 
