@@ -1,4 +1,5 @@
-# Andada
+!(IMG ANDADA)(https://github.com/huertatipografica/Andada/blob/master/img/Andada%20ht-2020-02.png?raw=true)
+## Andada
 Andada ht was born from the relationship between language and typography. It is an organic-slab serif, hybrid style and medium contrast type for text. Initially it was designed to be used in a specific bilingual context, Spanish and Guaraní (pre-hispanic) languages therefore the language is its design criteria.
 
 The Guaraní language uses the latin system, it has a character named puso, which is an identifying sign for Guaraní, like the ñ in Spanish, the č in Czech or the ß in German. The correct sign to represent the puso is the saltillo (Saltillo uniA78B, saltillo uniA78C), but usually it’s replaced by an apostrophe because the saltillo does not appear in the spanish, english or portuguese keyboards layouts.
