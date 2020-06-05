@@ -1,8 +1,5 @@
 {
 .appVersion = "1330";
-DisplayStrings = (
-"/eth.sc/h.sc/lslash.sc/oslash.sc/slash.sc/liraTurkish.sc"
-);
 classes = (
 {
 automatic = 1;
