@@ -1,5 +1,8 @@
 {
 .appVersion = "1330";
+DisplayStrings = (
+"NHGRO/Germandbls NH\012HHH/Germandbls A/Germandbls A/Germandbls B/Germandbls B/Germandbls C/Germandbls C/Germandbls D/Germandbls D/Germandbls E/Germandbls EI/Germandbls OF/Germandbls F/Germandbls G/Germandbls G/Germandbls H/Germandbls H/Germandbls I/Germandbls I/Germandbls J/Germandbls J/Germandbls K/Germandbls K/Germandbls L/Germandbls L/Germandbls M/Germandbls M/Germandbls N/Germandbls N/Germandbls/Germandbls O/Germandbls O/Germandbls P/Germandbls P/Germandbls Q/Germandbls Q/Germandbls R/Germandbls R/Germandbls S/Germandbls S/Germandbls T/Germandbls T/Germandbls U/Germandbls U/Germandbls V/Germandbls V/Germandbls X/Germandbls X/Germandbls Y/Germandbls Y/Germandbls Z/Germandbls Z/Germandbls/Germandbls"
+);
 classes = (
 {
 automatic = 1;
@@ -167047,6 +167050,7 @@ slash = -30;
 "@MMK_R_z.sups" = -12;
 };
 "@MMK_L_G" = {
+"@MMK_R_H" = 10;
 "@MMK_R_v" = -30;
 };
 "@MMK_L_G.sups" = {
@@ -167245,7 +167249,7 @@ Saltillo.sups = -6;
 "@MMK_R_Y.sups" = -31;
 };
 "@MMK_L_R" = {
-"@MMK_R_O" = -20;
+"@MMK_R_O" = -30;
 "@MMK_R_T" = -20;
 "@MMK_R_U" = -15;
 "@MMK_R_V" = -60;
@@ -167273,7 +167277,7 @@ Saltillo.sups = -19;
 "@MMK_R_T" = -15;
 "@MMK_R_V" = -50;
 "@MMK_R_X" = -50;
-"@MMK_R_Y" = -50;
+"@MMK_R_Y" = -30;
 "@MMK_R_Z" = -30;
 "@MMK_R_n" = -10;
 "@MMK_R_o" = -10;
@@ -167460,7 +167464,7 @@ Saltillo.sups = -31;
 "@MMK_L_Y" = {
 "@MMK_R_A" = -90;
 "@MMK_R_AE" = -130;
-"@MMK_R_H" = -10;
+"@MMK_R_H" = -20;
 "@MMK_R_M" = -30;
 "@MMK_R_O" = -50;
 "@MMK_R_S" = -50;
@@ -168368,6 +168372,7 @@ slash = -30;
 "@MMK_R_z.sups" = -13;
 };
 "@MMK_L_G" = {
+"@MMK_R_H" = 10;
 "@MMK_R_V" = -20;
 "@MMK_R_v" = -30;
 };
@@ -168566,6 +168571,7 @@ Saltillo.sups = -20;
 "@MMK_R_Y.sups" = -34;
 };
 "@MMK_L_R" = {
+"@MMK_R_O" = -30;
 "@MMK_R_T" = -20;
 "@MMK_R_U" = -10;
 "@MMK_R_V" = -60;
@@ -168590,7 +168596,7 @@ Saltillo.sups = -20;
 "@MMK_R_T" = -20;
 "@MMK_R_V" = -40;
 "@MMK_R_X" = -50;
-"@MMK_R_Y" = -50;
+"@MMK_R_Y" = -30;
 "@MMK_R_Z" = -30;
 "@MMK_R_a" = -10;
 "@MMK_R_n" = -10;
@@ -168775,7 +168781,7 @@ Saltillo.sups = -27;
 "@MMK_L_Y" = {
 "@MMK_R_A" = -80;
 "@MMK_R_AE" = -130;
-"@MMK_R_H" = -10;
+"@MMK_R_H" = -20;
 "@MMK_R_M" = -30;
 "@MMK_R_O" = -40;
 "@MMK_R_S" = -50;
