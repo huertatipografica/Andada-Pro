@@ -10895,6 +10895,7 @@ width = 794;
 leftKerningGroup = O;
 rightKerningGroup = Ohorn;
 unicode = 1EDC;
+changeCount = 1;
 },
 {
 color = 5;
@@ -59476,6 +59477,7 @@ width = 875;
 }
 );
 unicode = 00BC;
+changeCount = 1;
 },
 {
 color = 5;
@@ -59517,6 +59519,7 @@ width = 889;
 }
 );
 unicode = 00BD;
+changeCount = 1;
 },
 {
 color = 5;
@@ -59558,6 +59561,7 @@ width = 898;
 }
 );
 unicode = 00BE;
+changeCount = 1;
 },
 {
 color = 5;
@@ -112095,6 +112099,7 @@ width = 841;
 }
 );
 unicode = 2153;
+changeCount = 1;
 },
 {
 color = 5;
@@ -112136,6 +112141,7 @@ width = 912;
 }
 );
 unicode = 2154;
+changeCount = 1;
 },
 {
 color = 5;
@@ -112177,6 +112183,7 @@ width = 882;
 }
 );
 unicode = 215B;
+changeCount = 1;
 },
 {
 color = 5;
@@ -112218,6 +112225,7 @@ width = 905;
 }
 );
 unicode = 215C;
+changeCount = 1;
 },
 {
 color = 5;
@@ -112259,6 +112267,7 @@ width = 900;
 }
 );
 unicode = 215D;
+changeCount = 1;
 },
 {
 color = 5;
@@ -112300,6 +112309,7 @@ width = 921;
 }
 );
 unicode = 215E;
+changeCount = 1;
 },
 {
 color = 5;
