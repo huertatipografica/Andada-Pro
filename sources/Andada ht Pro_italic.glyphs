@@ -1,8 +1,5 @@
 {
 .appVersion = "1330";
-DisplayStrings = (
-"m/space lnlnz/quoteright znlnlm/space \012/space a/quoteright a/quoteright b/quoteright b/quoteright c/quoteright c/quoteright d/quoteright d/quoteright e/quoteright e\012e/quoteright f/quoteright f/quoteright g/quoteright g/quoteright h/quoteright h/quoteright i/quoteright i/quoteright j/quoteright j/quoteright \012k/quoteright k/quoteright l/quoteright l/quoteright m/quoteright m/quoteright n/quoteright n/quoteright o/quoteright oo/quoteright p/quoteright p/quoteright q/quoteright q/quoteright r/quoteright r/quoteright s/quoteright s/quoteright t/quoteright \012t/quoteright u/quoteright u/quoteright v/quoteright v/quoteright w/quoteright \012w/quoteright x/quoteright x/quoteright z/quoteright z/quoteright"
-);
 classes = (
 {
 automatic = 1;
