@@ -33,9 +33,9 @@
 *,Number,*,1.35,h.sc,.sc,
 
 # Punctuation
-*,Punctuation,Other,1.9,*,*,
+*,Punctuation,Other,1.5,*,*,
 *,Punctuation,Parenthesis,1.8,*,*,
-*,Punctuation,Quote,1.8,*,*,
+*,Punctuation,Quote,1.5,*,*,
 *,Punctuation,Dash,1,*,*,
 *,Punctuation,*,1,*,slash,
 *,Punctuation,*,1.2,*,*,

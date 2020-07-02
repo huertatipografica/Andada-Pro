@@ -1,7 +1,7 @@
 {
 .appVersion = "1286";
 DisplayStrings = (
-"/Fhook/Nhookleft/florin/nhookleft/nhookleft.sc/fhook.sc"
+".a.b.c.d.e.f.g.h.i.j.k.l.m.n.o.p.q.r.s.t.u.v.w.x.y.z.\012,a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z,\012.A.B.C.D.E.F.G.H.I.J.K.L.M.N.O.P.Q.R.S.T.U.V.W.X.Y.Z.\012,A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z,\012\012a; b; c; d; e; f; g; h; i; j; k; l; m; n; o; p; q; r; s; t; u; v; w; x; y; z;\012a: b: c: d: e: f: g: h: i: j: k: l: m: n: o: p: q: r: s: t: u: v: w: x: y: z:\012A; B; C; D; E; F; G; H; I; J; K; L; M; N; O; P; Q; R; S; T; U; V; W; X; Y; Z;\012A: B: C: D: E: F: G: H: I: J: K: L: M: N: O: P: Q: R: S: T: U: V: W: X: Y: Z:\012\012//a//b//c//d//e//f//g//h//i//j//k//l//m//n//o//p//q//r//s//t//u//v//w//y//z//\012//A//B//C//D//E//F//G//H//I//J//K//L//M//N//O//P//Q//R//S//T//U//V//W//X//Y//Z//\012\012¿A?B?C?D?E?F?G?H?I?J?K?L?M?N?O?P?Q?R?S?T?U?¿V?W?X?Y?Z?\012a?b?c?d?e?f?g?h?i?j?k?l?m?n?o?p?q?r?s?t?u?v?w?x?y?z?\012a! b! c! d! e! f! g! h! i! j! k! l! m! n! o! p! q! r! s! t! u! v! w! x! y! z!\012¡A! B! C! D! E! F! G! H! I! J! K! L! M! N! O! P! Q! R! S! T! U! ¡V! W! X! Y! Z!\012"
 );
 classes = (
 {
@@ -53056,8 +53056,8 @@ nodes = (
 width = 358;
 }
 );
-leftKerningGroup = period;
-rightKerningGroup = period;
+leftKerningGroup = comma;
+rightKerningGroup = comma;
 unicode = 002E;
 },
 {
@@ -167825,7 +167825,7 @@ Saltillo.sups = -6;
 "@MMK_R_Z" = -40;
 "@MMK_R_a" = -30;
 "@MMK_R_asterisk" = -40;
-"@MMK_R_comma" = -60;
+"@MMK_R_comma" = -100;
 "@MMK_R_g" = -40;
 "@MMK_R_hyphen" = -80;
 "@MMK_R_o" = -30;
@@ -167918,6 +167918,7 @@ Saltillo.sups = -19;
 "@MMK_R_X" = -50;
 "@MMK_R_a" = -50;
 "@MMK_R_asterisk" = -50;
+"@MMK_R_comma" = -100;
 "@MMK_R_f" = -30;
 "@MMK_R_g" = -80;
 "@MMK_R_guilsinglleft" = -40;
@@ -167962,6 +167963,7 @@ slash = -30;
 "@MMK_R_A" = -20;
 "@MMK_R_AE" = -80;
 "@MMK_R_asterisk" = -40;
+"@MMK_R_comma" = -100;
 "@MMK_R_period" = -20;
 "@MMK_R_v" = -20;
 saltillo = 10;
@@ -168241,6 +168243,8 @@ saltillo.sc = -49;
 "@MMK_R_g.sups" = -6;
 };
 "@MMK_L_comma" = {
+"@MMK_R_T" = -100;
+"@MMK_R_U" = -100;
 "@MMK_R_V" = -150;
 };
 "@MMK_L_d.ss02" = {
@@ -169199,7 +169203,7 @@ Saltillo.sups = -20;
 "@MMK_R_Z" = -40;
 "@MMK_R_a" = -30;
 "@MMK_R_asterisk" = -40;
-"@MMK_R_comma" = -60;
+"@MMK_R_comma" = -100;
 "@MMK_R_g" = -40;
 "@MMK_R_hyphen" = -80;
 "@MMK_R_o" = -30;
@@ -169290,7 +169294,7 @@ Saltillo.sups = -20;
 "@MMK_R_X" = -40;
 "@MMK_R_a" = -50;
 "@MMK_R_asterisk" = -50;
-"@MMK_R_comma" = -40;
+"@MMK_R_comma" = -100;
 "@MMK_R_f" = -30;
 "@MMK_R_g" = -80;
 "@MMK_R_guilsinglleft" = -30;
@@ -169336,6 +169340,7 @@ slash = -30;
 "@MMK_R_AE" = -80;
 "@MMK_R_O" = -10;
 "@MMK_R_asterisk" = -40;
+"@MMK_R_comma" = -100;
 "@MMK_R_period" = -20;
 "@MMK_R_v" = -20;
 };
@@ -169634,7 +169639,8 @@ saltillo.sc = -40;
 "@MMK_R_o.sups" = -7;
 };
 "@MMK_L_comma" = {
-"@MMK_R_T" = -40;
+"@MMK_R_T" = -100;
+"@MMK_R_U" = -100;
 "@MMK_R_V" = -120;
 "@MMK_R_t.sc" = -40;
 "@MMK_R_v.sc" = -50;
