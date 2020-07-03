@@ -980,7 +980,7 @@ name = "Use Typo Metrics";
 value = 1;
 }
 );
-date = "2019-11-14 09:35:33 +0000";
+date = "2020-07-02 16:17:23 +0000";
 designer = "Carolina Giovagnoli";
 designerURL = "http://www.huertatipografica.com";
 familyName = "Andada ht Pro";
@@ -168154,8 +168154,8 @@ saltillo.sc = -40;
 "@MMK_R_U" = -100;
 "@MMK_R_V" = -120;
 "@MMK_R_t.sc" = -40;
-"@MMK_R_v.sc" = -50;
 "@MMK_R_u.sc" = -100;
+"@MMK_R_v.sc" = -50;
 };
 "@MMK_L_d.ss02" = {
 "@MMK_R_c.ss02" = -90;
@@ -168755,11 +168755,11 @@ semicolon = 70;
 "@MMK_R_semicolon" = -20;
 "@MMK_R_u" = -50;
 "@MMK_R_v" = -50;
+"@MMK_R_v.sc" = -20;
 "@MMK_R_x.sc" = -40;
 "@MMK_R_z" = -50;
 iacute = -15;
 slash = -30;
-"@MMK_R_v.sc" = -20;
 };
 "@MMK_L_t.sups" = {
 "@MMK_R_h.sups" = 40;
@@ -168783,10 +168783,10 @@ slash = -30;
 "@MMK_R_AE" = -80;
 "@MMK_R_a.sc" = -20;
 "@MMK_R_asterisk" = -40;
+"@MMK_R_comma" = -100;
 "@MMK_R_o.sc" = -10;
 "@MMK_R_period" = -20;
 "@MMK_R_v" = -20;
-"@MMK_R_comma" = -100;
 };
 "@MMK_L_u.sups" = {
 "@MMK_R_J.sups" = -7;
@@ -168849,6 +168849,7 @@ slash = -30;
 "@MMK_R_s" = -50;
 "@MMK_R_s.sc" = -40;
 "@MMK_R_t" = -40;
+"@MMK_R_t.sc" = -20;
 "@MMK_R_u" = -50;
 "@MMK_R_v" = -70;
 "@MMK_R_v.sc" = -30;
@@ -168859,7 +168860,6 @@ slash = -30;
 guillemetright = -60;
 guilsinglright = -30;
 slash = -40;
-"@MMK_R_t.sc" = -20;
 };
 "@MMK_L_v.ss02" = {
 "@MMK_R_c.ss02" = -110;
@@ -168988,8 +168988,8 @@ slash = -40;
 "@MMK_R_Y.sups" = -40;
 };
 Lcaron = {
-"@MMK_R_V" = 50;
 "@MMK_R_T" = 30;
+"@MMK_R_V" = 50;
 };
 Q = {
 "@MMK_R_period" = -10;
@@ -169040,6 +169040,10 @@ l.ss02 = {
 "@MMK_R_V.ss02" = -120;
 "@MMK_R_X.ss02" = -50;
 };
+lcaron.sc = {
+"@MMK_R_t.sc" = 30;
+"@MMK_R_v.sc" = 50;
+};
 nine = {
 "@MMK_R_comma" = -50;
 };
@@ -169072,10 +169076,6 @@ slash = {
 };
 zero.numr = {
 fraction = -50;
-};
-lcaron.sc = {
-"@MMK_R_v.sc" = 50;
-"@MMK_R_t.sc" = 30;
 };
 };
 };
@@ -169116,5 +169116,5 @@ tH = "54";
 LWPluginVersion = "1392";
 };
 versionMajor = 3;
-versionMinor = 0;
+versionMinor = 1;
 }

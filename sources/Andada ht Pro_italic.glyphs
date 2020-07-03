@@ -3,7 +3,8 @@
 DisplayStrings = (
 "/guilsinglleft ./guilsinglright  /guilsinglleft das,/guilsinglright  /guilsinglleft an!/guilsinglright  /guilsinglleft ich?/guilsinglright",
 "(c) Friedrich Forssman",
-"/kgreenlandic.sc"
+"/kgreenlandic.sc",
+"/Fhook"
 );
 classes = (
 {
@@ -1005,7 +1006,7 @@ name = "Use Typo Metrics";
 value = 1;
 }
 );
-date = "2019-11-14 09:35:31 +0000";
+date = "2020-07-02 16:16:19 +0000";
 designer = "Carolina Giovagnoli";
 designerURL = "http://www.huertatipografica.com";
 familyName = "Andada ht Pro";
@@ -159172,8 +159173,8 @@ four = -40;
 };
 "@MMK_L_c.sc" = {
 "@MMK_R_asterisk" = -30;
-"@MMK_R_o.sc" = -29;
 "@MMK_R_h.sc" = 0;
+"@MMK_R_o.sc" = -29;
 };
 "@MMK_L_c.ss02" = {
 "@MMK_R_c.ss02" = -80;
@@ -159194,10 +159195,10 @@ four = -40;
 "@MMK_R_Y" = -100;
 "@MMK_R_asterisk" = -40;
 "@MMK_R_guilsinglleft" = -20;
-"@MMK_R_v.sc" = -40;
-"@MMK_R_y.sc" = -40;
 "@MMK_R_t.sc" = -100;
 "@MMK_R_u.sc" = -100;
+"@MMK_R_v.sc" = -40;
+"@MMK_R_y.sc" = -40;
 };
 "@MMK_L_d.ss02" = {
 "@MMK_R_c.ss02" = -80;
@@ -159280,6 +159281,7 @@ four = -40;
 "@MMK_R_a.sc" = -49;
 "@MMK_R_ae.sc" = -78;
 "@MMK_R_asterisk" = -30;
+"@MMK_R_comma" = -100;
 "@MMK_R_guilsinglleft" = -20;
 "@MMK_R_hyphen" = -29;
 "@MMK_R_n" = -20;
@@ -159291,7 +159293,6 @@ four = -40;
 "@MMK_R_u" = -20;
 "@MMK_R_v" = -19;
 "@MMK_R_z" = -19;
-"@MMK_R_comma" = -100;
 };
 "@MMK_L_f.sups" = {
 "@MMK_R_H.sups" = 19;
@@ -159332,9 +159333,9 @@ four = -40;
 "@MMK_R_Y" = -30;
 "@MMK_R_f" = 40;
 "@MMK_R_o.sc" = -10;
+"@MMK_R_t.sc" = -50;
 "@MMK_R_v.sc" = -30;
 "@MMK_R_y.sc" = -30;
-"@MMK_R_t.sc" = -50;
 };
 "@MMK_L_guilsinglright" = {
 "@MMK_R_J" = 10;
@@ -159347,11 +159348,11 @@ four = -40;
 "@MMK_R_period" = -40;
 "@MMK_R_saltillo" = -40;
 "@MMK_R_saltillo.sc" = -40;
+"@MMK_R_t.sc" = -30;
 "@MMK_R_v.sc" = -40;
 "@MMK_R_x" = -20;
 "@MMK_R_x.sc" = -20;
 "@MMK_R_y.sc" = -50;
-"@MMK_R_t.sc" = -30;
 };
 "@MMK_L_guilsinglright.case" = {
 "@MMK_R_period" = -40;
@@ -159539,6 +159540,7 @@ four = -40;
 "@MMK_R_a.sc" = -70;
 "@MMK_R_ae.sc" = -78;
 "@MMK_R_asterisk" = -50;
+"@MMK_R_comma" = -100;
 "@MMK_R_eth.sc" = 30;
 "@MMK_R_guilsinglright" = -10;
 "@MMK_R_hyphen" = -30;
@@ -159551,7 +159553,6 @@ four = -40;
 "@MMK_R_x.sc" = -30;
 "@MMK_R_y.sc" = -19;
 "@MMK_R_z" = -10;
-"@MMK_R_comma" = -100;
 };
 "@MMK_L_parenleft" = {
 "@MMK_R_f" = 140;
@@ -159716,6 +159717,8 @@ four = -40;
 "@MMK_R_comma" = -100;
 "@MMK_R_f" = -29;
 "@MMK_R_g" = -60;
+"@MMK_R_guilsinglleft" = -30;
+"@MMK_R_guilsinglright" = -50;
 "@MMK_R_h.sc" = -20;
 "@MMK_R_hyphen" = -30;
 "@MMK_R_m.sc" = -19;
@@ -159730,8 +159733,6 @@ four = -40;
 "@MMK_R_u" = -40;
 "@MMK_R_v" = -40;
 "@MMK_R_z" = -49;
-"@MMK_R_guilsinglleft" = -30;
-"@MMK_R_guilsinglright" = -50;
 };
 "@MMK_L_t.sups" = {
 "@MMK_R_h.sups" = 34;
@@ -159772,9 +159773,9 @@ four = -40;
 "@MMK_R_a.sc" = -19;
 "@MMK_R_ae.sc" = -62;
 "@MMK_R_asterisk" = -50;
+"@MMK_R_comma" = -100;
 "@MMK_R_o.sc" = -10;
 "@MMK_R_period" = -100;
-"@MMK_R_comma" = -100;
 };
 "@MMK_L_u.sups" = {
 "@MMK_R_J.sups" = -7;
@@ -159992,5 +159993,5 @@ tH = 70;
 LWPluginVersion = "1392";
 };
 versionMajor = 3;
-versionMinor = 0;
+versionMinor = 1;
 }
