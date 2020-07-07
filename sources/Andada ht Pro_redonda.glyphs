@@ -1,5 +1,8 @@
 {
-.appVersion = "1286";
+.appVersion = "1342";
+DisplayStrings = (
+"nnnnnn*,*nnnnn"
+);
 classes = (
 {
 automatic = 1;
@@ -166684,6 +166687,7 @@ saltillo.sc = -49;
 "@MMK_R_X" = -60;
 "@MMK_R_Z" = -60;
 "@MMK_R_a" = -50;
+"@MMK_R_comma" = -90;
 "@MMK_R_f" = -90;
 "@MMK_R_g" = -100;
 "@MMK_R_h" = -10;
@@ -166747,6 +166751,7 @@ saltillo.sc = -49;
 "@MMK_R_T" = -100;
 "@MMK_R_U" = -100;
 "@MMK_R_V" = -150;
+"@MMK_R_asterisk" = -90;
 };
 "@MMK_L_d.ss02" = {
 "@MMK_R_c.ss02" = -95;
@@ -168072,6 +168077,7 @@ saltillo.sc = -40;
 "@MMK_R_Z" = -60;
 "@MMK_R_a" = -50;
 "@MMK_R_a.sc" = -100;
+"@MMK_R_comma" = -100;
 "@MMK_R_f" = -80;
 "@MMK_R_g" = 0;
 "@MMK_R_h" = -10;
@@ -168153,6 +168159,7 @@ saltillo.sc = -40;
 "@MMK_R_T" = -100;
 "@MMK_R_U" = -100;
 "@MMK_R_V" = -120;
+"@MMK_R_asterisk" = -100;
 "@MMK_R_t.sc" = -40;
 "@MMK_R_u.sc" = -100;
 "@MMK_R_v.sc" = -50;

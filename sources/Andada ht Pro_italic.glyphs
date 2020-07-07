@@ -1,8 +1,8 @@
 {
-.appVersion = "1286";
+.appVersion = "1342";
 DisplayStrings = (
-"/guilsinglleft ./guilsinglright  /guilsinglleft das,/guilsinglright  /guilsinglleft an!/guilsinglright  /guilsinglleft ich?/guilsinglright",
-"(c) Friedrich Forssman",
+"nnnnn/space n*,*nnnnn",
+"(c)/space Friedrich/space Forssman",
 "/kgreenlandic.sc",
 "/Fhook"
 );
@@ -157812,6 +157812,7 @@ kerning = {
 "@MMK_R_Z" = -70;
 "@MMK_R_a.sc" = -80;
 "@MMK_R_b.caron" = -70;
+"@MMK_R_comma" = -90;
 "@MMK_R_f" = -70;
 "@MMK_R_h" = -10;
 "@MMK_R_h.sc" = -20;
@@ -157877,7 +157878,7 @@ kerning = {
 "@MMK_R_U" = -100;
 "@MMK_R_V" = -100;
 "@MMK_R_Y" = -100;
-"@MMK_R_asterisk" = -40;
+"@MMK_R_asterisk" = -90;
 "@MMK_R_guilsinglleft" = -20;
 "@MMK_R_v.sc" = -40;
 "@MMK_R_y.sc" = -40;
@@ -159125,6 +159126,7 @@ four = -40;
 "@MMK_R_Z" = -70;
 "@MMK_R_a.sc" = -80;
 "@MMK_R_b.caron" = -40;
+"@MMK_R_comma" = -100;
 "@MMK_R_f" = -70;
 "@MMK_R_h" = -10;
 "@MMK_R_h.sc" = -20;
@@ -159193,7 +159195,7 @@ four = -40;
 "@MMK_R_U" = -100;
 "@MMK_R_V" = -100;
 "@MMK_R_Y" = -100;
-"@MMK_R_asterisk" = -40;
+"@MMK_R_asterisk" = -100;
 "@MMK_R_guilsinglleft" = -20;
 "@MMK_R_t.sc" = -100;
 "@MMK_R_u.sc" = -100;
