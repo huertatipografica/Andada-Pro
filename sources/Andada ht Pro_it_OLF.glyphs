@@ -1003,7 +1003,7 @@ value = 1;
 date = "2020-07-02 16:16:19 +0000";
 designer = "Carolina Giovagnoli";
 designerURL = "http://www.huertatipografica.com";
-familyName = "Andada ht Pro";
+familyName = "Andada ht OLF";
 featurePrefixes = (
 {
 code = "languagesystem DFLT dflt;\012\012languagesystem latn dflt;\012languagesystem latn DEU;\012languagesystem latn FRA;\012languagesystem latn TRK;\012languagesystem latn MOL;\012languagesystem latn ROM;\012languagesystem latn KAZ;\012languagesystem latn AZE;\012languagesystem latn CAT;\012languagesystem latn CRT;\012languagesystem latn NLD;\012languagesystem latn ENG;\012\012languagesystem cyrl dflt;\012languagesystem cyrl TAT;\012";
@@ -157546,7 +157546,6 @@ name = "ExtraBold Italic";
 weightClass = ExtraBold;
 },
 {
-exports = 0;
 customParameters = (
 {
 name = "Update Features";
@@ -158236,7 +158235,6 @@ linkStyle = Regular;
 name = Italic;
 },
 {
-exports = 0;
 customParameters = (
 {
 name = "Update Features";
@@ -158926,7 +158924,6 @@ linkStyle = Medium;
 name = "Medium Italic";
 },
 {
-exports = 0;
 customParameters = (
 {
 name = "Update Features";
@@ -159617,7 +159614,6 @@ linkStyle = Regular;
 name = "Bold Italic";
 },
 {
-exports = 0;
 customParameters = (
 {
 name = "Update Features";
