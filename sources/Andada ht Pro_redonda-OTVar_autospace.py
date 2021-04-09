@@ -18,7 +18,7 @@
 
 # Numbers romanos
 
-*,Letter,Uppercase,1.25,I.numeroRomano,.ss02,
+*,Letter,Uppercase,2,I.numeroRomano,.ss02,
 *,Letter,Lowercase,1,i.numeroRomano,.ss02,
 
 # Numbers
