@@ -22,7 +22,7 @@
 *,Letter,Lowercase,1,i.numeroRomano,.ss02,
 
 # Numbers
-*,Number,Decimal Digit,1.5,one,*,
+*,Number,Decimal Digit,1.2,one,*,
 *,Number,Decimal Digit,1.2,zero.osf,.osf,
 *,Number,Fraction,1.3,*,*,
 *,Number,*,0.9,*,.dnom,
@@ -42,6 +42,7 @@
 
 # Symbols
 *,Symbol,Currency,1.6,*,*,
+*,Symbol,Math,2,*,*,
 #*,Symbol,*,1.5,*,*,
 #*,Mark,*,1,*,*,
 *,Symbol,Other,1.7,*,*
