@@ -9,3 +9,6 @@ sources/Andada ht Pro_redonda-var (Autosaved).glyphs
 *.glyphs
 *.glyphs
 .DS_Store
+.DS_Store
+*.idlk
+.DS_Store

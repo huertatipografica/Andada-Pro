@@ -1,9 +1,5 @@
 {
 .appVersion = "1342";
-DisplayStrings = (
-"o/bullet o/emdash o\012V-V/bullet V;",
-"/Ldot L\012/periodcentered.loclCAT l/ldot l"
-);
 classes = (
 {
 automatic = 1;
@@ -1243,6 +1239,7 @@ horizontalStems = (
 54,
 53
 );
+iconName = SemiBold;
 id = UUID0;
 userData = {
 GSOffsetHorizontal = 65;
@@ -164940,6 +164937,6 @@ tH = "54";
 };
 LWPluginVersion = "1392";
 };
-versionMajor = 4;
-versionMinor = 1;
+versionMajor = 3;
+versionMinor = 0;
 }

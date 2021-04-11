@@ -1379,7 +1379,7 @@ horizontalStems = (
 75,
 88
 );
-iconName = SemiBold_SemiExtended;
+iconName = SemiBold;
 id = "B953D09C-6DD0-450A-A78C-8C2188DD4016";
 italicAngle = 7;
 verticalStems = (
@@ -158442,6 +158442,6 @@ tH = 70;
 };
 LWPluginVersion = "1392";
 };
-versionMajor = 4;
-versionMinor = 1;
+versionMajor = 3;
+versionMinor = 0;
 }
