@@ -16387,7 +16387,6 @@ rightKerningGroup = UC_Z;
 unicode = 017B;
 },
 {
-color = 7;
 glyphname = a;
 layers = (
 {
@@ -16829,7 +16828,6 @@ rightKerningGroup = lc_ShortStem;
 unicode = 0061;
 },
 {
-color = 7;
 glyphname = aacute;
 layers = (
 {
@@ -16864,7 +16862,6 @@ rightKerningGroup = lc_ShortStem;
 unicode = 00E1;
 },
 {
-color = 7;
 glyphname = abreve;
 layers = (
 {
@@ -16899,7 +16896,6 @@ rightKerningGroup = lc_ShortStem;
 unicode = 0103;
 },
 {
-color = 7;
 glyphname = abreveacute;
 layers = (
 {
@@ -16934,7 +16930,6 @@ rightKerningGroup = lc_ShortStem;
 unicode = 1EAF;
 },
 {
-color = 7;
 glyphname = abrevedotbelow;
 layers = (
 {
@@ -16977,7 +16972,6 @@ rightKerningGroup = lc_ShortStem;
 unicode = 1EB7;
 },
 {
-color = 7;
 glyphname = abrevegrave;
 layers = (
 {
@@ -17012,7 +17006,6 @@ rightKerningGroup = lc_ShortStem;
 unicode = 1EB1;
 },
 {
-color = 7;
 glyphname = abrevehookabove;
 layers = (
 {
@@ -17047,7 +17040,6 @@ rightKerningGroup = lc_ShortStem;
 unicode = 1EB3;
 },
 {
-color = 7;
 glyphname = abrevetilde;
 layers = (
 {
@@ -17082,7 +17074,6 @@ rightKerningGroup = lc_ShortStem;
 unicode = 1EB5;
 },
 {
-color = 7;
 glyphname = acaron;
 layers = (
 {
@@ -17117,7 +17108,6 @@ rightKerningGroup = lc_ShortStem;
 unicode = 01CE;
 },
 {
-color = 7;
 glyphname = acircumflex;
 layers = (
 {
@@ -17152,7 +17142,6 @@ rightKerningGroup = lc_ShortStem;
 unicode = 00E2;
 },
 {
-color = 7;
 glyphname = acircumflexacute;
 layers = (
 {
@@ -17187,7 +17176,6 @@ rightKerningGroup = lc_ShortStem;
 unicode = 1EA5;
 },
 {
-color = 7;
 glyphname = acircumflexdotbelow;
 layers = (
 {
@@ -17230,7 +17218,6 @@ rightKerningGroup = lc_ShortStem;
 unicode = 1EAD;
 },
 {
-color = 7;
 glyphname = acircumflexgrave;
 layers = (
 {
@@ -17265,7 +17252,6 @@ rightKerningGroup = lc_ShortStem;
 unicode = 1EA7;
 },
 {
-color = 7;
 glyphname = acircumflexhookabove;
 layers = (
 {
@@ -17300,7 +17286,6 @@ rightKerningGroup = lc_ShortStem;
 unicode = 1EA9;
 },
 {
-color = 7;
 glyphname = acircumflextilde;
 layers = (
 {
@@ -17335,7 +17320,6 @@ rightKerningGroup = lc_ShortStem;
 unicode = 1EAB;
 },
 {
-color = 7;
 glyphname = adieresis;
 layers = (
 {
@@ -17370,7 +17354,6 @@ rightKerningGroup = lc_ShortStem;
 unicode = 00E4;
 },
 {
-color = 7;
 glyphname = adotbelow;
 layers = (
 {
@@ -17405,7 +17388,6 @@ rightKerningGroup = lc_ShortStem;
 unicode = 1EA1;
 },
 {
-color = 7;
 glyphname = ae;
 layers = (
 {
@@ -17725,7 +17707,6 @@ rightKerningGroup = lc_e;
 unicode = 00E6;
 },
 {
-color = 7;
 glyphname = agrave;
 layers = (
 {
@@ -17760,7 +17741,6 @@ rightKerningGroup = lc_ShortStem;
 unicode = 00E0;
 },
 {
-color = 7;
 glyphname = ahookabove;
 layers = (
 {
@@ -17795,7 +17775,6 @@ rightKerningGroup = lc_ShortStem;
 unicode = 1EA3;
 },
 {
-color = 7;
 glyphname = amacron;
 layers = (
 {
@@ -17830,7 +17809,6 @@ rightKerningGroup = lc_ShortStem;
 unicode = 0101;
 },
 {
-color = 7;
 glyphname = aogonek;
 layers = (
 {
@@ -18003,7 +17981,6 @@ rightKerningGroup = lc_ShortStem;
 unicode = 0105;
 },
 {
-color = 7;
 glyphname = atilde;
 layers = (
 {
@@ -18489,7 +18466,6 @@ rightKerningGroup = lc_c;
 unicode = 0063;
 },
 {
-color = 7;
 glyphname = cacute;
 layers = (
 {
@@ -18524,7 +18500,6 @@ rightKerningGroup = lc_c;
 unicode = 0107;
 },
 {
-color = 7;
 glyphname = ccaron;
 layers = (
 {
@@ -18559,7 +18534,6 @@ rightKerningGroup = lc_c;
 unicode = 010D;
 },
 {
-color = 7;
 glyphname = ccedilla;
 layers = (
 {
@@ -18594,7 +18568,6 @@ rightKerningGroup = lc_c;
 unicode = 00E7;
 },
 {
-color = 7;
 glyphname = cdotaccent;
 layers = (
 {
@@ -18896,7 +18869,6 @@ rightKerningGroup = lc_LongtStem;
 unicode = 0064;
 },
 {
-color = 7;
 glyphname = dcaron;
 layers = (
 {
@@ -18927,11 +18899,10 @@ width = 567;
 }
 );
 leftKerningGroup = lc_Round;
-rightKerningGroup = lc_LongtStem;
+rightKerningGroup = lc_LongtStemCaron;
 unicode = 010F;
 },
 {
-color = 7;
 glyphname = dcroat;
 layers = (
 {
@@ -19156,7 +19127,6 @@ rightKerningGroup = lc_e;
 unicode = 0065;
 },
 {
-color = 7;
 glyphname = eacute;
 layers = (
 {
@@ -19191,7 +19161,6 @@ rightKerningGroup = lc_e;
 unicode = 00E9;
 },
 {
-color = 7;
 glyphname = ecaron;
 layers = (
 {
@@ -19226,7 +19195,6 @@ rightKerningGroup = lc_e;
 unicode = 011B;
 },
 {
-color = 7;
 glyphname = ecircumflex;
 layers = (
 {
@@ -19261,7 +19229,6 @@ rightKerningGroup = lc_e;
 unicode = 00EA;
 },
 {
-color = 7;
 glyphname = ecircumflexacute;
 layers = (
 {
@@ -19339,7 +19306,6 @@ rightKerningGroup = lc_e;
 unicode = 1EC7;
 },
 {
-color = 7;
 glyphname = ecircumflexgrave;
 layers = (
 {
@@ -19374,7 +19340,6 @@ rightKerningGroup = lc_e;
 unicode = 1EC1;
 },
 {
-color = 7;
 glyphname = ecircumflexhookabove;
 layers = (
 {
@@ -19479,7 +19444,6 @@ rightKerningGroup = lc_e;
 unicode = 00EB;
 },
 {
-color = 7;
 glyphname = edotaccent;
 layers = (
 {
@@ -19549,7 +19513,6 @@ rightKerningGroup = lc_e;
 unicode = 1EB9;
 },
 {
-color = 7;
 glyphname = egrave;
 layers = (
 {
@@ -19584,7 +19547,6 @@ rightKerningGroup = lc_e;
 unicode = 00E8;
 },
 {
-color = 7;
 glyphname = ehookabove;
 layers = (
 {
@@ -19619,7 +19581,6 @@ rightKerningGroup = lc_e;
 unicode = 1EBB;
 },
 {
-color = 7;
 glyphname = emacron;
 layers = (
 {
@@ -20681,7 +20642,6 @@ rightKerningGroup = lc_descender;
 unicode = 011F;
 },
 {
-color = 7;
 glyphname = gcommaaccent;
 layers = (
 {
@@ -20716,7 +20676,6 @@ rightKerningGroup = lc_descender;
 unicode = 0123;
 },
 {
-color = 7;
 glyphname = gdotaccent;
 layers = (
 {
@@ -20751,7 +20710,6 @@ rightKerningGroup = lc_s;
 unicode = 0121;
 },
 {
-color = 7;
 glyphname = germandbls;
 layers = (
 {
@@ -21265,7 +21223,6 @@ rightKerningGroup = lc_Shoulder;
 unicode = 0068;
 },
 {
-color = 7;
 glyphname = hbar;
 layers = (
 {
@@ -21362,7 +21319,6 @@ rightKerningGroup = lc_ShortStem;
 unicode = 0069;
 },
 {
-color = 7;
 glyphname = iacute;
 layers = (
 {
@@ -21397,7 +21353,6 @@ rightKerningGroup = lc_ShortStem;
 unicode = 00ED;
 },
 {
-color = 7;
 glyphname = icaron;
 layers = (
 {
@@ -21537,7 +21492,6 @@ rightKerningGroup = lc_ShortStem;
 unicode = 1ECB;
 },
 {
-color = 7;
 glyphname = igrave;
 layers = (
 {
@@ -21571,7 +21525,6 @@ rightKerningGroup = lc_ShortStem;
 unicode = 00EC;
 },
 {
-color = 7;
 glyphname = ihookabove;
 layers = (
 {
@@ -21784,7 +21737,6 @@ rightKerningGroup = lc_descender;
 unicode = 0133;
 },
 {
-color = 7;
 glyphname = imacron;
 layers = (
 {
@@ -21961,7 +21913,6 @@ rightKerningGroup = lc_ShortStem;
 unicode = 0129;
 },
 {
-color = 7;
 glyphname = j;
 layers = (
 {
@@ -22261,7 +22212,6 @@ rightKerningGroup = lc_k;
 unicode = 006B;
 },
 {
-color = 7;
 glyphname = kcommaaccent;
 layers = (
 {
@@ -22296,7 +22246,6 @@ rightKerningGroup = lc_k;
 unicode = 0137;
 },
 {
-color = 7;
 glyphname = kgreenlandic;
 layers = (
 {
@@ -22839,7 +22788,6 @@ rightKerningGroup = lc_LongtStem;
 unicode = 006C;
 },
 {
-color = 7;
 glyphname = lacute;
 layers = (
 {
@@ -22874,7 +22822,6 @@ rightKerningGroup = lc_LongtStem;
 unicode = 013A;
 },
 {
-color = 7;
 glyphname = lcaron;
 layers = (
 {
@@ -22909,7 +22856,6 @@ rightKerningGroup = lc_LongtStemCaron;
 unicode = 013E;
 },
 {
-color = 7;
 glyphname = lcommaaccent;
 layers = (
 {
@@ -22979,7 +22925,6 @@ rightKerningGroup = lc_LongtStem;
 unicode = 0140;
 },
 {
-color = 7;
 glyphname = lslash;
 layers = (
 {
@@ -23559,7 +23504,6 @@ rightKerningGroup = lc_Shoulder;
 unicode = 006E;
 },
 {
-color = 7;
 glyphname = nacute;
 layers = (
 {
@@ -23594,7 +23538,6 @@ rightKerningGroup = lc_Shoulder;
 unicode = 0144;
 },
 {
-color = 7;
 glyphname = ncaron;
 layers = (
 {
@@ -23629,7 +23572,6 @@ rightKerningGroup = lc_Shoulder;
 unicode = 0148;
 },
 {
-color = 7;
 glyphname = ncommaaccent;
 layers = (
 {
@@ -23832,7 +23774,6 @@ rightKerningGroup = lc_Round;
 unicode = 006F;
 },
 {
-color = 7;
 glyphname = oacute;
 layers = (
 {
@@ -23867,7 +23808,6 @@ rightKerningGroup = lc_Round;
 unicode = 00F3;
 },
 {
-color = 7;
 glyphname = ocaron;
 layers = (
 {
@@ -23937,7 +23877,6 @@ rightKerningGroup = lc_Round;
 unicode = 00F4;
 },
 {
-color = 7;
 glyphname = ocircumflexacute;
 layers = (
 {
@@ -24015,7 +23954,6 @@ rightKerningGroup = lc_Round;
 unicode = 1ED9;
 },
 {
-color = 7;
 glyphname = ocircumflexgrave;
 layers = (
 {
@@ -24050,7 +23988,6 @@ rightKerningGroup = lc_Round;
 unicode = 1ED3;
 },
 {
-color = 7;
 glyphname = ocircumflexhookabove;
 layers = (
 {
@@ -24523,7 +24460,6 @@ rightKerningGroup = lc_e;
 unicode = 0153;
 },
 {
-color = 7;
 glyphname = ograve;
 layers = (
 {
@@ -24558,7 +24494,6 @@ rightKerningGroup = lc_Round;
 unicode = 00F2;
 },
 {
-color = 7;
 glyphname = ohookabove;
 layers = (
 {
@@ -24593,7 +24528,6 @@ rightKerningGroup = lc_Round;
 unicode = 1ECF;
 },
 {
-color = 7;
 glyphname = ohorn;
 layers = (
 {
@@ -24648,7 +24582,6 @@ rightKerningGroup = lc_RoundHorn;
 unicode = 01A1;
 },
 {
-color = 7;
 glyphname = ohornacute;
 layers = (
 {
@@ -24718,7 +24651,6 @@ rightKerningGroup = lc_RoundHorn;
 unicode = 1EE3;
 },
 {
-color = 7;
 glyphname = ohorngrave;
 layers = (
 {
@@ -24753,7 +24685,6 @@ rightKerningGroup = lc_RoundHorn;
 unicode = 1EDD;
 },
 {
-color = 7;
 glyphname = ohornhookabove;
 layers = (
 {
@@ -24823,7 +24754,6 @@ rightKerningGroup = lc_RoundHorn;
 unicode = 1EE1;
 },
 {
-color = 7;
 glyphname = ohungarumlaut;
 layers = (
 {
@@ -24858,7 +24788,6 @@ rightKerningGroup = lc_Round;
 unicode = 0151;
 },
 {
-color = 7;
 glyphname = omacron;
 layers = (
 {
@@ -24893,7 +24822,6 @@ rightKerningGroup = lc_Round;
 unicode = 014D;
 },
 {
-color = 7;
 glyphname = oslash;
 layers = (
 {
@@ -26153,7 +26081,6 @@ rightKerningGroup = lc_r;
 unicode = 0072;
 },
 {
-color = 7;
 glyphname = racute;
 layers = (
 {
@@ -26188,7 +26115,6 @@ rightKerningGroup = lc_r;
 unicode = 0155;
 },
 {
-color = 7;
 glyphname = rcaron;
 layers = (
 {
@@ -26223,7 +26149,6 @@ rightKerningGroup = lc_r;
 unicode = 0159;
 },
 {
-color = 7;
 glyphname = rcommaaccent;
 layers = (
 {
@@ -26497,7 +26422,6 @@ rightKerningGroup = lc_s;
 unicode = 0073;
 },
 {
-color = 7;
 glyphname = sacute;
 layers = (
 {
@@ -26532,7 +26456,6 @@ rightKerningGroup = lc_s;
 unicode = 015B;
 },
 {
-color = 7;
 glyphname = scaron;
 layers = (
 {
@@ -26567,7 +26490,6 @@ rightKerningGroup = lc_s;
 unicode = 0161;
 },
 {
-color = 7;
 glyphname = scedilla;
 layers = (
 {
@@ -26602,7 +26524,6 @@ rightKerningGroup = lc_s;
 unicode = 015F;
 },
 {
-color = 7;
 glyphname = scommaaccent;
 layers = (
 {
@@ -26844,7 +26765,6 @@ rightKerningGroup = lc_t;
 unicode = 0074;
 },
 {
-color = 7;
 glyphname = tbar;
 layers = (
 {
@@ -26879,7 +26799,6 @@ rightKerningGroup = lc_t;
 unicode = 0167;
 },
 {
-color = 7;
 glyphname = tcaron;
 layers = (
 {
@@ -26914,7 +26833,6 @@ rightKerningGroup = lc_t;
 unicode = 0165;
 },
 {
-color = 7;
 glyphname = tcedilla;
 layers = (
 {
@@ -27485,7 +27403,6 @@ rightKerningGroup = lc_ShortStem;
 unicode = 0075;
 },
 {
-color = 7;
 glyphname = uacute;
 layers = (
 {
@@ -27520,7 +27437,6 @@ rightKerningGroup = lc_ShortStem;
 unicode = 00FA;
 },
 {
-color = 7;
 glyphname = ucaron;
 layers = (
 {
@@ -27625,7 +27541,6 @@ rightKerningGroup = lc_ShortStem;
 unicode = 00FC;
 },
 {
-color = 7;
 glyphname = udieresisacute;
 layers = (
 {
@@ -27660,7 +27575,6 @@ rightKerningGroup = lc_ShortStem;
 unicode = 01D8;
 },
 {
-color = 7;
 glyphname = udieresiscaron;
 layers = (
 {
@@ -27695,7 +27609,6 @@ rightKerningGroup = lc_ShortStem;
 unicode = 01DA;
 },
 {
-color = 7;
 glyphname = udieresisgrave;
 layers = (
 {
@@ -27730,7 +27643,6 @@ rightKerningGroup = lc_ShortStem;
 unicode = 01DC;
 },
 {
-color = 7;
 glyphname = udieresismacron;
 layers = (
 {
@@ -27800,7 +27712,6 @@ rightKerningGroup = lc_ShortStem;
 unicode = 1EE5;
 },
 {
-color = 7;
 glyphname = ugrave;
 layers = (
 {
@@ -27835,7 +27746,6 @@ rightKerningGroup = lc_ShortStem;
 unicode = 00F9;
 },
 {
-color = 7;
 glyphname = uhookabove;
 layers = (
 {
@@ -27927,7 +27837,6 @@ rightKerningGroup = lc_ShortStemHorn;
 unicode = 01B0;
 },
 {
-color = 7;
 glyphname = uhornacute;
 layers = (
 {
@@ -27997,7 +27906,6 @@ rightKerningGroup = lc_ShortStemHorn;
 unicode = 1EF1;
 },
 {
-color = 7;
 glyphname = uhorngrave;
 layers = (
 {
@@ -28032,7 +27940,6 @@ rightKerningGroup = lc_ShortStemHorn;
 unicode = 1EEB;
 },
 {
-color = 7;
 glyphname = uhornhookabove;
 layers = (
 {
@@ -28102,7 +28009,6 @@ rightKerningGroup = lc_ShortStemHorn;
 unicode = 1EEF;
 },
 {
-color = 7;
 glyphname = uhungarumlaut;
 layers = (
 {
@@ -28137,7 +28043,6 @@ rightKerningGroup = lc_ShortStem;
 unicode = 0171;
 },
 {
-color = 7;
 glyphname = umacron;
 layers = (
 {
@@ -28763,7 +28668,6 @@ rightKerningGroup = lc_v;
 unicode = 0077;
 },
 {
-color = 7;
 glyphname = wacute;
 layers = (
 {
@@ -28868,7 +28772,6 @@ rightKerningGroup = lc_v;
 unicode = 1E85;
 },
 {
-color = 7;
 glyphname = wgrave;
 layers = (
 {
@@ -29447,7 +29350,6 @@ rightKerningGroup = lc_descender;
 unicode = 0079;
 },
 {
-color = 7;
 glyphname = yacute;
 layers = (
 {
@@ -29587,7 +29489,6 @@ rightKerningGroup = lc_descender;
 unicode = 1EF5;
 },
 {
-color = 7;
 glyphname = ygrave;
 layers = (
 {
@@ -29622,7 +29523,6 @@ rightKerningGroup = lc_descender;
 unicode = 1EF3;
 },
 {
-color = 7;
 glyphname = yhookabove;
 layers = (
 {
@@ -29692,7 +29592,6 @@ rightKerningGroup = lc_descender;
 unicode = 1EF9;
 },
 {
-color = 7;
 glyphname = z;
 layers = (
 {
@@ -29901,7 +29800,6 @@ rightKerningGroup = lc_z;
 unicode = 007A;
 },
 {
-color = 7;
 glyphname = zacute;
 layers = (
 {
@@ -29936,7 +29834,6 @@ rightKerningGroup = lc_z;
 unicode = 017A;
 },
 {
-color = 7;
 glyphname = zcaron;
 layers = (
 {
@@ -29971,7 +29868,6 @@ rightKerningGroup = lc_z;
 unicode = 017E;
 },
 {
-color = 7;
 glyphname = zdotaccent;
 layers = (
 {
@@ -43136,7 +43032,6 @@ rightKerningGroup = UC_S;
 unicode = 015C;
 },
 {
-color = 7;
 glyphname = aeacute;
 layers = (
 {
@@ -43346,7 +43241,6 @@ rightKerningGroup = lc_descender;
 unicode = 011D;
 },
 {
-color = 7;
 glyphname = idotaccent;
 layers = (
 {
@@ -43520,7 +43414,6 @@ rightKerningGroup = lc_Round;
 unicode = 014F;
 },
 {
-color = 7;
 glyphname = aringacute;
 layers = (
 {
@@ -43555,7 +43448,6 @@ rightKerningGroup = lc_ShortStem;
 unicode = 01FB;
 },
 {
-color = 7;
 glyphname = oslashacute;
 layers = (
 {
@@ -43814,7 +43706,6 @@ rightKerningGroup = UC_A;
 unicode = 00C5;
 },
 {
-color = 7;
 glyphname = aring;
 layers = (
 {
@@ -64063,7 +63954,6 @@ rightKerningGroup = UC_C;
 subCategory = Uppercase;
 },
 {
-color = 7;
 glyphname = adblgrave;
 layers = (
 {
@@ -64098,7 +63988,6 @@ rightKerningGroup = lc_ShortStem;
 unicode = 0201;
 },
 {
-color = 7;
 glyphname = adieresismacron;
 layers = (
 {
@@ -64133,7 +64022,6 @@ rightKerningGroup = lc_ShortStem;
 unicode = 01DF;
 },
 {
-color = 7;
 glyphname = ainvertedbreve;
 layers = (
 {
@@ -64168,7 +64056,6 @@ rightKerningGroup = lc_ShortStem;
 unicode = 0203;
 },
 {
-color = 7;
 glyphname = ccedillaacute;
 layers = (
 {
@@ -64316,7 +64203,6 @@ rightKerningGroup = lc_z;
 unicode = 01F3;
 },
 {
-color = 7;
 glyphname = dzcaron;
 layers = (
 {
@@ -64351,7 +64237,6 @@ rightKerningGroup = lc_z;
 unicode = 01C6;
 },
 {
-color = 7;
 glyphname = ecedillabreve;
 layers = (
 {
@@ -64394,7 +64279,6 @@ rightKerningGroup = lc_e;
 unicode = 1E1D;
 },
 {
-color = 7;
 glyphname = edblgrave;
 layers = (
 {
@@ -64464,7 +64348,6 @@ rightKerningGroup = lc_e;
 unicode = 0207;
 },
 {
-color = 7;
 glyphname = emacronacute;
 layers = (
 {
@@ -64499,7 +64382,6 @@ rightKerningGroup = lc_e;
 unicode = 1E17;
 },
 {
-color = 7;
 glyphname = emacrongrave;
 layers = (
 {
@@ -64534,7 +64416,6 @@ rightKerningGroup = lc_e;
 unicode = 1E15;
 },
 {
-color = 7;
 glyphname = schwa;
 layers = (
 {
@@ -64717,7 +64598,6 @@ rightKerningGroup = lc_s;
 unicode = 0259;
 },
 {
-color = 7;
 glyphname = gacute;
 layers = (
 {
@@ -64752,7 +64632,6 @@ rightKerningGroup = lc_descender;
 unicode = 01F5;
 },
 {
-color = 7;
 glyphname = gcaron;
 layers = (
 {
@@ -64787,7 +64666,6 @@ rightKerningGroup = lc_descender;
 unicode = 01E7;
 },
 {
-color = 7;
 glyphname = gmacron;
 layers = (
 {
@@ -65252,7 +65130,6 @@ rightKerningGroup = lc_ShortStem;
 unicode = 0131;
 },
 {
-color = 7;
 glyphname = idblgrave;
 layers = (
 {
@@ -65287,7 +65164,6 @@ rightKerningGroup = lc_ShortStem;
 unicode = 0209;
 },
 {
-color = 7;
 glyphname = idieresisacute;
 layers = (
 {
@@ -65499,7 +65375,6 @@ rightKerningGroup = lc_descender;
 unicode = 0237;
 },
 {
-color = 7;
 glyphname = jacute;
 layers = (
 {
@@ -65533,7 +65408,6 @@ leftKerningGroup = lc_j;
 rightKerningGroup = lc_descender;
 },
 {
-color = 7;
 glyphname = kcaron;
 layers = (
 {
@@ -65708,7 +65582,6 @@ rightKerningGroup = lc_Shoulder;
 unicode = 1E43;
 },
 {
-color = 7;
 glyphname = napostrophe;
 layers = (
 {
@@ -65959,7 +65832,6 @@ rightKerningGroup = lc_Shoulder;
 unicode = 0149;
 },
 {
-color = 7;
 glyphname = ndotaccent;
 layers = (
 {
@@ -66330,7 +66202,6 @@ rightKerningGroup = lc_Shoulder;
 unicode = 1E49;
 },
 {
-color = 7;
 glyphname = odblgrave;
 layers = (
 {
@@ -66365,7 +66236,6 @@ rightKerningGroup = lc_Round;
 unicode = 020D;
 },
 {
-color = 7;
 glyphname = odieresismacron;
 layers = (
 {
@@ -66400,7 +66270,6 @@ rightKerningGroup = lc_Round;
 unicode = 022B;
 },
 {
-color = 7;
 glyphname = odotaccentmacron;
 layers = (
 {
@@ -66470,7 +66339,6 @@ rightKerningGroup = lc_Round;
 unicode = 020F;
 },
 {
-color = 7;
 glyphname = omacronacute;
 layers = (
 {
@@ -66505,7 +66373,6 @@ rightKerningGroup = lc_Round;
 unicode = 1E53;
 },
 {
-color = 7;
 glyphname = omacrongrave;
 layers = (
 {
@@ -66540,7 +66407,6 @@ rightKerningGroup = lc_Round;
 unicode = 1E51;
 },
 {
-color = 7;
 glyphname = otildeacute;
 layers = (
 {
@@ -66610,7 +66476,6 @@ rightKerningGroup = lc_Round;
 unicode = 1E4F;
 },
 {
-color = 7;
 glyphname = otildemacron;
 layers = (
 {
@@ -66645,7 +66510,6 @@ rightKerningGroup = lc_Round;
 unicode = 022D;
 },
 {
-color = 7;
 glyphname = rdblgrave;
 layers = (
 {
@@ -66785,7 +66649,6 @@ rightKerningGroup = lc_r;
 unicode = 1E5F;
 },
 {
-color = 7;
 glyphname = sacutedotaccent;
 layers = (
 {
@@ -66820,7 +66683,6 @@ rightKerningGroup = lc_s;
 unicode = 1E65;
 },
 {
-color = 7;
 glyphname = saltillo;
 layers = (
 {
@@ -66901,7 +66763,6 @@ rightKerningGroup = saltillo;
 unicode = A78C;
 },
 {
-color = 7;
 glyphname = scarondotaccent;
 layers = (
 {
@@ -66936,7 +66797,6 @@ rightKerningGroup = lc_s;
 unicode = 1E67;
 },
 {
-color = 7;
 glyphname = sdotaccent;
 layers = (
 {
@@ -67006,7 +66866,6 @@ rightKerningGroup = lc_s;
 unicode = 1E63;
 },
 {
-color = 7;
 glyphname = sdotbelowdotaccent;
 layers = (
 {
@@ -67049,7 +66908,6 @@ rightKerningGroup = lc_s;
 unicode = 1E69;
 },
 {
-color = 7;
 glyphname = tcommaaccent;
 layers = (
 {
@@ -67221,7 +67079,6 @@ category = Letter;
 subCategory = Lowercase;
 },
 {
-color = 7;
 glyphname = udblgrave;
 layers = (
 {
@@ -67291,7 +67148,6 @@ rightKerningGroup = lc_ShortStem;
 unicode = 0217;
 },
 {
-color = 7;
 glyphname = umacrondieresis;
 layers = (
 {
@@ -67326,7 +67182,6 @@ rightKerningGroup = lc_ShortStem;
 unicode = 1E7B;
 },
 {
-color = 7;
 glyphname = utildeacute;
 layers = (
 {
@@ -67361,7 +67216,6 @@ rightKerningGroup = lc_ShortStem;
 unicode = 1E79;
 },
 {
-color = 7;
 glyphname = ydotaccent;
 layers = (
 {
@@ -67396,7 +67250,6 @@ rightKerningGroup = lc_descender;
 unicode = 1E8F;
 },
 {
-color = 7;
 glyphname = ymacron;
 layers = (
 {
@@ -67466,7 +67319,6 @@ rightKerningGroup = lc_z;
 unicode = 1E93;
 },
 {
-color = 7;
 glyphname = f.alt;
 layers = (
 {
@@ -67512,7 +67364,6 @@ leftKerningGroup = lc_f;
 rightKerningGroup = lc_f;
 },
 {
-color = 3;
 glyphname = b.caron;
 layers = (
 {
@@ -67747,7 +67598,6 @@ leftKerningGroup = lc_LongtStemCaron;
 rightKerningGroup = lc_Round;
 },
 {
-color = 7;
 glyphname = ccaron.caron;
 layers = (
 {
@@ -67781,7 +67631,6 @@ leftKerningGroup = lc_Round;
 rightKerningGroup = lc_c;
 },
 {
-color = 3;
 glyphname = h.caron;
 layers = (
 {
@@ -67973,7 +67822,6 @@ leftKerningGroup = lc_LongtStemCaron;
 rightKerningGroup = lc_Shoulder;
 },
 {
-color = 3;
 glyphname = k.caron;
 layers = (
 {
@@ -68158,7 +68006,6 @@ leftKerningGroup = lc_LongtStemCaron;
 rightKerningGroup = lc_k;
 },
 {
-color = 3;
 glyphname = l.caron;
 layers = (
 {
@@ -68302,7 +68149,6 @@ leftKerningGroup = lc_LongtStemCaron;
 rightKerningGroup = lc_LongStem;
 },
 {
-color = 7;
 glyphname = scaron.caron;
 layers = (
 {
@@ -68336,7 +68182,6 @@ leftKerningGroup = lc_s;
 rightKerningGroup = lc_s;
 },
 {
-color = 7;
 glyphname = zcaron.caron;
 layers = (
 {
@@ -68370,7 +68215,6 @@ leftKerningGroup = lc_z;
 rightKerningGroup = lc_z;
 },
 {
-color = 7;
 glyphname = saltillo.case;
 layers = (
 {
@@ -68669,7 +68513,6 @@ leftKerningGroup = lc_u;
 rightKerningGroup = u.horn;
 },
 {
-color = 7;
 glyphname = iacute_j.loclNLD;
 layers = (
 {
@@ -68897,7 +68740,6 @@ rightMetricsKey = j;
 subCategory = Lowercase;
 },
 {
-color = 7;
 glyphname = ccedilla.ss03;
 layers = (
 {
@@ -158359,53 +158201,569 @@ question = {
 };
 };
 "B953D09C-6DD0-450A-A78C-8C2188DD4016" = {
-"@MMK_L_Fig_Seven" = {
-"@MMK_R_MSC_dash" = -30;
-"@MMK_R_MSC_period" = -80;
+"@MMK_L_MSC_UC_dash" = {
+"@MMK_R_UC_T" = -60;
+"@MMK_R_UC_V" = -50;
+"@MMK_R_UC_X" = -20;
+"@MMK_R_uc_t.sc" = -60;
+"@MMK_R_uc_v.sc" = -50;
+"@MMK_R_uc_x.sc" = -20;
+};
+"@MMK_L_MSC_UC_exclam" = {
+"@MMK_R_UC_V" = -30;
+"@MMK_R_uc_v.sc" = -30;
+};
+"@MMK_L_MSC_UC_guillemetleft" = {
+"@MMK_R_UC_A" = -30;
+"@MMK_R_UC_T" = -60;
+"@MMK_R_UC_V" = -70;
+"@MMK_R_uc_a.sc" = -30;
+"@MMK_R_uc_t.sc" = -60;
+"@MMK_R_uc_v.sc" = -70;
+};
+"@MMK_L_MSC_UC_guillemetright" = {
+"@MMK_R_MSC_period" = -30;
+"@MMK_R_UC_A" = -40;
+"@MMK_R_UC_T" = -80;
+"@MMK_R_UC_V" = -80;
+"@MMK_R_uc_a.sc" = -40;
+"@MMK_R_uc_t.sc" = -80;
+"@MMK_R_uc_v.sc" = -80;
+};
+"@MMK_L_MSC_UC_slash" = {
+"@MMK_R_UC_A" = -70;
+"@MMK_R_uc_a.sc" = -70;
+};
+"@MMK_L_MSC_colon" = {
+"@MMK_R_UC_T" = -30;
+"@MMK_R_UC_V" = -50;
+"@MMK_R_uc_t.sc" = -30;
+"@MMK_R_uc_v.sc" = -50;
 };
 "@MMK_L_MSC_dash" = {
-"@MMK_R_MSC_period" = -30;
-"@MMK_R_UC_T" = -30;
-"@MMK_R_UC_V" = -40;
+"@MMK_R_UC_A" = -30;
+"@MMK_R_UC_T" = -40;
+"@MMK_R_UC_V" = -50;
+"@MMK_R_UC_X" = -30;
+"@MMK_R_uc_a.sc" = -30;
+"@MMK_R_uc_t.sc" = -40;
+"@MMK_R_uc_v.sc" = -50;
+"@MMK_R_uc_x.sc" = -30;
+};
+"@MMK_L_MSC_guillemetleft" = {
+"@MMK_R_UC_T" = -40;
+"@MMK_R_UC_V" = -70;
+"@MMK_R_UC_X" = -30;
+"@MMK_R_uc_t.sc" = -40;
+"@MMK_R_uc_v.sc" = -70;
+"@MMK_R_uc_x.sc" = -30;
 };
 "@MMK_L_MSC_period" = {
-"@MMK_R_UC_T" = -70;
-"@MMK_R_UC_V" = -70;
+"@MMK_R_MSC_UC_guillemetleft" = -30;
+"@MMK_R_UC_T" = -80;
+"@MMK_R_UC_V" = -90;
+"@MMK_R_uc_t.sc" = -80;
+"@MMK_R_uc_v.sc" = -90;
+};
+"@MMK_L_RN_C" = {
+"@MMK_R_RN_Stem" = -10;
+"@MMK_R_RN_V" = -50;
+"@MMK_R_RN_X" = -40;
+};
+"@MMK_L_RN_L" = {
+"@MMK_R_RN_Round" = -40;
+"@MMK_R_RN_Stem" = -40;
+"@MMK_R_RN_V" = -130;
+"@MMK_R_RN_X" = -40;
+};
+"@MMK_L_RN_Stem" = {
+"@MMK_R_RN_Stem" = 20;
+"@MMK_R_RN_V" = -30;
+};
+"@MMK_L_RN_V" = {
+"@MMK_R_RN_Round" = -40;
+"@MMK_R_RN_Stem" = -60;
+"@MMK_R_RN_X" = -60;
+};
+"@MMK_L_RN_X" = {
+"@MMK_R_RN_Round" = -40;
+"@MMK_R_RN_Stem" = -40;
+"@MMK_R_RN_X" = -20;
+};
+"@MMK_L_RomanNumber" = {
+"@MMK_R_RomanNumber" = -30;
 };
 "@MMK_L_UC_A" = {
-"@MMK_R_asterisk" = -60;
+"@MMK_R_MSC_UC_guillemetleft" = -40;
+"@MMK_R_MSC_UC_guillemetright" = -30;
+"@MMK_R_MSC_dash" = -30;
+"@MMK_R_UC_A" = -40;
+"@MMK_R_UC_Round" = -30;
+"@MMK_R_UC_T" = -70;
+"@MMK_R_UC_U" = -30;
+"@MMK_R_UC_V" = -80;
+"@MMK_R_UC_Z" = -30;
+"@MMK_R_asterisk" = -100;
+"@MMK_R_backslash" = -70;
+"@MMK_R_lc_Round" = -30;
+"@MMK_R_lc_t" = -30;
+"@MMK_R_lc_u" = -30;
+"@MMK_R_lc_v" = -70;
+"@MMK_R_lc_x" = -40;
+"@MMK_R_saltillo" = -50;
+"@MMK_R_sups" = -30;
+"@MMK_R_sups_L" = -30;
+"@MMK_R_sups_Round" = -30;
+"@MMK_R_sups_T" = -30;
+"@MMK_R_sups_V" = -40;
+"@MMK_R_susp" = -30;
+};
+"@MMK_L_UC_B" = {
+"@MMK_R_UC_V" = -30;
+};
+"@MMK_L_UC_C" = {
+"@MMK_R_lc_v" = -30;
 };
 "@MMK_L_UC_F" = {
-"@MMK_R_MSC_period" = -80;
+"@MMK_R_UC_A" = -60;
+};
+"@MMK_L_UC_G" = {
+"@MMK_R_lc_v" = -30;
+};
+"@MMK_L_UC_K" = {
+"@MMK_R_MSC_UC_dash" = -20;
+"@MMK_R_MSC_dash" = -30;
+"@MMK_R_MSC_guillemetright" = -30;
+"@MMK_R_UC_A" = -30;
+"@MMK_R_UC_Round" = -50;
+"@MMK_R_UC_S" = -20;
+"@MMK_R_UC_T" = -50;
+"@MMK_R_UC_V" = -50;
+"@MMK_R_asterisk" = -50;
+"@MMK_R_lc_Round" = -30;
+"@MMK_R_lc_p" = -30;
+"@MMK_R_lc_t" = -30;
+"@MMK_R_lc_u" = -30;
+"@MMK_R_lc_v" = -50;
+"@MMK_R_lc_x" = -40;
+};
+"@MMK_L_UC_L" = {
+"@MMK_R_UC_A" = -30;
+"@MMK_R_UC_Round" = -40;
+"@MMK_R_UC_T" = -70;
+"@MMK_R_UC_U" = -30;
+"@MMK_R_UC_V" = -70;
+"@MMK_R_asterisk" = -80;
+"@MMK_R_lc_v" = -60;
+"@MMK_R_saltillo" = -70;
+};
+"@MMK_L_UC_N" = {
+"@MMK_R_UC_A" = -20;
+};
+"@MMK_L_UC_P" = {
+"@MMK_R_MSC_period" = -70;
+"@MMK_R_UC_A" = -50;
+"@MMK_R_UC_V" = -30;
+"@MMK_R_lc_Round" = -30;
+"@MMK_R_lc_a" = -30;
+"@MMK_R_lc_g" = -30;
+"@MMK_R_lc_v" = -30;
+};
+"@MMK_L_UC_Q" = {
+"@MMK_R_UC_V" = -30;
+};
+"@MMK_L_UC_R" = {
+"@MMK_R_MSC_dash" = -20;
+"@MMK_R_UC_A" = -20;
+"@MMK_R_UC_Round" = -20;
+"@MMK_R_UC_T" = -40;
+"@MMK_R_UC_V" = -60;
+"@MMK_R_UC_X" = -30;
+"@MMK_R_UC_Z" = -30;
+"@MMK_R_asterisk" = -70;
+"@MMK_R_lc_Round" = -20;
+"@MMK_R_lc_u" = -10;
+"@MMK_R_lc_v" = -50;
+};
+"@MMK_L_UC_Round" = {
+"@MMK_R_UC_A" = -40;
+"@MMK_R_UC_V" = -60;
+"@MMK_R_asterisk" = -20;
+"@MMK_R_saltillo" = -10;
+};
+"@MMK_L_UC_S" = {
+"@MMK_R_UC_T" = -30;
+"@MMK_R_UC_V" = -20;
+"@MMK_R_UC_X" = -20;
+"@MMK_R_lc_v" = -20;
+"@MMK_R_lc_x" = -10;
 };
 "@MMK_L_UC_T" = {
-"@MMK_R_MSC_dash" = -30;
-"@MMK_R_MSC_period" = -70;
-"@MMK_R_lc_Round" = -40;
-"@MMK_R_lc_u" = -20;
-};
-"@MMK_L_UC_V" = {
+"@MMK_R_MSC_UC_dash" = -60;
+"@MMK_R_MSC_UC_guillemetleft" = -80;
+"@MMK_R_MSC_UC_guillemetright" = -60;
+"@MMK_R_MSC_colon" = -30;
 "@MMK_R_MSC_dash" = -40;
-"@MMK_R_MSC_period" = -70;
-"@MMK_R_lc_Round" = -40;
-"@MMK_R_lc_s" = -20;
-"@MMK_R_lc_u" = -20;
+"@MMK_R_MSC_guillemetright" = -40;
+"@MMK_R_MSC_period" = -80;
+"@MMK_R_UC_A" = -70;
+"@MMK_R_UC_S" = -30;
+"@MMK_R_UC_V" = -20;
+"@MMK_R_lc_Round" = -30;
+"@MMK_R_lc_ShortStem" = -20;
+"@MMK_R_lc_a" = -40;
+"@MMK_R_lc_g" = -30;
+"@MMK_R_lc_s" = -30;
+"@MMK_R_lc_v" = -50;
+"@MMK_R_lc_x" = -40;
 "@MMK_R_lc_z" = -30;
 };
-"@MMK_L_UP_F" = {
-"@MMK_R_lc_Round" = -40;
-"@MMK_R_lc_ShortStem" = -20;
-"@MMK_R_lc_u" = -20;
+"@MMK_L_UC_Thorn" = {
+"@MMK_R_UC_A" = -40;
+};
+"@MMK_L_UC_U" = {
+"@MMK_R_MSC_period" = -30;
+"@MMK_R_UC_A" = -30;
+};
+"@MMK_L_UC_V" = {
+"@MMK_R_MSC_UC_dash" = -50;
+"@MMK_R_MSC_UC_guillemetleft" = -80;
+"@MMK_R_MSC_UC_guillemetright" = -70;
+"@MMK_R_MSC_UC_slash" = -70;
+"@MMK_R_MSC_colon" = -50;
+"@MMK_R_MSC_dash" = -50;
+"@MMK_R_MSC_exclam" = -20;
+"@MMK_R_MSC_guillemetleft" = -70;
+"@MMK_R_MSC_guillemetright" = -70;
+"@MMK_R_MSC_period" = -90;
+"@MMK_R_UC_A" = -80;
+"@MMK_R_UC_AE" = -100;
+"@MMK_R_UC_Round" = -60;
+"@MMK_R_UC_S" = -20;
+"@MMK_R_UC_T" = -20;
+"@MMK_R_UC_V" = -40;
+"@MMK_R_UC_X" = -20;
+"@MMK_R_asterisk" = -30;
+"@MMK_R_lc_Round" = -50;
+"@MMK_R_lc_ShortStem" = -30;
+"@MMK_R_lc_a" = -50;
+"@MMK_R_lc_g" = -50;
+"@MMK_R_lc_p" = -30;
+"@MMK_R_lc_s" = -50;
+"@MMK_R_lc_u" = -40;
+"@MMK_R_lc_v" = -60;
+"@MMK_R_lc_x" = -50;
+"@MMK_R_lc_z" = -50;
+};
+"@MMK_L_UC_Z" = {
+"@MMK_R_UC_A" = -30;
+"@MMK_R_UC_T" = -20;
+"@MMK_R_asterisk" = -30;
 };
 "@MMK_L_asterisk" = {
+"@MMK_R_UC_A" = -80;
+"@MMK_R_UC_Round" = -20;
+"@MMK_R_UC_S" = -30;
+"@MMK_R_lc_Round" = -10;
+"@MMK_R_uc_a.sc" = -80;
+"@MMK_R_uc_round.sc" = -20;
+"@MMK_R_uc_s.sc" = -30;
+};
+"@MMK_L_backslash" = {
+"@MMK_R_UC_V" = -70;
+"@MMK_R_uc_v.sc" = -70;
+};
+"@MMK_L_exclam" = {
+"@MMK_R_UC_V" = -70;
+"@MMK_R_uc_v.sc" = -70;
+};
+"@MMK_L_lc_Round" = {
+"@MMK_R_asterisk" = -20;
+"@MMK_R_lc_v" = -30;
+"@MMK_R_lc_x" = -20;
+};
+"@MMK_L_lc_Shoulder" = {
+"@MMK_R_asterisk" = -40;
+"@MMK_R_lc_v" = -20;
+seven = -30;
+};
+"@MMK_L_lc_SternCaron" = {
+"@MMK_R_lc_LongStem" = 110;
+};
+"@MMK_L_lc_a" = {
+"@MMK_R_asterisk" = -10;
+};
+"@MMK_L_lc_c" = {
+"@MMK_R_lc_x" = -10;
+};
+"@MMK_L_lc_e" = {
+"@MMK_R_asterisk" = -20;
+"@MMK_R_lc_x" = -10;
+};
+"@MMK_L_lc_f" = {
+"@MMK_R_saltillo" = 20;
+"@MMK_R_saltillo.sc" = 20;
+};
+"@MMK_L_lc_g" = {
+"@MMK_R_lc_v" = -20;
+};
+"@MMK_L_lc_k" = {
+"@MMK_R_asterisk" = -50;
+"@MMK_R_lc_Round" = -20;
+"@MMK_R_lc_t" = -20;
+"@MMK_R_lc_v" = -50;
+"@MMK_R_lc_x" = -40;
+"@MMK_R_lc_z" = -20;
+"@MMK_R_saltillo" = -20;
+"@MMK_R_saltillo.sc" = -20;
+};
+"@MMK_L_lc_q" = {
+"@MMK_R_asterisk" = -20;
+};
+"@MMK_L_lc_r" = {
+"@MMK_R_MSC_colon" = -20;
+"@MMK_R_MSC_period" = -80;
+"@MMK_R_lc_x" = -20;
+};
+"@MMK_L_lc_s" = {
+"@MMK_R_asterisk" = -20;
+"@MMK_R_lc_v" = -20;
+};
+"@MMK_L_lc_t" = {
+"@MMK_R_asterisk" = -30;
+};
+"@MMK_L_lc_v" = {
+"@MMK_R_MSC_colon" = -20;
+"@MMK_R_MSC_period" = -110;
+"@MMK_R_asterisk" = -30;
+"@MMK_R_lc_Round" = -30;
+"@MMK_R_lc_g" = -20;
+"@MMK_R_lc_s" = -20;
+"@MMK_R_lc_v" = -10;
+"@MMK_R_lc_x" = -40;
+};
+"@MMK_L_lc_z" = {
+"@MMK_R_lc_x" = -20;
+};
+"@MMK_L_lc_z.sc" = {
+"@MMK_R_lc_x" = -20;
+};
+"@MMK_L_questiondown" = {
+"@MMK_R_UC_V" = -50;
+"@MMK_R_uc_v.sc" = -50;
+};
+"@MMK_L_saltillo" = {
+"@MMK_R_UC_A" = -50;
+"@MMK_R_UC_Round" = -10;
+"@MMK_R_lc_LongStem" = 20;
+};
+"@MMK_L_saltillo.sc" = {
+"@MMK_R_lc_LongStem" = 20;
+"@MMK_R_uc_a.sc" = -50;
+"@MMK_R_uc_round.sc" = -10;
+};
+"@MMK_L_sups" = {
+"@MMK_R_UC_A" = -30;
+"@MMK_R_uc_a.sc" = -30;
+};
+"@MMK_L_sups_A" = {
+"@MMK_R_sups_T" = -40;
+"@MMK_R_sups_V" = -50;
+};
+"@MMK_L_sups_L" = {
+"@MMK_R_UC_A" = -30;
+"@MMK_R_sups_T" = -50;
+"@MMK_R_uc_a.sc" = -30;
+};
+"@MMK_L_sups_Round" = {
+"@MMK_R_UC_A" = -30;
+"@MMK_R_sups_V" = -20;
+"@MMK_R_uc_a.sc" = -30;
+};
+"@MMK_L_sups_T" = {
+"@MMK_R_UC_A" = -30;
+"@MMK_R_sups_A" = -40;
+"@MMK_R_uc_a.sc" = -30;
+};
+"@MMK_L_sups_V" = {
+"@MMK_R_UC_A" = -40;
+"@MMK_R_sups_A" = -50;
+"@MMK_R_sups_Round" = -20;
+"@MMK_R_uc_a.sc" = -40;
+};
+"@MMK_L_susp" = {
+"@MMK_R_UC_A" = -30;
+"@MMK_R_uc_a.sc" = -30;
+};
+"@MMK_L_uc_a.sc" = {
+"@MMK_R_MSC_UC_guillemetleft" = -40;
+"@MMK_R_MSC_UC_guillemetright" = -30;
+"@MMK_R_MSC_dash" = -30;
+"@MMK_R_asterisk" = -80;
+"@MMK_R_backslash" = -70;
+"@MMK_R_lc_Round" = -30;
+"@MMK_R_lc_t" = -30;
+"@MMK_R_lc_u" = -30;
+"@MMK_R_lc_v" = -70;
+"@MMK_R_lc_x" = -40;
+"@MMK_R_saltillo.sc" = -50;
+"@MMK_R_sups" = -30;
+"@MMK_R_sups_L" = -30;
+"@MMK_R_sups_Round" = -30;
+"@MMK_R_sups_T" = -30;
+"@MMK_R_sups_V" = -40;
+"@MMK_R_susp" = -30;
+"@MMK_R_uc_a.sc" = -33;
+"@MMK_R_uc_round.sc" = -30;
+"@MMK_R_uc_t.sc" = -70;
+"@MMK_R_uc_u.sc" = -30;
+"@MMK_R_uc_v.sc" = -80;
+"@MMK_R_uc_z.sc" = -30;
+};
+"@MMK_L_uc_b.sc" = {
+"@MMK_R_uc_v.sc" = -30;
+};
+"@MMK_L_uc_c.sc" = {
+"@MMK_R_lc_v" = -30;
+};
+"@MMK_L_uc_g.sc" = {
+"@MMK_R_lc_v" = -30;
+};
+"@MMK_L_uc_k.sc" = {
+"@MMK_R_MSC_UC_dash" = -20;
+"@MMK_R_MSC_dash" = -30;
+"@MMK_R_MSC_guillemetright" = -30;
+"@MMK_R_asterisk" = -50;
+"@MMK_R_lc_Round" = -30;
+"@MMK_R_lc_p" = -30;
+"@MMK_R_lc_t" = -30;
+"@MMK_R_lc_u" = -30;
+"@MMK_R_lc_v" = -50;
+"@MMK_R_lc_x" = -40;
+"@MMK_R_uc_a.sc" = -30;
+"@MMK_R_uc_round.sc" = -50;
+"@MMK_R_uc_s.sc" = -20;
+"@MMK_R_uc_t.sc" = -50;
+"@MMK_R_uc_v.sc" = -50;
+};
+"@MMK_L_uc_l.sc" = {
+"@MMK_R_asterisk" = -80;
+"@MMK_R_lc_v" = -60;
+"@MMK_R_saltillo.sc" = -70;
+"@MMK_R_uc_a.sc" = -30;
+"@MMK_R_uc_round.sc" = -40;
+"@MMK_R_uc_t.sc" = -70;
+"@MMK_R_uc_u.sc" = -30;
+"@MMK_R_uc_v.sc" = -70;
+};
+"@MMK_L_uc_n.sc" = {
+"@MMK_R_uc_a.sc" = -20;
+};
+"@MMK_L_uc_p.sc" = {
 "@MMK_R_MSC_period" = -50;
-"@MMK_R_UC_A" = -70;
+"@MMK_R_lc_Round" = -30;
+"@MMK_R_lc_a" = -30;
+"@MMK_R_lc_g" = -30;
+"@MMK_R_lc_v" = -30;
+"@MMK_R_uc_a.sc" = -50;
+"@MMK_R_uc_v.sc" = -30;
 };
-"@MMK_L_lc_LongtStemCaron" = {
-"@MMK_R_lc_LongtStem" = 150;
+"@MMK_L_uc_q.sc" = {
+"@MMK_R_uc_v.sc" = -30;
 };
-question = {
-"@MMK_R_MSC_period" = -100;
+"@MMK_L_uc_r.sc" = {
+"@MMK_R_MSC_dash" = -20;
+"@MMK_R_asterisk" = -70;
+"@MMK_R_lc_Round" = -20;
+"@MMK_R_lc_u" = -10;
+"@MMK_R_lc_v" = -50;
+"@MMK_R_uc_a.sc" = -20;
+"@MMK_R_uc_round.sc" = -20;
+"@MMK_R_uc_t.sc" = -40;
+"@MMK_R_uc_v.sc" = -60;
+"@MMK_R_uc_x.sc" = -30;
+"@MMK_R_uc_z.sc" = -30;
+};
+"@MMK_L_uc_round.sc" = {
+"@MMK_R_asterisk" = -20;
+"@MMK_R_saltillo.sc" = -10;
+"@MMK_R_uc_a.sc" = -40;
+"@MMK_R_uc_v.sc" = -60;
+};
+"@MMK_L_uc_s.sc" = {
+"@MMK_R_lc_v" = -20;
+"@MMK_R_lc_x" = -10;
+"@MMK_R_uc_t.sc" = -30;
+"@MMK_R_uc_v.sc" = -20;
+"@MMK_R_uc_x.sc" = -20;
+};
+"@MMK_L_uc_t.sc" = {
+"@MMK_R_MSC_UC_dash" = -60;
+"@MMK_R_MSC_UC_guillemetleft" = -80;
+"@MMK_R_MSC_UC_guillemetright" = -60;
+"@MMK_R_MSC_colon" = -30;
+"@MMK_R_MSC_dash" = -40;
+"@MMK_R_MSC_guillemetright" = -40;
+"@MMK_R_MSC_period" = -80;
+"@MMK_R_lc_Round" = -30;
+"@MMK_R_lc_a" = -20;
+"@MMK_R_lc_g" = -30;
+"@MMK_R_lc_s" = -30;
+"@MMK_R_lc_v" = -50;
+"@MMK_R_lc_x" = -40;
+"@MMK_R_lc_z" = -30;
+"@MMK_R_uc_a.sc" = -70;
+"@MMK_R_uc_s.sc" = -30;
+"@MMK_R_uc_v.sc" = -20;
+};
+"@MMK_L_uc_thorn.sc" = {
+"@MMK_R_uc_a.sc" = -40;
+};
+"@MMK_L_uc_u.sc" = {
+"@MMK_R_MSC_period" = -30;
+"@MMK_R_uc_a.sc" = -30;
+};
+"@MMK_L_uc_v.sc" = {
+"@MMK_R_MSC_UC_dash" = -50;
+"@MMK_R_MSC_UC_guillemetleft" = -80;
+"@MMK_R_MSC_UC_guillemetright" = -70;
+"@MMK_R_MSC_UC_slash" = -70;
+"@MMK_R_MSC_colon" = -50;
+"@MMK_R_MSC_dash" = -50;
+"@MMK_R_MSC_exclam" = -20;
+"@MMK_R_MSC_guillemetleft" = -70;
+"@MMK_R_MSC_guillemetright" = -70;
+"@MMK_R_MSC_period" = -90;
+"@MMK_R_asterisk" = -30;
+"@MMK_R_lc_Round" = -50;
+"@MMK_R_lc_ShortStem" = -30;
+"@MMK_R_lc_a" = -50;
+"@MMK_R_lc_g" = -50;
+"@MMK_R_lc_p" = -30;
+"@MMK_R_lc_s" = -50;
+"@MMK_R_lc_u" = -40;
+"@MMK_R_lc_v" = -60;
+"@MMK_R_lc_x" = -50;
+"@MMK_R_lc_z" = -50;
+"@MMK_R_uc_a.sc" = -80;
+"@MMK_R_uc_ae.sc" = -100;
+"@MMK_R_uc_round.sc" = -60;
+"@MMK_R_uc_s.sc" = -20;
+"@MMK_R_uc_t.sc" = -20;
+};
+"@MMK_L_uc_z.sc" = {
+"@MMK_R_asterisk" = -30;
+"@MMK_R_uc_a.sc" = -30;
+};
+I.ss02 = {
+"@MMK_R_RN_Round" = 0;
+"@MMK_R_RN_V" = -60;
+"@MMK_R_RN_X" = -40;
+};
+seven = {
+"@MMK_R_MSC_colon" = -30;
+"@MMK_R_MSC_period" = -70;
+four = -20;
 };
 };
 };
