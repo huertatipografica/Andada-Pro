@@ -1,5 +1,9 @@
 {
 .appVersion = "1342";
+DisplayStrings = (
+"/Acircumflextilde VA",
+ROX
+);
 classes = (
 {
 automatic = 1;
@@ -997,7 +1001,7 @@ name = "Variable Font Origin";
 value = UUID0;
 }
 );
-date = "2021-04-08 10:12:33 +0000";
+date = "2021-04-12 11:32:00 +0000";
 designer = "Carolina Giovagnoli";
 designerURL = "http://www.huertatipografica.com";
 familyName = "Andada ht OTVar";
@@ -19643,7 +19647,7 @@ width = 610;
 }
 );
 leftKerningGroup = lc_Round;
-rightKerningGroup = lc_SternCaron;
+rightKerningGroup = lc_LongtStemCaron;
 unicode = 010F;
 },
 {
@@ -24335,7 +24339,7 @@ width = 330;
 }
 );
 leftKerningGroup = lc_LongStem;
-rightKerningGroup = lc_SternCaron;
+rightKerningGroup = lc_LongtStemCaron;
 unicode = 013E;
 },
 {
@@ -39781,6 +39785,7 @@ nodes = (
 width = 570;
 }
 );
+leftKerningGroup = fig_three;
 unicode = 0033;
 },
 {
@@ -40146,6 +40151,7 @@ nodes = (
 width = 560;
 }
 );
+leftKerningGroup = fig_three;
 unicode = 0035;
 },
 {
@@ -49877,6 +49883,7 @@ useSpacing = 60;
 width = 550;
 }
 );
+leftKerningGroup = fig_three;
 userData = {
 RMXScaler = {
 source = three.osf;
@@ -50083,6 +50090,7 @@ useSpacing = 60;
 width = 550;
 }
 );
+leftKerningGroup = fig_three;
 userData = {
 RMXScaler = {
 source = five.osf;
@@ -114244,6 +114252,7 @@ nodes = (
 width = 530;
 }
 );
+leftKerningGroup = fig_three;
 userData = {
 RMXScaler = {
 source = three;
@@ -114454,6 +114463,7 @@ nodes = (
 width = 521;
 }
 );
+leftKerningGroup = fig_three;
 userData = {
 RMXScaler = {
 source = five;
@@ -163943,6 +163953,7 @@ UUID0 = {
 "@MMK_L_UC_Round" = {
 "@MMK_R_UC_A" = -40;
 "@MMK_R_UC_V" = -60;
+"@MMK_R_UC_X" = -50;
 "@MMK_R_asterisk" = -20;
 "@MMK_R_saltillo" = -10;
 };
@@ -164517,6 +164528,7 @@ M.ss02 = -130;
 "@MMK_L_UC_Round" = {
 "@MMK_R_UC_A" = -40;
 "@MMK_R_UC_V" = -50;
+"@MMK_R_UC_X" = -50;
 "@MMK_R_asterisk" = -20;
 "@MMK_R_saltillo" = -10;
 };
