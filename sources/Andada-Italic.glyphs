@@ -97,7 +97,7 @@ code = "A AE Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabov
 name = AllLetters;
 }
 );
-copyright = "Copyright © 2019 by Carolina Giovagnoli. All rights reserved.";
+copyright = "Copyright 2011 The Andada Project Authors (https://github.com/huertatipografica/Andada)";
 customParameters = (
 {
 name = fsType;
@@ -121,20 +121,16 @@ name = "Variable Font Origin";
 value = "08C09966-8326-41C9-AE3D-74AAC6FC1D13";
 },
 {
-name = description;
-value = "Copyright (c) 2012 / 2019 by Carolina Giovagnoli (huertatipografica.com.ar). All rights reserved.";
-},
-{
 name = trademark;
-value = "Andada ht Pro is a trademark of Carolina Giovagnoli (huertatipografica.com.ar).";
+value = "Andada is a trademark of Carolina Giovagnoli (huertatipografica.com.ar).";
 },
 {
 name = license;
-value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL";
 },
 {
 name = licenseURL;
-value = "http://scripts.sil.org/OFL";
+value = "https://scripts.sil.org/OFL";
 },
 {
 name = vendorID;
@@ -153,7 +149,7 @@ Tag = wght;
 date = "2021-04-12 11:32:02 +0000";
 designer = "Carolina Giovagnoli";
 designerURL = "http://www.huertatipografica.com";
-familyName = "Andada ht OTVar";
+familyName = Andada;
 featurePrefixes = (
 {
 code = "languagesystem DFLT dflt;\012\012languagesystem latn dflt;\012languagesystem latn DEU;\012languagesystem latn FRA;\012languagesystem latn TRK;\012languagesystem latn MOL;\012languagesystem latn ROM;\012languagesystem latn KAZ;\012languagesystem latn AZE;\012languagesystem latn CAT;\012languagesystem latn CRT;\012languagesystem latn NLD;\012languagesystem latn ENG;\012\012languagesystem cyrl dflt;\012languagesystem cyrl TAT;\012";
