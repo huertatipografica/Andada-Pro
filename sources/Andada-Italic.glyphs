@@ -1,5 +1,8 @@
 {
 .appVersion = "3079";
+DisplayStrings = (
+"/asterisk.alt"
+);
 classes = (
 {
 automatic = 1;
@@ -81412,46 +81415,26 @@ paths = (
 {
 closed = 1;
 nodes = (
-"335 554 LINE",
-"252 613 LINE",
-"121 410 LINE",
-"159 385 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"337 606 LINE",
-"115 645 LINE",
-"98 600 LINE",
-"297 503 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
+"326 546 LINE",
+"240 550 LINE",
+"386 379 LINE",
 "423 409 LINE",
-"335 611 LINE",
-"245 544 LINE",
-"386 379 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"341 550 LINE",
-"336 777 LINE",
-"290 774 LINE",
-"234 545 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
+"340 600 LINE",
+"308 515 LINE",
 "504 607 LINE",
 "492 650 LINE",
-"262 606 LINE",
-"287 506 LINE"
+"277 609 LINE",
+"340 558 LINE",
+"336 777 LINE",
+"290 774 LINE",
+"238 560 LINE",
+"315 610 LINE",
+"115 645 LINE",
+"98 600 LINE",
+"266 518 LINE",
+"243 599 LINE",
+"121 410 LINE",
+"159 385 LINE"
 );
 }
 );
@@ -81463,46 +81446,26 @@ paths = (
 {
 closed = 1;
 nodes = (
-"294 544 LINE",
-"243 581 LINE",
-"130 432 LINE",
-"160 410 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"319 598 LINE",
+"302 552 LINE",
+"257 554 LINE",
+"372 414 LINE",
+"404 440 LINE",
+"317 589 LINE",
+"303 547 LINE",
+"458 610 LINE",
+"448 647 LINE",
+"285 606 LINE",
+"317 580 LINE",
+"321 755 LINE",
+"281 753 LINE",
+"246 580 LINE",
+"286 605 LINE",
 "118 644 LINE",
 "105 606 LINE",
-"295 527 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"404 440 LINE",
-"319 587 LINE",
-"266 543 LINE",
-"372 414 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"474 616 LINE",
-"464 634 LINE",
-"222 574 LINE",
-"247 518 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"302 573 LINE",
-"305 768 LINE",
-"284 770 LINE",
-"241 579 LINE"
+"255 543 LINE",
+"244 583 LINE",
+"130 432 LINE",
+"160 410 LINE"
 );
 }
 );
