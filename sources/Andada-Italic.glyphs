@@ -1,8 +1,5 @@
 {
 .appVersion = "3079";
-DisplayStrings = (
-"/asterisk.alt"
-);
 classes = (
 {
 automatic = 1;
@@ -79582,6 +79579,21 @@ unicode = 215E;
 },
 {
 color = 6;
+glyphname = CR;
+layers = (
+{
+layerId = "3088057A-3552-44D5-8A67-1301E2609A93";
+width = 600;
+},
+{
+layerId = "B953D09C-6DD0-450A-A78C-8C2188DD4016";
+width = 600;
+}
+);
+unicode = 000D;
+},
+{
+color = 6;
 glyphname = zerowidthjoiner;
 layers = (
 {
@@ -79732,6 +79744,20 @@ nodes = (
 }
 );
 width = 623.4;
+}
+);
+},
+{
+color = 6;
+glyphname = .null;
+layers = (
+{
+layerId = "3088057A-3552-44D5-8A67-1301E2609A93";
+width = 600;
+},
+{
+layerId = "B953D09C-6DD0-450A-A78C-8C2188DD4016";
+width = 600;
 }
 );
 },
@@ -120629,10 +120655,6 @@ instances = (
 {
 customParameters = (
 {
-name = Filter;
-value = "AddExtremes;";
-},
-{
 name = "Update Features";
 value = 1;
 },
@@ -120665,10 +120687,6 @@ name = Italic;
 },
 {
 customParameters = (
-{
-name = Filter;
-value = "AddExtremes;";
-},
 {
 name = "Update Features";
 value = 1;
@@ -120717,10 +120735,6 @@ weightClass = SemiBold;
 {
 customParameters = (
 {
-name = Filter;
-value = "AddExtremes;";
-},
-{
 name = "Update Features";
 value = 1;
 },
@@ -120756,10 +120770,6 @@ weightClass = Bold;
 },
 {
 customParameters = (
-{
-name = Filter;
-value = "AddExtremes;";
-},
 {
 name = "Update Features";
 value = 1;
