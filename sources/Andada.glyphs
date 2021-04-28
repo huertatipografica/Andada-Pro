@@ -326,15 +326,15 @@ value = -180;
 },
 {
 name = typoAscender;
-value = 756;
+value = 942;
 },
 {
 name = typoDescender;
-value = -244;
+value = -235;
 },
 {
 name = typoLineGap;
-value = 250;
+value = 0;
 },
 {
 name = hheaAscender;
@@ -346,7 +346,7 @@ value = -244;
 },
 {
 name = hheaLineGap;
-value = 250;
+value = 0;
 },
 {
 name = winAscent;
@@ -414,15 +414,15 @@ value = -180;
 },
 {
 name = typoAscender;
-value = 756;
+value = 942;
 },
 {
 name = typoDescender;
-value = -244;
+value = -235;
 },
 {
 name = typoLineGap;
-value = 250;
+value = 0;
 },
 {
 name = hheaAscender;
@@ -434,7 +434,7 @@ value = -244;
 },
 {
 name = hheaLineGap;
-value = 250;
+value = 0;
 },
 {
 name = winAscent;
