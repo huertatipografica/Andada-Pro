@@ -79820,7 +79820,7 @@ width = 179;
 },
 {
 layerId = "3088057A-3552-44D5-8A67-1301E2609A93";
-width = 228.5;
+width = 228;
 }
 );
 unicode = 0020;
@@ -79836,9 +79836,10 @@ width = 179;
 },
 {
 layerId = "3088057A-3552-44D5-8A67-1301E2609A93";
-width = 228.5;
+width = 228;
 }
 );
+widthMetricsKey = space;
 unicode = 00A0;
 },
 {

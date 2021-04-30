@@ -78216,13 +78216,14 @@ glyphname = nbspace;
 layers = (
 {
 layerId = "16643525-C5DD-48EC-8E99-463BF28F5E85";
-width = 179;
+width = 185;
 },
 {
 layerId = "4E6502B1-B066-4D3E-9BD1-B1D9901B4F4F";
-width = 217.5;
+width = 224;
 }
 );
+widthMetricsKey = space;
 unicode = 00A0;
 },
 {
