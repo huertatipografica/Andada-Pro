@@ -77,7 +77,7 @@ code = "florin\012cent\012dollar\012sterling\012yen\012cedi\012colonsign\012curr
 name = currency;
 }
 );
-copyright = "Copyright 2011 The Andada Project Authors (https://github.com/huertatipografica/Andada)";
+copyright = "Copyright 2011 The Andada Pro Project Authors (https://github.com/huertatipografica/Andada)";
 customParameters = (
 {
 name = fsType;
@@ -115,7 +115,7 @@ wght = {
 },
 {
 name = trademark;
-value = "Andada is a trademark of Carolina Giovagnoli (huertatipografica.com.ar).";
+value = "Andada Pro is a trademark of Carolina Giovagnoli (huertatipografica.com.ar).";
 },
 {
 name = license;
@@ -142,7 +142,7 @@ Tag = wght;
 date = "2021-04-12 11:32:00 +0000";
 designer = "Carolina Giovagnoli";
 designerURL = "http://www.huertatipografica.com";
-familyName = Andada;
+familyName = "Andada Pro";
 featurePrefixes = (
 {
 code = "languagesystem DFLT dflt;\012\012languagesystem latn dflt;\012languagesystem latn DEU;\012languagesystem latn FRA;\012languagesystem latn TRK;\012languagesystem latn MOL;\012languagesystem latn ROM;\012languagesystem latn KAZ;\012languagesystem latn AZE;\012languagesystem latn CAT;\012languagesystem latn CRT;\012languagesystem latn NLD;\012languagesystem latn ENG;\012\012languagesystem cyrl dflt;\012languagesystem cyrl TAT;\012";
@@ -338,11 +338,11 @@ value = 0;
 },
 {
 name = hheaAscender;
-value = 756;
+value = 942;
 },
 {
 name = hheaDescender;
-value = -244;
+value = -235;
 },
 {
 name = hheaLineGap;
@@ -426,11 +426,11 @@ value = 0;
 },
 {
 name = hheaAscender;
-value = 756;
+value = 942;
 },
 {
 name = hheaDescender;
-value = -244;
+value = -235;
 },
 {
 name = hheaLineGap;
@@ -119630,5 +119630,5 @@ tH = "54";
 LWPluginVersion = "1392";
 };
 versionMajor = 3;
-versionMinor = 1;
+versionMinor = 2;
 }

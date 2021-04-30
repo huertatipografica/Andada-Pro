@@ -1,7 +1,7 @@
     sources:
-      - Andada.glyphs
-      - Andada-Italic.glyphs
+      - AndadaPro.glyphs
+      - AndadaPro-Italic.glyphs
     axisOrder:
       - wght
       - ital
-    familyName: Andada
+    familyName: Andada Pro
