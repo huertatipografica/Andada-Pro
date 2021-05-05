@@ -1,5 +1,5 @@
 {
-.appVersion = "3079";
+.appVersion = "1342";
 classes = (
 {
 automatic = 1;
@@ -456,6 +456,7 @@ horizontalStems = (
 75,
 88
 );
+iconName = SemiBold;
 id = "16643525-C5DD-48EC-8E99-463BF28F5E85";
 name = XBold;
 userData = {
@@ -473,7 +474,7 @@ verticalStems = (
 155,
 180
 );
-weight = SemiBold;
+weight = Bold;
 weightValue = 140;
 xHeight = 494;
 }
@@ -2727,11 +2728,11 @@ name = D;
 },
 {
 name = Z;
-transform = "{1, 0, 0, 1, 777, 0}";
+transform = "{1, 0, 0, 1, 737, 0}";
 }
 );
 layerId = "16643525-C5DD-48EC-8E99-463BF28F5E85";
-width = 1439;
+width = 1399;
 },
 {
 components = (
@@ -2762,11 +2763,11 @@ name = D;
 },
 {
 name = Zcaron;
-transform = "{1, 0, 0, 1, 777, 0}";
+transform = "{1, 0, 0, 1, 737, 0}";
 }
 );
 layerId = "16643525-C5DD-48EC-8E99-463BF28F5E85";
-width = 1439;
+width = 1399;
 },
 {
 components = (
@@ -2775,11 +2776,11 @@ name = D;
 },
 {
 name = Zcaron;
-transform = "{1, 0, 0, 1, 761, 0}";
+transform = "{1, 0, 0, 1, 721, 0}";
 }
 );
 layerId = "4E6502B1-B066-4D3E-9BD1-B1D9901B4F4F";
-width = 1390;
+width = 1350;
 }
 );
 leftKerningGroup = UC_Stem;
@@ -37558,11 +37559,11 @@ name = d.sc;
 },
 {
 name = zcaron.sc;
-transform = "{1, 0, 0, 1, 683, 0}";
+transform = "{1, 0, 0, 1, 623, 0}";
 }
 );
 layerId = "16643525-C5DD-48EC-8E99-463BF28F5E85";
-width = 1275;
+width = 1215;
 },
 {
 components = (
@@ -37571,11 +37572,11 @@ name = d.sc;
 },
 {
 name = zcaron.sc;
-transform = "{1, 0, 0, 1, 667, 0}";
+transform = "{1, 0, 0, 1, 607, 0}";
 }
 );
 layerId = "4E6502B1-B066-4D3E-9BD1-B1D9901B4F4F";
-width = 1230;
+width = 1170;
 }
 );
 leftKerningGroup = uc_stem.sc;
@@ -118630,6 +118631,7 @@ M.ss02 = 13;
 "@MMK_R_UC_X" = -50;
 "@MMK_R_asterisk" = -20;
 "@MMK_R_saltillo" = -10;
+Zcaron = -40;
 };
 "@MMK_L_UC_S" = {
 "@MMK_R_UC_T" = -30;
@@ -118933,6 +118935,7 @@ seven = -30;
 "@MMK_R_saltillo.sc" = -10;
 "@MMK_R_uc_a.sc" = -40;
 "@MMK_R_uc_v.sc" = -61;
+zcaron.sc = -60;
 };
 "@MMK_L_uc_s.sc" = {
 "@MMK_R_lc_v" = -20;
@@ -119210,6 +119213,7 @@ M.ss02 = -130;
 "@MMK_R_UC_A" = -40;
 "@MMK_R_UC_V" = -50;
 "@MMK_R_UC_X" = -50;
+"@MMK_R_UC_Z" = -40;
 "@MMK_R_asterisk" = -20;
 "@MMK_R_saltillo" = -10;
 };
@@ -119514,6 +119518,7 @@ seven = -30;
 "@MMK_R_saltillo.sc" = -10;
 "@MMK_R_uc_a.sc" = -40;
 "@MMK_R_uc_v.sc" = -50;
+zcaron.sc = -60;
 };
 "@MMK_L_uc_s.sc" = {
 "@MMK_R_lc_v" = -20;

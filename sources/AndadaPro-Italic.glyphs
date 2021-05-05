@@ -3695,7 +3695,7 @@ nodes = (
 );
 }
 );
-width = 557;
+width = 562;
 },
 {
 layerId = "3088057A-3552-44D5-8A67-1301E2609A93";
@@ -3766,7 +3766,7 @@ nodes = (
 );
 }
 );
-width = 531;
+width = 537;
 }
 );
 leftKerningGroup = UC_J;
@@ -122058,6 +122058,7 @@ M.ss02 = 13;
 "@MMK_R_UC_X" = -50;
 "@MMK_R_asterisk" = -20;
 "@MMK_R_saltillo" = -10;
+Zcaron = -20;
 };
 "@MMK_L_UC_S" = {
 "@MMK_R_UC_T" = -30;
@@ -122454,6 +122455,9 @@ seven = {
 "@MMK_R_MSC_period" = -70;
 four = -20;
 };
+"@MMK_L_o.sc" = {
+zcaron.sc = -40;
+};
 };
 "B953D09C-6DD0-450A-A78C-8C2188DD4016" = {
 "@MMK_L_A.sups" = {
@@ -122660,6 +122664,8 @@ M.ss02 = -130;
 "@MMK_R_UC_X" = -50;
 "@MMK_R_asterisk" = -20;
 "@MMK_R_saltillo" = -10;
+"@MMK_R_UC_Z" = 0;
+Zcaron = -20;
 };
 "@MMK_L_UC_S" = {
 "@MMK_R_UC_T" = -30;
@@ -123045,6 +123051,9 @@ seven = {
 "@MMK_R_MSC_colon" = -30;
 "@MMK_R_MSC_period" = -70;
 four = -20;
+};
+"@MMK_L_o.sc" = {
+zcaron.sc = -40;
 };
 };
 };
