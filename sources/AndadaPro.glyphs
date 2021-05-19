@@ -1,9 +1,5 @@
 {
-.appVersion = "1342";
-DisplayStrings = (
-"/hookcomb",
-""
-);
+.appVersion = "3083";
 classes = (
 {
 automatic = 1;
@@ -354,11 +350,11 @@ value = 0;
 },
 {
 name = winAscent;
-value = 1060;
+value = 1100;
 },
 {
 name = winDescent;
-value = 290;
+value = 390;
 },
 {
 name = smallCapHeight;
@@ -442,11 +438,11 @@ value = 0;
 },
 {
 name = winAscent;
-value = 1060;
+value = 1100;
 },
 {
 name = winDescent;
-value = 290;
+value = 390;
 },
 {
 name = smallCapHeight;
@@ -460,7 +456,6 @@ horizontalStems = (
 75,
 88
 );
-iconName = SemiBold;
 id = "16643525-C5DD-48EC-8E99-463BF28F5E85";
 name = XBold;
 userData = {
@@ -478,7 +473,7 @@ verticalStems = (
 155,
 180
 );
-weight = Bold;
+weight = SemiBold;
 weightValue = 140;
 xHeight = 494;
 }
@@ -119641,5 +119636,5 @@ tH = "54";
 LWPluginVersion = "1392";
 };
 versionMajor = 3;
-versionMinor = 2;
+versionMinor = 3;
 }
