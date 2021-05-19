@@ -11,6 +11,16 @@ More info if you want to type saltillo oder puso: https://github.com/huertatipog
 
 Designed by Carolina Giovagnoli for Huerta Tipográfica.
 
+## Building the font
+Please install gftools in a virtual environment:
+1. go to the root of your local clone of this repository: **cd *path/to/dir***
+2. there, create a venv: **pip3 -m venv env**
+3. Activate the venv: **source env/bin/activate**
+4. Install gftools: **pip install gftools**
+
+Before building the font, go to the sources directory of your local clone. Make sure you activated the virtual env. From there you can run: **gftools builder build.yaml**
+
+
 -----
 
 Andada ht es una tipografía para textos, de serif slab-orgánico, estilo híbrido y contraste medio. Está diseñada para abordar la problemática de un idioma específico, el guaraní, y su convivencia con el castellano. El pusó, signo intervocálico que utiliza este idioma, se diferencia de la comilla y tiene entidad de letra, ya que es una consonante, no es un acento ni un signo de puntuación. Para el diseño de los dígrafos –dos letras que representan un sonido– no se utiliza el recurso de las ligaduras, sino que se trabajaron como pares de letras. 
