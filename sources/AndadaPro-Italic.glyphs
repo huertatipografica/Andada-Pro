@@ -1,5 +1,5 @@
 {
-.appVersion = "1342";
+.appVersion = "3083";
 classes = (
 {
 automatic = 1;
@@ -365,11 +365,11 @@ value = 0;
 },
 {
 name = winAscent;
-value = 1060;
+value = 1100;
 },
 {
 name = winDescent;
-value = 290;
+value = 390;
 },
 {
 name = smallCapHeight;
@@ -460,11 +460,11 @@ value = 0;
 },
 {
 name = winAscent;
-value = 1060;
+value = 1100;
 },
 {
 name = winDescent;
-value = 290;
+value = 390;
 },
 {
 name = smallCapHeight;
@@ -478,7 +478,6 @@ horizontalStems = (
 75,
 88
 );
-iconName = SemiBold;
 id = "B953D09C-6DD0-450A-A78C-8C2188DD4016";
 italicAngle = 7;
 name = XBold;
@@ -488,7 +487,7 @@ verticalStems = (
 155,
 180
 );
-weight = Bold;
+weight = SemiBold;
 weightValue = 140;
 xHeight = 498;
 }
@@ -114863,6 +114862,7 @@ layers = (
 color = 10;
 components = (
 {
+alignment = -1;
 name = macron;
 transform = "{1, 0, 0, 1, -5, 0}";
 }
@@ -122231,6 +122231,9 @@ seven = -30;
 "@MMK_L_lc_z.sc" = {
 "@MMK_R_lc_x" = -20;
 };
+"@MMK_L_o.sc" = {
+zcaron.sc = -40;
+};
 "@MMK_L_questiondown" = {
 "@MMK_R_UC_V" = -50;
 "@MMK_R_uc_v.sc" = -50;
@@ -122455,9 +122458,6 @@ seven = {
 "@MMK_R_MSC_period" = -70;
 four = -20;
 };
-"@MMK_L_o.sc" = {
-zcaron.sc = -40;
-};
 };
 "B953D09C-6DD0-450A-A78C-8C2188DD4016" = {
 "@MMK_L_A.sups" = {
@@ -122662,9 +122662,9 @@ M.ss02 = -130;
 "@MMK_R_UC_A" = -40;
 "@MMK_R_UC_V" = -60;
 "@MMK_R_UC_X" = -50;
+"@MMK_R_UC_Z" = 0;
 "@MMK_R_asterisk" = -20;
 "@MMK_R_saltillo" = -10;
-"@MMK_R_UC_Z" = 0;
 Zcaron = -20;
 };
 "@MMK_L_UC_S" = {
@@ -122830,6 +122830,9 @@ seven = -30;
 };
 "@MMK_L_lc_z.sc" = {
 "@MMK_R_lc_x" = -20;
+};
+"@MMK_L_o.sc" = {
+zcaron.sc = -40;
 };
 "@MMK_L_questiondown" = {
 "@MMK_R_UC_V" = -50;
@@ -123052,9 +123055,6 @@ seven = {
 "@MMK_R_MSC_period" = -70;
 four = -20;
 };
-"@MMK_L_o.sc" = {
-zcaron.sc = -40;
-};
 };
 };
 keyboardIncrement = 2;
@@ -123091,5 +123091,5 @@ tH = 70;
 LWPluginVersion = "1392";
 };
 versionMajor = 3;
-versionMinor = 2;
+versionMinor = 3;
 }
