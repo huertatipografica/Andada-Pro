@@ -1,7 +1,7 @@
 {
 .appVersion = "1342";
 DisplayStrings = (
-"afluente\012finisimo\012confluye\012fífïfîîfì"
+"afluente\012finisimo\012confluye\012fífïf/circumflexcomb.narrow îîfì"
 );
 classes = (
 {
@@ -117203,6 +117203,39 @@ name = top;
 position = "{169, 715}";
 }
 );
+background = {
+anchors = (
+{
+name = _top;
+position = "{169, 494}";
+},
+{
+name = top;
+position = "{169, 715}";
+}
+);
+components = (
+{
+name = circumflexcomb;
+transform = "{1, 0, 0, 1, -35, 0}";
+}
+);
+paths = (
+{
+closed = 1;
+nodes = (
+"214 695 LINE",
+"125 695 LINE",
+"264 554 LINE",
+"306 584 LINE",
+"208 720 LINE",
+"129 720 LINE",
+"31 584 LINE",
+"73 554 LINE"
+);
+}
+);
+};
 layerId = "16643525-C5DD-48EC-8E99-463BF28F5E85";
 paths = (
 {
@@ -117239,19 +117272,27 @@ name = top;
 position = "{160, 699}";
 }
 );
+background = {
+components = (
+{
+name = circumflexcomb;
+transform = "{1, 0, 0, 1, -31, 0}";
+}
+);
+};
 layerId = "4E6502B1-B066-4D3E-9BD1-B1D9901B4F4F";
 paths = (
 {
 closed = 1;
 nodes = (
-"184 682 LINE",
-"136 682 LINE",
-"279 541 LINE",
-"301 555 LINE",
+"184 656 LINE",
+"136 656 LINE",
+"272 541 LINE",
+"306 565 LINE",
 "188 698 LINE",
 "132 698 LINE",
-"19 555 LINE",
-"41 541 LINE"
+"14 565 LINE",
+"48 541 LINE"
 );
 }
 );
