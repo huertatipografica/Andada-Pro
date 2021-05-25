@@ -14,7 +14,7 @@ Designed by Carolina Giovagnoli for Huerta Tipográfica.
 ## Building the font
 Please install gftools in a virtual environment:
 1. go to the root of your local clone of this repository: `cd path/to/dir`
-2. there, create a venv: `pip3 -m venv env`
+2. there, create a venv: `python3 -m venv env`
 3. Activate the venv: `source env/bin/activate`
 4. Install gftools: `pip install gftools`
 
