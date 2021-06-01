@@ -1,8 +1,7 @@
 {
 .appVersion = "1342";
 DisplayStrings = (
-"/ff/f_f \012/fi/f_i \012/ffi/f_f_i \012/fl/f_l \012/ffl/f_f_l \012/f_ij/f_j/f.alt/f.f/f.l/f.liga",
-"física"
+"/ff/f_f \012/fi/f_i \012/ffi/f_f_i \012/fl/f_l \012/ffl/f_f_l \012/f_ij/f_j/f.alt/f.f/f.l/f.liga"
 );
 classes = (
 {
@@ -256,7 +255,7 @@ name = dlig;
 notes = "sub T h by T_h;\012sub f ij by f_ij;\012\012#ligadura de t infinita\012\012sub t' t by t.liga;\012sub t' @i by t.liga;\012sub t' @u by t.liga;\012\012#ligadura fu\012sub f' @u by f.liga;\012\012# Arrows en todas direcciones\012sub less hyphen by leftArrow;\012sub hyphen asciicircum by upArrow;\012sub hyphen greater by rightArrow;\012sub asciicircum hyphen by downArrow;\012\012sub hyphen asciicircum less by northWestArrow;\012sub hyphen asciicircum greater by northEastArrow;\012sub greater asciicircum hyphen by southEastArrow;\012sub less asciicircum hyphen by southWestArrow;\012\012# Triangles\012sub less equal by leftBlackTriangle;\012sub equal asciicircum by upBlackTriangle;\012sub equal greater by rightBlackTriangle;\012sub asciicircum equal by downBlackTriangle;\012";
 },
 {
-code = "lookupflag IgnoreMarks;\012sub f f i by f_f_i;\012sub f f l by f_f_l;\012#sub f f by f_f;\012\012sub f i by f_i;\012sub f ij by f_ij;\012\012sub f l by f_l;\012sub f b by f_b;\012sub f h by f_h;\012sub f j by f_j;\012sub f k by f_k;\012sub f thorn by f_thorn;\012\012#ligatures by classes\012sub f' f by f.f;\012sub f' @i by f.liga;";
+code = "lookupflag IgnoreMarks;\012sub f f i by f_f_i;\012sub f f l by f_f_l;\012sub f f by f_f;\012\012sub f i by f_i;\012sub f ij by f_ij;\012\012sub f l by f_l;\012sub f b by f_b;\012sub f h by f_h;\012sub f j by f_j;\012sub f k by f_k;\012sub f thorn by f_thorn;\012\012#ligatures by classes\012sub f' f by f.f;\012sub f' @i by f.liga;";
 name = liga;
 notes = "#ligatures by classes\012sub f' f by f.f;\012sub f' @i by f.liga;\012\012\012# Arrows by ligadura\012sub less hyphen by leftArrow;\012sub hyphen asciicircum by upArrow;\012sub hyphen greater by rightArrow;\012sub asciicircum hyphen by downArrow;\012\012#ligaduras basicas\012sub one bar four by onequarter;\012sub one bar two by onehalf;\012sub three bar four by threequarters;\012sub one bar three by onethird;\012sub two bar three by twothirds;\012sub one bar eight by oneeighth;\012sub three bar eight by threeeighths;\012sub five bar eight by fiveeighths;\012sub seven bar eight by seveneighths;";
 },
