@@ -1,8 +1,5 @@
 {
 .appVersion = "1342";
-DisplayStrings = (
-afforismo
-);
 classes = (
 {
 automatic = 1;
@@ -123023,6 +123020,7 @@ Zcaron = -40;
 "@MMK_R_UC_Round" = -20;
 "@MMK_R_UC_S" = -30;
 "@MMK_R_lc_Round" = -10;
+"@MMK_R_lc_a" = -30;
 "@MMK_R_uc_a.sc" = -80;
 "@MMK_R_uc_round.sc" = -20;
 "@MMK_R_uc_s.sc" = -30;
@@ -123607,6 +123605,7 @@ M.ss02 = -130;
 "@MMK_R_UC_Round" = -20;
 "@MMK_R_UC_S" = -30;
 "@MMK_R_lc_Round" = -10;
+"@MMK_R_lc_a" = -30;
 "@MMK_R_uc_a.sc" = -80;
 "@MMK_R_uc_round.sc" = -20;
 "@MMK_R_uc_s.sc" = -30;
