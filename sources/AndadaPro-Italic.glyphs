@@ -1,5 +1,9 @@
 {
 .appVersion = "1342";
+DisplayStrings = (
+"kve/lcaron/k.caron",
+"/space/lcaron b/b.caron/lcaron h/h.caron/lcaron k/k.caron/lcaron l/l.caron"
+);
 classes = (
 {
 automatic = 1;
@@ -29082,7 +29086,7 @@ nodes = (
 width = 472.2;
 }
 );
-leftKerningGroup = lc_LongtStemCaron;
+leftKerningGroup = lc_LongtStemSinSerifCaron;
 rightKerningGroup = lc_Round;
 },
 {
@@ -29250,7 +29254,7 @@ nodes = (
 width = 530.4;
 }
 );
-leftKerningGroup = lc_LongtStemCaron;
+leftKerningGroup = lc_LongtStemSinSerifCaron;
 rightKerningGroup = lc_Shoulder;
 },
 {
@@ -29385,7 +29389,7 @@ nodes = (
 width = 490.9;
 }
 );
-leftKerningGroup = lc_LongtStemCaron;
+leftKerningGroup = lc_LongtStemSinSerifCaron;
 rightKerningGroup = lc_k;
 },
 {
@@ -29486,7 +29490,7 @@ nodes = (
 width = 247;
 }
 );
-leftKerningGroup = lc_LongtStemCaron;
+leftKerningGroup = lc_LongtStemSinSerifCaron;
 rightKerningGroup = lc_LongStem;
 },
 {
@@ -123231,6 +123235,8 @@ Zcaron = -20;
 };
 "@MMK_L_lc_LongtStemCaron" = {
 "@MMK_R_lc_LongtStem" = 149;
+"@MMK_R_lc_LongtStemCaron" = 0;
+"@MMK_R_lc_LongtStemSinSerifCaron" = 80;
 };
 "@MMK_L_lc_Round" = {
 "@MMK_R_asterisk" = -20;
@@ -123831,6 +123837,8 @@ Zcaron = -20;
 };
 "@MMK_L_lc_LongtStemCaron" = {
 "@MMK_R_lc_LongtStem" = 160;
+"@MMK_R_lc_LongtStemCaron" = 0;
+"@MMK_R_lc_LongtStemSinSerifCaron" = 100;
 };
 "@MMK_L_lc_Round" = {
 "@MMK_R_asterisk" = -20;
