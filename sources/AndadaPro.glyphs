@@ -1,5 +1,8 @@
 {
 .appVersion = "1342";
+DisplayStrings = (
+"LL/Ldot LLL/space \012lll/ldot lllll\012/l.sc/l.sc/l.sc/ldot.sc/l.sc/l.sc/l.sc/l.sc"
+);
 classes = (
 {
 automatic = 1;
@@ -6674,7 +6677,7 @@ position = "{198, 355}";
 },
 {
 name = centerright;
-position = "{507, 403}";
+position = "{537, 423}";
 },
 {
 name = top;
@@ -6756,7 +6759,7 @@ position = "{196, 355}";
 },
 {
 name = centerright;
-position = "{516, 403}";
+position = "{546, 423}";
 },
 {
 name = top;
@@ -6982,7 +6985,7 @@ name = L;
 },
 {
 name = periodcentered.loclCAT;
-transform = "{1, 0, 0, 1, 304, 21}";
+transform = "{1, 0, 0, 1, 334, 41}";
 }
 );
 layerId = "16643525-C5DD-48EC-8E99-463BF28F5E85";
@@ -6995,7 +6998,7 @@ name = L;
 },
 {
 name = periodcentered.loclCAT;
-transform = "{1, 0, 0, 1, 278, 19}";
+transform = "{1, 0, 0, 1, 308, 39}";
 }
 );
 layerId = "4E6502B1-B066-4D3E-9BD1-B1D9901B4F4F";
@@ -21960,7 +21963,7 @@ name = l;
 {
 alignment = -1;
 name = periodcentered.loclCAT;
-transform = "{1, 0, 0, 1, 127, 26}";
+transform = "{1, 0, 0, 1, 131, 26}";
 }
 );
 layerId = "4E6502B1-B066-4D3E-9BD1-B1D9901B4F4F";
@@ -21968,7 +21971,7 @@ width = 292.6;
 }
 );
 leftKerningGroup = lc_LongStem;
-rightKerningGroup = lc_LongStem;
+rightKerningGroup = lc_LongStemDot;
 unicode = 0140;
 },
 {
@@ -123617,6 +123620,9 @@ M.ss02 = -130;
 "@MMK_L_exclam" = {
 "@MMK_R_UC_V" = -70;
 "@MMK_R_uc_v.sc" = -70;
+};
+"@MMK_L_lc_LongStemDot" = {
+"@MMK_R_lc_LongStem" = 6;
 };
 "@MMK_L_lc_Round" = {
 "@MMK_R_asterisk" = -20;

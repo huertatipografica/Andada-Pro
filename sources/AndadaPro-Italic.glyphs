@@ -2,7 +2,7 @@
 .appVersion = "1342";
 DisplayStrings = (
 "kve/lcaron/k.caron",
-"/space/lcaron b/b.caron/lcaron h/h.caron/lcaron k/k.caron/lcaron l/l.caron"
+"/Ldot L/ldot l/space"
 );
 classes = (
 {
@@ -6816,7 +6816,7 @@ position = "{207, 355}";
 },
 {
 name = centerright;
-position = "{478, 403}";
+position = "{548, 423}";
 },
 {
 name = top;
@@ -6901,7 +6901,7 @@ position = "{188, 355}";
 },
 {
 name = centerright;
-position = "{475, 403}";
+position = "{555, 423}";
 },
 {
 name = top;
@@ -6959,7 +6959,7 @@ nodes = (
 "210 640 LINE",
 "176 681 LINE",
 "177 658 OFFCURVE",
-"176 590 OFFCURVE",
+"177 590 OFFCURVE",
 "174 572 CURVE SMOOTH",
 "110 135 LINE SMOOTH",
 "107 116 OFFCURVE",
@@ -7135,7 +7135,7 @@ name = L;
 },
 {
 name = periodcentered.loclCAT;
-transform = "{1, 0, 0, 1, 276, 21}";
+transform = "{1, 0, 0, 1, 346, 41}";
 }
 );
 layerId = "B953D09C-6DD0-450A-A78C-8C2188DD4016";
@@ -7148,7 +7148,7 @@ name = L;
 },
 {
 name = periodcentered.loclCAT;
-transform = "{1, 0, 0, 1, 239, 19}";
+transform = "{1, 0, 0, 1, 319, 39}";
 }
 );
 layerId = "3088057A-3552-44D5-8A67-1301E2609A93";
@@ -21361,7 +21361,7 @@ width = 246;
 }
 );
 leftKerningGroup = lc_LongtStem;
-rightKerningGroup = lc_LongtStem;
+rightKerningGroup = lc_LongtStemDot;
 unicode = 0140;
 },
 {
@@ -41939,7 +41939,7 @@ position = "{186, 273}";
 },
 {
 name = centerright;
-position = "{444, 340}";
+position = "{474, 340}";
 },
 {
 name = top;
@@ -42234,11 +42234,12 @@ layers = (
 color = 10;
 components = (
 {
+alignment = -1;
 name = l.sc;
 },
 {
 name = periodcentered.loclCAT;
-transform = "{1, 0, 0, 1, 242, -42}";
+transform = "{1, 0, 0, 1, 272, -42}";
 }
 );
 layerId = "B953D09C-6DD0-450A-A78C-8C2188DD4016";
@@ -42247,6 +42248,7 @@ width = 502;
 {
 components = (
 {
+alignment = -1;
 name = l.sc;
 },
 {
@@ -123835,10 +123837,16 @@ Zcaron = -20;
 "@MMK_R_UC_V" = -70;
 "@MMK_R_uc_v.sc" = -70;
 };
+"@MMK_L_lc_LongtStem" = {
+"@MMK_R_lc_LongtStem" = 0;
+};
 "@MMK_L_lc_LongtStemCaron" = {
 "@MMK_R_lc_LongtStem" = 160;
 "@MMK_R_lc_LongtStemCaron" = 0;
 "@MMK_R_lc_LongtStemSinSerifCaron" = 100;
+};
+"@MMK_L_lc_LongtStemDot" = {
+"@MMK_R_lc_LongtStem" = 30;
 };
 "@MMK_L_lc_Round" = {
 "@MMK_R_asterisk" = -20;
