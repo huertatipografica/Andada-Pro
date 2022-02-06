@@ -1,8 +1,8 @@
 {
 .appVersion = "1342";
 DisplayStrings = (
-"L/Ldot LL/space l/ldot ll/space/l.sc/ldot.sc/l.sc/l.sc \012LL/periodcentered.loclCAT.case LL/space ll/periodcentered.loclCAT ll/space/l.sc/l.sc/periodcentered.loclCAT.sc/l.sc/l.sc",
-"/divisionslash +/minus ×"
+"Å",
+"a/space computer/space archi-\012/space/space ve/space is/space typophile/space li/hyphentwo \012/space/space/space/space/space/space/space/space/space and/space protocol­\012"
 );
 classes = (
 {
@@ -84735,34 +84735,29 @@ color = 6;
 glyphname = softhyphen;
 layers = (
 {
-layerId = "16643525-C5DD-48EC-8E99-463BF28F5E85";
-paths = (
+components = (
 {
-closed = 1;
-nodes = (
-"290 206 LINE",
-"295 301 LINE",
-"73 301 LINE",
-"75 206 LINE"
-);
+name = hyphen;
 }
 );
+layerId = "16643525-C5DD-48EC-8E99-463BF28F5E85";
 width = 367;
 },
 {
-layerId = "4E6502B1-B066-4D3E-9BD1-B1D9901B4F4F";
-paths = (
+annotations = (
 {
-closed = 1;
-nodes = (
-"294 217 LINE",
-"299 290 LINE",
-"77 290 LINE",
-"79 217 LINE"
-);
+position = "{84, 674}";
+text = "It should be identical to the hyphen.\012\012";
+type = Text;
 }
 );
-width = 374.7;
+components = (
+{
+name = hyphen;
+}
+);
+layerId = "4E6502B1-B066-4D3E-9BD1-B1D9901B4F4F";
+width = 371;
 }
 );
 leftKerningGroup = MSC_dash;
