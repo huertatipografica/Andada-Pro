@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="breveinvertedcomb.narrow" format="2">
+  <anchor x="167.1818181818182" y="494.0" name="_top"/>
+  <anchor x="197.1818181818182" y="705.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="87.4090909090909" y="590.1363636363636" type="curve"/>
+      <point x="127.06818181818181" y="575.0909090909091" type="line"/>
+      <point x="162.22727272727272" y="662.9318181818181"/>
+      <point x="257.40909090909093" y="667.3409090909091"/>
+      <point x="270.5681818181818" y="579.5" type="curve"/>
+      <point x="310.6363636363636" y="585.7272727272727" type="line"/>
+      <point x="300.0" y="742.6136363636364"/>
+      <point x="137.6590909090909" y="746.2272727272727"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <real>302.6</real>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="paragraph" format="2">
+  <advance width="640.875"/>
+  <unicode hex="00B6"/>
+  <outline>
+    <contour>
+      <point x="274.97727272727275" y="-200.0" type="line"/>
+      <point x="353.8409090909091" y="-130.6590909090909"/>
+      <point x="454.79545454545456" y="-30.136363636363637"/>
+      <point x="459.45454545454544" y="0.4090909090909083" type="curve" smooth="yes"/>
+      <point x="538.6818181818181" y="540.6590909090909" type="line" smooth="yes"/>
+      <point x="542.7954545454545" y="573.2272727272727"/>
+      <point x="562.6818181818181" y="643.5909090909091"/>
+      <point x="569.6818181818181" y="669.5909090909091" type="curve"/>
+      <point x="509.1818181818182" y="628.0454545454545" type="line"/>
+      <point x="629.7045454545455" y="638.9318181818181" type="line"/>
+      <point x="635.5909090909091" y="710.0" type="line"/>
+      <point x="584.6136363636364" y="708.0"/>
+      <point x="534.2272727272727" y="705.0"/>
+      <point x="493.3636363636364" y="705.0" type="curve"/>
+      <point x="436.3636363636364" y="705.0" type="line"/>
+      <point x="336.02272727272725" y="11.0" type="line" smooth="yes"/>
+      <point x="333.02272727272725" y="-9.0"/>
+      <point x="233.6818181818182" y="-172.79545454545453"/>
+      <point x="233.6818181818182" y="-172.79545454545453" type="curve"/>
+    </contour>
+    <contour>
+      <point x="306.45454545454544" y="291.0" type="curve"/>
+      <point x="336.45454545454544" y="316.0" type="line"/>
+      <point x="392.34090909090907" y="711.1136363636364" type="line"/>
+      <point x="371.90909090909093" y="714.0"/>
+      <point x="356.79545454545456" y="715.0"/>
+      <point x="344.45454545454544" y="715.0" type="curve" smooth="yes"/>
+      <point x="199.6818181818182" y="715.0"/>
+      <point x="96.45454545454545" y="620.0"/>
+      <point x="96.45454545454545" y="470.0" type="curve" smooth="yes"/>
+      <point x="96.45454545454545" y="350.0"/>
+      <point x="191.6818181818182" y="291.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Symbol</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

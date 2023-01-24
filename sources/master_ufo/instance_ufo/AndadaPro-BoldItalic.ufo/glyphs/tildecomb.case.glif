@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tildecomb.case" format="2">
+  <anchor x="254.45454545454547" y="705.0" name="_top"/>
+  <anchor x="293.0" y="992.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="136.45454545454547" y="732.0" type="line"/>
+      <point x="136.45454545454547" y="732.0"/>
+      <point x="169.54545454545453" y="780.9090909090909"/>
+      <point x="194.9090909090909" y="780.9090909090909" type="curve" smooth="yes"/>
+      <point x="236.1818181818182" y="780.9090909090909"/>
+      <point x="295.72727272727275" y="741.1818181818181"/>
+      <point x="336.6363636363636" y="741.1818181818181" type="curve" smooth="yes"/>
+      <point x="377.90909090909093" y="741.1818181818181"/>
+      <point x="435.54545454545456" y="840.4545454545455"/>
+      <point x="435.54545454545456" y="840.4545454545455" type="curve"/>
+      <point x="398.45454545454544" y="863.6363636363636" type="line"/>
+      <point x="398.45454545454544" y="863.6363636363636"/>
+      <point x="367.0" y="818.0"/>
+      <point x="341.27272727272725" y="818.0" type="curve" smooth="yes"/>
+      <point x="300.6363636363636" y="818.0"/>
+      <point x="239.45454545454547" y="857.7272727272727"/>
+      <point x="198.54545454545453" y="857.7272727272727" type="curve" smooth="yes"/>
+      <point x="158.27272727272728" y="857.7272727272727"/>
+      <point x="100.36363636363636" y="755.1818181818181"/>
+      <point x="100.36363636363636" y="755.1818181818181" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>verticalShift</key>
+        <integer>167</integer>
+        <key>weight</key>
+        <integer>-4</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <real>391.7</real>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

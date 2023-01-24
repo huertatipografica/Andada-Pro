@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bar.tost" format="2">
+  <advance width="368.0"/>
+  <outline>
+    <contour>
+      <point x="229.1590909090909" y="-122.0" type="line"/>
+      <point x="229.1590909090909" y="752.0" type="line"/>
+      <point x="138.9090909090909" y="760.0" type="line"/>
+      <point x="138.9090909090909" y="-113.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

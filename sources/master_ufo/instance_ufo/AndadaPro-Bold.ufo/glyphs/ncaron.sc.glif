@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ncaron.sc" format="2">
+  <advance width="717.7272727272727"/>
+  <anchor x="365.45454545454544" y="0.0" name="bottom"/>
+  <anchor x="359.72727272727275" y="693.0" name="top"/>
+  <outline>
+    <component base="n.sc"/>
+    <component base="caroncomb" xOffset="161.0909090909091" yOffset="36.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

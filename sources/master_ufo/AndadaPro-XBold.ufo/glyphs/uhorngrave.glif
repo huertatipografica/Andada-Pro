@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uhorngrave" format="2">
+  <advance width="618"/>
+  <unicode hex="1EEB"/>
+  <anchor x="274" y="0" name="bottom"/>
+  <anchor x="492" y="10" name="ogonek"/>
+  <anchor x="330" y="665" name="top"/>
+  <anchor x="524" y="494" name="topright"/>
+  <outline>
+    <component base="uhorn"/>
+    <component base="gravecomb" xOffset="115"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

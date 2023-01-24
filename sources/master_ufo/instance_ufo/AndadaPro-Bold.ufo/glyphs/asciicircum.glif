@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="asciicircum" format="2">
+  <advance width="730.1999999999999"/>
+  <unicode hex="005E"/>
+  <outline>
+    <contour>
+      <point x="166.0909090909091" y="106.54545454545455" type="line"/>
+      <point x="387.27272727272725" y="585.6363636363636" type="line"/>
+      <point x="344.0" y="585.6363636363636" type="line"/>
+      <point x="565.1818181818181" y="106.54545454545455" type="line"/>
+      <point x="649.3636363636364" y="135.9090909090909" type="line"/>
+      <point x="365.6363636363636" y="719.6363636363636" type="line"/>
+      <point x="80.9090909090909" y="135.9090909090909" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>264</integer>
+            <integer>21</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

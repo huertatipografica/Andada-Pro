@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Tbar" format="2">
+  <advance width="638"/>
+  <unicode hex="0166"/>
+  <anchor x="279" y="0" name="bottom"/>
+  <anchor x="329" y="353" name="center"/>
+  <anchor x="391" y="720" name="top"/>
+  <outline>
+    <component base="T"/>
+    <component base="barcomp" xOffset="65" yOffset="-253"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

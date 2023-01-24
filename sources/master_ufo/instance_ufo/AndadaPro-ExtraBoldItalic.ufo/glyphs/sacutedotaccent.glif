@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sacutedotaccent" format="2">
+  <advance width="420.54545454545456"/>
+  <unicode hex="1E65"/>
+  <anchor x="166.38636363636363" y="0.0" name="bottom"/>
+  <anchor x="293.3636363636364" y="823.75" name="top"/>
+  <outline>
+    <component base="s"/>
+    <component base="acutecomb_dotaccentcomb" xOffset="75.8409090909091"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

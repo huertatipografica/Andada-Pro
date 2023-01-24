@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sterling.sc" format="2">
+  <advance width="480.2"/>
+  <outline>
+    <contour>
+      <point x="74" y="48" type="curve"/>
+      <point x="170" y="49" type="line"/>
+      <point x="170" y="88"/>
+      <point x="171" y="105"/>
+      <point x="175" y="135" type="curve" smooth="yes"/>
+      <point x="208" y="387" type="line" smooth="yes"/>
+      <point x="214" y="432"/>
+      <point x="250" y="460"/>
+      <point x="301" y="460" type="curve" smooth="yes"/>
+      <point x="340" y="460"/>
+      <point x="383" y="450"/>
+      <point x="416" y="438" type="curve"/>
+      <point x="380" y="478" type="line"/>
+      <point x="385" y="448"/>
+      <point x="389" y="416"/>
+      <point x="387" y="405" type="curve" smooth="yes"/>
+      <point x="384" y="373" type="line"/>
+      <point x="432" y="369" type="line"/>
+      <point x="458" y="487" type="line"/>
+      <point x="414" y="499"/>
+      <point x="355" y="511"/>
+      <point x="308" y="511" type="curve" smooth="yes"/>
+      <point x="214" y="511"/>
+      <point x="136" y="463"/>
+      <point x="125" y="375" type="curve" smooth="yes"/>
+      <point x="90" y="112" type="line" smooth="yes"/>
+      <point x="88" y="98"/>
+      <point x="79" y="62"/>
+    </contour>
+    <contour>
+      <point x="11" y="-4" type="line"/>
+      <point x="71" y="-1"/>
+      <point x="86" y="0"/>
+      <point x="111" y="0" type="curve" smooth="yes"/>
+      <point x="380" y="0" type="line"/>
+      <point x="398" y="14" type="line"/>
+      <point x="425" y="133" type="line"/>
+      <point x="378" y="137" type="line"/>
+      <point x="361" y="88" type="line" smooth="yes"/>
+      <point x="357" y="76"/>
+      <point x="333" y="43"/>
+      <point x="321" y="27" type="curve"/>
+      <point x="374" y="61" type="line"/>
+      <point x="340" y="57"/>
+      <point x="283" y="52"/>
+      <point x="272" y="52" type="curve" smooth="yes"/>
+      <point x="142" y="52" type="line"/>
+      <point x="84" y="53" type="line"/>
+      <point x="13" y="39" type="line"/>
+    </contour>
+    <contour>
+      <point x="23" y="211" type="line"/>
+      <point x="354" y="226" type="line"/>
+      <point x="356" y="263" type="line"/>
+      <point x="25" y="249" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>24</integer>
+        <key>height</key>
+        <integer>77</integer>
+        <key>weight</key>
+        <integer>-10</integer>
+        <key>width</key>
+        <integer>82</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Symbol</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

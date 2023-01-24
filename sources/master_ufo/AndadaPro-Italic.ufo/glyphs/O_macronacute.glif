@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Omacronacute" format="2">
+  <advance width="750"/>
+  <unicode hex="1E52"/>
+  <anchor x="337" y="0" name="bottom"/>
+  <anchor x="387" y="353" name="center"/>
+  <anchor x="474" y="0" name="ogonek"/>
+  <anchor x="476" y="993" name="top"/>
+  <anchor x="83" y="705" name="topleft"/>
+  <anchor x="621" y="620" name="topright"/>
+  <outline>
+    <component base="O"/>
+    <component base="macroncomb_acutecomb.case" xOffset="217" yOffset="15"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

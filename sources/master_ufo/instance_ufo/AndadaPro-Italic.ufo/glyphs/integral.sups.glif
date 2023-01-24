@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="integral.sups" format="2">
+  <advance width="256.2"/>
+  <outline>
+    <contour>
+      <point x="62" y="190" type="curve" smooth="yes"/>
+      <point x="126" y="190"/>
+      <point x="165" y="231"/>
+      <point x="173" y="292" type="curve"/>
+      <point x="185" y="394"/>
+      <point x="182" y="570"/>
+      <point x="192" y="654" type="curve"/>
+      <point x="196" y="687"/>
+      <point x="210" y="715"/>
+      <point x="245" y="715" type="curve" smooth="yes"/>
+      <point x="256" y="715"/>
+      <point x="268" y="712"/>
+      <point x="273" y="710" type="curve"/>
+      <point x="286" y="749" type="line"/>
+      <point x="277" y="753"/>
+      <point x="259" y="756"/>
+      <point x="250" y="756" type="curve" smooth="yes"/>
+      <point x="186" y="756"/>
+      <point x="146" y="714"/>
+      <point x="139" y="654" type="curve"/>
+      <point x="126" y="553"/>
+      <point x="130" y="376"/>
+      <point x="120" y="292" type="curve"/>
+      <point x="116" y="260"/>
+      <point x="102" y="231"/>
+      <point x="66" y="231" type="curve" smooth="yes"/>
+      <point x="56" y="231"/>
+      <point x="44" y="234"/>
+      <point x="39" y="236" type="curve"/>
+      <point x="25" y="197" type="line"/>
+      <point x="34" y="193"/>
+      <point x="50" y="190"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>10</integer>
+        <key>height</key>
+        <integer>60</integer>
+        <key>verticalShift</key>
+        <integer>330</integer>
+        <key>weight</key>
+        <integer>-25</integer>
+        <key>width</key>
+        <integer>62</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Symbol</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="upWhiteTriangle" format="2">
+  <advance width="783.0"/>
+  <unicode hex="25B3"/>
+  <outline>
+    <contour>
+      <point x="81.95454545454545" y="71.5909090909091" type="line"/>
+      <point x="701.5227272727273" y="71.5909090909091" type="line"/>
+      <point x="391.34090909090907" y="634.4318181818181" type="line"/>
+    </contour>
+    <contour>
+      <point x="182.27272727272728" y="107.5" type="line"/>
+      <point x="411.20454545454544" y="523.6818181818181" type="line"/>
+      <point x="372.27272727272725" y="523.6818181818181" type="line"/>
+      <point x="601.2045454545455" y="107.5" type="line"/>
+      <point x="621.2727272727273" y="142.61363636363637" type="line"/>
+      <point x="162.20454545454547" y="142.61363636363637" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Symbol</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Geometry</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="plus.numr" format="2">
+  <advance width="449.625"/>
+  <outline>
+    <contour>
+      <point x="64.18181818181819" y="427.6136363636364" type="line"/>
+      <point x="385.8863636363636" y="430.6136363636364" type="line"/>
+      <point x="385.8863636363636" y="486.09090909090907" type="line"/>
+      <point x="64.18181818181819" y="486.09090909090907" type="line"/>
+    </contour>
+    <contour>
+      <point x="195.79545454545453" y="300.0" type="line"/>
+      <point x="255.0681818181818" y="300.0" type="line"/>
+      <point x="252.0681818181818" y="614.5" type="line"/>
+      <point x="195.79545454545453" y="614.5" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>20</integer>
+        <key>height</key>
+        <integer>61</integer>
+        <key>verticalShift</key>
+        <integer>300</integer>
+        <key>weight</key>
+        <integer>-24</integer>
+        <key>width</key>
+        <integer>62</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

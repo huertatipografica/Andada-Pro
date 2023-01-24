@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="degree" format="2">
+  <advance width="457"/>
+  <unicode hex="00B0"/>
+  <outline>
+    <contour>
+      <point x="246" y="415" type="curve" smooth="yes"/>
+      <point x="336" y="415"/>
+      <point x="403" y="479"/>
+      <point x="403" y="574" type="curve" smooth="yes"/>
+      <point x="403" y="644"/>
+      <point x="357" y="683"/>
+      <point x="284" y="683" type="curve" smooth="yes"/>
+      <point x="192" y="683"/>
+      <point x="128" y="618"/>
+      <point x="128" y="526" type="curve" smooth="yes"/>
+      <point x="128" y="458"/>
+      <point x="173" y="415"/>
+    </contour>
+    <contour>
+      <point x="256" y="476" type="curve" smooth="yes"/>
+      <point x="226" y="476"/>
+      <point x="216" y="500"/>
+      <point x="216" y="529" type="curve" smooth="yes"/>
+      <point x="216" y="573"/>
+      <point x="233" y="622"/>
+      <point x="276" y="622" type="curve" smooth="yes"/>
+      <point x="305" y="622"/>
+      <point x="316" y="602"/>
+      <point x="316" y="572" type="curve" smooth="yes"/>
+      <point x="316" y="529"/>
+      <point x="298" y="476"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Symbol</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

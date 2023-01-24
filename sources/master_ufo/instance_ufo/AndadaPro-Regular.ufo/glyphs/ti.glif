@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ti" format="2">
+  <advance width="680"/>
+  <anchor x="197" y="0" name="bottom_1"/>
+  <anchor x="521" y="0" name="bottom_2"/>
+  <anchor x="140" y="270" name="center"/>
+  <anchor x="547" y="0" name="ogonek"/>
+  <anchor x="158" y="511" name="top_1"/>
+  <anchor x="520" y="720" name="top_2"/>
+  <anchor x="268" y="564" name="topright"/>
+  <outline>
+    <component base="t.liga"/>
+    <component base="i" xOffset="374"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

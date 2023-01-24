@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="macroncomb.loclVIET" format="2">
+  <anchor x="221.1818181818182" y="494.0" name="_top"/>
+  <anchor x="221.1818181818182" y="605.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="66.68181818181819" y="566.5" type="line"/>
+      <point x="368.6363636363636" y="566.5" type="line"/>
+      <point x="375.6818181818182" y="624.5909090909091" type="line"/>
+      <point x="66.68181818181819" y="624.5909090909091" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <real>441.5</real>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

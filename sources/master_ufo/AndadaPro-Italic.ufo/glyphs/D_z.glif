@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Dz" format="2">
+  <advance width="1171"/>
+  <unicode hex="01F2"/>
+  <anchor x="295" y="0" name="bottom_1"/>
+  <anchor x="898" y="0" name="bottom_2"/>
+  <anchor x="193" y="353" name="center_1"/>
+  <anchor x="944" y="249" name="center_2"/>
+  <anchor x="384" y="720" name="top_1"/>
+  <anchor x="961" y="494" name="top_2"/>
+  <outline>
+    <component base="D"/>
+    <component base="z" xOffset="715"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

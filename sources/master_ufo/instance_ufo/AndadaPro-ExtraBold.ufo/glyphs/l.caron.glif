@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="l.caron" format="2">
+  <advance width="300.625"/>
+  <outline>
+    <contour>
+      <point x="13.136363636363637" y="-5.0" type="line"/>
+      <point x="52.79545454545455" y="-3.0"/>
+      <point x="120.75" y="0.0"/>
+      <point x="132.0" y="0.0" type="curve"/>
+      <point x="287.3636363636364" y="0.0" type="line"/>
+      <point x="292.47727272727275" y="68.8409090909091" type="line"/>
+      <point x="166.29545454545453" y="80.61363636363636" type="line"/>
+      <point x="231.6590909090909" y="33.86363636363636" type="line"/>
+      <point x="226.77272727272728" y="64.95454545454545"/>
+      <point x="217.22727272727272" y="123.4090909090909"/>
+      <point x="217.22727272727272" y="189.70454545454544" type="curve" smooth="yes"/>
+      <point x="217.22727272727272" y="560.5227272727273" type="line" smooth="yes"/>
+      <point x="217.22727272727272" y="610.1818181818181"/>
+      <point x="223.0" y="695.5909090909091"/>
+      <point x="226.88636363636363" y="737.1136363636364" type="curve"/>
+      <point x="206.11363636363637" y="756.0" type="line"/>
+      <point x="121.86363636363636" y="756.0" type="line"/>
+      <point x="84.61363636363636" y="756.0" type="line"/>
+      <point x="84.61363636363636" y="626.6818181818182"/>
+      <point x="84.61363636363636" y="612.5227272727273"/>
+      <point x="84.61363636363636" y="590.5227272727273" type="curve" smooth="yes"/>
+      <point x="84.61363636363636" y="159.70454545454544" type="line" smooth="yes"/>
+      <point x="84.61363636363636" y="130.27272727272728"/>
+      <point x="73.38636363636364" y="56.40909090909091"/>
+      <point x="68.61363636363636" y="29.0" type="curve"/>
+      <point x="134.20454545454547" y="85.5" type="line"/>
+      <point x="8.136363636363637" y="62.5" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Ligature</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="NJ" format="2">
+  <advance width="1135.5"/>
+  <unicode hex="01CA"/>
+  <anchor x="355.1818181818182" y="0.0" name="bottom_1"/>
+  <anchor x="926.5454545454545" y="0.0" name="bottom_2"/>
+  <anchor x="456.1818181818182" y="720.0" name="top_1"/>
+  <anchor x="1012.5454545454545" y="705.0" name="top_2"/>
+  <outline>
+    <component base="N"/>
+    <component base="J" xOffset="786.9318181818181"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

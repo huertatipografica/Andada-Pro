@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="greater.numr" format="2">
+  <advance width="348.125"/>
+  <outline>
+    <contour>
+      <point x="102.6590909090909" y="289.1136363636364" type="line"/>
+      <point x="296.40909090909093" y="459.75" type="line"/>
+      <point x="102.6590909090909" y="630.5" type="line"/>
+      <point x="59.45454545454545" y="579.8636363636364" type="line"/>
+      <point x="230.11363636363637" y="430.8863636363636" type="line"/>
+      <point x="230.11363636363637" y="488.6136363636364" type="line"/>
+      <point x="59.45454545454545" y="340.6363636363636" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>20</integer>
+        <key>height</key>
+        <integer>61</integer>
+        <key>verticalShift</key>
+        <integer>300</integer>
+        <key>weight</key>
+        <integer>-24</integer>
+        <key>width</key>
+        <integer>62</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

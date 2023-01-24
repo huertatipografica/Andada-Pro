@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Hdotbelow" format="2">
+  <advance width="791.1136363636364"/>
+  <unicode hex="1E24"/>
+  <anchor x="330.75" y="-218.63636363636363" name="bottom"/>
+  <anchor x="430.72727272727275" y="520.0" name="center"/>
+  <anchor x="459.6136363636364" y="720.0" name="top"/>
+  <anchor x="96.6590909090909" y="705.0" name="topleft"/>
+  <outline>
+    <component base="H"/>
+    <component base="dotbelowcomb" xOffset="262.97727272727275"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

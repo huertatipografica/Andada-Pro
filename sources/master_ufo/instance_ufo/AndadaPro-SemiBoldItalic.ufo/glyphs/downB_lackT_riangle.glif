@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="downBlackTriangle" format="2">
+  <advance width="440.84999999999997"/>
+  <unicode hex="25BC"/>
+  <outline>
+    <contour>
+      <point x="242.0" y="76.81818181818181" type="line"/>
+      <point x="446.0" y="446.5909090909091" type="line"/>
+      <point x="38.0" y="446.5909090909091" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Symbol</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

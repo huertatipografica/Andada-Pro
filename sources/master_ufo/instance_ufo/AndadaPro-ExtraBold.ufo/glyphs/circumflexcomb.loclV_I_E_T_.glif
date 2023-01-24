@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflexcomb.loclVIET" format="2">
+  <anchor x="208.4090909090909" y="494.0" name="_top"/>
+  <anchor x="208.4090909090909" y="648.75" name="top"/>
+  <outline>
+    <contour>
+      <point x="352.70454545454544" y="527.0" type="line"/>
+      <point x="391.6818181818182" y="572.9545454545455" type="line"/>
+      <point x="249.5909090909091" y="668.75" type="line"/>
+      <point x="194.20454545454547" y="668.75" type="line"/>
+      <point x="175.04545454545456" y="618.1363636363636" type="line"/>
+    </contour>
+    <contour>
+      <point x="64.0" y="527.0" type="line"/>
+      <point x="241.77272727272728" y="618.1363636363636" type="line"/>
+      <point x="222.5" y="668.75" type="line"/>
+      <point x="167.11363636363637" y="668.75" type="line"/>
+      <point x="25.136363636363637" y="572.9545454545455" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <integer>80</integer>
+        <key>verticalShift</key>
+        <integer>99</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <real>391.4</real>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

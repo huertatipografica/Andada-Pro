@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="TH.ordn.case" format="2">
+  <advance width="883.9090909090909"/>
+  <anchor x="192.1818181818182" y="330.0" name="bottom_1"/>
+  <anchor x="638.4090909090909" y="330.0" name="bottom_2"/>
+  <anchor x="224.72727272727272" y="554.2954545454545" name="center_1"/>
+  <anchor x="685.0681818181819" y="660.3863636363636" name="center_2"/>
+  <anchor x="256.84090909090907" y="787.3636363636364" name="top_1"/>
+  <anchor x="702.9545454545455" y="787.3636363636364" name="top_2"/>
+  <anchor x="461.79545454545456" y="777.4772727272727" name="topleft"/>
+  <outline>
+    <component base="T.sups"/>
+    <component base="H.sups" xOffset="377.02272727272725"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

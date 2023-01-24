@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="O" format="2">
+  <advance width="816.6"/>
+  <unicode hex="004F"/>
+  <anchor x="408.1818181818182" y="0.0" name="bottom"/>
+  <anchor x="424.1818181818182" y="353.0" name="center"/>
+  <anchor x="519.7272727272727" y="0.0" name="ogonek"/>
+  <anchor x="407.54545454545456" y="720.0" name="top"/>
+  <anchor x="601.1818181818181" y="630.0" name="topright"/>
+  <outline>
+    <contour>
+      <point x="408.1818181818182" y="-15.0" type="curve" smooth="yes"/>
+      <point x="624.5454545454545" y="-15.0"/>
+      <point x="749.0909090909091" y="133.0909090909091"/>
+      <point x="749.0909090909091" y="352.0" type="curve" smooth="yes"/>
+      <point x="749.0909090909091" y="571.9090909090909"/>
+      <point x="624.5454545454545" y="720.0"/>
+      <point x="408.1818181818182" y="720.0" type="curve" smooth="yes"/>
+      <point x="191.1818181818182" y="720.0"/>
+      <point x="66.9090909090909" y="571.9090909090909"/>
+      <point x="66.9090909090909" y="352.0" type="curve" smooth="yes"/>
+      <point x="66.9090909090909" y="133.0909090909091"/>
+      <point x="191.1818181818182" y="-15.0"/>
+    </contour>
+    <contour>
+      <point x="408.1818181818182" y="57.90909090909091" type="curve" smooth="yes"/>
+      <point x="272.09090909090907" y="57.90909090909091"/>
+      <point x="206.72727272727272" y="174.54545454545453"/>
+      <point x="206.72727272727272" y="352.0" type="curve" smooth="yes"/>
+      <point x="206.72727272727272" y="530.4545454545455"/>
+      <point x="272.09090909090907" y="647.0909090909091"/>
+      <point x="408.1818181818182" y="647.0909090909091" type="curve" smooth="yes"/>
+      <point x="543.9090909090909" y="647.0909090909091"/>
+      <point x="609.2727272727273" y="530.4545454545455"/>
+      <point x="609.2727272727273" y="352.0" type="curve" smooth="yes"/>
+      <point x="609.2727272727273" y="174.54545454545453"/>
+      <point x="543.9090909090909" y="57.90909090909091"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

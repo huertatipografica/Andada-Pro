@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Llinebelow" format="2">
+  <advance width="606.1818181818181"/>
+  <unicode hex="1E3A"/>
+  <anchor x="301.09090909090907" y="-127.1590909090909" name="bottom"/>
+  <anchor x="197.77272727272728" y="355.0" name="center"/>
+  <anchor x="538.0227272727273" y="423.0" name="centerright"/>
+  <anchor x="232.3409090909091" y="720.0" name="top"/>
+  <anchor x="475.77272727272725" y="494.0" name="topright"/>
+  <outline>
+    <component base="L"/>
+    <component base="macronbelowcomb" xOffset="64.04545454545455"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ddotbelow" format="2">
+  <advance width="724.4090909090909"/>
+  <unicode hex="1E0C"/>
+  <anchor x="273.1363636363636" y="-212.9090909090909" name="bottom"/>
+  <anchor x="204.04545454545456" y="353.0" name="center"/>
+  <anchor x="393.0" y="720.0" name="top"/>
+  <outline>
+    <component base="D"/>
+    <component base="dotbelowcomb" xOffset="206.3181818181818"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

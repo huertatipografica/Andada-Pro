@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="barcomp.long" format="2">
+  <advance width="841.4"/>
+  <anchor x="459.90909090909093" y="597.0909090909091" name="_center"/>
+  <outline>
+    <contour>
+      <point x="106.45454545454545" y="569.0909090909091" type="line"/>
+      <point x="807.5454545454545" y="569.0909090909091" type="line"/>
+      <point x="823.2727272727273" y="625.0909090909091" type="line"/>
+      <point x="114.36363636363636" y="625.0909090909091" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

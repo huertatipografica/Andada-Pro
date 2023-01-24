@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dlinebelow.sc" format="2">
+  <advance width="624.9090909090909"/>
+  <anchor x="238.02272727272728" y="-110.11363636363636" name="bottom"/>
+  <anchor x="174.9318181818182" y="272.0" name="center"/>
+  <anchor x="354.0681818181818" y="530.0" name="top"/>
+  <outline>
+    <component base="d.sc"/>
+    <component base="macronbelowcomb" xOffset="63.5"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

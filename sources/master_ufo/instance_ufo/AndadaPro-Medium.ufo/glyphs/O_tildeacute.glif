@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Otildeacute" format="2">
+  <advance width="801.9545454545455"/>
+  <unicode hex="1E4C"/>
+  <anchor x="401.27272727272725" y="0.0" name="bottom"/>
+  <anchor x="412.52272727272725" y="353.0" name="center"/>
+  <anchor x="511.09090909090907" y="0.0" name="ogonek"/>
+  <anchor x="401.0681818181818" y="997.5" name="top"/>
+  <anchor x="584.7727272727273" y="630.0" name="topright"/>
+  <outline>
+    <component base="O"/>
+    <component base="tildecomb_acutecomb.case" xOffset="228.45454545454547" yOffset="15.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

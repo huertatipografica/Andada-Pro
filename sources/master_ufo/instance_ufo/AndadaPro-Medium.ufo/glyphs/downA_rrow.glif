@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="downArrow" format="2">
+  <advance width="694.75"/>
+  <unicode hex="2193"/>
+  <outline>
+    <contour>
+      <point x="338.5681818181818" y="-11.613636363636363" type="line"/>
+      <point x="356.65909090909093" y="-11.613636363636363" type="line"/>
+      <point x="612.8636363636364" y="282.54545454545456" type="line"/>
+      <point x="556.9545454545455" y="328.45454545454544" type="line"/>
+      <point x="321.52272727272725" y="56.45454545454545" type="line"/>
+      <point x="373.70454545454544" y="56.45454545454545" type="line"/>
+      <point x="138.27272727272728" y="327.65909090909093" type="line"/>
+      <point x="82.36363636363636" y="281.75" type="line"/>
+    </contour>
+    <contour>
+      <point x="313.52272727272725" y="30.454545454545453" type="line"/>
+      <point x="381.70454545454544" y="30.06818181818182" type="line"/>
+      <point x="381.70454545454544" y="518.0" type="line"/>
+      <point x="316.75" y="518.0" type="line"/>
+      <point x="306.3181818181818" y="507.5681818181818" type="line"/>
+      <point x="309.3181818181818" y="476.40909090909093"/>
+      <point x="313.52272727272725" y="422.4090909090909"/>
+      <point x="313.52272727272725" y="387.04545454545456" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kcaron" format="2">
+  <advance width="568.0"/>
+  <unicode hex="01E9"/>
+  <anchor x="254.11363636363637" y="0.0" name="bottom"/>
+  <anchor x="384.29545454545456" y="1038.9545454545455" name="top"/>
+  <outline>
+    <component base="k"/>
+    <component base="caroncomb.case" xOffset="82.18181818181819" yOffset="41.45454545454545"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

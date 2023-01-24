@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="d.sups" format="2">
+  <advance width="408.125"/>
+  <outline>
+    <contour>
+      <point x="160.4090909090909" y="324.0" type="curve" smooth="yes"/>
+      <point x="204.86363636363637" y="324.0"/>
+      <point x="245.8181818181818" y="351.5681818181818"/>
+      <point x="265.70454545454544" y="400.8636363636364" type="curve"/>
+      <point x="249.6590909090909" y="410.8636363636364" type="line"/>
+      <point x="260.45454545454544" y="330.0" type="line"/>
+      <point x="362.3863636363636" y="330.0" type="line"/>
+      <point x="366.3863636363636" y="370.04545454545456" type="line"/>
+      <point x="294.52272727272725" y="377.25" type="line"/>
+      <point x="330.1818181818182" y="353.02272727272725" type="line"/>
+      <point x="327.1818181818182" y="371.25"/>
+      <point x="321.1818181818182" y="401.65909090909093"/>
+      <point x="321.1818181818182" y="442.8863636363636" type="curve" smooth="yes"/>
+      <point x="321.1818181818182" y="678.6590909090909" type="line" smooth="yes"/>
+      <point x="321.1818181818182" y="699.2727272727273"/>
+      <point x="324.3863636363636" y="750.3181818181819"/>
+      <point x="326.59090909090907" y="783.5454545454545" type="curve"/>
+      <point x="313.3863636363636" y="794.75" type="line"/>
+      <point x="266.1136363636364" y="794.75" type="line"/>
+      <point x="249.9090909090909" y="794.75"/>
+      <point x="211.9318181818182" y="797.9545454545455"/>
+      <point x="195.86363636363637" y="800.3636363636364" type="curve"/>
+      <point x="190.6590909090909" y="758.1136363636364" type="line"/>
+      <point x="272.90909090909093" y="740.2954545454545" type="line"/>
+      <point x="237.45454545454547" y="767.3181818181819" type="line"/>
+      <point x="239.45454545454547" y="757.5227272727273"/>
+      <point x="247.45454545454547" y="715.2727272727273"/>
+      <point x="247.45454545454547" y="697.0681818181819" type="curve" smooth="yes"/>
+      <point x="247.45454545454547" y="468.09090909090907" type="line"/>
+      <point x="245.25" y="413.09090909090907"/>
+      <point x="221.86363636363637" y="383.70454545454544"/>
+      <point x="182.5" y="383.70454545454544" type="curve" smooth="yes"/>
+      <point x="143.5" y="383.70454545454544"/>
+      <point x="122.52272727272728" y="418.27272727272725"/>
+      <point x="122.52272727272728" y="485.0681818181818" type="curve" smooth="yes"/>
+      <point x="122.52272727272728" y="556.0681818181819"/>
+      <point x="145.70454545454547" y="589.6363636363636"/>
+      <point x="193.11363636363637" y="589.6363636363636" type="curve" smooth="yes"/>
+      <point x="211.88636363636363" y="589.6363636363636"/>
+      <point x="233.27272727272728" y="585.0454545454545"/>
+      <point x="259.0681818181818" y="573.2727272727273" type="curve"/>
+      <point x="258.65909090909093" y="632.9545454545455" type="line"/>
+      <point x="227.70454545454547" y="640.1136363636364"/>
+      <point x="206.29545454545453" y="641.9090909090909"/>
+      <point x="185.70454545454547" y="641.9090909090909" type="curve" smooth="yes"/>
+      <point x="93.61363636363636" y="641.9090909090909"/>
+      <point x="38.18181818181818" y="582.0909090909091"/>
+      <point x="38.18181818181818" y="479.84090909090907" type="curve" smooth="yes"/>
+      <point x="38.18181818181818" y="381.20454545454544"/>
+      <point x="83.38636363636364" y="324.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>10</integer>
+        <key>height</key>
+        <integer>61</integer>
+        <key>verticalShift</key>
+        <integer>330</integer>
+        <key>weight</key>
+        <integer>-24</integer>
+        <key>width</key>
+        <integer>62</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Small</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

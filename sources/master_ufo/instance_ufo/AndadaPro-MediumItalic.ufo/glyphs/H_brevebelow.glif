@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Hbrevebelow" format="2">
+  <advance width="761.7954545454545"/>
+  <unicode hex="1E2A"/>
+  <anchor x="319.09090909090907" y="-181.0" name="bottom"/>
+  <anchor x="417.09090909090907" y="520.0" name="center"/>
+  <anchor x="445.29545454545456" y="720.0" name="top"/>
+  <anchor x="94.61363636363636" y="705.0" name="topleft"/>
+  <outline>
+    <component base="H"/>
+    <component base="brevebelowcomb" xOffset="186.5909090909091"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

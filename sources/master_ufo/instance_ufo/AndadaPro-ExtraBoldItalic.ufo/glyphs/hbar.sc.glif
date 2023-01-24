@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hbar.sc" format="2">
+  <advance width="694.0"/>
+  <anchor x="312.3863636363636" y="0.0" name="bottom"/>
+  <anchor x="367.5" y="400.0" name="center"/>
+  <anchor x="387.27272727272725" y="530.0" name="top"/>
+  <anchor x="88.97727272727273" y="543.0" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="72.93181818181819" y="369.25" type="line"/>
+      <point x="659.2727272727273" y="369.25" type="line"/>
+      <point x="673.5909090909091" y="430.75" type="line"/>
+      <point x="79.81818181818181" y="430.75" type="line"/>
+    </contour>
+    <component base="h.sc"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

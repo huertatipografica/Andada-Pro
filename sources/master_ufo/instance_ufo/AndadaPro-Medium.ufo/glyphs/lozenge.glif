@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lozenge" format="2">
+  <advance width="687.125"/>
+  <unicode hex="25CA"/>
+  <outline>
+    <contour>
+      <point x="343.3636363636364" y="72.0" type="line"/>
+      <point x="605.3636363636364" y="354.0" type="line"/>
+      <point x="343.3636363636364" y="640.0" type="line"/>
+      <point x="81.36363636363636" y="360.1363636363636" type="line"/>
+    </contour>
+    <contour>
+      <point x="316.59090909090907" y="151.52272727272728" type="line"/>
+      <point x="369.34090909090907" y="151.52272727272728" type="line"/>
+      <point x="153.0909090909091" y="383.77272727272725" type="line"/>
+      <point x="153.5" y="325.40909090909093" type="line"/>
+      <point x="369.1363636363636" y="561.8863636363636" type="line"/>
+      <point x="317.0" y="561.8863636363636" type="line"/>
+      <point x="532.6363636363636" y="325.40909090909093" type="line"/>
+      <point x="532.8409090909091" y="383.77272727272725" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Symbol</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Geometry</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

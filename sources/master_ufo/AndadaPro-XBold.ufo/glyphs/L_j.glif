@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Lj" format="2">
+  <advance width="866"/>
+  <unicode hex="01C8"/>
+  <anchor x="275" y="0" name="bottom"/>
+  <anchor x="207" y="355" name="center"/>
+  <anchor x="548" y="423" name="centerright"/>
+  <anchor x="294" y="720" name="top_1"/>
+  <anchor x="791" y="724" name="top_2"/>
+  <anchor x="494" y="494" name="topright"/>
+  <outline>
+    <component base="L"/>
+    <component base="j" xOffset="567"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

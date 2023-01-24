@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="parenright.sups" format="2">
+  <advance width="273.1363636363636"/>
+  <outline>
+    <contour>
+      <point x="145.04545454545453" y="833.0909090909091" type="curve"/>
+      <point x="125.18181818181819" y="820.0454545454545" type="line"/>
+      <point x="160.0" y="761.7272727272727"/>
+      <point x="177.4090909090909" y="689.1363636363636"/>
+      <point x="177.4090909090909" y="616.4545454545455" type="curve" smooth="yes"/>
+      <point x="177.4090909090909" y="500.1818181818182"/>
+      <point x="133.4090909090909" y="372.1818181818182"/>
+      <point x="57.95454545454545" y="283.22727272727275" type="curve"/>
+      <point x="77.4090909090909" y="264.3636363636364" type="line"/>
+      <point x="185.1818181818182" y="350.0"/>
+      <point x="246.1818181818182" y="461.8636363636364"/>
+      <point x="246.1818181818182" y="596.3636363636364" type="curve" smooth="yes"/>
+      <point x="246.1818181818182" y="687.4545454545455"/>
+      <point x="213.95454545454547" y="765.2727272727273"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>10</integer>
+        <key>height</key>
+        <integer>60</integer>
+        <key>verticalShift</key>
+        <integer>330</integer>
+        <key>weight</key>
+        <integer>-25</integer>
+        <key>width</key>
+        <integer>62</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

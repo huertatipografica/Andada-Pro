@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acutecomb.loclVIET" format="2">
+  <anchor x="142.38636363636363" y="494.0" name="_top"/>
+  <anchor x="144.77272727272728" y="639.7272727272727" name="top"/>
+  <outline>
+    <contour>
+      <point x="57.34090909090909" y="534.1136363636364" type="line"/>
+      <point x="272.40909090909093" y="600.5909090909091" type="line"/>
+      <point x="235.29545454545453" y="670.6590909090909" type="line"/>
+      <point x="27.136363636363637" y="583.2954545454545" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <integer>80</integer>
+        <key>verticalShift</key>
+        <integer>99</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <real>286.4</real>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

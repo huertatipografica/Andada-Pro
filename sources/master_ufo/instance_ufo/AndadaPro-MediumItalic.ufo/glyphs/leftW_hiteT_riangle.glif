@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="leftWhiteTriangle" format="2">
+  <advance width="643.0"/>
+  <unicode hex="25C1"/>
+  <outline>
+    <contour>
+      <point x="581.2727272727273" y="43.40909090909091" type="line"/>
+      <point x="581.2727272727273" y="662.1818181818181" type="line"/>
+      <point x="21.386363636363637" y="352.79545454545456" type="line"/>
+    </contour>
+    <contour>
+      <point x="510.25" y="123.6590909090909" type="line"/>
+      <point x="545.3636363636364" y="142.9318181818182" type="line"/>
+      <point x="132.13636363636363" y="372.65909090909093" type="line"/>
+      <point x="132.13636363636363" y="332.9318181818182" type="line"/>
+      <point x="545.3636363636364" y="562.6590909090909" type="line"/>
+      <point x="510.25" y="581.9318181818181" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Symbol</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

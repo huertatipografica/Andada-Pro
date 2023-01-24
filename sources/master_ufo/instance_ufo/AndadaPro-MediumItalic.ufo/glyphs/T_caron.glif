@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Tcaron" format="2">
+  <advance width="642.7045454545455"/>
+  <unicode hex="0164"/>
+  <anchor x="281.45454545454544" y="0.0" name="bottom"/>
+  <anchor x="331.45454545454544" y="353.0" name="center"/>
+  <anchor x="428.8181818181818" y="997.5" name="top"/>
+  <outline>
+    <component base="T"/>
+    <component base="caroncomb.case" xOffset="126.02272727272727" yOffset="15.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

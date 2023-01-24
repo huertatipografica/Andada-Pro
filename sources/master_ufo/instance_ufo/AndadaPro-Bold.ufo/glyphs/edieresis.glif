@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="edieresis" format="2">
+  <advance width="521.5454545454545"/>
+  <unicode hex="00EB"/>
+  <anchor x="280.6363636363636" y="0.0" name="bottom"/>
+  <anchor x="411.27272727272725" y="14.727272727272727" name="ogonek"/>
+  <anchor x="274.90909090909093" y="678.0" name="top"/>
+  <outline>
+    <component base="e"/>
+    <component base="dieresiscomb" xOffset="74.36363636363636"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uacute" format="2">
+  <advance width="554.7727272727273"/>
+  <unicode hex="00FA"/>
+  <anchor x="241.6818181818182" y="0.0" name="bottom"/>
+  <anchor x="425.90909090909093" y="496.72727272727275" name="horn"/>
+  <anchor x="393.8636363636364" y="0.0" name="ogonek"/>
+  <anchor x="343.0909090909091" y="662.0454545454545" name="top"/>
+  <anchor x="564.6818181818181" y="497.54545454545456" name="topright"/>
+  <outline>
+    <component base="u"/>
+    <component base="acutecomb" xOffset="174.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="z.sups" format="2">
+  <advance width="380.5"/>
+  <outline>
+    <contour>
+      <point x="306.90909090909093" y="328.0" type="curve"/>
+      <point x="319.3181818181818" y="340.40909090909093" type="line"/>
+      <point x="325.72727272727275" y="433.3636363636364" type="line"/>
+      <point x="283.27272727272725" y="436.77272727272725" type="line"/>
+      <point x="278.8636363636364" y="410.1363636363636" type="line" smooth="yes"/>
+      <point x="278.04545454545456" y="400.72727272727275"/>
+      <point x="264.8181818181818" y="372.40909090909093"/>
+      <point x="255.63636363636363" y="349.6363636363636" type="curve"/>
+      <point x="303.1818181818182" y="388.1818181818182" type="line"/>
+      <point x="276.90909090909093" y="384.54545454545456"/>
+      <point x="232.8181818181818" y="376.72727272727275"/>
+      <point x="224.0" y="376.72727272727275" type="curve" smooth="yes"/>
+      <point x="129.77272727272728" y="376.72727272727275" type="line"/>
+      <point x="148.63636363636363" y="344.8181818181818" type="line"/>
+      <point x="162.04545454545456" y="369.22727272727275"/>
+      <point x="180.0909090909091" y="405.5"/>
+      <point x="189.04545454545456" y="419.04545454545456" type="curve" smooth="yes"/>
+      <point x="265.5" y="534.1363636363636" type="line"/>
+      <point x="316.3181818181818" y="596.7272727272727" type="line"/>
+      <point x="311.90909090909093" y="638.0" type="line"/>
+      <point x="136.22727272727272" y="638.0" type="line" smooth="yes"/>
+      <point x="122.81818181818181" y="638.0"/>
+      <point x="97.0" y="639.5909090909091"/>
+      <point x="77.0" y="640.0" type="curve"/>
+      <point x="64.18181818181819" y="627.5909090909091" type="line"/>
+      <point x="60.77272727272727" y="525.4090909090909" type="line"/>
+      <point x="106.27272727272727" y="523.8181818181819" type="line"/>
+      <point x="108.86363636363636" y="556.5" type="line" smooth="yes"/>
+      <point x="109.86363636363636" y="565.9090909090909"/>
+      <point x="120.68181818181819" y="595.5454545454545"/>
+      <point x="130.27272727272728" y="619.3636363636364" type="curve"/>
+      <point x="83.72727272727273" y="579.8181818181819" type="line"/>
+      <point x="108.5909090909091" y="583.6363636363636"/>
+      <point x="150.3181818181818" y="591.2727272727273"/>
+      <point x="158.9090909090909" y="591.2727272727273" type="curve" smooth="yes"/>
+      <point x="251.72727272727272" y="591.2727272727273" type="line"/>
+      <point x="233.27272727272728" y="623.7727272727273" type="line"/>
+      <point x="221.04545454545453" y="600.7272727272727"/>
+      <point x="202.6818181818182" y="565.7727272727273"/>
+      <point x="191.86363636363637" y="550.1363636363636" type="curve" smooth="yes"/>
+      <point x="114.0" y="434.27272727272725" type="line" smooth="yes"/>
+      <point x="107.0" y="424.8636363636364"/>
+      <point x="78.5909090909091" y="393.27272727272725"/>
+      <point x="58.59090909090909" y="372.27272727272725" type="curve"/>
+      <point x="66.81818181818181" y="330.0" type="line"/>
+      <point x="243.9090909090909" y="330.0" type="line" smooth="yes"/>
+      <point x="257.1363636363636" y="330.0"/>
+      <point x="287.8636363636364" y="329.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>10</integer>
+        <key>height</key>
+        <integer>61</integer>
+        <key>verticalShift</key>
+        <integer>330</integer>
+        <key>weight</key>
+        <integer>-24</integer>
+        <key>width</key>
+        <integer>62</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Small</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

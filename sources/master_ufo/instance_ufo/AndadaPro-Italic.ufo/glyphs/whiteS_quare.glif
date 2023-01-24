@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="whiteSquare" format="2">
+  <advance width="678.4"/>
+  <unicode hex="25A1"/>
+  <outline>
+    <contour>
+      <point x="87" y="83" type="line"/>
+      <point x="616" y="83" type="line"/>
+      <point x="616" y="612" type="line"/>
+      <point x="87" y="612" type="line"/>
+    </contour>
+    <contour>
+      <point x="152" y="112" type="line"/>
+      <point x="152" y="583" type="line"/>
+      <point x="116" y="548" type="line"/>
+      <point x="587" y="548" type="line"/>
+      <point x="552" y="583" type="line"/>
+      <point x="552" y="112" type="line"/>
+      <point x="587" y="147" type="line"/>
+      <point x="116" y="147" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Symbol</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Geometry</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

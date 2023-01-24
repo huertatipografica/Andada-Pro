@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Schwa.sups" format="2">
+  <advance width="515.875"/>
+  <outline>
+    <contour>
+      <point x="257.70454545454544" y="320.1136363636364" type="curve" smooth="yes"/>
+      <point x="389.6818181818182" y="320.1136363636364"/>
+      <point x="474.0909090909091" y="415.4318181818182"/>
+      <point x="474.0909090909091" y="557.2954545454545" type="curve" smooth="yes"/>
+      <point x="474.0909090909091" y="720.7045454545455"/>
+      <point x="360.1363636363636" y="790.25"/>
+      <point x="225.8409090909091" y="790.25" type="curve" smooth="yes"/>
+      <point x="174.1818181818182" y="790.25"/>
+      <point x="108.54545454545455" y="779.3636363636364"/>
+      <point x="53.68181818181818" y="755.9318181818181" type="curve"/>
+      <point x="74.3409090909091" y="712.6136363636364" type="line"/>
+      <point x="120.43181818181819" y="721.8409090909091"/>
+      <point x="170.63636363636363" y="729.8409090909091"/>
+      <point x="208.29545454545453" y="729.8409090909091" type="curve" smooth="yes"/>
+      <point x="294.84090909090907" y="729.8409090909091"/>
+      <point x="354.95454545454544" y="693.9318181818181"/>
+      <point x="354.95454545454544" y="557.2954545454545" type="curve" smooth="yes"/>
+      <point x="354.95454545454544" y="439.65909090909093"/>
+      <point x="323.5" y="385.1818181818182"/>
+      <point x="257.70454545454544" y="385.1818181818182" type="curve" smooth="yes"/>
+      <point x="196.13636363636363" y="385.1818181818182"/>
+      <point x="159.70454545454544" y="428.45454545454544"/>
+      <point x="159.70454545454544" y="527.5227272727273" type="curve" smooth="yes"/>
+      <point x="159.70454545454544" y="535.5227272727273"/>
+      <point x="159.70454545454544" y="555.2954545454545"/>
+      <point x="159.70454545454544" y="582.0454545454545" type="curve"/>
+      <point x="118.18181818181819" y="535.5227272727273" type="line"/>
+      <point x="367.72727272727275" y="535.6363636363636" type="line"/>
+      <point x="367.72727272727275" y="586.5" type="line"/>
+      <point x="65.88636363636364" y="598.3863636363636" type="line"/>
+      <point x="40.68181818181818" y="572.7272727272727" type="line"/>
+      <point x="40.68181818181818" y="568.3863636363636"/>
+      <point x="40.68181818181818" y="547.1818181818181"/>
+      <point x="40.68181818181818" y="542.7272727272727" type="curve" smooth="yes"/>
+      <point x="40.68181818181818" y="407.0"/>
+      <point x="130.52272727272728" y="320.1136363636364"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <integer>61</integer>
+        <key>verticalShift</key>
+        <integer>330</integer>
+        <key>weight</key>
+        <integer>-24</integer>
+        <key>width</key>
+        <integer>62</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Small</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ohookabove" format="2">
+  <advance width="801.875"/>
+  <unicode hex="1ECE"/>
+  <anchor x="401.27272727272725" y="0.0" name="bottom"/>
+  <anchor x="412.52272727272725" y="353.0" name="center"/>
+  <anchor x="511.09090909090907" y="0.0" name="ogonek"/>
+  <anchor x="386.75" y="993.5227272727273" name="top"/>
+  <anchor x="584.7727272727273" y="630.0" name="topright"/>
+  <outline>
+    <component base="O"/>
+    <component base="hookabovecomb.case" xOffset="264.5681818181818" yOffset="11.022727272727273"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>O</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>hookabovecomb.case</string>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

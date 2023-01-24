@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="five.sc" format="2">
+  <advance width="483.375"/>
+  <outline>
+    <contour>
+      <point x="88.86363636363636" y="-86.0" type="line"/>
+      <point x="300.77272727272725" y="-53.59090909090909"/>
+      <point x="415.15909090909093" y="27.18181818181818"/>
+      <point x="415.15909090909093" y="153.97727272727272" type="curve" smooth="yes"/>
+      <point x="415.15909090909093" y="252.4318181818182"/>
+      <point x="347.1363636363636" y="315.1818181818182"/>
+      <point x="222.5" y="315.1818181818182" type="curve" smooth="yes"/>
+      <point x="201.25" y="315.1818181818182"/>
+      <point x="163.9318181818182" y="310.1818181818182"/>
+      <point x="128.52272727272728" y="301.40909090909093" type="curve"/>
+      <point x="165.9090909090909" y="258.90909090909093" type="line"/>
+      <point x="176.9090909090909" y="425.77272727272725" type="line"/>
+      <point x="254.95454545454544" y="425.77272727272725" type="line"/>
+      <point x="392.6136363636364" y="436.6818181818182" type="line"/>
+      <point x="386.72727272727275" y="543.0" type="line"/>
+      <point x="180.72727272727272" y="535.0" type="line"/>
+      <point x="107.54545454545455" y="535.0" type="line"/>
+      <point x="90.6590909090909" y="520.0" type="line"/>
+      <point x="70.3409090909091" y="262.6363636363636" type="line"/>
+      <point x="109.54545454545455" y="217.5909090909091" type="line"/>
+      <point x="141.54545454545453" y="226.47727272727272"/>
+      <point x="168.4318181818182" y="228.5909090909091"/>
+      <point x="186.0" y="228.5909090909091" type="curve" smooth="yes"/>
+      <point x="255.25" y="228.5909090909091"/>
+      <point x="286.84090909090907" y="193.36363636363637"/>
+      <point x="286.84090909090907" y="134.22727272727272" type="curve" smooth="yes"/>
+      <point x="286.84090909090907" y="55.27272727272727"/>
+      <point x="219.72727272727272" y="8.477272727272727"/>
+      <point x="70.20454545454545" y="-24.93181818181818" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>24</integer>
+        <key>height</key>
+        <integer>82</integer>
+        <key>weight</key>
+        <integer>-10</integer>
+        <key>width</key>
+        <integer>85</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ffl" format="2">
+  <advance width="1035.8636363636363"/>
+  <anchor x="195.0909090909091" y="0.0" name="bottom"/>
+  <anchor x="739.1818181818181" y="0.0" name="caret_1"/>
+  <anchor x="302.09090909090907" y="756.0" name="top"/>
+  <outline>
+    <component base="f_f_l"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

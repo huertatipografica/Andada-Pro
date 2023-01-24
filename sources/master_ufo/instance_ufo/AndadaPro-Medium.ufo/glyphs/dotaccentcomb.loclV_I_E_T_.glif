@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotaccentcomb.loclVIET" format="2">
+  <anchor x="107.92045454545455" y="494.0" name="_top"/>
+  <anchor x="108.02272727272727" y="678.8863636363636" name="top"/>
+  <outline>
+    <contour>
+      <point x="108.81818181818181" y="563.5681818181819" type="curve" smooth="yes"/>
+      <point x="142.27272727272728" y="563.5681818181819"/>
+      <point x="159.9090909090909" y="587.5909090909091"/>
+      <point x="159.9090909090909" y="620.6363636363636" type="curve" smooth="yes"/>
+      <point x="159.9090909090909" y="658.0681818181819"/>
+      <point x="141.0681818181818" y="679.2954545454545"/>
+      <point x="108.81818181818181" y="679.2954545454545" type="curve" smooth="yes"/>
+      <point x="75.1590909090909" y="679.2954545454545"/>
+      <point x="55.93181818181818" y="655.8636363636364"/>
+      <point x="55.93181818181818" y="620.6363636363636" type="curve" smooth="yes"/>
+      <point x="55.93181818181818" y="586.7954545454545"/>
+      <point x="75.1590909090909" y="563.5681818181819"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>14</integer>
+        <key>height</key>
+        <integer>95</integer>
+        <key>verticalShift</key>
+        <integer>30</integer>
+        <key>weight</key>
+        <integer>-20</integer>
+        <key>width</key>
+        <integer>95</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <real>214.2</real>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

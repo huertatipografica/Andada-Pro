@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="four.osf" format="2">
+  <advance width="538.625"/>
+  <outline>
+    <contour>
+      <point x="73.88636363636364" y="23.704545454545453" type="line"/>
+      <point x="341.25" y="23.704545454545453" type="line"/>
+      <point x="341.25" y="83.68181818181819" type="line"/>
+      <point x="95.4090909090909" y="80.5" type="line"/>
+      <point x="112.6590909090909" y="48.59090909090909" type="line"/>
+      <point x="321.95454545454544" y="358.1818181818182" type="line" smooth="yes"/>
+      <point x="333.15909090909093" y="375.1818181818182"/>
+      <point x="406.70454545454544" y="453.5"/>
+      <point x="458.65909090909093" y="508.6363636363636" type="curve"/>
+      <point x="385.70454545454544" y="564.0" type="line"/>
+      <point x="26.136363636363637" y="81.5" type="line"/>
+    </contour>
+    <contour>
+      <point x="326.84090909090907" y="-228.54545454545453" type="line"/>
+      <point x="412.75" y="-199.25" type="line"/>
+      <point x="412.75" y="250.1590909090909" type="line"/>
+      <point x="326.84090909090907" y="220.45454545454547" type="line"/>
+    </contour>
+    <contour>
+      <point x="397.54545454545456" y="23.704545454545453" type="line"/>
+      <point x="505.15909090909093" y="23.704545454545453" type="line"/>
+      <point x="505.15909090909093" y="95.29545454545455" type="line"/>
+      <point x="397.54545454545456" y="88.5" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>verticalShift</key>
+        <integer>-175</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

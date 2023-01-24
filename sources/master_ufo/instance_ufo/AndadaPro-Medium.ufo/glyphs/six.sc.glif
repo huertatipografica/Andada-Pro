@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="six.sc" format="2">
+  <advance width="526.375"/>
+  <outline>
+    <contour>
+      <point x="271.04545454545456" y="-9.0" type="curve" smooth="yes"/>
+      <point x="376.6818181818182" y="-9.0"/>
+      <point x="463.1136363636364" y="63.59090909090909"/>
+      <point x="463.1136363636364" y="166.4318181818182" type="curve" smooth="yes"/>
+      <point x="463.1136363636364" y="270.8181818181818"/>
+      <point x="396.9318181818182" y="332.84090909090907"/>
+      <point x="288.54545454545456" y="332.84090909090907" type="curve" smooth="yes"/>
+      <point x="266.34090909090907" y="332.84090909090907"/>
+      <point x="242.75" y="328.45454545454544"/>
+      <point x="220.75" y="322.65909090909093" type="curve"/>
+      <point x="225.75" y="275.5681818181818" type="line"/>
+      <point x="244.5" y="278.3636363636364"/>
+      <point x="260.8636363636364" y="279.3636363636364"/>
+      <point x="273.6363636363636" y="279.3636363636364" type="curve" smooth="yes"/>
+      <point x="338.15909090909093" y="279.3636363636364"/>
+      <point x="368.27272727272725" y="226.54545454545453"/>
+      <point x="368.27272727272725" y="166.4318181818182" type="curve" smooth="yes"/>
+      <point x="368.27272727272725" y="107.0909090909091"/>
+      <point x="335.5681818181818" y="47.93181818181818"/>
+      <point x="270.84090909090907" y="47.93181818181818" type="curve" smooth="yes"/>
+      <point x="194.52272727272728" y="47.93181818181818"/>
+      <point x="164.4090909090909" y="130.0909090909091"/>
+      <point x="164.4090909090909" y="202.0" type="curve" smooth="yes"/>
+      <point x="164.4090909090909" y="339.1818181818182"/>
+      <point x="233.20454545454547" y="504.75"/>
+      <point x="448.27272727272725" y="566.3409090909091" type="curve"/>
+      <point x="436.65909090909093" y="613.0" type="line"/>
+      <point x="188.4090909090909" y="568.2045454545455"/>
+      <point x="70.36363636363636" y="374.0"/>
+      <point x="70.36363636363636" y="202.0" type="curve" smooth="yes"/>
+      <point x="70.36363636363636" y="77.18181818181819"/>
+      <point x="143.02272727272728" y="-9.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>24</integer>
+        <key>height</key>
+        <integer>82</integer>
+        <key>weight</key>
+        <integer>-10</integer>
+        <key>width</key>
+        <integer>85</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

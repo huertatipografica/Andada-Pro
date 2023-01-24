@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="commaturnedmod" format="2">
+  <advance width="233.75"/>
+  <unicode hex="02BB"/>
+  <outline>
+    <contour>
+      <point x="143.61363636363637" y="734.0" type="line"/>
+      <point x="39.0" y="713.0"/>
+      <point x="-10.090909090909093" y="615.9090909090909"/>
+      <point x="-10.090909090909093" y="532.4772727272727" type="curve" smooth="yes"/>
+      <point x="-10.090909090909093" y="478.5"/>
+      <point x="7.68181818181818" y="432.0681818181818"/>
+      <point x="64.31818181818181" y="432.0681818181818" type="curve" smooth="yes"/>
+      <point x="112.8409090909091" y="432.0681818181818"/>
+      <point x="137.61363636363637" y="464.72727272727275"/>
+      <point x="137.61363636363637" y="513.3636363636364" type="curve" smooth="yes"/>
+      <point x="137.61363636363637" y="568.0"/>
+      <point x="97.97727272727272" y="614.6363636363636"/>
+      <point x="15.840909090909093" y="583.0227272727273" type="curve"/>
+      <point x="73.43181818181819" y="554.6136363636364" type="line"/>
+      <point x="60.43181818181818" y="623.4545454545455"/>
+      <point x="90.54545454545455" y="673.3409090909091"/>
+      <point x="155.38636363636363" y="698.0" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

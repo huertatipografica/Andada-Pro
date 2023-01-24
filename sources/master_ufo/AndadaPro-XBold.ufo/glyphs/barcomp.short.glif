@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="barcomp.short" format="2">
+  <advance width="523"/>
+  <anchor x="301" y="592" name="_center"/>
+  <outline>
+    <contour>
+      <point x="105" y="560" type="line"/>
+      <point x="487" y="560" type="line"/>
+      <point x="506" y="624" type="line"/>
+      <point x="114" y="624" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

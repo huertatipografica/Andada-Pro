@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lslash.sc" format="2">
+  <advance width="502"/>
+  <anchor x="246" y="0" name="bottom"/>
+  <anchor x="186" y="273" name="center"/>
+  <anchor x="474" y="340" name="centerright"/>
+  <anchor x="248" y="530" name="top"/>
+  <anchor x="422" y="380" name="topright"/>
+  <outline>
+    <component base="l.sc"/>
+    <component base="slashcomb" xOffset="-78" yOffset="-97"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

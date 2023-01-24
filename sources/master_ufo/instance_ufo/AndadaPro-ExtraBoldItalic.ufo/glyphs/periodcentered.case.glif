@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="periodcentered.case" format="2">
+  <advance width="323.625"/>
+  <outline>
+    <contour>
+      <point x="160.75" y="259.72727272727275" type="curve" smooth="yes"/>
+      <point x="211.72727272727272" y="259.72727272727275"/>
+      <point x="248.04545454545456" y="301.04545454545456"/>
+      <point x="248.04545454545456" y="359.6818181818182" type="curve" smooth="yes"/>
+      <point x="248.04545454545456" y="400.65909090909093"/>
+      <point x="224.72727272727272" y="424.97727272727275"/>
+      <point x="185.0909090909091" y="424.97727272727275" type="curve" smooth="yes"/>
+      <point x="135.11363636363637" y="424.97727272727275"/>
+      <point x="97.9090909090909" y="382.8863636363636"/>
+      <point x="97.9090909090909" y="325.1363636363636" type="curve" smooth="yes"/>
+      <point x="97.9090909090909" y="286.04545454545456"/>
+      <point x="120.11363636363636" y="259.72727272727275"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>verticalShift</key>
+        <integer>53</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

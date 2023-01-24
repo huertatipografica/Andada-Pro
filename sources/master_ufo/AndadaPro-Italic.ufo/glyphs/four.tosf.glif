@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="four.tosf" format="2">
+  <advance width="550"/>
+  <outline>
+    <contour>
+      <point x="55" y="28" type="line"/>
+      <point x="324" y="28" type="line"/>
+      <point x="331" y="80" type="line"/>
+      <point x="85" y="76" type="line"/>
+      <point x="97" y="49" type="line"/>
+      <point x="337" y="360" type="line" smooth="yes"/>
+      <point x="355" y="383"/>
+      <point x="496" y="517"/>
+      <point x="496" y="517" type="curve"/>
+      <point x="435" y="565" type="line"/>
+      <point x="20" y="77" type="line"/>
+    </contour>
+    <contour>
+      <point x="277" y="-231" type="line"/>
+      <point x="355" y="-206" type="line"/>
+      <point x="413" y="252" type="line"/>
+      <point x="337" y="228" type="line"/>
+    </contour>
+    <contour>
+      <point x="370" y="28" type="line"/>
+      <point x="474" y="28" type="line"/>
+      <point x="482" y="91" type="line"/>
+      <point x="378" y="84" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>monoWidth</key>
+        <integer>550</integer>
+        <key>useSpacing</key>
+        <integer>80</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

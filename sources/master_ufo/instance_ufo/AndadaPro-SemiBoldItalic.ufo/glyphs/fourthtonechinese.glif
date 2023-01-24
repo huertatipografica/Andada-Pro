@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fourthtonechinese" format="2">
+  <advance width="279.2"/>
+  <unicode hex="02CB"/>
+  <outline>
+    <contour>
+      <point x="261.6818181818182" y="543.0" type="line"/>
+      <point x="296.3636363636364" y="580.8636363636364" type="line"/>
+      <point x="123.86363636363636" y="751.6363636363636" type="line"/>
+      <point x="81.18181818181819" y="694.5" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

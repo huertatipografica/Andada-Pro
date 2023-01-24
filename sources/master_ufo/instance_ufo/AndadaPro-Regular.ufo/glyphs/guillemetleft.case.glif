@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="guillemetleft.case" format="2">
+  <advance width="511"/>
+  <outline>
+    <contour>
+      <point x="230" y="137" type="line"/>
+      <point x="266" y="161" type="line"/>
+      <point x="142" y="383" type="line"/>
+      <point x="142" y="323" type="line"/>
+      <point x="266" y="545" type="line"/>
+      <point x="230" y="570" type="line"/>
+      <point x="63" y="353" type="line"/>
+    </contour>
+    <contour>
+      <point x="396" y="137" type="line"/>
+      <point x="432" y="161" type="line"/>
+      <point x="308" y="383" type="line"/>
+      <point x="308" y="323" type="line"/>
+      <point x="432" y="545" type="line"/>
+      <point x="396" y="570" type="line"/>
+      <point x="229" y="353" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>verticalShift</key>
+        <integer>100</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

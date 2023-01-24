@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="SquareWithBottonHalfBlack" format="2">
+  <advance width="857.5"/>
+  <unicode hex="2B13"/>
+  <outline>
+    <contour>
+      <point x="88.5909090909091" y="0.0" type="line"/>
+      <point x="793.5909090909091" y="0.0" type="line"/>
+      <point x="793.5909090909091" y="705.0" type="line"/>
+      <point x="88.5909090909091" y="705.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="148.36363636363637" y="313.45454545454544" type="line"/>
+      <point x="148.36363636363637" y="685.1590909090909" type="line"/>
+      <point x="108.43181818181819" y="646.0227272727273" type="line"/>
+      <point x="773.75" y="646.0227272727273" type="line"/>
+      <point x="734.6136363636364" y="685.1590909090909" type="line"/>
+      <point x="734.6136363636364" y="313.45454545454544" type="line"/>
+      <point x="773.75" y="352.59090909090907" type="line"/>
+      <point x="108.43181818181819" y="352.59090909090907" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Symbol</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Geometry</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

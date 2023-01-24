@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Zdotaccent" format="2">
+  <advance width="658.25"/>
+  <unicode hex="017B"/>
+  <anchor x="330.1818181818182" y="0.0" name="bottom"/>
+  <anchor x="330.1818181818182" y="353.0" name="center"/>
+  <anchor x="330.1818181818182" y="1012.5" name="top"/>
+  <outline>
+    <component base="Z"/>
+    <component base="dotaccentcomb.case" xOffset="211.52272727272728" yOffset="15.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

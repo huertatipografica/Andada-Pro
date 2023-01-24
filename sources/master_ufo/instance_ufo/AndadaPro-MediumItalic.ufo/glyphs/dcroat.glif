@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dcroat" format="2">
+  <advance width="520.0681818181819"/>
+  <unicode hex="0111"/>
+  <anchor x="245.79545454545453" y="0.0" name="bottom"/>
+  <anchor x="386.54545454545456" y="604.8863636363636" name="center"/>
+  <anchor x="299.90909090909093" y="526.9090909090909" name="top"/>
+  <anchor x="547.9318181818181" y="498.77272727272725" name="topright"/>
+  <outline>
+    <component base="d"/>
+    <component base="barcomp.short" xOffset="113.38636363636364" yOffset="1.75"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

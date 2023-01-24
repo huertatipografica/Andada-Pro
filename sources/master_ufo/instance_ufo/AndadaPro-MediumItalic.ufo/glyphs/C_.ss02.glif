@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="C.ss02" format="2">
+  <advance width="719.0"/>
+  <anchor x="383.52272727272725" y="34.0" name="bottom"/>
+  <anchor x="467.29545454545456" y="669.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="375.8863636363636" y="20.795454545454547" type="curve" smooth="yes"/>
+      <point x="453.29545454545456" y="20.795454545454547"/>
+      <point x="522.9318181818181" y="36.79545454545455"/>
+      <point x="583.1363636363636" y="50.79545454545455" type="curve"/>
+      <point x="596.1363636363636" y="194.5" type="line"/>
+      <point x="537.25" y="192.5" type="line"/>
+      <point x="537.25" y="192.5"/>
+      <point x="531.0454545454545" y="159.70454545454547"/>
+      <point x="529.0454545454545" y="150.5" type="curve"/>
+      <point x="527.25" y="138.29545454545453"/>
+      <point x="507.1818181818182" y="100.02272727272727"/>
+      <point x="492.59090909090907" y="72.6590909090909" type="curve"/>
+      <point x="537.3863636363636" y="111.1590909090909" type="line"/>
+      <point x="487.4318181818182" y="95.75"/>
+      <point x="431.34090909090907" y="85.56818181818181"/>
+      <point x="383.70454545454544" y="85.56818181818181" type="curve" smooth="yes"/>
+      <point x="277.79545454545456" y="85.56818181818181"/>
+      <point x="231.27272727272728" y="170.88636363636363"/>
+      <point x="231.27272727272728" y="287.5681818181818" type="curve" smooth="yes"/>
+      <point x="231.27272727272728" y="479.1136363636364"/>
+      <point x="324.95454545454544" y="616.8181818181819"/>
+      <point x="454.84090909090907" y="616.8181818181819" type="curve" smooth="yes"/>
+      <point x="501.29545454545456" y="616.8181818181819"/>
+      <point x="551.2045454545455" y="604.8409090909091"/>
+      <point x="593.3181818181819" y="590.0454545454545" type="curve"/>
+      <point x="559.9545454545455" y="628.3409090909091" type="line"/>
+      <point x="564.5681818181819" y="604.9090909090909"/>
+      <point x="573.3863636363636" y="569.5"/>
+      <point x="571.5909090909091" y="557.9090909090909" type="curve" smooth="yes"/>
+      <point x="565.7954545454545" y="509.84090909090907" type="line"/>
+      <point x="624.8863636363636" y="505.84090909090907" type="line"/>
+      <point x="654.9090909090909" y="650.7954545454545" type="line"/>
+      <point x="595.1136363636364" y="667.0"/>
+      <point x="541.6818181818181" y="681.7954545454545"/>
+      <point x="464.45454545454544" y="681.7954545454545" type="curve" smooth="yes"/>
+      <point x="253.75" y="681.7954545454545"/>
+      <point x="112.29545454545455" y="522.8181818181819"/>
+      <point x="112.29545454545455" y="286.4318181818182" type="curve" smooth="yes"/>
+      <point x="112.29545454545455" y="126.61363636363636"/>
+      <point x="199.1590909090909" y="20.795454545454547"/>
+    </contour>
+    <contour>
+      <point x="16.681818181818183" y="0.0" type="line"/>
+      <point x="640.0454545454545" y="0.0" type="line"/>
+      <point x="651.25" y="45.68181818181818" type="line"/>
+      <point x="18.09090909090909" y="45.68181818181818" type="line"/>
+    </contour>
+    <contour>
+      <point x="101.27272727272727" y="656.1363636363636" type="line"/>
+      <point x="733.8409090909091" y="656.1363636363636" type="line"/>
+      <point x="735.25" y="705.0" type="line"/>
+      <point x="111.04545454545455" y="705.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <integer>90</integer>
+        <key>verticalShift</key>
+        <integer>34</integer>
+        <key>width</key>
+        <integer>95</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

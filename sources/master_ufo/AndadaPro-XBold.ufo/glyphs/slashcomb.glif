@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="slashcomb" format="2">
+  <advance width="512"/>
+  <anchor x="264" y="370" name="_center"/>
+  <outline>
+    <contour>
+      <point x="57" y="265" type="line"/>
+      <point x="503" y="413" type="line"/>
+      <point x="491" y="476" type="line"/>
+      <point x="35" y="325" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

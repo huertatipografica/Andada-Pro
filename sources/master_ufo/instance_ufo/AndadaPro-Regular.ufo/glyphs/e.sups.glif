@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="e.sups" format="2">
+  <advance width="370.6"/>
+  <outline>
+    <contour>
+      <point x="198" y="322" type="curve" smooth="yes"/>
+      <point x="256" y="322"/>
+      <point x="297" y="347"/>
+      <point x="312" y="363" type="curve"/>
+      <point x="293" y="394" type="line"/>
+      <point x="278" y="385"/>
+      <point x="244" y="372"/>
+      <point x="209" y="372" type="curve" smooth="yes"/>
+      <point x="154" y="372"/>
+      <point x="129" y="416"/>
+      <point x="129" y="484" type="curve" smooth="yes"/>
+      <point x="129" y="542"/>
+      <point x="140" y="596"/>
+      <point x="188" y="596" type="curve" smooth="yes"/>
+      <point x="223" y="596"/>
+      <point x="240" y="569"/>
+      <point x="240" y="524" type="curve" smooth="yes"/>
+      <point x="240" y="510"/>
+      <point x="238" y="499"/>
+      <point x="236" y="483" type="curve"/>
+      <point x="270" y="516" type="line"/>
+      <point x="119" y="506" type="line"/>
+      <point x="120" y="469" type="line"/>
+      <point x="304" y="469" type="line"/>
+      <point x="316" y="490" type="line"/>
+      <point x="319" y="581"/>
+      <point x="279" y="637"/>
+      <point x="193" y="637" type="curve" smooth="yes"/>
+      <point x="103" y="637"/>
+      <point x="52" y="576"/>
+      <point x="52" y="478" type="curve" smooth="yes"/>
+      <point x="52" y="383"/>
+      <point x="104" y="322"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>10</integer>
+        <key>height</key>
+        <integer>61</integer>
+        <key>verticalShift</key>
+        <integer>330</integer>
+        <key>weight</key>
+        <integer>-24</integer>
+        <key>width</key>
+        <integer>62</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Small</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

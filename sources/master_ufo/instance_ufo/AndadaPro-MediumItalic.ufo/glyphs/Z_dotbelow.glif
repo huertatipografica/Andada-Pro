@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Zdotbelow" format="2">
+  <advance width="590.3863636363636"/>
+  <unicode hex="1E92"/>
+  <anchor x="230.29545454545453" y="-210.45454545454547" name="bottom"/>
+  <anchor x="310.09090909090907" y="353.0" name="center"/>
+  <anchor x="351.09090909090907" y="720.0" name="top"/>
+  <outline>
+    <component base="Z"/>
+    <component base="dotbelowcomb" xOffset="163.88636363636363"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

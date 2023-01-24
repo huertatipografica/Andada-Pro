@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="idotbelow.sc" format="2">
+  <advance width="342.90909090909093"/>
+  <anchor x="110.72727272727273" y="-215.63636363636363" name="bottom"/>
+  <anchor x="251.1818181818182" y="8.0" name="ogonek"/>
+  <anchor x="211.72727272727272" y="530.0" name="top"/>
+  <anchor x="87.0909090909091" y="543.0" name="topleft"/>
+  <outline>
+    <component base="i.sc"/>
+    <component base="dotbelowcomb" xOffset="43.45454545454545"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

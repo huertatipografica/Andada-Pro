@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ND.ordn.case" format="2">
+  <advance width="1033.340909090909"/>
+  <outline>
+    <component base="N.sups"/>
+    <component base="D.sups" xOffset="533.3863636363636"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

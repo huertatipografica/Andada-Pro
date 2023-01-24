@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="oslashacute.sc" format="2">
+  <advance width="684"/>
+  <anchor x="312" y="0" name="bottom"/>
+  <anchor x="415" y="701" name="top"/>
+  <outline>
+    <component base="oslash.sc"/>
+    <component base="acutecomb" xOffset="227" yOffset="36"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

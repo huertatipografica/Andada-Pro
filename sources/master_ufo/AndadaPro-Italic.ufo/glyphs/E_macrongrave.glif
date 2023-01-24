@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Emacrongrave" format="2">
+  <advance width="584"/>
+  <unicode hex="1E14"/>
+  <anchor x="259" y="0" name="bottom"/>
+  <anchor x="467" y="0" name="ogonek"/>
+  <anchor x="398" y="993" name="top"/>
+  <anchor x="94" y="705" name="topleft"/>
+  <outline>
+    <component base="E"/>
+    <component base="macroncomb_gravecomb.case" xOffset="136" yOffset="15"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

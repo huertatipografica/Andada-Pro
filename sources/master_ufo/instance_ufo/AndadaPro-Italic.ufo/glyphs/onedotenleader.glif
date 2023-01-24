@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="onedotenleader" format="2">
+  <advance width="306.1"/>
+  <unicode hex="2024"/>
+  <outline>
+    <contour>
+      <point x="118" y="-10" type="curve" smooth="yes"/>
+      <point x="161" y="-10"/>
+      <point x="190" y="26"/>
+      <point x="190" y="74" type="curve" smooth="yes"/>
+      <point x="190" y="107"/>
+      <point x="173" y="127"/>
+      <point x="142" y="127" type="curve" smooth="yes"/>
+      <point x="100" y="127"/>
+      <point x="70" y="91"/>
+      <point x="70" y="43" type="curve" smooth="yes"/>
+      <point x="70" y="12"/>
+      <point x="86" y="-10"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

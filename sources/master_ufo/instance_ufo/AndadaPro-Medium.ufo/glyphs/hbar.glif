@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hbar" format="2">
+  <advance width="612.7727272727273"/>
+  <unicode hex="0127"/>
+  <anchor x="304.54545454545456" y="0.0" name="bottom"/>
+  <anchor x="183.0681818181818" y="604.8863636363636" name="center"/>
+  <anchor x="169.5681818181818" y="726.5681818181819" name="top"/>
+  <outline>
+    <component base="h"/>
+    <component base="barcomp.short" xOffset="-56.25" yOffset="1.75"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

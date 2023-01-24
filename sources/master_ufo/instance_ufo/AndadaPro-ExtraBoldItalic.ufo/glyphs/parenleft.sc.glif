@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="parenleft.sc" format="2">
+  <advance width="344.6136363636364"/>
+  <outline>
+    <contour>
+      <point x="216.29545454545453" y="-67.22727272727273" type="curve"/>
+      <point x="246.1590909090909" y="-47.13636363636364" type="line"/>
+      <point x="203.70454545454544" y="10.272727272727273"/>
+      <point x="180.5909090909091" y="95.06818181818181"/>
+      <point x="180.5909090909091" y="193.5" type="curve" smooth="yes"/>
+      <point x="180.5909090909091" y="345.3636363636364"/>
+      <point x="235.1590909090909" y="515.5227272727273"/>
+      <point x="329.27272727272725" y="613.25" type="curve"/>
+      <point x="299.52272727272725" y="642.0" type="line"/>
+      <point x="150.47727272727272" y="536.7727272727273"/>
+      <point x="78.11363636363636" y="397.8863636363636"/>
+      <point x="78.11363636363636" y="227.45454545454547" type="curve" smooth="yes"/>
+      <point x="78.11363636363636" y="108.13636363636364"/>
+      <point x="122.0" y="14.454545454545455"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>24</integer>
+        <key>height</key>
+        <integer>77</integer>
+        <key>verticalShift</key>
+        <integer>10</integer>
+        <key>weight</key>
+        <integer>-10</integer>
+        <key>width</key>
+        <integer>82</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

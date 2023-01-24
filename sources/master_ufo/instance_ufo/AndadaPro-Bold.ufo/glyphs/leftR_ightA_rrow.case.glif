@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="leftRightArrow.case" format="2">
+  <advance width="1291.8"/>
+  <outline>
+    <contour>
+      <point x="921.4545454545455" y="72.0" type="line"/>
+      <point x="1211.3636363636363" y="328.6363636363636" type="line"/>
+      <point x="1211.3636363636363" y="352.54545454545456" type="line"/>
+      <point x="921.0909090909091" y="609.1818181818181" type="line"/>
+      <point x="865.1818181818181" y="542.9090909090909" type="line"/>
+      <point x="1137.1818181818182" y="307.27272727272725" type="line"/>
+      <point x="1137.1818181818182" y="373.90909090909093" type="line"/>
+      <point x="865.5454545454545" y="138.27272727272728" type="line"/>
+    </contour>
+    <contour>
+      <point x="370.45454545454544" y="72.0" type="line"/>
+      <point x="426.72727272727275" y="138.27272727272728" type="line"/>
+      <point x="154.72727272727272" y="373.54545454545456" type="line"/>
+      <point x="155.0909090909091" y="306.90909090909093" type="line"/>
+      <point x="426.3636363636364" y="542.9090909090909" type="line"/>
+      <point x="370.09090909090907" y="609.1818181818181" type="line"/>
+      <point x="80.54545454545455" y="352.1818181818182" type="line"/>
+      <point x="80.54545454545455" y="328.27272727272725" type="line"/>
+    </contour>
+    <contour>
+      <point x="148.63636363636363" y="302.45454545454544" type="line"/>
+      <point x="1144.1818181818182" y="302.45454545454544" type="line"/>
+      <point x="1143.2727272727273" y="377.6363636363636" type="line"/>
+      <point x="147.72727272727272" y="377.6363636363636" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>verticalShift</key>
+        <integer>80</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

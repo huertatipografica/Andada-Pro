@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="southWestArrow.case" format="2">
+  <advance width="489.8"/>
+  <outline>
+    <contour>
+      <point x="64.63636363636364" y="142.45454545454547" type="line"/>
+      <point x="436.45454545454544" y="166.36363636363637" type="line"/>
+      <point x="441.0" y="253.0" type="line"/>
+      <point x="94.36363636363636" y="227.27272727272728" type="line"/>
+      <point x="136.72727272727272" y="180.0" type="line"/>
+      <point x="204.0909090909091" y="538.6363636363636" type="line"/>
+      <point x="118.18181818181819" y="545.6363636363636" type="line"/>
+      <point x="49.90909090909091" y="159.45454545454547" type="line"/>
+    </contour>
+    <contour>
+      <point x="141.54545454545456" y="170.0" type="line"/>
+      <point x="490.1818181818182" y="500.45454545454544" type="line"/>
+      <point x="444.3636363636364" y="552.5454545454545" type="line"/>
+      <point x="423.3636363636364" y="554.1818181818181" type="line"/>
+      <point x="423.3636363636364" y="554.1818181818181"/>
+      <point x="336.72727272727275" y="475.90909090909093"/>
+      <point x="305.0909090909091" y="443.72727272727275" type="curve" smooth="yes"/>
+      <point x="87.63636363636364" y="228.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>verticalShift</key>
+        <integer>80</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

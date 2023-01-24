@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="anglerightbracket" format="2">
+  <advance width="409.5"/>
+  <outline>
+    <contour>
+      <point x="144.0" y="780.3636363636364" type="line"/>
+      <point x="96.95454545454545" y="768.5" type="line"/>
+      <point x="214.86363636363637" y="313.8181818181818" type="line"/>
+      <point x="215.45454545454544" y="402.3636363636364" type="line"/>
+      <point x="99.36363636363636" y="-40.68181818181818" type="line"/>
+      <point x="145.1818181818182" y="-62.0" type="line"/>
+      <point x="325.1818181818182" y="358.09090909090907" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Symbol</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Math</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

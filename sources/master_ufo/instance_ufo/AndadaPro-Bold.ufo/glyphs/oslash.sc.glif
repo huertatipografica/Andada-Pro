@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="oslash.sc" format="2">
+  <advance width="690.8000000000001"/>
+  <anchor x="345.27272727272725" y="0.0" name="bottom"/>
+  <anchor x="361.0" y="272.0" name="center"/>
+  <anchor x="433.54545454545456" y="0.0" name="ogonek"/>
+  <anchor x="345.27272727272725" y="543.0" name="top"/>
+  <anchor x="501.72727272727275" y="485.0" name="topright"/>
+  <outline>
+    <contour>
+      <point x="186.45454545454544" y="-105.63636363636364" type="line"/>
+      <point x="575.5454545454545" y="623.1818181818181" type="line"/>
+      <point x="530.0" y="645.0" type="line"/>
+      <point x="142.27272727272728" y="-83.18181818181819" type="line"/>
+    </contour>
+    <contour>
+      <point x="345.27272727272725" y="-12.0" type="curve" smooth="yes"/>
+      <point x="513.6363636363636" y="-12.0"/>
+      <point x="618.0" y="101.72727272727273"/>
+      <point x="618.0" y="271.0" type="curve" smooth="yes"/>
+      <point x="618.0" y="441.27272727272725"/>
+      <point x="513.6363636363636" y="554.0"/>
+      <point x="345.27272727272725" y="554.0" type="curve" smooth="yes"/>
+      <point x="176.27272727272728" y="554.0"/>
+      <point x="72.9090909090909" y="440.90909090909093"/>
+      <point x="72.9090909090909" y="271.0" type="curve" smooth="yes"/>
+      <point x="72.9090909090909" y="102.0909090909091"/>
+      <point x="176.27272727272728" y="-12.0"/>
+    </contour>
+    <contour>
+      <point x="345.27272727272725" y="54.72727272727273" type="curve" smooth="yes"/>
+      <point x="246.0" y="54.72727272727273"/>
+      <point x="198.0" y="132.45454545454547"/>
+      <point x="198.0" y="271.0" type="curve" smooth="yes"/>
+      <point x="198.0" y="410.54545454545456"/>
+      <point x="246.0" y="487.6363636363636"/>
+      <point x="345.27272727272725" y="487.6363636363636" type="curve" smooth="yes"/>
+      <point x="444.90909090909093" y="487.6363636363636"/>
+      <point x="492.54545454545456" y="410.1818181818182"/>
+      <point x="492.54545454545456" y="271.0" type="curve" smooth="yes"/>
+      <point x="492.54545454545456" y="133.1818181818182"/>
+      <point x="444.90909090909093" y="54.72727272727273"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <integer>77</integer>
+        <key>weight</key>
+        <integer>-12</integer>
+        <key>width</key>
+        <integer>78</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

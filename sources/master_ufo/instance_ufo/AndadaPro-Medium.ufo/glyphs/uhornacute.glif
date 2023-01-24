@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uhornacute" format="2">
+  <advance width="591.8409090909091"/>
+  <unicode hex="1EE9"/>
+  <anchor x="296.3181818181818" y="0.0" name="bottom"/>
+  <anchor x="527.3863636363636" y="10.0" name="ogonek"/>
+  <anchor x="296.29545454545456" y="661.0227272727273" name="top"/>
+  <anchor x="418.72727272727275" y="509.0" name="topright"/>
+  <outline>
+    <component base="u"/>
+    <component base="horncomb" xOffset="387.77272727272725"/>
+    <component base="acutecomb" xOffset="174.29545454545453"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>u</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>uhorn</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

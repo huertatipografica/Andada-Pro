@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevecomb.narrow" format="2">
+  <anchor x="198.45454545454547" y="494.0" name="_top"/>
+  <anchor x="223.0909090909091" y="663.1818181818181" name="top"/>
+  <outline>
+    <contour>
+      <point x="340.0" y="680.9090909090909" type="curve"/>
+      <point x="294.72727272727275" y="700.2727272727273" type="line"/>
+      <point x="263.45454545454544" y="608.5454545454545"/>
+      <point x="151.0" y="603.2727272727273"/>
+      <point x="141.72727272727272" y="695.0" type="curve"/>
+      <point x="95.18181818181819" y="686.1818181818181" type="line"/>
+      <point x="109.27272727272727" y="521.0909090909091"/>
+      <point x="285.0" y="516.1818181818181"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>23</integer>
+        <key>weight</key>
+        <integer>-10</integer>
+        <key>width</key>
+        <integer>70</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <real>305.7</real>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

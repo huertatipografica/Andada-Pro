@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Uogonek" format="2">
+  <advance width="755.7954545454545"/>
+  <unicode hex="0172"/>
+  <anchor x="335.6136363636364" y="0.0" name="bottom"/>
+  <anchor x="625.5" y="460.0" name="horn"/>
+  <anchor x="450.3863636363636" y="0.0" name="ogonek"/>
+  <anchor x="438.65909090909093" y="720.0" name="top"/>
+  <anchor x="777.9090909090909" y="705.0" name="topright"/>
+  <outline>
+    <component base="U"/>
+    <component base="ogonekcomb.o" xOffset="223.8409090909091" yOffset="0.11363636363636365"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

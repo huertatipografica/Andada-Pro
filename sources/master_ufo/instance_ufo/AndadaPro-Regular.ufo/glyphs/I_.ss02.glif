@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="I.ss02" format="2">
+  <advance width="463"/>
+  <anchor x="219" y="34" name="bottom"/>
+  <anchor x="219" y="34" name="ogonek"/>
+  <anchor x="219" y="669" name="top"/>
+  <outline>
+    <contour>
+      <point x="165" y="36" type="curve"/>
+      <point x="278" y="36" type="line"/>
+      <point x="274" y="57"/>
+      <point x="266" y="138"/>
+      <point x="266" y="188" type="curve" smooth="yes"/>
+      <point x="266" y="515" type="line" smooth="yes"/>
+      <point x="266" y="561"/>
+      <point x="274" y="650"/>
+      <point x="276" y="672" type="curve"/>
+      <point x="165" y="671" type="line"/>
+      <point x="169" y="650"/>
+      <point x="178" y="560"/>
+      <point x="178" y="542" type="curve" smooth="yes"/>
+      <point x="178" y="161" type="line" smooth="yes"/>
+      <point x="178" y="140"/>
+      <point x="168" y="56"/>
+    </contour>
+    <contour>
+      <point x="-15" y="0" type="line"/>
+      <point x="478" y="0" type="line"/>
+      <point x="483" y="42" type="line"/>
+      <point x="-20" y="42" type="line"/>
+    </contour>
+    <contour>
+      <point x="-20" y="659" type="line"/>
+      <point x="483" y="659" type="line"/>
+      <point x="478" y="705" type="line"/>
+      <point x="-15" y="705" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <integer>90</integer>
+        <key>verticalShift</key>
+        <integer>34</integer>
+        <key>width</key>
+        <integer>95</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

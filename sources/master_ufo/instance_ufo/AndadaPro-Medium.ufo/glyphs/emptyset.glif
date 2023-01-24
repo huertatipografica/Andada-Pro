@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="emptyset" format="2">
+  <advance width="929.0"/>
+  <unicode hex="2205"/>
+  <outline>
+    <contour>
+      <point x="464.15909090909093" y="-14.590909090909092" type="curve" smooth="yes"/>
+      <point x="666.1590909090909" y="-14.590909090909092"/>
+      <point x="830.1590909090909" y="152.61363636363637"/>
+      <point x="830.1590909090909" y="350.6136363636364" type="curve" smooth="yes"/>
+      <point x="830.1590909090909" y="554.6136363636364"/>
+      <point x="667.1590909090909" y="715.6136363636364"/>
+      <point x="464.15909090909093" y="715.6136363636364" type="curve" smooth="yes"/>
+      <point x="264.15909090909093" y="715.6136363636364"/>
+      <point x="99.1590909090909" y="552.6136363636364"/>
+      <point x="99.1590909090909" y="350.6136363636364" type="curve" smooth="yes"/>
+      <point x="99.1590909090909" y="144.61363636363637"/>
+      <point x="266.15909090909093" y="-14.590909090909092"/>
+    </contour>
+    <contour>
+      <point x="464.95454545454544" y="57.15909090909091" type="curve" smooth="yes"/>
+      <point x="303.6363636363636" y="57.15909090909091"/>
+      <point x="171.5" y="189.29545454545453"/>
+      <point x="171.5" y="350.6136363636364" type="curve" smooth="yes"/>
+      <point x="171.5" y="515.9318181818181"/>
+      <point x="303.6363636363636" y="644.0681818181819"/>
+      <point x="464.95454545454544" y="644.0681818181819" type="curve" smooth="yes"/>
+      <point x="625.8863636363636" y="644.0681818181819"/>
+      <point x="757.6136363636364" y="510.9318181818182"/>
+      <point x="757.6136363636364" y="350.6136363636364" type="curve" smooth="yes"/>
+      <point x="757.6136363636364" y="189.29545454545453"/>
+      <point x="626.6818181818181" y="57.15909090909091"/>
+    </contour>
+    <component base="fraction" xOffset="356.6136363636364" yOffset="13.818181818181818"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>fraction</string>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

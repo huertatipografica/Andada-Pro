@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="equal.sups" format="2">
+  <advance width="450.40000000000003"/>
+  <outline>
+    <contour>
+      <point x="100.0" y="387.09090909090907" type="line"/>
+      <point x="387.6363636363636" y="390.0" type="line"/>
+      <point x="394.90909090909093" y="452.54545454545456" type="line"/>
+      <point x="107.27272727272727" y="452.45454545454544" type="line"/>
+    </contour>
+    <contour>
+      <point x="113.72727272727273" y="514.5454545454545" type="line"/>
+      <point x="401.3636363636364" y="517.5454545454545" type="line"/>
+      <point x="409.0" y="580.0" type="line"/>
+      <point x="122.0" y="580.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>10</integer>
+        <key>height</key>
+        <integer>60</integer>
+        <key>verticalShift</key>
+        <integer>330</integer>
+        <key>weight</key>
+        <integer>-25</integer>
+        <key>width</key>
+        <integer>62</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Symbol</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

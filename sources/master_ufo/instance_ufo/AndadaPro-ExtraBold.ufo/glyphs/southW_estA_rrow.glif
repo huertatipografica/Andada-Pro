@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="southWestArrow" format="2">
+  <advance width="642.0"/>
+  <unicode hex="2199"/>
+  <outline>
+    <contour>
+      <point x="145.54545454545453" y="55.45454545454545" type="line"/>
+      <point x="531.1136363636364" y="77.36363636363636" type="line"/>
+      <point x="524.1136363636364" y="172.5" type="line"/>
+      <point x="165.11363636363637" y="147.27272727272728" type="line"/>
+      <point x="217.5" y="94.0" type="line"/>
+      <point x="243.38636363636363" y="452.8863636363636" type="line"/>
+      <point x="148.36363636363637" y="459.8863636363636" type="line"/>
+      <point x="126.68181818181819" y="75.20454545454545" type="line"/>
+    </contour>
+    <contour>
+      <point x="227.63636363636363" y="92.25" type="line"/>
+      <point x="545.0909090909091" y="410.70454545454544" type="line"/>
+      <point x="488.3636363636364" y="467.54545454545456" type="line"/>
+      <point x="466.5" y="467.54545454545456" type="line"/>
+      <point x="429.3409090909091" y="427.3863636363636"/>
+      <point x="371.8636363636364" y="365.9090909090909"/>
+      <point x="351.1818181818182" y="344.3409090909091" type="curve" smooth="yes"/>
+      <point x="161.70454545454544" y="155.75" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

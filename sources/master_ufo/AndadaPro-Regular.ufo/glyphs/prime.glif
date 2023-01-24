@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="prime" format="2">
+  <advance width="285.8"/>
+  <outline>
+    <contour>
+      <point x="149" y="387" type="line"/>
+      <point x="197" y="666" type="line"/>
+      <point x="126" y="686" type="line"/>
+      <point x="98" y="395" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

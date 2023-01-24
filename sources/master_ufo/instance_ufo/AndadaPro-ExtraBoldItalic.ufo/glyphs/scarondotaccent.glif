@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="scarondotaccent" format="2">
+  <advance width="420.54545454545456"/>
+  <unicode hex="1E67"/>
+  <anchor x="166.38636363636363" y="0.0" name="bottom"/>
+  <anchor x="282.70454545454544" y="823.75" name="top"/>
+  <outline>
+    <component base="s"/>
+    <component base="caroncomb_dotaccentcomb" xOffset="18.65909090909091"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

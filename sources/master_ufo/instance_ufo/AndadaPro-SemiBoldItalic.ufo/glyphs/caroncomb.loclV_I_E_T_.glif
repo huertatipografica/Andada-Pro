@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="caroncomb.loclVIET" format="2">
+  <anchor x="247.4090909090909" y="494.0" name="_top"/>
+  <anchor x="237.8181818181818" y="611.7727272727273" name="top"/>
+  <outline>
+    <contour>
+      <point x="228.72727272727272" y="541.0" type="line"/>
+      <point x="273.1363636363636" y="541.0" type="line"/>
+      <point x="422.8181818181818" y="640.1363636363636" type="line"/>
+      <point x="393.54545454545456" y="677.5" type="line"/>
+      <point x="205.13636363636363" y="581.5909090909091" type="line"/>
+    </contour>
+    <contour>
+      <point x="204.86363636363637" y="541.0" type="line"/>
+      <point x="249.27272727272728" y="541.0" type="line"/>
+      <point x="283.3181818181818" y="581.5909090909091" type="line"/>
+      <point x="118.0909090909091" y="677.5" type="line"/>
+      <point x="79.18181818181819" y="640.1363636363636" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <integer>80</integer>
+        <key>verticalShift</key>
+        <integer>99</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>388</integer>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

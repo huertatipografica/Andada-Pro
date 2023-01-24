@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="k.sups" format="2">
+  <advance width="401"/>
+  <anchor x="214" y="330" name="bottom"/>
+  <anchor x="273" y="807" name="top"/>
+  <outline>
+    <contour>
+      <point x="81" y="320" type="line"/>
+      <point x="159" y="332" type="line"/>
+      <point x="160" y="346"/>
+      <point x="160" y="348"/>
+      <point x="162" y="358" type="curve"/>
+      <point x="179" y="466"/>
+      <point x="245" y="587"/>
+      <point x="290" y="587" type="curve" smooth="yes"/>
+      <point x="300" y="587"/>
+      <point x="307" y="580"/>
+      <point x="307" y="569" type="curve" smooth="yes"/>
+      <point x="307" y="532"/>
+      <point x="269" y="498"/>
+      <point x="203" y="476" type="curve"/>
+      <point x="203" y="444" type="line"/>
+      <point x="280" y="320" type="line"/>
+      <point x="394" y="347" type="line"/>
+      <point x="396" y="382" type="line"/>
+      <point x="308" y="394" type="line"/>
+      <point x="368" y="373" type="line"/>
+      <point x="336" y="396"/>
+      <point x="297" y="449"/>
+      <point x="272" y="496" type="curve"/>
+      <point x="250" y="453" type="line"/>
+      <point x="348" y="491"/>
+      <point x="400" y="536"/>
+      <point x="400" y="604" type="curve" smooth="yes"/>
+      <point x="400" y="641"/>
+      <point x="381" y="659"/>
+      <point x="341" y="659" type="curve" smooth="yes"/>
+      <point x="265" y="659"/>
+      <point x="196" y="563"/>
+      <point x="157" y="445" type="curve"/>
+      <point x="164" y="446" type="line"/>
+      <point x="177" y="534"/>
+      <point x="208" y="711"/>
+      <point x="231" y="804" type="curve"/>
+      <point x="209" y="823" type="line"/>
+      <point x="76" y="801" type="line"/>
+      <point x="78" y="765" type="line"/>
+      <point x="165" y="755" type="line"/>
+      <point x="125" y="786" type="line"/>
+      <point x="118" y="654"/>
+      <point x="84" y="432"/>
+      <point x="55" y="332" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>9</integer>
+        <key>height</key>
+        <integer>64</integer>
+        <key>verticalShift</key>
+        <integer>330</integer>
+        <key>weight</key>
+        <integer>-46</integer>
+        <key>width</key>
+        <integer>67</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

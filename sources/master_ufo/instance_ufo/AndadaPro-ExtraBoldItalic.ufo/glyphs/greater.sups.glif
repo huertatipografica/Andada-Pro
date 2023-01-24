@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="greater.sups" format="2">
+  <advance width="305.5"/>
+  <outline>
+    <contour>
+      <point x="99.20454545454545" y="320.1136363636364" type="line"/>
+      <point x="305.84090909090907" y="487.75" type="line"/>
+      <point x="136.20454545454547" y="655.3863636363636" type="line"/>
+      <point x="88.22727272727273" y="605.75" type="line"/>
+      <point x="238.4318181818182" y="459.77272727272725" type="line"/>
+      <point x="244.20454545454547" y="515.7272727272727" type="line"/>
+      <point x="62.88636363636363" y="368.8636363636364" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>10</integer>
+        <key>height</key>
+        <integer>60</integer>
+        <key>verticalShift</key>
+        <integer>330</integer>
+        <key>weight</key>
+        <integer>-25</integer>
+        <key>width</key>
+        <integer>62</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Symbol</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

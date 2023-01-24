@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cedillacomb" format="2">
+  <unicode hex="0327"/>
+  <anchor x="117.07954545454545" y="0.0" name="_bottom"/>
+  <anchor x="117.07954545454545" y="-247.0" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="48.36363636363637" y="-247.0" type="line"/>
+      <point x="92.93181818181819" y="-247.0"/>
+      <point x="127.75" y="-238.4090909090909"/>
+      <point x="152.5681818181818" y="-220.20454545454547" type="curve" smooth="yes"/>
+      <point x="180.1818181818182" y="-199.4090909090909"/>
+      <point x="194.0" y="-168.79545454545453"/>
+      <point x="194.0" y="-144.5681818181818" type="curve" smooth="yes"/>
+      <point x="194.0" y="-105.5"/>
+      <point x="164.11363636363637" y="-67.3409090909091"/>
+      <point x="86.1590909090909" y="-54.36363636363637" type="curve"/>
+      <point x="101.5909090909091" y="-97.0" type="line"/>
+      <point x="138.79545454545453" y="17.0" type="line"/>
+      <point x="94.13636363636364" y="17.0" type="line"/>
+      <point x="67.13636363636364" y="-110.36363636363636" type="line"/>
+      <point x="76.95454545454545" y="-118.0" type="line"/>
+      <point x="115.11363636363636" y="-119.0"/>
+      <point x="136.3181818181818" y="-131.1818181818182"/>
+      <point x="136.9090909090909" y="-151.4090909090909" type="curve" smooth="yes"/>
+      <point x="138.0909090909091" y="-183.02272727272728"/>
+      <point x="94.31818181818181" y="-208.1818181818182"/>
+      <point x="40.95454545454545" y="-210.77272727272728" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <real>237.9</real>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

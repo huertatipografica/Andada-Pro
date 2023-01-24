@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="spacingGlyph" format="2">
+  <advance width="632.6"/>
+  <outline>
+    <contour>
+      <point x="138.1818181818182" y="730.0" type="line"/>
+      <point x="26.181818181818183" y="-73.0" type="line"/>
+      <point x="513.1818181818181" y="-73.0" type="line"/>
+      <point x="625.1818181818181" y="730.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

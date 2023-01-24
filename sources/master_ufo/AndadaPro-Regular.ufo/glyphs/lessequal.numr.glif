@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lessequal.numr" format="2">
+  <advance width="406"/>
+  <outline>
+    <contour>
+      <point x="279" y="371" type="line"/>
+      <point x="312" y="414" type="line"/>
+      <point x="151" y="527" type="line"/>
+      <point x="151" y="492" type="line"/>
+      <point x="312" y="605" type="line"/>
+      <point x="279" y="648" type="line"/>
+      <point x="87" y="509" type="line"/>
+    </contour>
+    <contour>
+      <point x="62" y="300" type="line"/>
+      <point x="343" y="300" type="line"/>
+      <point x="343" y="352" type="line"/>
+      <point x="62" y="349" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>20</integer>
+        <key>height</key>
+        <integer>61</integer>
+        <key>verticalShift</key>
+        <integer>300</integer>
+        <key>weight</key>
+        <integer>-24</integer>
+        <key>width</key>
+        <integer>62</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

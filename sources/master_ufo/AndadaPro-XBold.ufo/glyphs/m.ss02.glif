@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="m.ss02" format="2">
+  <advance width="831"/>
+  <outline>
+    <contour>
+      <point x="78" y="35" type="curve"/>
+      <point x="199" y="35" type="line"/>
+      <point x="202" y="76"/>
+      <point x="204" y="119"/>
+      <point x="213" y="169" type="curve" smooth="yes"/>
+      <point x="254" y="394" type="line"/>
+      <point x="233" y="392" type="line"/>
+      <point x="339" y="100" type="line"/>
+      <point x="429" y="100" type="line"/>
+      <point x="614" y="391" type="line"/>
+      <point x="593" y="394" type="line"/>
+      <point x="572" y="149" type="line" smooth="yes"/>
+      <point x="569" y="116"/>
+      <point x="556" y="51"/>
+      <point x="553" y="35" type="curve"/>
+      <point x="701" y="35" type="line"/>
+      <point x="698" y="43"/>
+      <point x="696" y="120"/>
+      <point x="698" y="168" type="curve" smooth="yes"/>
+      <point x="706" y="356" type="line" smooth="yes"/>
+      <point x="709" y="421"/>
+      <point x="715" y="450"/>
+      <point x="721" y="494" type="curve"/>
+      <point x="569" y="494" type="line"/>
+      <point x="527" y="405" type="line"/>
+      <point x="389" y="168" type="line"/>
+      <point x="424" y="168" type="line"/>
+      <point x="361" y="391" type="line"/>
+      <point x="336" y="494" type="line"/>
+      <point x="166" y="494" type="line"/>
+      <point x="163" y="458"/>
+      <point x="160" y="401"/>
+      <point x="155" y="375" type="curve" smooth="yes"/>
+      <point x="109" y="149" type="line" smooth="yes"/>
+      <point x="104" y="124"/>
+      <point x="91" y="79"/>
+    </contour>
+    <contour>
+      <point x="1" y="0" type="line"/>
+      <point x="766" y="0" type="line"/>
+      <point x="779" y="60" type="line"/>
+      <point x="4" y="60" type="line"/>
+    </contour>
+    <contour>
+      <point x="63" y="476" type="line"/>
+      <point x="830" y="476" type="line"/>
+      <point x="833" y="536" type="line"/>
+      <point x="68" y="536" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <integer>90</integer>
+        <key>verticalShift</key>
+        <integer>20</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="upDownArrow" format="2">
+  <advance width="541.6"/>
+  <unicode hex="2195"/>
+  <outline>
+    <contour>
+      <point x="98.36363636363636" y="408.3636363636364" type="line"/>
+      <point x="360.6363636363636" y="680.3636363636364" type="line"/>
+      <point x="289.54545454545456" y="680.3636363636364" type="line"/>
+      <point x="486.1818181818182" y="408.72727272727275" type="line"/>
+      <point x="557.3636363636364" y="465.0" type="line"/>
+      <point x="346.90909090909093" y="754.9090909090909" type="line"/>
+      <point x="319.1818181818182" y="754.9090909090909" type="line"/>
+      <point x="37.36363636363637" y="464.6363636363636" type="line"/>
+    </contour>
+    <contour>
+      <point x="197.54545454545453" y="-244.0" type="line"/>
+      <point x="225.9090909090909" y="-244.0" type="line"/>
+      <point x="506.09090909090907" y="46.27272727272727" type="line"/>
+      <point x="446.09090909090907" y="102.54545454545455" type="line"/>
+      <point x="183.45454545454547" y="-169.45454545454547" type="line"/>
+      <point x="255.27272727272728" y="-169.45454545454547" type="line"/>
+      <point x="58.90909090909091" y="102.18181818181819" type="line"/>
+      <point x="-13.90909090909091" y="45.90909090909091" type="line"/>
+    </contour>
+    <contour>
+      <point x="177.0" y="-172.1818181818182" type="line"/>
+      <point x="264.09090909090907" y="-172.1818181818182" type="line"/>
+      <point x="367.45454545454544" y="683.7272727272727" type="line"/>
+      <point x="281.0" y="683.7272727272727" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

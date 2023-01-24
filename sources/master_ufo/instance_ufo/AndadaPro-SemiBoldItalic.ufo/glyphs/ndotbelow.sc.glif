@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ndotbelow.sc" format="2">
+  <advance width="669.5"/>
+  <anchor x="276.09090909090907" y="-212.9090909090909" name="bottom"/>
+  <anchor x="373.1818181818182" y="530.0" name="top"/>
+  <outline>
+    <component base="n.sc"/>
+    <component base="dotbelowcomb" xOffset="209.27272727272728"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

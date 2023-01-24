@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="guillemetright.case" format="2">
+  <advance width="511.20454545454544"/>
+  <outline>
+    <contour>
+      <point x="92.22727272727273" y="132.3409090909091" type="line"/>
+      <point x="288.0681818181818" y="349.75" type="line"/>
+      <point x="144.61363636363637" y="566.3636363636364" type="line"/>
+      <point x="104.5909090909091" y="541.3409090909091" type="line"/>
+      <point x="200.79545454545453" y="314.22727272727275" type="line"/>
+      <point x="207.8181818181818" y="384.0681818181818" type="line"/>
+      <point x="56.59090909090909" y="158.1590909090909" type="line"/>
+    </contour>
+    <contour>
+      <point x="275.77272727272725" y="132.3409090909091" type="line"/>
+      <point x="471.6136363636364" y="349.75" type="line"/>
+      <point x="328.15909090909093" y="566.3636363636364" type="line"/>
+      <point x="288.1363636363636" y="541.3409090909091" type="line"/>
+      <point x="384.34090909090907" y="314.22727272727275" type="line"/>
+      <point x="391.3636363636364" y="384.0681818181818" type="line"/>
+      <point x="240.13636363636363" y="158.1590909090909" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>verticalShift</key>
+        <integer>100</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

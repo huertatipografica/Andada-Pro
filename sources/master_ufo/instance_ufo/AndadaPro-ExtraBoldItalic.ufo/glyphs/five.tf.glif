@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="five.tf" format="2">
+  <advance width="550.0"/>
+  <outline>
+    <contour>
+      <point x="46.11363636363637" y="-105.0" type="line"/>
+      <point x="321.04545454545456" y="-65.93181818181819"/>
+      <point x="474.5" y="45.43181818181818"/>
+      <point x="474.5" y="216.63636363636363" type="curve" smooth="yes"/>
+      <point x="474.5" y="322.40909090909093"/>
+      <point x="399.15909090909093" y="380.6136363636364"/>
+      <point x="268.40909090909093" y="380.6136363636364" type="curve" smooth="yes"/>
+      <point x="240.9318181818182" y="380.6136363636364"/>
+      <point x="197.8409090909091" y="375.5"/>
+      <point x="153.88636363636363" y="364.84090909090907" type="curve"/>
+      <point x="190.70454545454544" y="318.25" type="line"/>
+      <point x="231.72727272727272" y="528.3636363636364" type="line"/>
+      <point x="321.8636363636364" y="528.3636363636364" type="line"/>
+      <point x="494.77272727272725" y="543.5" type="line"/>
+      <point x="502.09090909090907" y="663.0" type="line"/>
+      <point x="254.54545454545453" y="653.0" type="line"/>
+      <point x="168.04545454545453" y="653.0" type="line"/>
+      <point x="147.04545454545453" y="635.0" type="line"/>
+      <point x="80.38636363636364" y="318.1818181818182" type="line"/>
+      <point x="120.47727272727272" y="268.27272727272725" type="line"/>
+      <point x="160.5" y="279.27272727272725"/>
+      <point x="191.27272727272728" y="283.15909090909093"/>
+      <point x="215.1590909090909" y="283.15909090909093" type="curve" smooth="yes"/>
+      <point x="285.8636363636364" y="283.15909090909093"/>
+      <point x="324.1136363636364" y="251.25"/>
+      <point x="324.1136363636364" y="189.11363636363637" type="curve" smooth="yes"/>
+      <point x="324.1136363636364" y="62.34090909090909"/>
+      <point x="215.86363636363637" y="2.25"/>
+      <point x="33.34090909090909" y="-33.61363636363636" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>monoWidth</key>
+        <integer>550</integer>
+        <key>useSpacing</key>
+        <integer>80</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

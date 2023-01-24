@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="saltillo.case" format="2">
+  <advance width="157.8"/>
+  <outline>
+    <contour>
+      <point x="103.9090909090909" y="257.3636363636364" type="line"/>
+      <point x="182.9090909090909" y="638.0" type="line"/>
+      <point x="166.9090909090909" y="655.0" type="line"/>
+      <point x="79.18181818181819" y="655.0" type="line"/>
+      <point x="79.18181818181819" y="655.0"/>
+      <point x="73.36363636363636" y="458.3636363636364"/>
+      <point x="71.36363636363636" y="443.3636363636364" type="curve"/>
+      <point x="37.72727272727273" y="263.27272727272725" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

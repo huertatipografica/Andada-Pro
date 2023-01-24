@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="leftRightArrow.case" format="2">
+  <advance width="1275.7"/>
+  <outline>
+    <contour>
+      <point x="896" y="72" type="line"/>
+      <point x="1191" y="328" type="line"/>
+      <point x="1191" y="343" type="line"/>
+      <point x="895" y="599" type="line"/>
+      <point x="855" y="548" type="line"/>
+      <point x="1127" y="313" type="line"/>
+      <point x="1127" y="358" type="line"/>
+      <point x="856" y="123" type="line"/>
+    </contour>
+    <contour>
+      <point x="380" y="72" type="line"/>
+      <point x="421" y="123" type="line"/>
+      <point x="149" y="357" type="line"/>
+      <point x="150" y="312" type="line"/>
+      <point x="420" y="548" type="line"/>
+      <point x="379" y="599" type="line"/>
+      <point x="85" y="342" type="line"/>
+      <point x="85" y="327" type="line"/>
+    </contour>
+    <contour>
+      <point x="113" y="305" type="line"/>
+      <point x="1162" y="305" type="line"/>
+      <point x="1163" y="363" type="line"/>
+      <point x="114" y="363" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>verticalShift</key>
+        <integer>80</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

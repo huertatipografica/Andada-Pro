@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="seven.sc" format="2">
+  <advance width="475.0"/>
+  <outline>
+    <contour>
+      <point x="135.04545454545456" y="-86.0" type="line"/>
+      <point x="460.0" y="488.77272727272725" type="line"/>
+      <point x="453.40909090909093" y="535.0" type="line"/>
+      <point x="210.8181818181818" y="535.0" type="line" smooth="yes"/>
+      <point x="192.63636363636363" y="535.0"/>
+      <point x="112.63636363636364" y="542.0"/>
+      <point x="112.63636363636364" y="542.0" type="curve"/>
+      <point x="95.04545454545455" y="526.0" type="line"/>
+      <point x="67.18181818181819" y="375.72727272727275" type="line"/>
+      <point x="122.77272727272728" y="373.1363636363636" type="line"/>
+      <point x="134.1818181818182" y="411.5" type="line" smooth="yes"/>
+      <point x="136.5909090909091" y="418.72727272727275"/>
+      <point x="156.22727272727272" y="455.22727272727275"/>
+      <point x="172.0909090909091" y="482.3636363636364" type="curve"/>
+      <point x="107.0" y="439.54545454545456" type="line"/>
+      <point x="142.5909090909091" y="443.54545454545456"/>
+      <point x="190.77272727272728" y="447.3636363636364"/>
+      <point x="206.1818181818182" y="447.3636363636364" type="curve" smooth="yes"/>
+      <point x="379.6818181818182" y="447.3636363636364" type="line"/>
+      <point x="354.3636363636364" y="488.1363636363636" type="line"/>
+      <point x="316.59090909090907" y="394.3181818181818"/>
+      <point x="296.5" y="347.4090909090909"/>
+      <point x="284.90909090909093" y="326.27272727272725" type="curve" smooth="yes"/>
+      <point x="52.90909090909091" y="-57.27272727272727" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>24</integer>
+        <key>height</key>
+        <integer>82</integer>
+        <key>weight</key>
+        <integer>-10</integer>
+        <key>width</key>
+        <integer>85</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

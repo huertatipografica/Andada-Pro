@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="asterisk.sc" format="2">
+  <advance width="428"/>
+  <outline>
+    <contour>
+      <point x="166" y="317" type="line"/>
+      <point x="265" y="434" type="line"/>
+      <point x="224" y="468" type="line"/>
+      <point x="113" y="362" type="line"/>
+    </contour>
+    <contour>
+      <point x="241" y="410" type="line"/>
+      <point x="263" y="464" type="line"/>
+      <point x="132" y="516" type="line"/>
+      <point x="102" y="444" type="line"/>
+    </contour>
+    <contour>
+      <point x="279" y="314" type="line"/>
+      <point x="340" y="363" type="line"/>
+      <point x="257" y="468" type="line"/>
+      <point x="209" y="430" type="line"/>
+    </contour>
+    <contour>
+      <point x="205" y="427" type="line"/>
+      <point x="264" y="430" type="line"/>
+      <point x="289" y="572" type="line"/>
+      <point x="212" y="568" type="line"/>
+    </contour>
+    <contour>
+      <point x="227" y="411" type="line"/>
+      <point x="375" y="445" type="line"/>
+      <point x="358" y="516" type="line"/>
+      <point x="215" y="464" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>24</integer>
+        <key>height</key>
+        <integer>77</integer>
+        <key>verticalShift</key>
+        <integer>-10</integer>
+        <key>weight</key>
+        <integer>-16</integer>
+        <key>width</key>
+        <integer>82</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

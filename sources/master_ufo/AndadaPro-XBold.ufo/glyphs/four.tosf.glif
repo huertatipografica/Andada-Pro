@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="four.tosf" format="2">
+  <advance width="550"/>
+  <outline>
+    <contour>
+      <point x="62" y="7" type="line"/>
+      <point x="281" y="7" type="line"/>
+      <point x="292" y="98" type="line"/>
+      <point x="79" y="98" type="line"/>
+      <point x="99" y="47" type="line"/>
+      <point x="358" y="356" type="line" smooth="yes"/>
+      <point x="377" y="379"/>
+      <point x="488" y="481"/>
+      <point x="488" y="481" type="curve"/>
+      <point x="398" y="565" type="line"/>
+      <point x="-2" y="99" type="line"/>
+    </contour>
+    <contour>
+      <point x="240" y="-219" type="line"/>
+      <point x="386" y="-173" type="line"/>
+      <point x="434" y="243" type="line"/>
+      <point x="287" y="196" type="line"/>
+    </contour>
+    <contour>
+      <point x="391" y="7" type="line"/>
+      <point x="499" y="7" type="line"/>
+      <point x="512" y="112" type="line"/>
+      <point x="402" y="106" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>keepStroke</key>
+        <integer>100</integer>
+        <key>monoWidth</key>
+        <integer>550</integer>
+        <key>useSpacing</key>
+        <integer>70</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

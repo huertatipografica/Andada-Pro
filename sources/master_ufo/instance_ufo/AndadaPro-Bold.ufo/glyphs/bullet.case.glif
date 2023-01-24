@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bullet.case" format="2">
+  <advance width="367.8"/>
+  <outline>
+    <contour>
+      <point x="183.45454545454547" y="241.0909090909091" type="curve" smooth="yes"/>
+      <point x="240.45454545454547" y="241.0909090909091"/>
+      <point x="272.6363636363636" y="279.90909090909093"/>
+      <point x="272.6363636363636" y="336.27272727272725" type="curve" smooth="yes"/>
+      <point x="272.6363636363636" y="396.6363636363636"/>
+      <point x="239.1818181818182" y="432.09090909090907"/>
+      <point x="183.45454545454547" y="432.09090909090907" type="curve" smooth="yes"/>
+      <point x="126.45454545454545" y="432.09090909090907"/>
+      <point x="94.63636363636364" y="392.6363636363636"/>
+      <point x="94.63636363636364" y="336.27272727272725" type="curve" smooth="yes"/>
+      <point x="94.63636363636364" y="279.90909090909093"/>
+      <point x="126.45454545454545" y="241.0909090909091"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>verticalShift</key>
+        <integer>88</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

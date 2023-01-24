@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ordmasculine.sc" format="2">
+  <advance width="346.8"/>
+  <outline>
+    <contour>
+      <point x="167" y="331" type="curve" smooth="yes"/>
+      <point x="258" y="331"/>
+      <point x="336" y="425"/>
+      <point x="336" y="538" type="curve" smooth="yes"/>
+      <point x="336" y="609"/>
+      <point x="302" y="647"/>
+      <point x="241" y="647" type="curve" smooth="yes"/>
+      <point x="149" y="647"/>
+      <point x="72" y="552"/>
+      <point x="72" y="440" type="curve" smooth="yes"/>
+      <point x="72" y="370"/>
+      <point x="107" y="331"/>
+    </contour>
+    <contour>
+      <point x="182" y="377" type="curve" smooth="yes"/>
+      <point x="159" y="377"/>
+      <point x="146" y="401"/>
+      <point x="146" y="441" type="curve" smooth="yes"/>
+      <point x="146" y="538"/>
+      <point x="177" y="601"/>
+      <point x="226" y="601" type="curve" smooth="yes"/>
+      <point x="250" y="601"/>
+      <point x="262" y="577"/>
+      <point x="262" y="537" type="curve" smooth="yes"/>
+      <point x="262" y="439"/>
+      <point x="230" y="377"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>10</integer>
+        <key>height</key>
+        <integer>61</integer>
+        <key>verticalShift</key>
+        <integer>340</integer>
+        <key>weight</key>
+        <integer>-24</integer>
+        <key>width</key>
+        <integer>62</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

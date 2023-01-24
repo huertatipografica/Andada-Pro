@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="five.tosf" format="2">
+  <advance width="550.0"/>
+  <outline>
+    <contour>
+      <point x="41.65909090909091" y="-221.25" type="line"/>
+      <point x="312.6136363636364" y="-182.1818181818182"/>
+      <point x="460.6136363636364" y="-67.70454545454545"/>
+      <point x="460.6136363636364" y="100.27272727272728" type="curve" smooth="yes"/>
+      <point x="460.6136363636364" y="206.04545454545456"/>
+      <point x="385.3863636363636" y="264.3636363636364"/>
+      <point x="253.52272727272728" y="264.3636363636364" type="curve" smooth="yes"/>
+      <point x="222.1590909090909" y="264.3636363636364"/>
+      <point x="182.72727272727272" y="258.25"/>
+      <point x="141.0" y="248.5909090909091" type="curve"/>
+      <point x="177.70454545454544" y="201.0" type="line"/>
+      <point x="214.95454545454547" y="412.1136363636364" type="line"/>
+      <point x="305.20454545454544" y="412.1136363636364" type="line"/>
+      <point x="473.22727272727275" y="427.25" type="line"/>
+      <point x="479.65909090909093" y="546.75" type="line"/>
+      <point x="233.88636363636363" y="536.75" type="line"/>
+      <point x="149.38636363636363" y="536.75" type="line"/>
+      <point x="128.27272727272728" y="518.75" type="line"/>
+      <point x="68.38636363636364" y="201.9318181818182" type="line"/>
+      <point x="108.47727272727272" y="152.02272727272728" type="line"/>
+      <point x="150.5909090909091" y="163.79545454545453"/>
+      <point x="180.47727272727272" y="165.9090909090909"/>
+      <point x="201.27272727272728" y="165.9090909090909" type="curve" smooth="yes"/>
+      <point x="272.09090909090907" y="165.9090909090909"/>
+      <point x="309.45454545454544" y="135.0"/>
+      <point x="309.45454545454544" y="73.63636363636364" type="curve" smooth="yes"/>
+      <point x="309.45454545454544" y="-51.59090909090909"/>
+      <point x="206.4090909090909" y="-114.11363636363637"/>
+      <point x="28.0" y="-149.86363636363637" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>monoWidth</key>
+        <integer>550</integer>
+        <key>useSpacing</key>
+        <integer>80</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

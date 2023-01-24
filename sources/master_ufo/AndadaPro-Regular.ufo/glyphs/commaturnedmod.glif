@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="commaturnedmod" format="2">
+  <advance width="231.8"/>
+  <unicode hex="02BB"/>
+  <outline>
+    <contour>
+      <point x="164" y="734" type="line"/>
+      <point x="78" y="713"/>
+      <point x="36" y="623"/>
+      <point x="36" y="544" type="curve" smooth="yes"/>
+      <point x="36" y="498"/>
+      <point x="52" y="456"/>
+      <point x="98" y="456" type="curve" smooth="yes"/>
+      <point x="135" y="456"/>
+      <point x="158" y="486"/>
+      <point x="158" y="524" type="curve" smooth="yes"/>
+      <point x="158" y="568"/>
+      <point x="129" y="604"/>
+      <point x="77" y="591" type="curve"/>
+      <point x="108" y="575" type="line"/>
+      <point x="95" y="627"/>
+      <point x="126" y="676"/>
+      <point x="174" y="698" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

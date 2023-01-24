@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ldotbelow" format="2">
+  <advance width="564.2727272727273"/>
+  <unicode hex="1E36"/>
+  <anchor x="243.8409090909091" y="-218.63636363636363" name="bottom"/>
+  <anchor x="204.8409090909091" y="355.0" name="center"/>
+  <anchor x="548.7954545454545" y="423.0" name="centerright"/>
+  <anchor x="293.65909090909093" y="720.0" name="top"/>
+  <anchor x="490.70454545454544" y="494.0" name="topright"/>
+  <outline>
+    <component base="L"/>
+    <component base="dotbelowcomb" xOffset="176.0681818181818"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

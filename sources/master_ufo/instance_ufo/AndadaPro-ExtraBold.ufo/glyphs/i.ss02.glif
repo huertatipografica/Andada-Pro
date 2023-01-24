@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="i.ss02" format="2">
+  <advance width="429.875"/>
+  <outline>
+    <contour>
+      <point x="135.45454545454547" y="44.52272727272727" type="curve"/>
+      <point x="294.4090909090909" y="44.52272727272727" type="line"/>
+      <point x="289.6363636363636" y="72.38636363636364"/>
+      <point x="280.8636363636364" y="133.1590909090909"/>
+      <point x="280.8636363636364" y="171.38636363636363" type="curve" smooth="yes"/>
+      <point x="280.8636363636364" y="363.5" type="line" smooth="yes"/>
+      <point x="280.8636363636364" y="401.04545454545456"/>
+      <point x="286.8636363636364" y="446.4318181818182"/>
+      <point x="295.29545454545456" y="499.1363636363636" type="curve"/>
+      <point x="135.45454545454547" y="496.25" type="line"/>
+      <point x="144.0" y="461.95454545454544"/>
+      <point x="149.22727272727272" y="405.04545454545456"/>
+      <point x="149.22727272727272" y="383.6136363636364" type="curve" smooth="yes"/>
+      <point x="149.22727272727272" y="150.38636363636363" type="line" smooth="yes"/>
+      <point x="149.22727272727272" y="122.86363636363636"/>
+      <point x="140.3409090909091" y="75.93181818181819"/>
+    </contour>
+    <contour>
+      <point x="-16.886363636363637" y="0.0" type="line"/>
+      <point x="445.79545454545456" y="0.0" type="line"/>
+      <point x="450.6818181818182" y="49.40909090909091" type="line"/>
+      <point x="-20.886363636363637" y="49.40909090909091" type="line"/>
+    </contour>
+    <contour>
+      <point x="-16.34090909090909" y="487.25" type="line"/>
+      <point x="448.90909090909093" y="487.25" type="line"/>
+      <point x="444.90909090909093" y="536.0" type="line"/>
+      <point x="-18.65909090909091" y="536.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>3</integer>
+        <key>height</key>
+        <integer>76</integer>
+        <key>weight</key>
+        <integer>-12</integer>
+        <key>width</key>
+        <integer>82</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

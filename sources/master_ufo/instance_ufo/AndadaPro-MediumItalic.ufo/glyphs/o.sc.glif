@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="o.sc" format="2">
+  <advance width="660.375"/>
+  <anchor x="294.8636363636364" y="0.0" name="bottom"/>
+  <anchor x="333.0681818181818" y="272.0" name="center"/>
+  <anchor x="404.04545454545456" y="0.0" name="ogonek"/>
+  <anchor x="369.0681818181818" y="530.0" name="top"/>
+  <anchor x="76.43181818181819" y="543.0" name="topleft"/>
+  <anchor x="518.4318181818181" y="477.0" name="topright"/>
+  <outline>
+    <contour>
+      <point x="294.0681818181818" y="-12.0" type="curve" smooth="yes"/>
+      <point x="490.25" y="-12.0"/>
+      <point x="606.1590909090909" y="128.1590909090909"/>
+      <point x="606.1590909090909" y="316.1818181818182" type="curve" smooth="yes"/>
+      <point x="606.1590909090909" y="465.77272727272725"/>
+      <point x="517.9090909090909" y="554.0"/>
+      <point x="372.0681818181818" y="554.0" type="curve" smooth="yes"/>
+      <point x="175.0909090909091" y="554.0"/>
+      <point x="59.18181818181818" y="414.84090909090907"/>
+      <point x="59.18181818181818" y="226.02272727272728" type="curve" smooth="yes"/>
+      <point x="59.18181818181818" y="78.02272727272727"/>
+      <point x="147.4318181818182" y="-12.0"/>
+    </contour>
+    <contour>
+      <point x="298.09090909090907" y="43.34090909090909" type="curve" smooth="yes"/>
+      <point x="211.3409090909091" y="43.34090909090909"/>
+      <point x="163.4090909090909" y="106.04545454545455"/>
+      <point x="163.4090909090909" y="219.5681818181818" type="curve" smooth="yes"/>
+      <point x="163.4090909090909" y="371.79545454545456"/>
+      <point x="231.70454545454547" y="499.65909090909093"/>
+      <point x="367.45454545454544" y="499.65909090909093" type="curve" smooth="yes"/>
+      <point x="454.0" y="499.65909090909093"/>
+      <point x="501.9318181818182" y="436.95454545454544"/>
+      <point x="501.9318181818182" y="324.02272727272725" type="curve" smooth="yes"/>
+      <point x="501.9318181818182" y="171.0"/>
+      <point x="433.4318181818182" y="43.34090909090909"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>24</integer>
+        <key>height</key>
+        <integer>77</integer>
+        <key>weight</key>
+        <integer>-10</integer>
+        <key>width</key>
+        <integer>82</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="six.sc" format="2">
+  <advance width="496.5"/>
+  <outline>
+    <contour>
+      <point x="222" y="-9" type="curve" smooth="yes"/>
+      <point x="323" y="-9"/>
+      <point x="432" y="66"/>
+      <point x="432" y="194" type="curve" smooth="yes"/>
+      <point x="432" y="282"/>
+      <point x="376" y="331"/>
+      <point x="282" y="331" type="curve" smooth="yes"/>
+      <point x="260" y="331"/>
+      <point x="237" y="326"/>
+      <point x="214" y="320" type="curve"/>
+      <point x="214" y="277" type="line"/>
+      <point x="234" y="280"/>
+      <point x="251" y="281"/>
+      <point x="264" y="281" type="curve" smooth="yes"/>
+      <point x="320" y="281"/>
+      <point x="345" y="239"/>
+      <point x="345" y="190" type="curve" smooth="yes"/>
+      <point x="345" y="108"/>
+      <point x="293" y="42"/>
+      <point x="228" y="42" type="curve" smooth="yes"/>
+      <point x="164" y="42"/>
+      <point x="140" y="102"/>
+      <point x="140" y="166" type="curve" smooth="yes"/>
+      <point x="140" y="334"/>
+      <point x="261" y="510"/>
+      <point x="471" y="569" type="curve"/>
+      <point x="466" y="613" type="line"/>
+      <point x="231" y="570"/>
+      <point x="54" y="368"/>
+      <point x="54" y="164" type="curve" smooth="yes"/>
+      <point x="54" y="59"/>
+      <point x="113" y="-9"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>24</integer>
+        <key>height</key>
+        <integer>82</integer>
+        <key>weight</key>
+        <integer>-10</integer>
+        <key>width</key>
+        <integer>85</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

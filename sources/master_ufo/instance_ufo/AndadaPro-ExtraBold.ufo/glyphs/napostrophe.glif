@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="napostrophe" format="2">
+  <advance width="746.125"/>
+  <unicode hex="0149"/>
+  <anchor x="415.97727272727275" y="0.0" name="bottom"/>
+  <anchor x="425.04545454545456" y="494.0" name="top"/>
+  <anchor x="80.52272727272728" y="537.0" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="132.5909090909091" y="-5.0" type="line"/>
+      <point x="172.25" y="-3.0"/>
+      <point x="240.20454545454544" y="0.0"/>
+      <point x="251.45454545454544" y="0.0" type="curve"/>
+      <point x="406.9318181818182" y="0.0" type="line"/>
+      <point x="412.04545454545456" y="68.8409090909091" type="line"/>
+      <point x="285.75" y="80.61363636363636" type="line"/>
+      <point x="351.1136363636364" y="33.86363636363636" type="line"/>
+      <point x="346.22727272727275" y="64.95454545454545"/>
+      <point x="336.79545454545456" y="123.52272727272728"/>
+      <point x="336.79545454545456" y="189.70454545454544" type="curve" smooth="yes"/>
+      <point x="336.79545454545456" y="266.1363636363636" type="line" smooth="yes"/>
+      <point x="336.79545454545456" y="357.15909090909093"/>
+      <point x="385.79545454545456" y="407.8863636363636"/>
+      <point x="439.4318181818182" y="407.8863636363636" type="curve" smooth="yes"/>
+      <point x="495.40909090909093" y="407.8863636363636"/>
+      <point x="516.9545454545455" y="362.65909090909093"/>
+      <point x="516.9545454545455" y="306.6818181818182" type="curve" smooth="yes"/>
+      <point x="516.9545454545455" y="159.70454545454544" type="line" smooth="yes"/>
+      <point x="516.9545454545455" y="142.54545454545456"/>
+      <point x="511.5" y="66.6590909090909"/>
+      <point x="507.27272727272725" y="32.47727272727273" type="curve"/>
+      <point x="569.9772727272727" y="87.38636363636364" type="line"/>
+      <point x="454.02272727272725" y="62.5" type="line"/>
+      <point x="459.02272727272725" y="-5.0" type="line"/>
+      <point x="498.22727272727275" y="-3.0"/>
+      <point x="558.0" y="0.0"/>
+      <point x="576.75" y="0.0" type="curve"/>
+      <point x="719.9318181818181" y="0.0" type="line"/>
+      <point x="725.0454545454545" y="68.8409090909091" type="line"/>
+      <point x="598.75" y="80.61363636363636" type="line"/>
+      <point x="664.0" y="35.88636363636363" type="line"/>
+      <point x="660.0" y="62.77272727272727"/>
+      <point x="649.6818181818182" y="123.86363636363636"/>
+      <point x="649.6818181818182" y="189.70454545454544" type="curve" smooth="yes"/>
+      <point x="649.6818181818182" y="318.8636363636364" type="line" smooth="yes"/>
+      <point x="649.6818181818182" y="437.59090909090907"/>
+      <point x="594.9772727272727" y="503.0"/>
+      <point x="482.3409090909091" y="503.0" type="curve" smooth="yes"/>
+      <point x="391.27272727272725" y="503.0"/>
+      <point x="335.9318181818182" y="445.70454545454544"/>
+      <point x="293.52272727272725" y="364.5" type="curve"/>
+      <point x="333.25" y="297.6363636363636" type="line"/>
+      <point x="308.6136363636364" y="475.1136363636364" type="line"/>
+      <point x="287.8409090909091" y="494.0" type="line"/>
+      <point x="186.29545454545453" y="494.0" type="line"/>
+      <point x="190.29545454545453" y="469.45454545454544"/>
+      <point x="204.1818181818182" y="357.95454545454544"/>
+      <point x="204.1818181818182" y="328.52272727272725" type="curve" smooth="yes"/>
+      <point x="204.1818181818182" y="159.70454545454544" type="line" smooth="yes"/>
+      <point x="204.1818181818182" y="130.27272727272728"/>
+      <point x="192.8409090909091" y="56.40909090909091"/>
+      <point x="188.1818181818182" y="29.0" type="curve"/>
+      <point x="253.77272727272728" y="85.5" type="line"/>
+      <point x="127.5909090909091" y="62.5" type="line"/>
+    </contour>
+    <component base="apostrophemod" xOffset="-20.545454545454547" yOffset="-160.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>apostrophemod</string>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

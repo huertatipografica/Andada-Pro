@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="squareddotoperator" format="2">
+  <advance width="944.25"/>
+  <unicode hex="22A1"/>
+  <outline>
+    <contour>
+      <point x="89.0909090909091" y="0.0" type="line"/>
+      <point x="794.0909090909091" y="0.0" type="line"/>
+      <point x="880.0909090909091" y="705.0" type="line"/>
+      <point x="175.0909090909091" y="705.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="185.0909090909091" y="85.68181818181819" type="line"/>
+      <point x="250.3409090909091" y="619.4318181818181" type="line"/>
+      <point x="784.0909090909091" y="619.4318181818181" type="line"/>
+      <point x="718.8409090909091" y="85.68181818181819" type="line"/>
+    </contour>
+    <contour>
+      <point x="470.8636363636364" y="252.9318181818182" type="curve" smooth="yes"/>
+      <point x="531.8409090909091" y="252.9318181818182"/>
+      <point x="575.1590909090909" y="302.1363636363636"/>
+      <point x="575.1590909090909" y="373.77272727272725" type="curve" smooth="yes"/>
+      <point x="575.1590909090909" y="422.75"/>
+      <point x="546.9545454545455" y="452.1818181818182"/>
+      <point x="499.20454545454544" y="452.1818181818182" type="curve" smooth="yes"/>
+      <point x="438.3409090909091" y="452.1818181818182"/>
+      <point x="395.02272727272725" y="401.09090909090907"/>
+      <point x="395.02272727272725" y="331.22727272727275" type="curve" smooth="yes"/>
+      <point x="395.02272727272725" y="284.25"/>
+      <point x="421.22727272727275" y="252.9318181818182"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Symbol</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

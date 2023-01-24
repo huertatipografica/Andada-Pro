@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Idblgrave" format="2">
+  <advance width="366.0"/>
+  <unicode hex="0208"/>
+  <anchor x="147.1818181818182" y="0.0" name="bottom"/>
+  <anchor x="284.54545454545456" y="10.0" name="ogonek"/>
+  <anchor x="200.0909090909091" y="1007.0" name="top"/>
+  <anchor x="95.9090909090909" y="705.0" name="topleft"/>
+  <outline>
+    <component base="I"/>
+    <component base="dblgravecomb.case" xOffset="-131.9090909090909" yOffset="15.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

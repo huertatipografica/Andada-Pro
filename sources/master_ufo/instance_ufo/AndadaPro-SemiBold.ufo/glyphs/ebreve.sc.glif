@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ebreve.sc" format="2">
+  <advance width="567.7727272727273"/>
+  <anchor x="293.77272727272725" y="0.0" name="bottom"/>
+  <anchor x="466.0" y="-3.0" name="ogonek"/>
+  <anchor x="276.27272727272725" y="698.0454545454545" name="top"/>
+  <outline>
+    <component base="e.sc"/>
+    <component base="brevecomb" xOffset="92.95454545454545" yOffset="36.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

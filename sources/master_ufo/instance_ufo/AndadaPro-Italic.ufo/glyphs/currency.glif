@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="currency" format="2">
+  <advance width="671"/>
+  <unicode hex="00A4"/>
+  <outline>
+    <contour>
+      <point x="319" y="70" type="curve" smooth="yes"/>
+      <point x="475" y="70"/>
+      <point x="579" y="186"/>
+      <point x="579" y="363" type="curve" smooth="yes"/>
+      <point x="579" y="482"/>
+      <point x="514" y="558"/>
+      <point x="384" y="558" type="curve" smooth="yes"/>
+      <point x="228" y="558"/>
+      <point x="124" y="441"/>
+      <point x="124" y="266" type="curve" smooth="yes"/>
+      <point x="124" y="148"/>
+      <point x="188" y="70"/>
+    </contour>
+    <contour>
+      <point x="77" y="29" type="line"/>
+      <point x="190" y="140" type="line"/>
+      <point x="158" y="166" type="line"/>
+      <point x="49" y="60" type="line"/>
+    </contour>
+    <contour>
+      <point x="520" y="30" type="line"/>
+      <point x="557" y="60" type="line"/>
+      <point x="476" y="166" type="line"/>
+      <point x="436" y="140" type="line"/>
+    </contour>
+    <contour>
+      <point x="326" y="126" type="curve" smooth="yes"/>
+      <point x="242" y="126"/>
+      <point x="214" y="189"/>
+      <point x="214" y="265" type="curve" smooth="yes"/>
+      <point x="214" y="407"/>
+      <point x="280" y="502"/>
+      <point x="376" y="502" type="curve" smooth="yes"/>
+      <point x="459" y="502"/>
+      <point x="487" y="439"/>
+      <point x="487" y="361" type="curve" smooth="yes"/>
+      <point x="487" y="219"/>
+      <point x="423" y="126"/>
+    </contour>
+    <contour>
+      <point x="194" y="463" type="line"/>
+      <point x="232" y="491" type="line"/>
+      <point x="153" y="596" type="line"/>
+      <point x="118" y="565" type="line"/>
+    </contour>
+    <contour>
+      <point x="519" y="463" type="line"/>
+      <point x="624" y="566" type="line"/>
+      <point x="596" y="597" type="line"/>
+      <point x="489" y="491" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <integer>95</integer>
+        <key>verticalShift</key>
+        <integer>80</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Symbol</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

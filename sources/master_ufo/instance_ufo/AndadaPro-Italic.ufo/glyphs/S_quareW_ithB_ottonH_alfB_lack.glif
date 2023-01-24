@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="SquareWithBottonHalfBlack" format="2">
+  <advance width="858.4"/>
+  <unicode hex="2B13"/>
+  <outline>
+    <contour>
+      <point x="89" y="0" type="line"/>
+      <point x="794" y="0" type="line"/>
+      <point x="794" y="705" type="line"/>
+      <point x="89" y="705" type="line"/>
+    </contour>
+    <contour>
+      <point x="141" y="320" type="line"/>
+      <point x="141" y="687" type="line"/>
+      <point x="107" y="654" type="line"/>
+      <point x="776" y="654" type="line"/>
+      <point x="743" y="687" type="line"/>
+      <point x="743" y="320" type="line"/>
+      <point x="776" y="353" type="line"/>
+      <point x="107" y="353" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Symbol</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Geometry</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

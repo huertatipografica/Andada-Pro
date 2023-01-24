@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="horizontalbar" format="2">
+  <advance width="1155.55"/>
+  <unicode hex="2015"/>
+  <outline>
+    <contour>
+      <point x="77.36363636363636" y="212.5" type="line"/>
+      <point x="1076.3636363636363" y="212.5" type="line"/>
+      <point x="1081.3636363636363" y="294.5" type="line"/>
+      <point x="75.36363636363636" y="294.5" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

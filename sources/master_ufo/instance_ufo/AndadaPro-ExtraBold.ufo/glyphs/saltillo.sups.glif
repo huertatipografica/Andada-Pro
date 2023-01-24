@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="saltillo.sups" format="2">
+  <advance width="219.25"/>
+  <outline>
+    <contour>
+      <point x="135.86363636363637" y="489.09090909090907" type="line"/>
+      <point x="150.75" y="741.7045454545455" type="line"/>
+      <point x="138.86363636363637" y="752.7045454545455" type="line"/>
+      <point x="65.68181818181819" y="752.7045454545455" type="line"/>
+      <point x="70.45454545454545" y="711.9318181818181"/>
+      <point x="83.45454545454545" y="621.8409090909091"/>
+      <point x="83.45454545454545" y="615.7272727272727" type="curve" smooth="yes"/>
+      <point x="74.79545454545455" y="492.97727272727275" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>10</integer>
+        <key>height</key>
+        <integer>61</integer>
+        <key>verticalShift</key>
+        <integer>330</integer>
+        <key>weight</key>
+        <integer>-24</integer>
+        <key>width</key>
+        <integer>62</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Small</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

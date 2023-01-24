@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="endash.case" format="2">
+  <advance width="649.5"/>
+  <outline>
+    <contour>
+      <point x="75.22727272727273" y="296.90909090909093" type="line"/>
+      <point x="572.2272727272727" y="296.90909090909093" type="line"/>
+      <point x="577.2272727272727" y="388.04545454545456" type="line"/>
+      <point x="73.22727272727273" y="388.04545454545456" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>verticalShift</key>
+        <integer>80</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

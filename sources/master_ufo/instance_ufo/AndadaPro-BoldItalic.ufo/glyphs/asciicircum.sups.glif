@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="asciicircum.sups" format="2">
+  <advance width="419.0"/>
+  <outline>
+    <contour>
+      <point x="123.72727272727273" y="525.9090909090909" type="line"/>
+      <point x="288.72727272727275" y="723.6363636363636" type="line"/>
+      <point x="245.1818181818182" y="723.6363636363636" type="line"/>
+      <point x="362.90909090909093" y="525.9090909090909" type="line"/>
+      <point x="422.09090909090907" y="562.0" type="line"/>
+      <point x="274.27272727272725" y="786.6363636363636" type="line"/>
+      <point x="73.0909090909091" y="562.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>10</integer>
+        <key>height</key>
+        <integer>60</integer>
+        <key>verticalShift</key>
+        <integer>330</integer>
+        <key>weight</key>
+        <integer>-25</integer>
+        <key>width</key>
+        <integer>62</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Symbol</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>264</integer>
+            <integer>21</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

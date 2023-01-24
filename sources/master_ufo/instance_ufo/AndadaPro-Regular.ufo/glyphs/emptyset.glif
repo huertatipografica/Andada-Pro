@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="emptyset" format="2">
+  <advance width="932.6"/>
+  <unicode hex="2205"/>
+  <outline>
+    <contour>
+      <point x="466" y="-15" type="curve" smooth="yes"/>
+      <point x="668" y="-15"/>
+      <point x="832" y="152"/>
+      <point x="832" y="350" type="curve" smooth="yes"/>
+      <point x="832" y="554"/>
+      <point x="669" y="715"/>
+      <point x="466" y="715" type="curve" smooth="yes"/>
+      <point x="266" y="715"/>
+      <point x="101" y="552"/>
+      <point x="101" y="350" type="curve" smooth="yes"/>
+      <point x="101" y="144"/>
+      <point x="268" y="-15"/>
+    </contour>
+    <contour>
+      <point x="467" y="50" type="curve" smooth="yes"/>
+      <point x="302" y="50"/>
+      <point x="167" y="185"/>
+      <point x="167" y="350" type="curve" smooth="yes"/>
+      <point x="167" y="519"/>
+      <point x="302" y="650"/>
+      <point x="467" y="650" type="curve" smooth="yes"/>
+      <point x="631" y="650"/>
+      <point x="766" y="514"/>
+      <point x="766" y="350" type="curve" smooth="yes"/>
+      <point x="766" y="185"/>
+      <point x="632" y="50"/>
+    </contour>
+    <component base="fraction" xOffset="356" yOffset="13"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>fraction</string>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

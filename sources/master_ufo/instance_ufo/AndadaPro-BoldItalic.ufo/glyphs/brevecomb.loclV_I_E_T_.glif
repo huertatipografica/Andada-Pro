@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevecomb.loclVIET" format="2">
+  <anchor x="238.27272727272728" y="494.0" name="_top"/>
+  <anchor x="237.27272727272728" y="627.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="238.27272727272728" y="543.0" type="curve" smooth="yes"/>
+      <point x="302.0" y="543.0"/>
+      <point x="370.6363636363636" y="576.2727272727273"/>
+      <point x="390.72727272727275" y="648.5454545454545" type="curve"/>
+      <point x="345.1818181818182" y="666.2727272727273" type="line"/>
+      <point x="326.09090909090907" y="625.7272727272727"/>
+      <point x="282.3636363636364" y="606.0909090909091"/>
+      <point x="238.27272727272728" y="606.0909090909091" type="curve" smooth="yes"/>
+      <point x="194.54545454545453" y="606.0909090909091"/>
+      <point x="150.72727272727272" y="625.7272727272727"/>
+      <point x="131.36363636363637" y="666.2727272727273" type="curve"/>
+      <point x="85.45454545454545" y="648.5454545454545" type="line"/>
+      <point x="105.63636363636364" y="579.0909090909091"/>
+      <point x="170.72727272727272" y="543.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <integer>90</integer>
+        <key>verticalShift</key>
+        <integer>49</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>356</integer>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

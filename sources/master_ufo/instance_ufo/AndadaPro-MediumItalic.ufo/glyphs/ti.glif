@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ti" format="2">
+  <advance width="671.4545454545455"/>
+  <anchor x="164.86363636363637" y="0.0" name="bottom_1"/>
+  <anchor x="507.092" y="0.0" name="bottom_2"/>
+  <anchor x="195.86363636363637" y="249.0" name="center"/>
+  <anchor x="519.2272727272727" y="0.0" name="ogonek"/>
+  <anchor x="226.86363636363637" y="498.0" name="top_1"/>
+  <anchor x="584.8863636363636" y="720.8181818181819" name="top_2"/>
+  <anchor x="401.9318181818182" y="498.0" name="topright"/>
+  <outline>
+    <component base="t.liga"/>
+    <component base="i" xOffset="388.47727272727275"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>i</string>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

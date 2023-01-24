@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>ascender</key>
+    <integer>756</integer>
+    <key>capHeight</key>
+    <integer>705</integer>
+    <key>copyright</key>
+    <string>Copyright 2011 The Andada Pro Project Authors (https://github.com/huertatipografica/Andada)</string>
+    <key>descender</key>
+    <integer>-228</integer>
+    <key>familyName</key>
+    <string>Andada Pro</string>
+    <key>italicAngle</key>
+    <integer>-7</integer>
+    <key>openTypeHeadCreated</key>
+    <string>2021/04/12 11:32:02</string>
+    <key>openTypeHheaAscender</key>
+    <integer>942</integer>
+    <key>openTypeHheaDescender</key>
+    <integer>-235</integer>
+    <key>openTypeHheaLineGap</key>
+    <integer>0</integer>
+    <key>openTypeNameDesigner</key>
+    <string>Carolina Giovagnoli</string>
+    <key>openTypeNameDesignerURL</key>
+    <string>http://www.huertatipografica.com</string>
+    <key>openTypeNameLicense</key>
+    <string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL</string>
+    <key>openTypeNameLicenseURL</key>
+    <string>https://scripts.sil.org/OFL</string>
+    <key>openTypeNameManufacturer</key>
+    <string>Huerta Tipografica</string>
+    <key>openTypeNameManufacturerURL</key>
+    <string>http://www.huertatipografica.com</string>
+    <key>openTypeOS2Selection</key>
+    <array>
+      <integer>7</integer>
+    </array>
+    <key>openTypeOS2Type</key>
+    <array/>
+    <key>openTypeOS2TypoAscender</key>
+    <integer>942</integer>
+    <key>openTypeOS2TypoDescender</key>
+    <integer>-235</integer>
+    <key>openTypeOS2TypoLineGap</key>
+    <integer>0</integer>
+    <key>openTypeOS2VendorID</key>
+    <string>HT</string>
+    <key>openTypeOS2WeightClass</key>
+    <integer>600</integer>
+    <key>openTypeOS2WinAscent</key>
+    <integer>1100</integer>
+    <key>openTypeOS2WinDescent</key>
+    <integer>390</integer>
+    <key>postscriptBlueValues</key>
+    <array>
+      <integer>-16</integer>
+      <integer>0</integer>
+      <integer>498</integer>
+      <real>511.04545454545456</real>
+      <integer>543</integer>
+      <integer>555</integer>
+      <integer>705</integer>
+      <integer>721</integer>
+      <integer>756</integer>
+      <integer>771</integer>
+    </array>
+    <key>postscriptOtherBlues</key>
+    <array>
+      <real>-236.5909090909091</real>
+      <integer>-228</integer>
+    </array>
+    <key>postscriptStemSnapH</key>
+    <array>
+      <real>74.5909090909091</real>
+      <real>66.68181818181819</real>
+      <real>61.40909090909091</real>
+      <real>65.54545454545455</real>
+    </array>
+    <key>postscriptStemSnapV</key>
+    <array>
+      <real>101.5909090909091</real>
+      <real>117.04545454545455</real>
+      <real>113.63636363636364</real>
+      <real>132.72727272727272</real>
+    </array>
+    <key>postscriptUnderlinePosition</key>
+    <integer>-180</integer>
+    <key>postscriptUnderlineThickness</key>
+    <integer>20</integer>
+    <key>styleMapFamilyName</key>
+    <string>Andada Pro SemiBold</string>
+    <key>styleMapStyleName</key>
+    <string>italic</string>
+    <key>styleName</key>
+    <string>SemiBold Italic</string>
+    <key>trademark</key>
+    <string>Andada Pro is a trademark of Carolina Giovagnoli (huertatipografica.com.ar).</string>
+    <key>unitsPerEm</key>
+    <real>1000.0</real>
+    <key>versionMajor</key>
+    <integer>3</integer>
+    <key>versionMinor</key>
+    <integer>3</integer>
+    <key>xHeight</key>
+    <integer>498</integer>
+  </dict>
+</plist>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="whiteDiamond" format="2">
+  <advance width="680.0"/>
+  <unicode hex="25C7"/>
+  <outline>
+    <contour>
+      <point x="339.90909090909093" y="68.9090909090909" type="line"/>
+      <point x="601.9090909090909" y="350.90909090909093" type="line"/>
+      <point x="339.90909090909093" y="636.9090909090909" type="line"/>
+      <point x="77.9090909090909" y="354.1818181818182" type="line"/>
+    </contour>
+    <contour>
+      <point x="305.27272727272725" y="153.72727272727272" type="line"/>
+      <point x="374.54545454545456" y="153.72727272727272" type="line"/>
+      <point x="155.72727272727272" y="388.54545454545456" type="line"/>
+      <point x="156.36363636363637" y="313.0" type="line"/>
+      <point x="373.90909090909093" y="553.3636363636364" type="line"/>
+      <point x="305.90909090909093" y="553.3636363636364" type="line"/>
+      <point x="523.0909090909091" y="313.0" type="line"/>
+      <point x="523.7272727272727" y="388.54545454545456" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Symbol</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Geometry</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

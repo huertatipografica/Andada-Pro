@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bracketleft.sc" format="2">
+  <advance width="350.5681818181818"/>
+  <outline>
+    <contour>
+      <point x="245.77272727272728" y="-72.0" type="line"/>
+      <point x="253.1818181818182" y="-29.5" type="line"/>
+      <point x="129.4318181818182" y="-16.5" type="line"/>
+      <point x="161.3409090909091" y="-60.63636363636363" type="line"/>
+      <point x="158.95454545454547" y="3.9772727272727275"/>
+      <point x="161.75" y="41.68181818181818"/>
+      <point x="163.3409090909091" y="58.79545454545455" type="curve" smooth="yes"/>
+      <point x="219.3409090909091" y="513.0" type="line" smooth="yes"/>
+      <point x="221.9318181818182" y="531.9545454545455"/>
+      <point x="233.77272727272728" y="589.6818181818181"/>
+      <point x="246.54545454545453" y="634.2272727272727" type="curve"/>
+      <point x="204.4090909090909" y="592.5" type="line"/>
+      <point x="331.54545454545456" y="606.5" type="line"/>
+      <point x="333.3636363636364" y="648.0" type="line"/>
+      <point x="177.61363636363637" y="645.0" type="line"/>
+      <point x="157.79545454545453" y="628.3636363636364" type="line"/>
+      <point x="156.4090909090909" y="596.4318181818181"/>
+      <point x="147.1818181818182" y="490.0"/>
+      <point x="146.1818181818182" y="477.20454545454544" type="curve" smooth="yes"/>
+      <point x="100.77272727272727" y="104.81818181818181" type="line" smooth="yes"/>
+      <point x="98.77272727272727" y="89.02272727272727"/>
+      <point x="78.97727272727273" y="-28.113636363636363"/>
+      <point x="75.20454545454545" y="-48.75" type="curve"/>
+      <point x="90.81818181818181" y="-69.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>24</integer>
+        <key>height</key>
+        <integer>77</integer>
+        <key>verticalShift</key>
+        <integer>10</integer>
+        <key>weight</key>
+        <integer>-10</integer>
+        <key>width</key>
+        <integer>82</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

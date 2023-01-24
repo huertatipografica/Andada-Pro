@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Scarondotaccent" format="2">
+  <advance width="557.1363636363636"/>
+  <unicode hex="1E66"/>
+  <anchor x="240.8181818181818" y="0.0" name="bottom"/>
+  <anchor x="389.8636363636364" y="997.5" name="top"/>
+  <outline>
+    <component base="S"/>
+    <component base="caroncomb_dotaccentcomb.case" xOffset="113.56818181818181" yOffset="15.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

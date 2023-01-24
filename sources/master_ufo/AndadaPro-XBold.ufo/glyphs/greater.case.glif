@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="greater.case" format="2">
+  <advance width="465"/>
+  <outline>
+    <contour>
+      <point x="111" y="69" type="line"/>
+      <point x="423" y="333" type="line"/>
+      <point x="169" y="597" type="line"/>
+      <point x="96" y="522" type="line"/>
+      <point x="319" y="291" type="line"/>
+      <point x="329" y="375" type="line"/>
+      <point x="56" y="144" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Symbol</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

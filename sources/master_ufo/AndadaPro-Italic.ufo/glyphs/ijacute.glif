@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ijacute" format="2">
+  <advance width="526"/>
+  <unicode hex="E132"/>
+  <anchor x="457" y="660" name="top"/>
+  <outline>
+    <component base="iacute_j.loclNLD"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

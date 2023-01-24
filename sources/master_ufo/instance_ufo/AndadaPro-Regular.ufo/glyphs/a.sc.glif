@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="a.sc" format="2">
+  <advance width="655.3"/>
+  <anchor x="320" y="0" name="bottom"/>
+  <anchor x="591" y="0" name="ogonek"/>
+  <anchor x="322" y="543" name="top"/>
+  <outline>
+    <contour>
+      <point x="64" y="-4" type="line"/>
+      <point x="101" y="-2"/>
+      <point x="158" y="0"/>
+      <point x="176" y="0" type="curve" smooth="yes"/>
+      <point x="247" y="0" type="line"/>
+      <point x="252" y="43" type="line"/>
+      <point x="164" y="54" type="line"/>
+      <point x="192" y="31" type="line"/>
+      <point x="192" y="45"/>
+      <point x="195" y="76"/>
+      <point x="202" y="97" type="curve" smooth="yes"/>
+      <point x="326" y="458" type="line"/>
+      <point x="303" y="458" type="line"/>
+      <point x="424" y="129" type="line" smooth="yes"/>
+      <point x="439" y="87"/>
+      <point x="443" y="66"/>
+      <point x="450" y="27" type="curve"/>
+      <point x="478" y="59" type="line"/>
+      <point x="385" y="36" type="line"/>
+      <point x="389" y="-4" type="line"/>
+      <point x="439" y="-2"/>
+      <point x="491" y="0"/>
+      <point x="509" y="0" type="curve" smooth="yes"/>
+      <point x="591" y="0" type="line"/>
+      <point x="595" y="43" type="line"/>
+      <point x="510" y="56" type="line"/>
+      <point x="554" y="30" type="line"/>
+      <point x="537" y="61"/>
+      <point x="524" y="86"/>
+      <point x="514" y="113" type="curve" smooth="yes"/>
+      <point x="345" y="551" type="line"/>
+      <point x="294" y="543" type="line"/>
+      <point x="148" y="123" type="line" smooth="yes"/>
+      <point x="137" y="91"/>
+      <point x="114" y="53"/>
+      <point x="105" y="34" type="curve"/>
+      <point x="142" y="55" type="line"/>
+      <point x="61" y="36" type="line"/>
+    </contour>
+    <contour>
+      <point x="208" y="167" type="line"/>
+      <point x="436" y="167" type="line"/>
+      <point x="436" y="210" type="line"/>
+      <point x="208" y="210" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>24</integer>
+        <key>height</key>
+        <integer>77</integer>
+        <key>weight</key>
+        <integer>-10</integer>
+        <key>width</key>
+        <integer>82</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

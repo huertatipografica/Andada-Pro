@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="SquareWithUpperRightDiagonalHalfBlack" format="2">
+  <advance width="854.5"/>
+  <unicode hex="2B14"/>
+  <outline>
+    <contour>
+      <point x="87.22727272727273" y="0.0" type="line"/>
+      <point x="792.2272727272727" y="0.0" type="line"/>
+      <point x="792.2272727272727" y="705.0" type="line"/>
+      <point x="87.22727272727273" y="705.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="172.9090909090909" y="25.977272727272727" type="line"/>
+      <point x="172.9090909090909" y="679.0227272727273" type="line"/>
+      <point x="130.29545454545453" y="662.0454545454545" type="line"/>
+      <point x="749.2727272727273" y="42.95454545454545" type="line"/>
+      <point x="766.25" y="85.68181818181819" type="line"/>
+      <point x="113.20454545454545" y="85.68181818181819" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Symbol</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Geometry</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

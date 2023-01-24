@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="periodcentered.loclCAT" format="2">
+  <advance width="25.454545454545453"/>
+  <anchor x="57.65909090909091" y="382.22727272727275" name="_centerright"/>
+  <anchor x="13.227272727272727" y="367.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="13.227272727272727" y="286.34090909090907" type="curve" smooth="yes"/>
+      <point x="55.20454545454545" y="286.34090909090907"/>
+      <point x="78.63636363636364" y="314.0"/>
+      <point x="78.63636363636364" y="355.20454545454544" type="curve" smooth="yes"/>
+      <point x="78.63636363636364" y="398.6363636363636"/>
+      <point x="53.31818181818182" y="425.1818181818182"/>
+      <point x="13.227272727272727" y="425.1818181818182" type="curve" smooth="yes"/>
+      <point x="-29.636363636363633" y="425.1818181818182"/>
+      <point x="-53.18181818181818" y="395.75"/>
+      <point x="-53.18181818181818" y="355.20454545454544" type="curve" smooth="yes"/>
+      <point x="-53.18181818181818" y="314.0"/>
+      <point x="-29.636363636363633" y="286.34090909090907"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>weight</key>
+        <integer>-10</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

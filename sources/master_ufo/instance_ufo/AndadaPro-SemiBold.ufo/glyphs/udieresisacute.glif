@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="udieresisacute" format="2">
+  <advance width="602.6818181818181"/>
+  <unicode hex="01D8"/>
+  <anchor x="301.6363636363636" y="0.0" name="bottom"/>
+  <anchor x="535.7727272727273" y="10.0" name="ogonek"/>
+  <anchor x="278.72727272727275" y="797.5" name="top"/>
+  <anchor x="423.8636363636364" y="494.0" name="topright"/>
+  <outline>
+    <component base="u"/>
+    <component base="dieresiscomb_acutecomb" xOffset="100.0909090909091"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

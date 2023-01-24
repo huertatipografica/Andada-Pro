@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ldotbelow" format="2">
+  <advance width="595.2727272727273"/>
+  <unicode hex="1E36"/>
+  <anchor x="295.6363636363636" y="-210.45454545454547" name="bottom"/>
+  <anchor x="196.4090909090909" y="355.0" name="center"/>
+  <anchor x="544.1590909090909" y="423.0" name="centerright"/>
+  <anchor x="234.38636363636363" y="720.0" name="top"/>
+  <anchor x="474.40909090909093" y="494.0" name="topright"/>
+  <outline>
+    <component base="L"/>
+    <component base="dotbelowcomb" xOffset="178.1818181818182"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

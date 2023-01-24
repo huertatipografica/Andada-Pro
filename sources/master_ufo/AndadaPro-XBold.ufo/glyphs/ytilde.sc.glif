@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ytilde.sc" format="2">
+  <advance width="592"/>
+  <anchor x="257" y="0" name="bottom"/>
+  <anchor x="352" y="676" name="top"/>
+  <anchor x="71" y="543" name="topleft"/>
+  <outline>
+    <component base="y.sc"/>
+    <component base="tildecomb" xOffset="102" yOffset="36"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="r.sups" format="2">
+  <advance width="265.75"/>
+  <anchor x="139.25" y="330.0" name="bottom"/>
+  <anchor x="184.88636363636363" y="628.5" name="top"/>
+  <outline>
+    <contour>
+      <point x="87.0" y="321.59090909090907" type="line"/>
+      <point x="145.9090909090909" y="332.0" type="line"/>
+      <point x="148.5" y="363.02272727272725"/>
+      <point x="150.70454545454547" y="388.8863636363636"/>
+      <point x="156.11363636363637" y="416.52272727272725" type="curve"/>
+      <point x="170.6818181818182" y="475.29545454545456"/>
+      <point x="209.6590909090909" y="543.7954545454545"/>
+      <point x="242.6818181818182" y="543.7954545454545" type="curve" smooth="yes"/>
+      <point x="250.0909090909091" y="543.7954545454545"/>
+      <point x="265.1363636363636" y="537.5681818181819"/>
+      <point x="274.9318181818182" y="533.3636363636364" type="curve"/>
+      <point x="298.75" y="630.5" type="line"/>
+      <point x="292.95454545454544" y="635.5"/>
+      <point x="285.75" y="638.9090909090909"/>
+      <point x="278.75" y="638.9090909090909" type="curve" smooth="yes"/>
+      <point x="241.9318181818182" y="638.9090909090909"/>
+      <point x="190.86363636363637" y="561.5909090909091"/>
+      <point x="147.8181818181818" y="463.45454545454544" type="curve"/>
+      <point x="157.8409090909091" y="473.27272727272725" type="line"/>
+      <point x="165.25" y="522.9545454545455"/>
+      <point x="181.88636363636363" y="572.0"/>
+      <point x="199.13636363636363" y="624.0909090909091" type="curve"/>
+      <point x="179.5" y="639.9090909090909" type="line"/>
+      <point x="67.4090909090909" y="613.5" type="line"/>
+      <point x="67.4090909090909" y="585.0681818181819" type="line"/>
+      <point x="146.6590909090909" y="579.8636363636364" type="line"/>
+      <point x="115.20454545454545" y="600.8863636363636" type="line"/>
+      <point x="109.61363636363636" y="514.5681818181819"/>
+      <point x="96.61363636363636" y="444.90909090909093"/>
+      <point x="67.18181818181819" y="332.0" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>10</integer>
+        <key>height</key>
+        <integer>60</integer>
+        <key>verticalShift</key>
+        <integer>330</integer>
+        <key>weight</key>
+        <integer>-25</integer>
+        <key>width</key>
+        <integer>62</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

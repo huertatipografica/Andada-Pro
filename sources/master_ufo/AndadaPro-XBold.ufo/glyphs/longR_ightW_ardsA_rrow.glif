@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="longRightWardsArrow" format="2">
+  <advance width="1116"/>
+  <unicode hex="27F6"/>
+  <outline>
+    <contour>
+      <point x="802" y="-18" type="line"/>
+      <point x="1104" y="239" type="line"/>
+      <point x="1106" y="268" type="line"/>
+      <point x="866" y="525" type="line"/>
+      <point x="792" y="450" type="line"/>
+      <point x="1022" y="214" type="line"/>
+      <point x="1031" y="293" type="line"/>
+      <point x="744" y="57" type="line"/>
+    </contour>
+    <contour>
+      <point x="76" y="201" type="line"/>
+      <point x="76" y="200"/>
+      <point x="215" y="206"/>
+      <point x="261" y="206" type="curve" smooth="yes"/>
+      <point x="1004" y="206" type="line"/>
+      <point x="1015" y="301" type="line"/>
+      <point x="75" y="301" type="line"/>
+      <point x="65" y="217" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Symbol</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>hyphen</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Arrow</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

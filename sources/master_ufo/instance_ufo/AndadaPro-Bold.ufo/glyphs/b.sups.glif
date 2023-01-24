@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="b.sups" format="2">
+  <advance width="426.40000000000003"/>
+  <outline>
+    <contour>
+      <point x="228.36363636363637" y="324.0" type="curve" smooth="yes"/>
+      <point x="332.90909090909093" y="324.0"/>
+      <point x="389.72727272727275" y="388.45454545454544"/>
+      <point x="389.72727272727275" y="493.0" type="curve" smooth="yes"/>
+      <point x="389.72727272727275" y="581.0909090909091"/>
+      <point x="354.3636363636364" y="652.2727272727273"/>
+      <point x="265.6363636363636" y="652.2727272727273" type="curve" smooth="yes"/>
+      <point x="211.54545454545456" y="652.2727272727273"/>
+      <point x="182.54545454545456" y="624.9090909090909"/>
+      <point x="158.0909090909091" y="585.5454545454545" type="curve"/>
+      <point x="173.27272727272728" y="565.0909090909091" type="line"/>
+      <point x="173.27272727272728" y="683.9090909090909" type="line" smooth="yes"/>
+      <point x="173.27272727272728" y="705.8181818181819"/>
+      <point x="176.9090909090909" y="761.5454545454545"/>
+      <point x="179.54545454545456" y="797.3636363636364" type="curve"/>
+      <point x="166.27272727272728" y="809.0" type="line"/>
+      <point x="111.36363636363636" y="809.0" type="line" smooth="yes"/>
+      <point x="93.9090909090909" y="809.0"/>
+      <point x="59.09090909090909" y="813.2727272727273"/>
+      <point x="38.18181818181818" y="815.9090909090909" type="curve"/>
+      <point x="32.54545454545455" y="768.9090909090909" type="line"/>
+      <point x="118.72727272727273" y="749.3636363636364" type="line"/>
+      <point x="78.0909090909091" y="777.1818181818181" type="line"/>
+      <point x="82.36363636363636" y="751.9090909090909"/>
+      <point x="87.72727272727273" y="715.2727272727273"/>
+      <point x="87.72727272727273" y="703.5454545454545" type="curve" smooth="yes"/>
+      <point x="87.72727272727273" y="432.45454545454544" type="line" smooth="yes"/>
+      <point x="87.72727272727273" y="424.1818181818182"/>
+      <point x="84.0909090909091" y="378.45454545454544"/>
+      <point x="81.0909090909091" y="346.6363636363636" type="curve"/>
+      <point x="138.1818181818182" y="329.09090909090907"/>
+      <point x="185.0909090909091" y="324.0"/>
+    </contour>
+    <contour>
+      <point x="176.0" y="375.09090909090907" type="line"/>
+      <point x="176.27272727272728" y="383.72727272727275"/>
+      <point x="173.27272727272728" y="423.72727272727275"/>
+      <point x="174.9090909090909" y="451.45454545454544" type="curve" smooth="yes"/>
+      <point x="174.9090909090909" y="498.72727272727275" type="line" smooth="yes"/>
+      <point x="174.9090909090909" y="544.0909090909091"/>
+      <point x="192.0" y="582.6363636363636"/>
+      <point x="233.45454545454547" y="582.6363636363636" type="curve" smooth="yes"/>
+      <point x="283.54545454545456" y="582.6363636363636"/>
+      <point x="292.3636363636364" y="533.6363636363636"/>
+      <point x="292.3636363636364" y="485.09090909090907" type="curve" smooth="yes"/>
+      <point x="292.3636363636364" y="427.3636363636364"/>
+      <point x="280.1818181818182" y="382.45454545454544"/>
+      <point x="221.0909090909091" y="382.45454545454544" type="curve" smooth="yes"/>
+      <point x="199.0" y="382.45454545454544"/>
+      <point x="172.0909090909091" y="392.3636363636364"/>
+      <point x="152.54545454545453" y="399.0" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>10</integer>
+        <key>height</key>
+        <integer>61</integer>
+        <key>verticalShift</key>
+        <integer>330</integer>
+        <key>weight</key>
+        <integer>-24</integer>
+        <key>width</key>
+        <integer>62</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Small</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

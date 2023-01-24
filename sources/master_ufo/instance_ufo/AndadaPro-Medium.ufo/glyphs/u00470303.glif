@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="u00470303" format="2">
+  <advance width="727.9090909090909"/>
+  <anchor x="421.6363636363636" y="0.0" name="bottom"/>
+  <anchor x="419.6363636363636" y="997.5" name="top"/>
+  <outline>
+    <component base="Gtilde"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

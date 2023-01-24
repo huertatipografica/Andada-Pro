@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Adieresismacron" format="2">
+  <advance width="689"/>
+  <unicode hex="01DE"/>
+  <anchor x="314" y="0" name="bottom"/>
+  <anchor x="574" y="10" name="ogonek"/>
+  <anchor x="441" y="978" name="top"/>
+  <outline>
+    <component base="A"/>
+    <component base="dieresiscomb_macroncomb.case" xOffset="148"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

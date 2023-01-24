@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="DZcaron" format="2">
+  <advance width="1310.090909090909"/>
+  <unicode hex="01C4"/>
+  <anchor x="295.6136363636364" y="0.0" name="bottom_1"/>
+  <anchor x="971.0454545454545" y="0.0" name="bottom_2"/>
+  <anchor x="198.52272727272728" y="353.0" name="center_1"/>
+  <anchor x="1029.7954545454545" y="353.0" name="center_2"/>
+  <anchor x="388.5" y="720.0" name="top_1"/>
+  <anchor x="1070.7954545454545" y="720.0" name="top_2"/>
+  <outline>
+    <component base="D"/>
+    <component base="Z" xOffset="719.7045454545455"/>
+    <component base="caroncomb.case" xOffset="805.6136363636364" yOffset="15.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zcedilla.sc" format="2">
+  <advance width="563"/>
+  <anchor x="282" y="-247" name="bottom"/>
+  <anchor x="282" y="272" name="center"/>
+  <anchor x="282" y="530" name="top"/>
+  <outline>
+    <component base="z.sc"/>
+    <component base="cedillacomb" xOffset="164"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <array>
+    <array>
+      <string>public.default</string>
+      <string>glyphs</string>
+    </array>
+    <array>
+      <string>public.background</string>
+      <string>glyphs.public.background</string>
+    </array>
+    <array>
+      <string>Nov 26 19, 10:08</string>
+      <string>glyphs.N_ov 26 19, 10_08</string>
+    </array>
+    <array>
+      <string>Nov 26 19, 10:08.background</string>
+      <string>glyphs.N_ov 26 19, 10_08.background</string>
+    </array>
+    <array>
+      <string>Bold Extended Italic Jul 3 15, 13:45</string>
+      <string>glyphs.B_old E_xtended I_talic J_ul 3 15, 13_45</string>
+    </array>
+    <array>
+      <string>Bold Extended Italic Jul 3 15, 13:45.background</string>
+      <string>glyphs.B_old E_xtended I_talic J_ul 3 15, 13_45.background</string>
+    </array>
+    <array>
+      <string>Bold Extended Italic Jul 3 15, 14:07</string>
+      <string>glyphs.B_old E_xtended I_talic J_ul 3 15, 14_07</string>
+    </array>
+    <array>
+      <string>Bold Extended Italic Jul 3 15, 14:07.background</string>
+      <string>glyphs.B_old E_xtended I_talic J_ul 3 15, 14_07.background</string>
+    </array>
+    <array>
+      <string>Bold Extended Italic Jul 3 15, 14:08</string>
+      <string>glyphs.B_old E_xtended I_talic J_ul 3 15, 14_08</string>
+    </array>
+    <array>
+      <string>Bold Extended Italic Jul 3 15, 14:08.background</string>
+      <string>glyphs.B_old E_xtended I_talic J_ul 3 15, 14_08.background</string>
+    </array>
+    <array>
+      <string>Bold Extended Italic Jul 3 15, 14:22</string>
+      <string>glyphs.B_old E_xtended I_talic J_ul 3 15, 14_22</string>
+    </array>
+    <array>
+      <string>Bold Extended Italic Jul 3 15, 14:22.background</string>
+      <string>glyphs.B_old E_xtended I_talic J_ul 3 15, 14_22.background</string>
+    </array>
+  </array>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Dlinebelow" format="2">
+  <advance width="729.6363636363636"/>
+  <unicode hex="1E0E"/>
+  <anchor x="280.3636363636364" y="-120.9090909090909" name="bottom"/>
+  <anchor x="210.1818181818182" y="353.0" name="center"/>
+  <anchor x="398.0" y="720.0" name="top"/>
+  <outline>
+    <component base="D"/>
+    <component base="macronbelowcomb" xOffset="94.18181818181819"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

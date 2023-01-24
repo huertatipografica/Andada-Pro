@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gcommaaccent" format="2">
+  <advance width="519.7272727272727"/>
+  <unicode hex="0123"/>
+  <anchor x="305.6363636363636" y="-50.90909090909091" name="center"/>
+  <anchor x="361.6363636363636" y="752.1818181818181" name="top"/>
+  <outline>
+    <component base="g"/>
+    <component base="commaturnedabovecomb" xOffset="189.63636363636363"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

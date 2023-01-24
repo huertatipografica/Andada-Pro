@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="I.numeroRomano" format="2">
+  <advance width="487.54545454545456"/>
+  <anchor x="218.4090909090909" y="34.0" name="bottom"/>
+  <anchor x="218.4090909090909" y="34.0" name="ogonek"/>
+  <anchor x="308.8636363636364" y="669.0" name="top"/>
+  <outline>
+    <component base="I.ss02"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

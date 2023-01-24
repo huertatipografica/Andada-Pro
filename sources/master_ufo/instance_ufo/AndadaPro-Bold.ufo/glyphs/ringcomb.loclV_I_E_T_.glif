@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ringcomb.loclVIET" format="2">
+  <anchor x="133.95454545454547" y="494.0" name="_top"/>
+  <anchor x="134.27272727272728" y="667.4545454545455" name="top"/>
+  <outline>
+    <contour>
+      <point x="134.27272727272728" y="541.2727272727273" type="curve" smooth="yes"/>
+      <point x="190.0" y="541.2727272727273"/>
+      <point x="222.45454545454547" y="573.2727272727273"/>
+      <point x="222.45454545454547" y="625.7272727272727" type="curve" smooth="yes"/>
+      <point x="222.45454545454547" y="678.2727272727273"/>
+      <point x="190.0" y="711.2727272727273"/>
+      <point x="134.27272727272728" y="711.2727272727273" type="curve" smooth="yes"/>
+      <point x="78.9090909090909" y="711.2727272727273"/>
+      <point x="45.09090909090909" y="678.2727272727273"/>
+      <point x="45.09090909090909" y="625.7272727272727" type="curve" smooth="yes"/>
+      <point x="45.09090909090909" y="573.2727272727273"/>
+      <point x="78.9090909090909" y="541.2727272727273"/>
+    </contour>
+    <contour>
+      <point x="134.27272727272728" y="587.1818181818181" type="curve" smooth="yes"/>
+      <point x="111.0909090909091" y="587.1818181818181"/>
+      <point x="99.36363636363636" y="604.6363636363636"/>
+      <point x="99.36363636363636" y="625.7272727272727" type="curve" smooth="yes"/>
+      <point x="99.36363636363636" y="647.9090909090909"/>
+      <point x="111.0909090909091" y="665.3636363636364"/>
+      <point x="134.27272727272728" y="665.3636363636364" type="curve" smooth="yes"/>
+      <point x="159.1818181818182" y="665.3636363636364"/>
+      <point x="170.1818181818182" y="647.5454545454545"/>
+      <point x="170.1818181818182" y="625.7272727272727" type="curve" smooth="yes"/>
+      <point x="170.1818181818182" y="604.6363636363636"/>
+      <point x="158.45454545454547" y="587.1818181818181"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>14</integer>
+        <key>height</key>
+        <integer>95</integer>
+        <key>verticalShift</key>
+        <integer>30</integer>
+        <key>width</key>
+        <integer>95</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <real>279.6</real>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

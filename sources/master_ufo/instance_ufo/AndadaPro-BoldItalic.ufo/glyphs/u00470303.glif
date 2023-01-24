@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="u00470303" format="2">
+  <advance width="672.8000000000001"/>
+  <anchor x="360.0909090909091" y="0.0" name="bottom"/>
+  <anchor x="513.7272727272727" y="181.0" name="center"/>
+  <anchor x="480.8181818181818" y="1007.0" name="top"/>
+  <outline>
+    <component base="Gtilde" xOffset="-11.272727272727273"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Gtilde</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

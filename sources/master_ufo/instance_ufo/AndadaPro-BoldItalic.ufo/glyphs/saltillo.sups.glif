@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="saltillo.sups" format="2">
+  <advance width="110.39999999999999"/>
+  <outline>
+    <contour>
+      <point x="102.0" y="488.09090909090907" type="line"/>
+      <point x="152.54545454545453" y="728.1818181818181" type="line"/>
+      <point x="141.9090909090909" y="738.4545454545455" type="line"/>
+      <point x="80.36363636363636" y="738.4545454545455" type="line"/>
+      <point x="80.36363636363636" y="738.4545454545455"/>
+      <point x="78.0" y="615.7272727272727"/>
+      <point x="76.63636363636364" y="606.0909090909091" type="curve"/>
+      <point x="55.36363636363637" y="492.72727272727275" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>10</integer>
+        <key>height</key>
+        <integer>60</integer>
+        <key>verticalShift</key>
+        <integer>330</integer>
+        <key>weight</key>
+        <integer>-25</integer>
+        <key>width</key>
+        <integer>62</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

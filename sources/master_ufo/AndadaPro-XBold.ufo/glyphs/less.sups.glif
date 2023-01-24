@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="less.sups" format="2">
+  <advance width="306"/>
+  <outline>
+    <contour>
+      <point x="229" y="320" type="line"/>
+      <point x="278" y="371" type="line"/>
+      <point x="127" y="518" type="line"/>
+      <point x="121" y="461" type="line"/>
+      <point x="303" y="608" type="line"/>
+      <point x="265" y="658" type="line"/>
+      <point x="58" y="490" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>9</integer>
+        <key>height</key>
+        <integer>64</integer>
+        <key>verticalShift</key>
+        <integer>330</integer>
+        <key>weight</key>
+        <integer>-46</integer>
+        <key>width</key>
+        <integer>67</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Symbol</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

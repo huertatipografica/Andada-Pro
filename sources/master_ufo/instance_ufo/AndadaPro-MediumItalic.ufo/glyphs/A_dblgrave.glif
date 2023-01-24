@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Adblgrave" format="2">
+  <advance width="691.25"/>
+  <unicode hex="0200"/>
+  <anchor x="315.02272727272725" y="0.0" name="bottom"/>
+  <anchor x="576.25" y="10.0" name="ogonek"/>
+  <anchor x="348.3863636363636" y="982.5" name="top"/>
+  <outline>
+    <component base="A"/>
+    <component base="dblgravecomb.case" xOffset="25.886363636363637"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

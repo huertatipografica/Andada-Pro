@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Lacute" format="2">
+  <advance width="552.8181818181819"/>
+  <unicode hex="0139"/>
+  <anchor x="257.8636363636364" y="0.0" name="bottom"/>
+  <anchor x="195.77272727272728" y="355.0" name="center"/>
+  <anchor x="552.1363636363636" y="423.0" name="centerright"/>
+  <anchor x="331.04545454545456" y="1002.0" name="top"/>
+  <anchor x="476.8636363636364" y="494.0" name="topright"/>
+  <outline>
+    <component base="L"/>
+    <component base="acutecomb.case" xOffset="76.95454545454545" yOffset="15.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

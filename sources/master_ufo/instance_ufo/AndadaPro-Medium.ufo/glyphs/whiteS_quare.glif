@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="whiteSquare" format="2">
+  <advance width="817.25"/>
+  <unicode hex="25A1"/>
+  <outline>
+    <contour>
+      <point x="144.36363636363637" y="82.5909090909091" type="line"/>
+      <point x="673.3636363636364" y="82.5909090909091" type="line"/>
+      <point x="673.3636363636364" y="612.6136363636364" type="line"/>
+      <point x="144.36363636363637" y="612.6136363636364" type="line"/>
+    </contour>
+    <contour>
+      <point x="216.11363636363637" y="111.5909090909091" type="line"/>
+      <point x="216.11363636363637" y="583.6136363636364" type="line"/>
+      <point x="173.36363636363637" y="541.8636363636364" type="line"/>
+      <point x="644.3636363636364" y="541.8636363636364" type="line"/>
+      <point x="602.6136363636364" y="583.6136363636364" type="line"/>
+      <point x="602.6136363636364" y="111.5909090909091" type="line"/>
+      <point x="644.3636363636364" y="153.3409090909091" type="line"/>
+      <point x="173.36363636363637" y="153.3409090909091" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Symbol</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Geometry</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

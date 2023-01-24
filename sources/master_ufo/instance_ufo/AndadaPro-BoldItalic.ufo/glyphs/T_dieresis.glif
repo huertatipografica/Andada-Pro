@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Tdieresis" format="2">
+  <advance width="652.6363636363636"/>
+  <anchor x="286.6363636363636" y="0.0" name="bottom"/>
+  <anchor x="336.6363636363636" y="353.0" name="center"/>
+  <anchor x="422.27272727272725" y="956.4545454545455" name="top"/>
+  <outline>
+    <component base="T"/>
+    <component base="dieresiscomb.case" xOffset="132.72727272727272" yOffset="15.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

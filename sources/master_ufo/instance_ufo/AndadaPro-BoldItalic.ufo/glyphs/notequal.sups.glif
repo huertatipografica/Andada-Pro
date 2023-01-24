@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="notequal.sups" format="2">
+  <advance width="413.0"/>
+  <outline>
+    <contour>
+      <point x="170.27272727272728" y="318.3636363636364" type="line"/>
+      <point x="358.54545454545456" y="641.0" type="line"/>
+      <point x="302.90909090909093" y="650.6363636363636" type="line"/>
+      <point x="113.63636363636364" y="328.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="82.0" y="391.45454545454544" type="line"/>
+      <point x="369.6363636363636" y="394.3636363636364" type="line"/>
+      <point x="376.90909090909093" y="456.90909090909093" type="line"/>
+      <point x="89.27272727272727" y="457.1818181818182" type="line"/>
+    </contour>
+    <contour>
+      <point x="95.0" y="510.1818181818182" type="line"/>
+      <point x="382.6363636363636" y="513.1818181818181" type="line"/>
+      <point x="390.27272727272725" y="575.6363636363636" type="line"/>
+      <point x="103.27272727272727" y="575.6363636363636" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>10</integer>
+        <key>height</key>
+        <integer>60</integer>
+        <key>verticalShift</key>
+        <integer>330</integer>
+        <key>weight</key>
+        <integer>-25</integer>
+        <key>width</key>
+        <integer>62</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Symbol</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

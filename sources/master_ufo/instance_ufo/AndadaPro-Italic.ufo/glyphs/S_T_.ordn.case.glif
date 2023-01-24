@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ST.ordn.case" format="2">
+  <advance width="690"/>
+  <anchor x="178" y="330" name="bottom_1"/>
+  <anchor x="522" y="330" name="bottom_2"/>
+  <anchor x="551" y="541" name="center"/>
+  <anchor x="246" y="759" name="top_1"/>
+  <anchor x="584" y="759" name="top_2"/>
+  <outline>
+    <component base="S.sups"/>
+    <component base="T.sups" xOffset="344"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

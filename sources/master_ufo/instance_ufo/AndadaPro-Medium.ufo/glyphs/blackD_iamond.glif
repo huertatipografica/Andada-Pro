@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="blackDiamond" format="2">
+  <advance width="688.0"/>
+  <unicode hex="25C6"/>
+  <outline>
+    <contour>
+      <point x="344.15909090909093" y="67.61363636363636" type="line"/>
+      <point x="606.1590909090909" y="349.6136363636364" type="line"/>
+      <point x="344.15909090909093" y="635.6136363636364" type="line"/>
+      <point x="82.1590909090909" y="358.3636363636364" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Symbol</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Geometry</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

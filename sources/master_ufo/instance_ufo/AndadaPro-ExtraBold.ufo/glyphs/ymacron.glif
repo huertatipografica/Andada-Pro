@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ymacron" format="2">
+  <advance width="600.25"/>
+  <unicode hex="0233"/>
+  <anchor x="435.95454545454544" y="-28.0" name="bottom"/>
+  <anchor x="300.75" y="605.0" name="top"/>
+  <outline>
+    <component base="y"/>
+    <component base="macroncomb" xOffset="80.52272727272728"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rightBlackTriangle" format="2">
+  <advance width="627.375"/>
+  <unicode hex="25B6"/>
+  <outline>
+    <contour>
+      <point x="138.9090909090909" y="36.11363636363637" type="line"/>
+      <point x="550.1363636363636" y="262.0" type="line"/>
+      <point x="138.9090909090909" y="487.8863636363636" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Symbol</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Geometry</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

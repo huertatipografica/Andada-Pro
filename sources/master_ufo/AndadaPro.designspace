@@ -1,0 +1,245 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="4.1">
+  <axes>
+    <axis tag="wght" name="Weight" minimum="400" maximum="840" default="400">
+      <map input="400" output="96"/>
+      <map input="500" output="105"/>
+      <map input="600" output="114"/>
+      <map input="700" output="124"/>
+      <map input="800" output="135"/>
+      <map input="840" output="140"/>
+    </axis>
+  </axes>
+  <sources>
+    <source filename="AndadaPro-Italic.ufo" name="Andada Pro Italic" familyname="Andada Pro" stylename="Italic">
+      <lib copy="1"/>
+      <groups copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Weight" xvalue="96"/>
+      </location>
+    </source>
+    <source filename="AndadaPro-XBold.ufo" name="Andada Pro XBold" familyname="Andada Pro" stylename="XBold">
+      <location>
+        <dimension name="Weight" xvalue="140"/>
+      </location>
+    </source>
+  </sources>
+  <instances>
+    <instance name="Andada Pro Italic" familyname="Andada Pro" stylename="Italic" filename="instance_ufo/AndadaPro-Italic.ufo" stylemapfamilyname="Andada Pro" stylemapstylename="italic">
+      <location>
+        <dimension name="Weight" xvalue="96"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Update Features</string>
+              <integer>1</integer>
+            </array>
+            <array>
+              <string>TTFAutohint options</string>
+              <string>--increase-x-height=17</string>
+            </array>
+            <array>
+              <string>panose</string>
+              <array>
+                <integer>2</integer>
+                <integer>4</integer>
+                <integer>5</integer>
+                <integer>3</integer>
+                <integer>5</integer>
+                <integer>5</integer>
+                <integer>1</integer>
+                <integer>1</integer>
+                <integer>4</integer>
+                <integer>4</integer>
+              </array>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Andada Pro Medium Italic" familyname="Andada Pro" stylename="Medium Italic" filename="instance_ufo/AndadaPro-MediumItalic.ufo" stylemapfamilyname="Andada Pro Medium" stylemapstylename="italic">
+      <location>
+        <dimension name="Weight" xvalue="105"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Update Features</string>
+              <integer>1</integer>
+            </array>
+            <array>
+              <string>TTFAutohint options</string>
+              <string>--increase-x-height=17</string>
+            </array>
+            <array>
+              <string>panose</string>
+              <array>
+                <integer>2</integer>
+                <integer>4</integer>
+                <integer>6</integer>
+                <integer>3</integer>
+                <integer>5</integer>
+                <integer>5</integer>
+                <integer>1</integer>
+                <integer>1</integer>
+                <integer>4</integer>
+                <integer>4</integer>
+              </array>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Andada Pro SemiBold Italic" familyname="Andada Pro" stylename="SemiBold Italic" filename="instance_ufo/AndadaPro-SemiBoldItalic.ufo" stylemapfamilyname="Andada Pro SemiBold" stylemapstylename="italic">
+      <location>
+        <dimension name="Weight" xvalue="114"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Andada Pro Bold Italic" familyname="Andada Pro" stylename="Bold Italic" filename="instance_ufo/AndadaPro-BoldItalic.ufo" stylemapfamilyname="Andada Pro" stylemapstylename="bold italic">
+      <location>
+        <dimension name="Weight" xvalue="124"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Update Features</string>
+              <integer>1</integer>
+            </array>
+            <array>
+              <string>TTFAutohint options</string>
+              <string>--increase-x-height=17</string>
+            </array>
+            <array>
+              <string>panose</string>
+              <array>
+                <integer>2</integer>
+                <integer>4</integer>
+                <integer>8</integer>
+                <integer>3</integer>
+                <integer>5</integer>
+                <integer>5</integer>
+                <integer>1</integer>
+                <integer>1</integer>
+                <integer>4</integer>
+                <integer>4</integer>
+              </array>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Andada Pro ExtraBold Italic" familyname="Andada Pro" stylename="ExtraBold Italic" filename="instance_ufo/AndadaPro-ExtraBoldItalic.ufo" stylemapfamilyname="Andada Pro ExtraBold" stylemapstylename="italic">
+      <location>
+        <dimension name="Weight" xvalue="135"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Update Features</string>
+              <integer>1</integer>
+            </array>
+            <array>
+              <string>TTFAutohint options</string>
+              <string>--increase-x-height=17</string>
+            </array>
+            <array>
+              <string>panose</string>
+              <array>
+                <integer>2</integer>
+                <integer>4</integer>
+                <integer>9</integer>
+                <integer>3</integer>
+                <integer>5</integer>
+                <integer>5</integer>
+                <integer>1</integer>
+                <integer>1</integer>
+                <integer>4</integer>
+                <integer>4</integer>
+              </array>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+  </instances>
+  <lib>
+    <dict>
+      <key>GSDimensionPlugin.Dimensions</key>
+      <dict>
+        <key>08C09966-8326-41C9-AE3D-74AAC6FC1D13</key>
+        <dict>
+          <key>HV</key>
+          <string>87</string>
+        </dict>
+        <key>16643525-C5DD-48EC-8E99-463BF28F5E85</key>
+        <dict>
+          <key>HV</key>
+          <integer>87</integer>
+          <key>OH</key>
+          <integer>97</integer>
+          <key>OV</key>
+          <integer>180</integer>
+          <key>nV</key>
+          <integer>114</integer>
+          <key>nd</key>
+          <integer>100</integer>
+          <key>oH</key>
+          <integer>85</integer>
+          <key>oV</key>
+          <integer>116</integer>
+          <key>tH</key>
+          <integer>110</integer>
+        </dict>
+        <key>B953D09C-6DD0-450A-A78C-8C2188DD4016</key>
+        <dict>
+          <key>HV</key>
+          <integer>87</integer>
+        </dict>
+        <key>UUID0</key>
+        <dict>
+          <key>HV</key>
+          <integer>87</integer>
+          <key>nV</key>
+          <integer>80</integer>
+          <key>nd</key>
+          <integer>60</integer>
+          <key>oH</key>
+          <integer>60</integer>
+          <key>oV</key>
+          <integer>84</integer>
+          <key>tH</key>
+          <integer>70</integer>
+        </dict>
+      </dict>
+      <key>LWPluginVersion</key>
+      <string>1392</string>
+      <key>public.skipExportGlyphs</key>
+      <array>
+        <string>I.numeroRomano</string>
+        <string>igrave.f</string>
+        <string>spacingGlyph</string>
+      </array>
+    </dict>
+  </lib>
+</designspace>

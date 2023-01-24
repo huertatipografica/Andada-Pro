@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="f.t" format="2">
+  <advance width="354"/>
+  <outline>
+    <contour>
+      <point x="-103" y="-235" type="line"/>
+      <point x="23" y="-229"/>
+      <point x="128" y="-168"/>
+      <point x="179" y="-49" type="curve" smooth="yes"/>
+      <point x="217" y="39"/>
+      <point x="221" y="222"/>
+      <point x="268" y="476" type="curve"/>
+      <point x="195" y="418" type="line"/>
+      <point x="288" y="418"/>
+      <point x="383" y="418"/>
+      <point x="491" y="418" type="curve"/>
+      <point x="525" y="527" type="line"/>
+      <point x="400" y="473"/>
+      <point x="337" y="466"/>
+      <point x="210" y="498" type="curve"/>
+      <point x="262" y="432" type="line"/>
+      <point x="262" y="527"/>
+      <point x="247" y="617"/>
+      <point x="260" y="634" type="curve" smooth="yes"/>
+      <point x="275" y="653"/>
+      <point x="346" y="664"/>
+      <point x="414" y="661" type="curve"/>
+      <point x="442" y="770" type="line"/>
+      <point x="285" y="769"/>
+      <point x="173" y="681"/>
+      <point x="146" y="550" type="curve" smooth="yes"/>
+      <point x="145" y="544"/>
+      <point x="139" y="522"/>
+      <point x="124" y="512" type="curve" smooth="yes"/>
+      <point x="108" y="501"/>
+      <point x="75" y="490"/>
+      <point x="43" y="480" type="curve"/>
+      <point x="37" y="419" type="line"/>
+      <point x="188" y="418" type="line"/>
+      <point x="129" y="452" type="line"/>
+      <point x="108" y="298"/>
+      <point x="75" y="-59"/>
+      <point x="24" y="-102" type="curve" smooth="yes"/>
+      <point x="8" y="-116"/>
+      <point x="-26" y="-125"/>
+      <point x="-69" y="-126" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Ligature</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Sacutedotaccent" format="2">
+  <advance width="581"/>
+  <unicode hex="1E64"/>
+  <anchor x="244" y="0" name="bottom"/>
+  <anchor x="402" y="1015" name="top"/>
+  <outline>
+    <component base="S"/>
+    <component base="acutecomb_dotaccentcomb.case" xOffset="148" yOffset="15"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

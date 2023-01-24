@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="m.ss02" format="2">
+  <advance width="791.625"/>
+  <outline>
+    <contour>
+      <point x="86.45454545454545" y="32.04545454545455" type="curve"/>
+      <point x="181.20454545454547" y="32.04545454545455" type="line"/>
+      <point x="179.0" y="54.75"/>
+      <point x="173.61363636363637" y="120.8409090909091"/>
+      <point x="175.8181818181818" y="155.70454545454547" type="curve" smooth="yes"/>
+      <point x="194.79545454545456" y="426.84090909090907" type="line"/>
+      <point x="180.1590909090909" y="424.84090909090907" type="line"/>
+      <point x="362.4318181818182" y="76.0" type="line"/>
+      <point x="406.45454545454544" y="76.0" type="line"/>
+      <point x="589.5454545454545" y="423.84090909090907" type="line"/>
+      <point x="574.9090909090909" y="426.84090909090907" type="line"/>
+      <point x="597.0681818181819" y="134.70454545454547" type="line" smooth="yes"/>
+      <point x="598.8636363636364" y="113.29545454545455"/>
+      <point x="589.6818181818181" y="46.68181818181818"/>
+      <point x="587.8863636363636" y="32.04545454545455" type="curve"/>
+      <point x="705.25" y="32.04545454545455" type="line"/>
+      <point x="700.4545454545455" y="48.20454545454545"/>
+      <point x="686.8636363636364" y="121.93181818181819"/>
+      <point x="683.25" y="154.5" type="curve" smooth="yes"/>
+      <point x="663.0681818181819" y="378.5" type="line" smooth="yes"/>
+      <point x="661.4545454545455" y="392.09090909090907"/>
+      <point x="659.6818181818181" y="428.04545454545456"/>
+      <point x="663.4545454545455" y="511.0" type="curve"/>
+      <point x="559.4090909090909" y="508.0" type="line"/>
+      <point x="543.2045454545455" y="495.0" type="line"/>
+      <point x="529.0227272727273" y="460.8181818181818"/>
+      <point x="508.25" y="411.25"/>
+      <point x="502.45454545454544" y="400.04545454545456" type="curve"/>
+      <point x="385.3181818181818" y="161.6818181818182" type="line"/>
+      <point x="409.1818181818182" y="161.6818181818182" type="line"/>
+      <point x="296.27272727272725" y="391.02272727272725" type="line"/>
+      <point x="289.65909090909093" y="407.45454545454544"/>
+      <point x="268.6818181818182" y="459.4318181818182"/>
+      <point x="254.9090909090909" y="494.20454545454544" type="curve"/>
+      <point x="239.5" y="508.0" type="line"/>
+      <point x="119.8409090909091" y="511.0" type="line"/>
+      <point x="125.43181818181819" y="464.1136363636364"/>
+      <point x="130.4318181818182" y="415.45454545454544"/>
+      <point x="129.4318181818182" y="399.09090909090907" type="curve" smooth="yes"/>
+      <point x="109.04545454545455" y="134.70454545454547" type="line" smooth="yes"/>
+      <point x="107.8409090909091" y="115.27272727272727"/>
+      <point x="91.68181818181819" y="58.36363636363637"/>
+    </contour>
+    <contour>
+      <point x="-17.022727272727273" y="0.0" type="line"/>
+      <point x="807.9318181818181" y="0.0" type="line"/>
+      <point x="811.9318181818181" y="39.86363636363637" type="line"/>
+      <point x="-21.022727272727273" y="39.86363636363637" type="line"/>
+    </contour>
+    <contour>
+      <point x="-14.522727272727273" y="494.75" type="line"/>
+      <point x="806.8409090909091" y="494.75" type="line"/>
+      <point x="802.8409090909091" y="536.0" type="line"/>
+      <point x="-11.954545454545455" y="536.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>3</integer>
+        <key>height</key>
+        <integer>76</integer>
+        <key>weight</key>
+        <integer>-12</integer>
+        <key>width</key>
+        <integer>82</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

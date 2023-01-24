@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="oslashacute" format="2">
+  <advance width="512.0"/>
+  <unicode hex="01FF"/>
+  <anchor x="221.5" y="0.0" name="bottom"/>
+  <anchor x="256.5" y="247.22727272727272" name="center"/>
+  <anchor x="288.90909090909093" y="4.659090909090909" name="ogonek"/>
+  <anchor x="335.52272727272725" y="664.4318181818181" name="top"/>
+  <anchor x="388.09090909090907" y="440.45454545454544" name="topright"/>
+  <outline>
+    <component base="oslash"/>
+    <component base="acutecomb" xOffset="151.1590909090909"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

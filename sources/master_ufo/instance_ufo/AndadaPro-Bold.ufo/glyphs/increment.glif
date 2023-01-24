@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="increment" format="2">
+  <advance width="794.8000000000001"/>
+  <unicode hex="2206"/>
+  <outline>
+    <contour>
+      <point x="177.54545454545456" y="55.0" type="line"/>
+      <point x="407.54545454545456" y="632.0" type="line"/>
+      <point x="387.54545454545456" y="632.0" type="line"/>
+      <point x="617.5454545454545" y="55.0" type="line"/>
+      <point x="711.5454545454545" y="62.63636363636364" type="line"/>
+      <point x="438.54545454545456" y="756.0" type="line"/>
+      <point x="356.54545454545456" y="756.0" type="line"/>
+      <point x="83.54545454545455" y="62.63636363636364" type="line"/>
+    </contour>
+    <contour>
+      <point x="91.36363636363636" y="0.0" type="line"/>
+      <point x="703.3636363636364" y="0.0" type="line"/>
+      <point x="711.5454545454545" y="62.63636363636364" type="line"/>
+      <point x="617.5454545454545" y="78.45454545454545" type="line"/>
+      <point x="177.54545454545456" y="78.45454545454545" type="line"/>
+      <point x="83.54545454545455" y="62.63636363636364" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

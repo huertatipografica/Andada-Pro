@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Uinvertedbreve" format="2">
+  <advance width="760"/>
+  <unicode hex="0216"/>
+  <anchor x="338" y="0" name="bottom"/>
+  <anchor x="628" y="460" name="horn"/>
+  <anchor x="453" y="0" name="ogonek"/>
+  <anchor x="479" y="1015" name="top"/>
+  <anchor x="782" y="705" name="topright"/>
+  <outline>
+    <component base="U"/>
+    <component base="breveinvertedcomb.case" xOffset="199" yOffset="15"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nhookleft" format="2">
+  <advance width="556.1"/>
+  <unicode hex="0272"/>
+  <outline>
+    <contour>
+      <point x="-73" y="-195" type="line"/>
+      <point x="55" y="-194"/>
+      <point x="123" y="-99"/>
+      <point x="139" y="7" type="curve" smooth="yes"/>
+      <point x="147" y="53"/>
+      <point x="151" y="78"/>
+      <point x="158" y="117" type="curve"/>
+      <point x="210" y="325"/>
+      <point x="312" y="436"/>
+      <point x="355" y="436" type="curve" smooth="yes"/>
+      <point x="384" y="436"/>
+      <point x="391" y="411"/>
+      <point x="391" y="384" type="curve" smooth="yes"/>
+      <point x="391" y="293"/>
+      <point x="354" y="134"/>
+      <point x="325" y="5" type="curve"/>
+      <point x="349" y="-10" type="line"/>
+      <point x="517" y="35" type="line"/>
+      <point x="520" y="68" type="line"/>
+      <point x="392" y="74" type="line"/>
+      <point x="425" y="49" type="line"/>
+      <point x="429" y="186"/>
+      <point x="480" y="330"/>
+      <point x="480" y="426" type="curve" smooth="yes"/>
+      <point x="480" y="473"/>
+      <point x="459" y="508"/>
+      <point x="408" y="508" type="curve" smooth="yes"/>
+      <point x="307" y="508"/>
+      <point x="222" y="396"/>
+      <point x="181" y="303" type="curve"/>
+      <point x="187" y="294" type="line"/>
+      <point x="197" y="374"/>
+      <point x="209" y="437"/>
+      <point x="224" y="488" type="curve"/>
+      <point x="202" y="508" type="line"/>
+      <point x="40" y="463" type="line"/>
+      <point x="41" y="426" type="line"/>
+      <point x="157" y="420" type="line"/>
+      <point x="126" y="443" type="line"/>
+      <point x="119" y="357"/>
+      <point x="108" y="259"/>
+      <point x="95" y="169" type="curve" smooth="yes"/>
+      <point x="64" y="-26"/>
+      <point x="43" y="-144"/>
+      <point x="-68" y="-144" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

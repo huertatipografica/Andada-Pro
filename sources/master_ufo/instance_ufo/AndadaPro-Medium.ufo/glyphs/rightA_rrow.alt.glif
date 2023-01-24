@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rightArrow.alt" format="2">
+  <advance width="527.25"/>
+  <outline>
+    <contour>
+      <point x="117.36363636363636" y="2.0" type="line"/>
+      <point x="446.3636363636364" y="280.0" type="line"/>
+      <point x="115.36363636363636" y="558.0" type="line"/>
+      <point x="89.36363636363636" y="527.0" type="line"/>
+      <point x="412.90909090909093" y="261.04545454545456" type="line"/>
+      <point x="411.8863636363636" y="298.9318181818182" type="line"/>
+      <point x="91.36363636363636" y="33.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

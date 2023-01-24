@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="A" format="2">
+  <advance width="691.25"/>
+  <unicode hex="0041"/>
+  <anchor x="315.02272727272725" y="0.0" name="bottom"/>
+  <anchor x="576.25" y="10.0" name="ogonek"/>
+  <anchor x="407.27272727272725" y="705.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="1.0" y="-5.0" type="line"/>
+      <point x="44.59090909090909" y="-3.0"/>
+      <point x="107.38636363636364" y="0.0"/>
+      <point x="131.77272727272728" y="0.0" type="curve" smooth="yes"/>
+      <point x="219.0909090909091" y="0.0" type="line"/>
+      <point x="231.5" y="55.86363636363637" type="line"/>
+      <point x="127.8409090909091" y="70.45454545454545" type="line"/>
+      <point x="162.54545454545453" y="41.36363636363637" type="line"/>
+      <point x="165.3409090909091" y="66.77272727272727"/>
+      <point x="178.88636363636363" y="114.5"/>
+      <point x="188.0909090909091" y="135.11363636363637" type="curve" smooth="yes"/>
+      <point x="391.75" y="581.1136363636364" type="line"/>
+      <point x="373.77272727272725" y="578.25" type="line"/>
+      <point x="449.29545454545456" y="163.6590909090909" type="line" smooth="yes"/>
+      <point x="455.6818181818182" y="128.11363636363637"/>
+      <point x="456.84090909090907" y="61.79545454545455"/>
+      <point x="458.02272727272725" y="35.25" type="curve"/>
+      <point x="494.75" y="75.45454545454545" type="line"/>
+      <point x="385.70454545454544" y="45.88636363636364" type="line"/>
+      <point x="381.29545454545456" y="-5.0" type="line"/>
+      <point x="428.70454545454544" y="-3.0"/>
+      <point x="496.70454545454544" y="0.0"/>
+      <point x="524.3181818181819" y="0.0" type="curve" smooth="yes"/>
+      <point x="625.6590909090909" y="0.0" type="line"/>
+      <point x="638.0681818181819" y="55.86363636363637" type="line"/>
+      <point x="541.3863636363636" y="71.04545454545455" type="line"/>
+      <point x="588.5" y="41.81818181818182" type="line"/>
+      <point x="583.0909090909091" y="55.02272727272727"/>
+      <point x="563.5227272727273" y="114.93181818181819"/>
+      <point x="559.3181818181819" y="136.36363636363637" type="curve" smooth="yes"/>
+      <point x="437.5681818181818" y="715.2045454545455" type="line"/>
+      <point x="372.3636363636364" y="705.0" type="line"/>
+      <point x="124.11363636363636" y="166.77272727272728" type="line" smooth="yes"/>
+      <point x="106.5" y="127.95454545454545"/>
+      <point x="64.31818181818181" y="58.84090909090909"/>
+      <point x="55.11363636363636" y="46.02272727272727" type="curve"/>
+      <point x="102.63636363636364" y="71.45454545454545" type="line"/>
+      <point x="4.204545454545454" y="45.68181818181818" type="line"/>
+    </contour>
+    <contour>
+      <point x="214.20454545454547" y="227.0" type="line"/>
+      <point x="450.1818181818182" y="227.0" type="line"/>
+      <point x="445.75" y="284.1136363636364" type="line"/>
+      <point x="237.45454545454547" y="280.3181818181818" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

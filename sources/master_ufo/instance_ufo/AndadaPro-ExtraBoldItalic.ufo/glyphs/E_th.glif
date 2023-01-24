@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Eth" format="2">
+  <advance width="735.3863636363636"/>
+  <unicode hex="00D0"/>
+  <anchor x="297.65909090909093" y="0.0" name="bottom"/>
+  <anchor x="216.9318181818182" y="353.0" name="center"/>
+  <anchor x="403.5" y="720.0" name="top"/>
+  <outline>
+    <component base="D"/>
+    <component base="barcomp" xOffset="-92.27272727272728" yOffset="-240.5909090909091"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

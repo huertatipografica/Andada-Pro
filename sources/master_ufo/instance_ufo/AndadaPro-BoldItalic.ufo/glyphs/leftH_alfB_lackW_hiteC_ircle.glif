@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="leftHalfBlackWhiteCircle" format="2">
+  <advance width="784.6"/>
+  <unicode hex="25D0"/>
+  <outline>
+    <contour>
+      <point x="43.36363636363637" y="383.0" type="curve" smooth="yes"/>
+      <point x="43.36363636363637" y="382.0" type="line" smooth="yes"/>
+      <point x="43.36363636363637" y="182.0"/>
+      <point x="206.36363636363637" y="19.0"/>
+      <point x="406.3636363636364" y="19.0" type="curve" smooth="yes"/>
+      <point x="607.3636363636364" y="19.0"/>
+      <point x="770.3636363636364" y="182.0"/>
+      <point x="770.3636363636364" y="383.0" type="curve" smooth="yes"/>
+      <point x="770.3636363636364" y="583.0"/>
+      <point x="607.3636363636364" y="746.0"/>
+      <point x="406.3636363636364" y="746.0" type="curve" smooth="yes"/>
+      <point x="206.36363636363637" y="746.0"/>
+      <point x="43.36363636363637" y="583.0"/>
+    </contour>
+    <contour>
+      <point x="406.3636363636364" y="108.63636363636364" type="curve"/>
+      <point x="406.3636363636364" y="656.3636363636364" type="line"/>
+      <point x="558.0909090909091" y="657.0"/>
+      <point x="680.7272727272727" y="533.7272727272727"/>
+      <point x="680.7272727272727" y="383.0" type="curve" smooth="yes"/>
+      <point x="680.7272727272727" y="231.27272727272728"/>
+      <point x="558.0909090909091" y="108.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Symbol</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

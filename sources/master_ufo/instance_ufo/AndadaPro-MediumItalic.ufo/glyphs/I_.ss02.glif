@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="I.ss02" format="2">
+  <advance width="474.875"/>
+  <anchor x="204.70454545454547" y="34.0" name="bottom"/>
+  <anchor x="204.70454545454547" y="34.0" name="ogonek"/>
+  <anchor x="298.4318181818182" y="669.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="134.04545454545453" y="39.68181818181818" type="curve"/>
+      <point x="266.5909090909091" y="39.68181818181818" type="line"/>
+      <point x="265.3863636363636" y="63.13636363636364"/>
+      <point x="270.5681818181818" y="144.95454545454547"/>
+      <point x="277.15909090909093" y="193.9318181818182" type="curve" smooth="yes"/>
+      <point x="323.09090909090907" y="509.0681818181818" type="line" smooth="yes"/>
+      <point x="330.09090909090907" y="556.5"/>
+      <point x="350.0681818181818" y="641.5909090909091"/>
+      <point x="359.1136363636364" y="669.5454545454545" type="curve"/>
+      <point x="226.95454545454547" y="668.1363636363636" type="line"/>
+      <point x="228.77272727272728" y="643.25"/>
+      <point x="223.38636363636363" y="558.7045454545455"/>
+      <point x="220.38636363636363" y="536.0681818181819" type="curve" smooth="yes"/>
+      <point x="166.45454545454547" y="166.9318181818182" type="line" smooth="yes"/>
+      <point x="163.25" y="143.88636363636363"/>
+      <point x="140.86363636363637" y="61.15909090909091"/>
+    </contour>
+    <contour>
+      <point x="7.840909090909091" y="0.0" type="line"/>
+      <point x="392.70454545454544" y="0.0" type="line"/>
+      <point x="404.1136363636364" y="45.68181818181818" type="line"/>
+      <point x="10.045454545454545" y="45.68181818181818" type="line"/>
+    </contour>
+    <contour>
+      <point x="102.77272727272727" y="656.1363636363636" type="line"/>
+      <point x="493.6136363636364" y="656.1363636363636" type="line"/>
+      <point x="496.6136363636364" y="705.0" type="line"/>
+      <point x="111.75" y="705.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <integer>90</integer>
+        <key>verticalShift</key>
+        <integer>34</integer>
+        <key>width</key>
+        <integer>95</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

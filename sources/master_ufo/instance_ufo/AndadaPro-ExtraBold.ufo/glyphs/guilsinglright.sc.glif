@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="guilsinglright.sc" format="2">
+  <advance width="340.0"/>
+  <outline>
+    <contour>
+      <point x="126.0" y="95.11363636363636" type="line"/>
+      <point x="271.97727272727275" y="264.0" type="line"/>
+      <point x="126.0" y="433.65909090909093" type="line"/>
+      <point x="89.68181818181819" y="410.1136363636364" type="line"/>
+      <point x="193.3409090909091" y="213.61363636363637" type="line"/>
+      <point x="193.3409090909091" y="314.3863636363636" type="line"/>
+      <point x="89.68181818181819" y="118.77272727272727" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>24</integer>
+        <key>height</key>
+        <integer>77</integer>
+        <key>verticalShift</key>
+        <integer>70</integer>
+        <key>weight</key>
+        <integer>-10</integer>
+        <key>width</key>
+        <integer>82</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

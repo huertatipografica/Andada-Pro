@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="one.tf" format="2">
+  <advance width="550.0"/>
+  <outline>
+    <contour>
+      <point x="102.02272727272727" y="-5.0" type="line"/>
+      <point x="152.61363636363637" y="-3.0"/>
+      <point x="281.25" y="0.0"/>
+      <point x="296.8863636363636" y="0.0" type="curve" smooth="yes"/>
+      <point x="469.77272727272725" y="0.0" type="line"/>
+      <point x="477.5681818181818" y="55.88636363636364" type="line"/>
+      <point x="314.65909090909093" y="66.0909090909091" type="line"/>
+      <point x="353.6136363636364" y="23.545454545454547" type="line"/>
+      <point x="347.20454545454544" y="72.4090909090909"/>
+      <point x="342.1818181818182" y="127.31818181818181"/>
+      <point x="342.1818181818182" y="169.9318181818182" type="curve" smooth="yes"/>
+      <point x="342.1818181818182" y="427.0" type="line" smooth="yes"/>
+      <point x="342.1818181818182" y="463.0"/>
+      <point x="347.1818181818182" y="581.0"/>
+      <point x="350.3863636363636" y="661.0" type="curve"/>
+      <point x="308.5" y="673.0" type="line"/>
+      <point x="80.43181818181819" y="508.0" type="line"/>
+      <point x="108.68181818181819" y="463.5" type="line"/>
+      <point x="292.20454545454544" y="538.0227272727273" type="line"/>
+      <point x="261.8636363636364" y="559.1363636363636" type="line"/>
+      <point x="261.8636363636364" y="139.9318181818182" type="line" smooth="yes"/>
+      <point x="261.8636363636364" y="121.88636363636364"/>
+      <point x="251.6590909090909" y="62.40909090909091"/>
+      <point x="246.63636363636363" y="23.545454545454547" type="curve"/>
+      <point x="286.20454545454544" y="69.0909090909091" type="line"/>
+      <point x="96.02272727272727" y="47.5" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>monoWidth</key>
+        <integer>550</integer>
+        <key>useSpacing</key>
+        <integer>80</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

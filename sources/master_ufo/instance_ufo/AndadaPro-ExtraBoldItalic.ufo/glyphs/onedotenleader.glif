@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="onedotenleader" format="2">
+  <advance width="324.625"/>
+  <unicode hex="2024"/>
+  <outline>
+    <contour>
+      <point x="128.63636363636363" y="-14.431818181818182" type="curve" smooth="yes"/>
+      <point x="179.61363636363637" y="-14.431818181818182"/>
+      <point x="215.70454545454544" y="26.886363636363637"/>
+      <point x="215.70454545454544" y="84.63636363636364" type="curve" smooth="yes"/>
+      <point x="215.70454545454544" y="125.61363636363636"/>
+      <point x="192.5" y="150.9318181818182"/>
+      <point x="151.75" y="150.9318181818182" type="curve" smooth="yes"/>
+      <point x="101.77272727272727" y="150.9318181818182"/>
+      <point x="64.68181818181819" y="108.72727272727272"/>
+      <point x="64.68181818181819" y="51.86363636363636" type="curve" smooth="yes"/>
+      <point x="64.68181818181819" y="12.0"/>
+      <point x="87.77272727272727" y="-14.431818181818182"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

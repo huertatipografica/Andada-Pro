@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="w.sups" format="2">
+  <advance width="555.7"/>
+  <outline>
+    <contour>
+      <point x="158" y="330" type="line"/>
+      <point x="217" y="330" type="line"/>
+      <point x="288" y="532" type="line"/>
+      <point x="269" y="532" type="line"/>
+      <point x="338" y="330" type="line"/>
+      <point x="398" y="330" type="line"/>
+      <point x="470" y="524" type="line" smooth="yes"/>
+      <point x="478" y="548"/>
+      <point x="493" y="578"/>
+      <point x="511" y="617" type="curve"/>
+      <point x="468" y="583" type="line"/>
+      <point x="526" y="591" type="line"/>
+      <point x="523" y="629" type="line"/>
+      <point x="390" y="629" type="line"/>
+      <point x="387" y="592" type="line"/>
+      <point x="462" y="585" type="line"/>
+      <point x="438" y="620" type="line"/>
+      <point x="431" y="581"/>
+      <point x="427" y="564"/>
+      <point x="420" y="545" type="curve" smooth="yes"/>
+      <point x="365" y="378" type="line"/>
+      <point x="382" y="377" type="line"/>
+      <point x="304" y="629" type="line"/>
+      <point x="265" y="629" type="line"/>
+      <point x="184" y="378" type="line"/>
+      <point x="202" y="377" type="line"/>
+      <point x="150" y="542" type="line" smooth="yes"/>
+      <point x="144" y="561"/>
+      <point x="138" y="585"/>
+      <point x="131" y="620" type="curve"/>
+      <point x="107" y="586" type="line"/>
+      <point x="183" y="591" type="line"/>
+      <point x="180" y="629" type="line"/>
+      <point x="32" y="629" type="line"/>
+      <point x="29" y="590" type="line"/>
+      <point x="89" y="581" type="line"/>
+      <point x="48" y="618" type="line"/>
+      <point x="59" y="592"/>
+      <point x="72" y="563"/>
+      <point x="81" y="539" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>10</integer>
+        <key>height</key>
+        <integer>61</integer>
+        <key>verticalShift</key>
+        <integer>330</integer>
+        <key>weight</key>
+        <integer>-24</integer>
+        <key>width</key>
+        <integer>62</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Small</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

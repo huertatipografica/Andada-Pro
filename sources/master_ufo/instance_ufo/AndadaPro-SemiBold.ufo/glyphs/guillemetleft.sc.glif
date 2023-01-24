@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="guillemetleft.sc" format="2">
+  <advance width="491.6818181818182"/>
+  <outline>
+    <contour>
+      <point x="214.0" y="96.77272727272727" type="line"/>
+      <point x="246.86363636363637" y="118.4090909090909" type="line"/>
+      <point x="144.04545454545453" y="304.40909090909093" type="line"/>
+      <point x="144.04545454545453" y="225.5909090909091" type="line"/>
+      <point x="246.86363636363637" y="411.1818181818182" type="line"/>
+      <point x="214.0" y="432.8181818181818" type="line"/>
+      <point x="71.72727272727273" y="265.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="366.8636363636364" y="96.77272727272727" type="line"/>
+      <point x="400.3181818181818" y="118.4090909090909" type="line"/>
+      <point x="297.5" y="304.40909090909093" type="line"/>
+      <point x="297.5" y="225.5909090909091" type="line"/>
+      <point x="400.3181818181818" y="411.1818181818182" type="line"/>
+      <point x="366.8636363636364" y="432.8181818181818" type="line"/>
+      <point x="225.1818181818182" y="265.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>24</integer>
+        <key>height</key>
+        <integer>77</integer>
+        <key>verticalShift</key>
+        <integer>70</integer>
+        <key>weight</key>
+        <integer>-10</integer>
+        <key>width</key>
+        <integer>82</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

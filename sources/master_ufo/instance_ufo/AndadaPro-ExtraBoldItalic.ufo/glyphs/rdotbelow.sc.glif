@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rdotbelow.sc" format="2">
+  <advance width="589.25"/>
+  <anchor x="250.86363636363637" y="-218.63636363636363" name="bottom"/>
+  <anchor x="336.72727272727275" y="530.0" name="top"/>
+  <outline>
+    <component base="r.sc"/>
+    <component base="dotbelowcomb" xOffset="183.0909090909091"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

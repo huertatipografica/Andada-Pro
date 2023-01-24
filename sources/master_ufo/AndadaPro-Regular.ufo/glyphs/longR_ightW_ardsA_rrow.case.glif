@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="longRightWardsArrow.case" format="2">
+  <advance width="1209.7"/>
+  <outline>
+    <contour>
+      <point x="830" y="71" type="line"/>
+      <point x="1125" y="327" type="line"/>
+      <point x="1125" y="342" type="line"/>
+      <point x="829" y="597" type="line"/>
+      <point x="789" y="547" type="line"/>
+      <point x="1061" y="312" type="line"/>
+      <point x="1061" y="357" type="line"/>
+      <point x="790" y="122" type="line"/>
+    </contour>
+    <contour>
+      <point x="100" y="299" type="line"/>
+      <point x="123" y="301"/>
+      <point x="168" y="304"/>
+      <point x="205" y="304" type="curve" smooth="yes"/>
+      <point x="1096" y="304" type="line"/>
+      <point x="1097" y="365" type="line"/>
+      <point x="91" y="365" type="line"/>
+      <point x="91" y="308" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>verticalShift</key>
+        <integer>80</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Symbol</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Arrow</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

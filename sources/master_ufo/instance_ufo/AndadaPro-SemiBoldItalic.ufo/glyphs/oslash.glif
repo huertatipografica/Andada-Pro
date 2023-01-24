@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="oslash" format="2">
+  <advance width="491.0"/>
+  <unicode hex="00F8"/>
+  <anchor x="283.3181818181818" y="494.0" name="top"/>
+  <anchor x="211.0" y="0.0" name="bottom"/>
+  <anchor x="246.0" y="248.1818181818182" name="center"/>
+  <anchor x="271.72727272727275" y="3.2272727272727275" name="ogonek"/>
+  <anchor x="384.27272727272725" y="442.3636363636364" name="topright"/>
+  <outline>
+    <contour>
+      <point x="488.77272727272725" y="577.5454545454545" type="line"/>
+      <point x="447.40909090909093" y="599.6363636363636" type="line"/>
+      <point x="-0.3636363636363633" y="-78.54545454545455" type="line"/>
+      <point x="40.59090909090909" y="-100.63636363636364" type="line"/>
+    </contour>
+    <component base="o" xOffset="3.590909090909091"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>o</string>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

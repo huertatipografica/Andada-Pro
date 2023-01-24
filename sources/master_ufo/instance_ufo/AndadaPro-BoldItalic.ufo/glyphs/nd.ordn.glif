@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nd.ordn" format="2">
+  <advance width="782.0"/>
+  <anchor x="217.1818181818182" y="330.0" name="bottom_1"/>
+  <anchor x="602.6363636363636" y="330.0" name="bottom_2"/>
+  <anchor x="707.6363636363636" y="695.9090909090909" name="center"/>
+  <anchor x="255.9090909090909" y="638.0" name="top_1"/>
+  <anchor x="663.9090909090909" y="795.7272727272727" name="top_2"/>
+  <anchor x="827.7272727272727" y="638.7272727272727" name="topright"/>
+  <outline>
+    <component base="n.sups"/>
+    <component base="d.sups" xOffset="407.6363636363636"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

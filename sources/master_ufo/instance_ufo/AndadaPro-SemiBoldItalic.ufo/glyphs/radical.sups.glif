@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="radical.sups" format="2">
+  <advance width="475.90000000000003"/>
+  <outline>
+    <contour>
+      <point x="247.72727272727272" y="274.3636363636364" type="line"/>
+      <point x="303.09090909090907" y="274.3636363636364" type="line"/>
+      <point x="501.40909090909093" y="756.8636363636364" type="line"/>
+      <point x="440.04545454545456" y="772.6818181818181" type="line"/>
+      <point x="277.0" y="354.77272727272725" type="line"/>
+      <point x="295.04545454545456" y="354.77272727272725" type="line"/>
+      <point x="252.22727272727272" y="646.8181818181819" type="line"/>
+      <point x="74.0" y="603.7727272727273" type="line"/>
+      <point x="83.22727272727273" y="539.4090909090909" type="line"/>
+      <point x="230.5909090909091" y="579.6363636363636" type="line"/>
+      <point x="190.04545454545453" y="603.7272727272727" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>10</integer>
+        <key>height</key>
+        <integer>60</integer>
+        <key>verticalShift</key>
+        <integer>330</integer>
+        <key>weight</key>
+        <integer>-25</integer>
+        <key>width</key>
+        <integer>62</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Symbol</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

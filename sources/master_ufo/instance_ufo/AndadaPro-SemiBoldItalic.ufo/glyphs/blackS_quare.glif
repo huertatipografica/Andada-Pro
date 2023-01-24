@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="blackSquare" format="2">
+  <advance width="562.6"/>
+  <unicode hex="25A0"/>
+  <outline>
+    <contour>
+      <point x="73.18181818181819" y="40.0" type="line"/>
+      <point x="489.1818181818182" y="40.0" type="line"/>
+      <point x="489.1818181818182" y="454.0" type="line"/>
+      <point x="73.18181818181819" y="454.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Symbol</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Geometry</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

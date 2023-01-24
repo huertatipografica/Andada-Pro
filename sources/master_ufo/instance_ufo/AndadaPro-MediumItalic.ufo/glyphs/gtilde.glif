@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gtilde" format="2">
+  <advance width="492.09090909090907"/>
+  <anchor x="290.95454545454544" y="-68.61363636363636" name="center"/>
+  <anchor x="349.04545454545456" y="631.25" name="top"/>
+  <outline>
+    <component base="g"/>
+    <component base="tildecomb" xOffset="102.22727272727273"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

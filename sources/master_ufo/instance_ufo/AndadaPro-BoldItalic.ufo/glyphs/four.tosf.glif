@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="four.tosf" format="2">
+  <advance width="550.0"/>
+  <outline>
+    <contour>
+      <point x="59.45454545454545" y="14.636363636363637" type="line"/>
+      <point x="296.6363636363636" y="14.636363636363637" type="line"/>
+      <point x="306.1818181818182" y="91.45454545454545" type="line"/>
+      <point x="81.18181818181819" y="90.0" type="line"/>
+      <point x="98.27272727272727" y="47.72727272727273" type="line"/>
+      <point x="350.3636363636364" y="357.45454545454544" type="line" smooth="yes"/>
+      <point x="369.0" y="380.45454545454544"/>
+      <point x="490.90909090909093" y="494.09090909090907"/>
+      <point x="490.90909090909093" y="494.09090909090907" type="curve"/>
+      <point x="411.45454545454544" y="565.0" type="line"/>
+      <point x="6.0" y="91.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="253.45454545454544" y="-223.36363636363637" type="line"/>
+      <point x="374.72727272727275" y="-185.0" type="line"/>
+      <point x="426.3636363636364" y="246.27272727272728" type="line"/>
+      <point x="305.1818181818182" y="207.63636363636363" type="line"/>
+    </contour>
+    <contour>
+      <point x="383.3636363636364" y="14.636363636363637" type="line"/>
+      <point x="489.90909090909093" y="14.636363636363637" type="line"/>
+      <point x="501.09090909090907" y="104.36363636363636" type="line"/>
+      <point x="393.27272727272725" y="98.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>monoWidth</key>
+        <integer>550</integer>
+        <key>useSpacing</key>
+        <integer>80</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tildecomb.loclVIET" format="2">
+  <anchor x="192.0909090909091" y="494.0" name="_top"/>
+  <anchor x="192.0909090909091" y="634.1818181818181" name="top"/>
+  <outline>
+    <contour>
+      <point x="71.0909090909091" y="543.0" type="line"/>
+      <point x="82.0909090909091" y="563.4545454545455"/>
+      <point x="102.81818181818181" y="590.9090909090909"/>
+      <point x="120.9090909090909" y="590.9090909090909" type="curve" smooth="yes"/>
+      <point x="159.45454545454547" y="590.9090909090909"/>
+      <point x="230.36363636363637" y="552.1818181818181"/>
+      <point x="269.27272727272725" y="552.1818181818181" type="curve" smooth="yes"/>
+      <point x="306.1818181818182" y="552.1818181818181"/>
+      <point x="344.72727272727275" y="637.6363636363636"/>
+      <point x="350.0" y="649.1818181818181" type="curve"/>
+      <point x="313.3636363636364" y="670.6363636363636" type="line"/>
+      <point x="302.3636363636364" y="649.6363636363636"/>
+      <point x="281.3636363636364" y="622.6363636363636"/>
+      <point x="263.27272727272725" y="622.6363636363636" type="curve" smooth="yes"/>
+      <point x="225.0" y="622.6363636363636"/>
+      <point x="152.45454545454547" y="660.7272727272727"/>
+      <point x="113.9090909090909" y="660.7272727272727" type="curve" smooth="yes"/>
+      <point x="86.27272727272727" y="660.7272727272727"/>
+      <point x="52.36363636363636" y="605.4545454545455"/>
+      <point x="34.72727272727273" y="564.1818181818181" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>14</integer>
+        <key>height</key>
+        <integer>95</integer>
+        <key>verticalShift</key>
+        <integer>30</integer>
+        <key>weight</key>
+        <integer>-20</integer>
+        <key>width</key>
+        <integer>95</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <real>387.6</real>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

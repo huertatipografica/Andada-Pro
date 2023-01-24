@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="one.tosf" format="2">
+  <advance width="550.0"/>
+  <outline>
+    <contour>
+      <point x="70.22727272727272" y="-5.0" type="line"/>
+      <point x="117.81818181818181" y="-3.0"/>
+      <point x="260.77272727272725" y="0.0"/>
+      <point x="277.6363636363636" y="0.0" type="curve" smooth="yes"/>
+      <point x="439.5909090909091" y="0.0" type="line"/>
+      <point x="454.1818181818182" y="59.77272727272727" type="line"/>
+      <point x="315.1818181818182" y="70.18181818181819" type="line"/>
+      <point x="359.6363636363636" y="21.09090909090909" type="line"/>
+      <point x="358.22727272727275" y="72.81818181818181"/>
+      <point x="358.22727272727275" y="132.9090909090909"/>
+      <point x="364.0" y="175.86363636363637" type="curve" smooth="yes"/>
+      <point x="380.54545454545456" y="301.27272727272725" type="line" smooth="yes"/>
+      <point x="387.1363636363636" y="351.27272727272725"/>
+      <point x="418.09090909090907" y="535.2727272727273"/>
+      <point x="418.09090909090907" y="535.2727272727273" type="curve"/>
+      <point x="359.1363636363636" y="547.2727272727273" type="line"/>
+      <point x="97.0" y="382.27272727272725" type="line"/>
+      <point x="120.63636363636364" y="333.6818181818182" type="line"/>
+      <point x="334.8636363636364" y="417.27272727272725" type="line"/>
+      <point x="298.6818181818182" y="437.6363636363636" type="line"/>
+      <point x="260.0" y="145.86363636363637" type="line" smooth="yes"/>
+      <point x="257.1818181818182" y="123.68181818181819"/>
+      <point x="241.36363636363637" y="67.22727272727273"/>
+      <point x="230.3181818181818" y="21.09090909090909" type="curve"/>
+      <point x="284.27272727272725" y="73.18181818181819" type="line"/>
+      <point x="71.63636363636364" y="52.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>monoWidth</key>
+        <integer>550</integer>
+        <key>useSpacing</key>
+        <integer>80</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

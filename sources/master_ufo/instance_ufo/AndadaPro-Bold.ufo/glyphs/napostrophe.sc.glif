@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="napostrophe.sc" format="2">
+  <advance width="836.1999999999999"/>
+  <anchor x="418.54545454545456" y="0.0" name="bottom"/>
+  <anchor x="418.54545454545456" y="543.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="204.0" y="-4.0" type="line"/>
+      <point x="204.0" y="-4.0"/>
+      <point x="281.90909090909093" y="0.0"/>
+      <point x="304.72727272727275" y="0.0" type="curve"/>
+      <point x="410.6363636363636" y="0.0" type="line"/>
+      <point x="414.3636363636364" y="55.18181818181818" type="line"/>
+      <point x="315.0" y="63.45454545454545" type="line"/>
+      <point x="367.54545454545456" y="27.727272727272727" type="line"/>
+      <point x="364.54545454545456" y="52.90909090909091"/>
+      <point x="356.6363636363636" y="106.18181818181819"/>
+      <point x="356.6363636363636" y="147.9090909090909" type="curve" smooth="yes"/>
+      <point x="356.6363636363636" y="382.6363636363636" type="line"/>
+      <point x="328.09090909090907" y="373.45454545454544" type="line"/>
+      <point x="611.2727272727273" y="0.0" type="line"/>
+      <point x="715.4545454545455" y="0.0" type="line"/>
+      <point x="715.4545454545455" y="385.54545454545456" type="line" smooth="yes"/>
+      <point x="715.4545454545455" y="428.3636363636364"/>
+      <point x="724.0" y="480.6363636363636"/>
+      <point x="726.3636363636364" y="503.72727272727275" type="curve"/>
+      <point x="673.7272727272727" y="465.09090909090907" type="line"/>
+      <point x="774.0" y="473.72727272727275" type="line"/>
+      <point x="770.3636363636364" y="537.0909090909091" type="line"/>
+      <point x="770.3636363636364" y="537.0909090909091"/>
+      <point x="698.6363636363636" y="533.0909090909091"/>
+      <point x="644.9090909090909" y="533.0909090909091" type="curve" smooth="yes"/>
+      <point x="630.1818181818181" y="533.0909090909091"/>
+      <point x="590.6363636363636" y="535.0909090909091"/>
+      <point x="563.1818181818181" y="537.0909090909091" type="curve"/>
+      <point x="559.4545454545455" y="478.3636363636364" type="line"/>
+      <point x="658.0909090909091" y="461.1818181818182" type="line"/>
+      <point x="604.2727272727273" y="503.54545454545456" type="line"/>
+      <point x="609.0" y="475.45454545454544"/>
+      <point x="617.5454545454545" y="430.45454545454544"/>
+      <point x="617.5454545454545" y="408.54545454545456" type="curve" smooth="yes"/>
+      <point x="617.5454545454545" y="128.63636363636363" type="line"/>
+      <point x="645.7272727272727" y="138.1818181818182" type="line"/>
+      <point x="445.0" y="406.6363636363636" type="line" smooth="yes"/>
+      <point x="433.0" y="422.6363636363636"/>
+      <point x="376.09090909090907" y="518.0909090909091"/>
+      <point x="376.09090909090907" y="518.0909090909091" type="curve"/>
+      <point x="361.3636363636364" y="532.4545454545455" type="line"/>
+      <point x="245.45454545454544" y="532.4545454545455" type="line"/>
+      <point x="250.72727272727272" y="489.3636363636364"/>
+      <point x="259.0" y="430.6363636363636"/>
+      <point x="259.0" y="408.54545454545456" type="curve" smooth="yes"/>
+      <point x="259.0" y="124.9090909090909" type="line" smooth="yes"/>
+      <point x="259.0" y="103.18181818181819"/>
+      <point x="251.0" y="56.36363636363636"/>
+      <point x="248.0" y="34.90909090909091" type="curve"/>
+      <point x="299.27272727272725" y="68.0909090909091" type="line"/>
+      <point x="200.0" y="50.09090909090909" type="line"/>
+    </contour>
+    <component base="apostrophemod" xOffset="27.18181818181818" yOffset="-160.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>apostrophemod</string>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

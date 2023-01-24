@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="squareddotoperator" format="2">
+  <advance width="991.4"/>
+  <unicode hex="22A1"/>
+  <outline>
+    <contour>
+      <point x="143.3181818181818" y="0.0" type="line"/>
+      <point x="848.3181818181819" y="0.0" type="line"/>
+      <point x="848.3181818181819" y="705.0" type="line"/>
+      <point x="143.3181818181818" y="705.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="223.27272727272728" y="80.54545454545455" type="line"/>
+      <point x="223.27272727272728" y="625.0454545454545" type="line"/>
+      <point x="767.7727272727273" y="625.0454545454545" type="line"/>
+      <point x="767.7727272727273" y="80.54545454545455" type="line"/>
+    </contour>
+    <component base="bullet" xOffset="299.0" yOffset="99.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>bullet</string>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

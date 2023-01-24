@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gmacron.sc" format="2">
+  <advance width="653.0909090909091"/>
+  <anchor x="370.1818181818182" y="0.0" name="bottom"/>
+  <anchor x="368.1818181818182" y="665.0" name="top"/>
+  <outline>
+    <component base="g.sc"/>
+    <component base="macroncomb" xOffset="147.45454545454547" yOffset="60.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

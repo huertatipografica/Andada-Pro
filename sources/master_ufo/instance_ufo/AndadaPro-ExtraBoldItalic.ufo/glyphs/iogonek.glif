@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iogonek" format="2">
+  <advance width="346.125"/>
+  <unicode hex="012F"/>
+  <outline>
+    <contour>
+      <point x="298.1590909090909" y="482.22727272727275" type="curve"/>
+      <point x="261.0909090909091" y="509.20454545454544" type="line"/>
+      <point x="74.27272727272728" y="466.20454545454544" type="line"/>
+      <point x="74.38636363636364" y="415.90909090909093" type="line"/>
+      <point x="204.6818181818182" y="408.1363636363636" type="line"/>
+      <point x="146.97727272727272" y="447.54545454545456" type="line"/>
+      <point x="139.8409090909091" y="309.6818181818182"/>
+      <point x="122.0909090909091" y="183.36363636363637"/>
+      <point x="73.97727272727273" y="0.0" type="curve"/>
+      <point x="106.8409090909091" y="-17.65909090909091" type="line"/>
+      <point x="302.4090909090909" y="24.68181818181818" type="line"/>
+      <point x="306.29545454545456" y="75.52272727272728" type="line"/>
+      <point x="167.22727272727272" y="85.95454545454545" type="line"/>
+      <point x="222.9318181818182" y="41.11363636363637" type="line"/>
+      <point x="237.1818181818182" y="191.4090909090909"/>
+      <point x="270.1590909090909" y="374.3636363636364"/>
+    </contour>
+    <component base="dotaccentcomb" xOffset="60.97727272727273" yOffset="21.25"/>
+    <component base="ogonekcomb" xOffset="-38.77272727272727" yOffset="0.11363636363636365"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>dotaccentcomb</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>ogonekcomb</string>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

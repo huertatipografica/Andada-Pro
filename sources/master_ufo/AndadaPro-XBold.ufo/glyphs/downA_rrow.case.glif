@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="downArrow.case" format="2">
+  <advance width="542"/>
+  <outline>
+    <contour>
+      <point x="232" y="76" type="line"/>
+      <point x="268" y="76" type="line"/>
+      <point x="547" y="363" type="line"/>
+      <point x="478" y="428" type="line"/>
+      <point x="215" y="156" type="line"/>
+      <point x="302" y="156" type="line"/>
+      <point x="105" y="428" type="line"/>
+      <point x="23" y="363" type="line"/>
+    </contour>
+    <contour>
+      <point x="211" y="165" type="line"/>
+      <point x="312" y="167" type="line"/>
+      <point x="366" y="608" type="line"/>
+      <point x="272" y="608" type="line"/>
+      <point x="256" y="592" type="line"/>
+      <point x="257" y="592"/>
+      <point x="243" y="458"/>
+      <point x="239" y="418" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>verticalShift</key>
+        <integer>90</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

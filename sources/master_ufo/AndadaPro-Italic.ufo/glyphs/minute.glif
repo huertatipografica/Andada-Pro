@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="minute" format="2">
+  <advance width="311.7"/>
+  <unicode hex="2032"/>
+  <outline>
+    <contour>
+      <point x="176" y="398" type="line"/>
+      <point x="264" y="666" type="line"/>
+      <point x="196" y="686" type="line"/>
+      <point x="127" y="406" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Symbol</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

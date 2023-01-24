@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="three.numr" format="2">
+  <advance width="308.4"/>
+  <outline>
+    <contour>
+      <point x="37" y="236" type="line"/>
+      <point x="183" y="250"/>
+      <point x="297" y="328"/>
+      <point x="297" y="416" type="curve" smooth="yes"/>
+      <point x="297" y="463"/>
+      <point x="259" y="501"/>
+      <point x="202" y="505" type="curve"/>
+      <point x="200" y="492" type="line"/>
+      <point x="264" y="512"/>
+      <point x="307" y="556"/>
+      <point x="307" y="615" type="curve" smooth="yes"/>
+      <point x="307" y="672"/>
+      <point x="267" y="701"/>
+      <point x="192" y="701" type="curve" smooth="yes"/>
+      <point x="157" y="701"/>
+      <point x="124" y="695"/>
+      <point x="88" y="684" type="curve"/>
+      <point x="83" y="588" type="line"/>
+      <point x="125" y="591" type="line"/>
+      <point x="129" y="620" type="line" smooth="yes"/>
+      <point x="130" y="626"/>
+      <point x="141" y="658"/>
+      <point x="149" y="677" type="curve"/>
+      <point x="120" y="639" type="line"/>
+      <point x="137" y="650"/>
+      <point x="159" y="657"/>
+      <point x="183" y="657" type="curve" smooth="yes"/>
+      <point x="213" y="657"/>
+      <point x="230" y="641"/>
+      <point x="230" y="610" type="curve" smooth="yes"/>
+      <point x="230" y="553"/>
+      <point x="188" y="515"/>
+      <point x="113" y="505" type="curve"/>
+      <point x="116" y="467" type="line"/>
+      <point x="116" y="467"/>
+      <point x="138" y="469"/>
+      <point x="155" y="469" type="curve" smooth="yes"/>
+      <point x="194" y="469"/>
+      <point x="215" y="448"/>
+      <point x="215" y="413" type="curve" smooth="yes"/>
+      <point x="215" y="340"/>
+      <point x="129" y="290"/>
+      <point x="30" y="276" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <integer>61</integer>
+        <key>verticalShift</key>
+        <integer>300</integer>
+        <key>weight</key>
+        <integer>-24</integer>
+        <key>width</key>
+        <integer>62</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

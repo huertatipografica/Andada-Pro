@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ubreve" format="2">
+  <advance width="738.1363636363636"/>
+  <unicode hex="016C"/>
+  <anchor x="325.59090909090907" y="0.0" name="bottom"/>
+  <anchor x="615.0" y="460.0" name="horn"/>
+  <anchor x="439.40909090909093" y="0.0" name="ogonek"/>
+  <anchor x="475.45454545454544" y="1002.0" name="top"/>
+  <anchor x="760.7272727272727" y="705.0" name="topright"/>
+  <outline>
+    <component base="U"/>
+    <component base="brevecomb.case" xOffset="199.4090909090909" yOffset="15.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rightHalfBlackWhiteCircle" format="2">
+  <advance width="785.5"/>
+  <unicode hex="25D1"/>
+  <outline>
+    <contour>
+      <point x="759" y="294" type="curve" smooth="yes"/>
+      <point x="759" y="295" type="line" smooth="yes"/>
+      <point x="759" y="495"/>
+      <point x="596" y="658"/>
+      <point x="396" y="658" type="curve" smooth="yes"/>
+      <point x="195" y="658"/>
+      <point x="32" y="495"/>
+      <point x="32" y="294" type="curve" smooth="yes"/>
+      <point x="32" y="94"/>
+      <point x="195" y="-69"/>
+      <point x="396" y="-69" type="curve" smooth="yes"/>
+      <point x="596" y="-69"/>
+      <point x="759" y="94"/>
+    </contour>
+    <contour>
+      <point x="93" y="294" type="curve" smooth="yes"/>
+      <point x="93" y="461"/>
+      <point x="229" y="597"/>
+      <point x="396" y="597" type="curve"/>
+      <point x="396" y="-8" type="line"/>
+      <point x="229" y="-8"/>
+      <point x="93" y="128"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Symbol</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

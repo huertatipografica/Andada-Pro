@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Saltillo" format="2">
+  <advance width="203.75"/>
+  <unicode hex="A78B"/>
+  <outline>
+    <contour>
+      <point x="119.54545454545455" y="311.1363636363636" type="line"/>
+      <point x="209.1590909090909" y="688.0" type="line"/>
+      <point x="193.1590909090909" y="705.0" type="line"/>
+      <point x="114.20454545454545" y="705.0" type="line"/>
+      <point x="114.20454545454545" y="705.0"/>
+      <point x="105.18181818181819" y="508.79545454545456"/>
+      <point x="103.18181818181819" y="493.79545454545456" type="curve"/>
+      <point x="66.5909090909091" y="315.95454545454544" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

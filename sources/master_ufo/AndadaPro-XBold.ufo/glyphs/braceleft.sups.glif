@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="braceleft.sups" format="2">
+  <advance width="309"/>
+  <outline>
+    <contour>
+      <point x="249" y="261" type="line"/>
+      <point x="256" y="307" type="line"/>
+      <point x="127" y="318" type="line"/>
+      <point x="171" y="261" type="line"/>
+      <point x="180" y="346"/>
+      <point x="213" y="449"/>
+      <point x="244" y="527" type="curve"/>
+      <point x="127" y="570" type="line"/>
+      <point x="137" y="541" type="line"/>
+      <point x="141" y="582" type="line"/>
+      <point x="125" y="553" type="line"/>
+      <point x="251" y="591" type="line"/>
+      <point x="238" y="685"/>
+      <point x="230" y="751"/>
+      <point x="242" y="851" type="curve"/>
+      <point x="187" y="803" type="line"/>
+      <point x="317" y="815" type="line"/>
+      <point x="321" y="860" type="line"/>
+      <point x="175" y="858" type="line"/>
+      <point x="156" y="840" type="line"/>
+      <point x="168" y="755"/>
+      <point x="181" y="666"/>
+      <point x="173" y="592" type="curve"/>
+      <point x="189" y="617" type="line"/>
+      <point x="108" y="585" type="line"/>
+      <point x="101" y="536" type="line"/>
+      <point x="175" y="505" type="line"/>
+      <point x="166" y="534" type="line"/>
+      <point x="154" y="455"/>
+      <point x="124" y="385"/>
+      <point x="88" y="286" type="curve"/>
+      <point x="103" y="264" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>9</integer>
+        <key>height</key>
+        <integer>64</integer>
+        <key>verticalShift</key>
+        <integer>330</integer>
+        <key>weight</key>
+        <integer>-46</integer>
+        <key>width</key>
+        <integer>67</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

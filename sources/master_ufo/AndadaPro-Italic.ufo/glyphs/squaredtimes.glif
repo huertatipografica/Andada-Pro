@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="squaredtimes" format="2">
+  <advance width="945.4"/>
+  <unicode hex="22A0"/>
+  <outline>
+    <contour>
+      <point x="90" y="0" type="line"/>
+      <point x="795" y="0" type="line"/>
+      <point x="880" y="705" type="line"/>
+      <point x="175" y="705" type="line"/>
+    </contour>
+    <contour>
+      <point x="725" y="27" type="line"/>
+      <point x="736" y="52" type="line"/>
+      <point x="169" y="52" type="line"/>
+      <point x="177" y="29" type="line"/>
+      <point x="505" y="325" type="line"/>
+      <point x="458" y="328" type="line"/>
+    </contour>
+    <contour>
+      <point x="149" y="65" type="line"/>
+      <point x="219" y="635" type="line"/>
+      <point x="193" y="626" type="line"/>
+      <point x="458" y="328" type="line"/>
+      <point x="461" y="375" type="line"/>
+      <point x="127" y="76" type="line"/>
+    </contour>
+    <contour>
+      <point x="752" y="75" type="line"/>
+      <point x="778" y="83" type="line"/>
+      <point x="513" y="378" type="line"/>
+      <point x="510" y="331" type="line"/>
+      <point x="843" y="632" type="line"/>
+      <point x="822" y="643" type="line"/>
+    </contour>
+    <contour>
+      <point x="514" y="377" type="line"/>
+      <point x="244" y="679" type="line"/>
+      <point x="232" y="654" type="line"/>
+      <point x="804" y="654" type="line"/>
+      <point x="795" y="676" type="line"/>
+      <point x="467" y="380" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Symbol</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

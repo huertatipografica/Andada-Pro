@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iogonek.sc" format="2">
+  <advance width="353.5"/>
+  <outline>
+    <contour>
+      <point x="29.613636363636363" y="-51.93181818181818" type="curve"/>
+      <point x="73.3409090909091" y="-54.34090909090909"/>
+      <point x="114.95454545454545" y="0.0"/>
+      <point x="139.5" y="0.0" type="curve" smooth="yes"/>
+      <point x="249.9090909090909" y="0.0" type="line"/>
+      <point x="261.79545454545456" y="57.40909090909091" type="line"/>
+      <point x="164.13636363636363" y="69.8409090909091" type="line"/>
+      <point x="219.29545454545456" y="35.63636363636364" type="line"/>
+      <point x="219.95454545454544" y="50.65909090909091"/>
+      <point x="218.63636363636363" y="97.77272727272727"/>
+      <point x="226.29545454545456" y="154.04545454545456" type="curve" smooth="yes"/>
+      <point x="262.6363636363636" y="412.8636363636364" type="line" smooth="yes"/>
+      <point x="265.8636363636364" y="434.45454545454544"/>
+      <point x="282.4090909090909" y="481.1136363636364"/>
+      <point x="286.6363636363636" y="496.1363636363636" type="curve"/>
+      <point x="224.47727272727272" y="461.59090909090907" type="line"/>
+      <point x="326.0" y="470.47727272727275" type="line"/>
+      <point x="331.77272727272725" y="539.0909090909091" type="line"/>
+      <point x="285.90909090909093" y="537.0909090909091"/>
+      <point x="227.8409090909091" y="535.0909090909091"/>
+      <point x="193.52272727272728" y="535.0909090909091" type="curve" smooth="yes"/>
+      <point x="177.75" y="535.0909090909091"/>
+      <point x="131.63636363636363" y="537.0909090909091"/>
+      <point x="98.0909090909091" y="539.0909090909091" type="curve"/>
+      <point x="85.43181818181819" y="475.3636363636364" type="line"/>
+      <point x="184.8409090909091" y="456.04545454545456" type="line"/>
+      <point x="130.6818181818182" y="496.1363636363636" type="line"/>
+      <point x="130.79545454545453" y="478.79545454545456"/>
+      <point x="131.45454545454547" y="427.90909090909093"/>
+      <point x="123.25" y="372.1136363636364" type="curve" smooth="yes"/>
+      <point x="87.11363636363636" y="131.1590909090909" type="line" smooth="yes"/>
+      <point x="79.79545454545455" y="83.9090909090909"/>
+      <point x="71.9090909090909" y="38.52272727272727"/>
+    </contour>
+    <component base="ogonekcomb" xOffset="-17.613636363636363" yOffset="0.11363636363636365"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>14</integer>
+        <key>height</key>
+        <integer>75</integer>
+        <key>weight</key>
+        <integer>-12</integer>
+        <key>width</key>
+        <integer>78</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>ogonekcomb</string>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

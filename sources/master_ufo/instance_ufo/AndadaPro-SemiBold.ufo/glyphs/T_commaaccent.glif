@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Tcommaaccent" format="2">
+  <advance width="695.1818181818181"/>
+  <unicode hex="021A"/>
+  <anchor x="351.04545454545456" y="-254.54545454545453" name="bottom"/>
+  <anchor x="345.5" y="353.0" name="center"/>
+  <anchor x="347.6818181818182" y="720.0" name="top"/>
+  <outline>
+    <component base="T"/>
+    <component base="commaaccentcomb" xOffset="246.45454545454547"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

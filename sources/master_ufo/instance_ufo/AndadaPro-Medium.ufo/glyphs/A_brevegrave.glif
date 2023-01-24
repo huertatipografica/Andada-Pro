@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Abrevegrave" format="2">
+  <advance width="743.0227272727273"/>
+  <unicode hex="1EB0"/>
+  <anchor x="359.20454545454544" y="0.0" name="bottom"/>
+  <anchor x="692.0454545454545" y="0.0" name="ogonek"/>
+  <anchor x="377.97727272727275" y="982.5" name="top"/>
+  <outline>
+    <component base="A"/>
+    <component base="brevecomb_gravecomb.case" xOffset="193.97727272727272"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

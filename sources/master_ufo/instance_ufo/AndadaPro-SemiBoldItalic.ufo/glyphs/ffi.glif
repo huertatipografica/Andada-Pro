@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ffi" format="2">
+  <advance width="944.8636363636364"/>
+  <anchor x="132.36363636363637" y="0.0" name="bottom_1"/>
+  <anchor x="744.2727272727273" y="0.0" name="bottom_2"/>
+  <anchor x="575.3181818181819" y="0.0" name="caret_1"/>
+  <anchor x="736.3181818181819" y="0.0" name="ogonek"/>
+  <anchor x="239.36363636363637" y="756.0" name="top_1"/>
+  <anchor x="769.4545454545455" y="494.0" name="top_2"/>
+  <outline>
+    <component base="f_f_i"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Ligature</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

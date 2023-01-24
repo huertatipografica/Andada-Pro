@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="l.caron" format="2">
+  <advance width="295.75"/>
+  <anchor x="152.63636363636363" y="0.0" name="bottom"/>
+  <anchor x="155.63636363636363" y="382.45454545454544" name="center"/>
+  <anchor x="378.25" y="410.45454545454544" name="centerright"/>
+  <anchor x="132.6590909090909" y="723.2727272727273" name="top"/>
+  <anchor x="338.75" y="494.6818181818182" name="topright"/>
+  <outline>
+    <contour>
+      <point x="58.20454545454545" y="-14.431818181818182" type="line"/>
+      <point x="253.0909090909091" y="27.90909090909091" type="line"/>
+      <point x="256.97727272727275" y="78.63636363636364" type="line"/>
+      <point x="120.79545454545455" y="90.8409090909091" type="line"/>
+      <point x="178.04545454545456" y="63.18181818181818" type="line"/>
+      <point x="190.54545454545456" y="197.79545454545456"/>
+      <point x="230.77272727272728" y="450.5909090909091"/>
+      <point x="283.72727272727275" y="743.1363636363636" type="curve"/>
+      <point x="251.20454545454544" y="770.0" type="line"/>
+      <point x="135.6818181818182" y="752.9090909090909" type="line"/>
+      <point x="129.6590909090909" y="658.7272727272727"/>
+      <point x="87.95454545454545" y="225.75"/>
+      <point x="24.454545454545453" y="3.2272727272727275" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevecomb.narrow" format="2">
+  <anchor x="159.36363636363637" y="494.0" name="_top"/>
+  <anchor x="159.36363636363637" y="663.1818181818181" name="top"/>
+  <outline>
+    <contour>
+      <point x="36.45454545454545" y="683.5454545454545" type="line"/>
+      <point x="54.0" y="601.1818181818181"/>
+      <point x="106.36363636363636" y="559.6363636363636"/>
+      <point x="159.36363636363637" y="559.6363636363636" type="curve" smooth="yes"/>
+      <point x="211.72727272727272" y="559.6363636363636"/>
+      <point x="264.45454545454544" y="601.1818181818181"/>
+      <point x="281.6363636363636" y="683.5454545454545" type="curve"/>
+      <point x="235.36363636363637" y="697.6363636363636" type="line"/>
+      <point x="225.54545454545456" y="652.0909090909091"/>
+      <point x="192.45454545454547" y="629.1818181818181"/>
+      <point x="159.36363636363637" y="629.1818181818181" type="curve" smooth="yes"/>
+      <point x="126.27272727272727" y="629.1818181818181"/>
+      <point x="93.18181818181819" y="652.0909090909091"/>
+      <point x="82.72727272727273" y="697.6363636363636" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>23</integer>
+        <key>weight</key>
+        <integer>-10</integer>
+        <key>width</key>
+        <integer>70</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <real>306.3</real>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hbrevebelow" format="2">
+  <advance width="550.0454545454545"/>
+  <unicode hex="1E2B"/>
+  <anchor x="213.13636363636363" y="-181.0" name="bottom"/>
+  <anchor x="192.5" y="599.7727272727273" name="center"/>
+  <anchor x="183.04545454545456" y="733.5454545454545" name="top"/>
+  <outline>
+    <component base="h"/>
+    <component base="brevebelowcomb" xOffset="76.13636363636364"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

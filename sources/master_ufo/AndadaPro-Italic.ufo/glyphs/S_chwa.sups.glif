@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Schwa.sups" format="2">
+  <advance width="404.2"/>
+  <outline>
+    <contour>
+      <point x="191" y="377" type="curve" smooth="yes"/>
+      <point x="137" y="373"/>
+      <point x="115" y="405"/>
+      <point x="144" y="452" type="curve" smooth="yes"/>
+      <point x="165" y="488"/>
+      <point x="237" y="522"/>
+      <point x="324" y="530" type="curve"/>
+      <point x="324" y="573" type="line"/>
+      <point x="156" y="550"/>
+      <point x="50" y="487"/>
+      <point x="50" y="396" type="curve" smooth="yes"/>
+      <point x="50" y="278"/>
+      <point x="272" y="306"/>
+      <point x="349" y="415" type="curve" smooth="yes"/>
+      <point x="385" y="465"/>
+      <point x="415" y="527"/>
+      <point x="415" y="599" type="curve" smooth="yes"/>
+      <point x="415" y="697"/>
+      <point x="364" y="752"/>
+      <point x="275" y="752" type="curve" smooth="yes"/>
+      <point x="195" y="752"/>
+      <point x="126" y="713"/>
+      <point x="74" y="640" type="curve"/>
+      <point x="107" y="616" type="line"/>
+      <point x="151" y="661"/>
+      <point x="203" y="695"/>
+      <point x="255" y="695" type="curve" smooth="yes"/>
+      <point x="301" y="695"/>
+      <point x="322" y="663"/>
+      <point x="322" y="597" type="curve" smooth="yes"/>
+      <point x="322" y="468"/>
+      <point x="266" y="383"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>10</integer>
+        <key>height</key>
+        <integer>60</integer>
+        <key>verticalShift</key>
+        <integer>330</integer>
+        <key>weight</key>
+        <integer>-25</integer>
+        <key>width</key>
+        <integer>62</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

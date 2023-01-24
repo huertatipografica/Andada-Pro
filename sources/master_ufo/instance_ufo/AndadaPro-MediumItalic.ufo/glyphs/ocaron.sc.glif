@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ocaron.sc" format="2">
+  <advance width="660.1363636363636"/>
+  <anchor x="294.8636363636364" y="0.0" name="bottom"/>
+  <anchor x="333.0681818181818" y="272.0" name="center"/>
+  <anchor x="404.04545454545456" y="0.0" name="ogonek"/>
+  <anchor x="412.6818181818182" y="683.5" name="top"/>
+  <anchor x="76.43181818181819" y="543.0" name="topleft"/>
+  <anchor x="518.4318181818181" y="477.0" name="topright"/>
+  <outline>
+    <component base="o.sc"/>
+    <component base="caroncomb" xOffset="173.4318181818182" yOffset="36.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

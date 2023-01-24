@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fraction" format="2">
+  <advance width="205.04999999999998"/>
+  <unicode hex="2044"/>
+  <outline>
+    <contour>
+      <point x="-78.5909090909091" y="-49.0" type="line"/>
+      <point x="351.3181818181818" y="683.8636363636364" type="line"/>
+      <point x="294.3181818181818" y="720.5909090909091" type="line"/>
+      <point x="-136.5909090909091" y="-12.272727272727273" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

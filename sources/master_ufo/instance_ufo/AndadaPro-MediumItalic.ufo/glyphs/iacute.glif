@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iacute" format="2">
+  <advance width="286.3863636363636"/>
+  <unicode hex="00ED"/>
+  <anchor x="138.9318181818182" y="0.0" name="bottom"/>
+  <anchor x="130.75" y="0.0" name="ogonek"/>
+  <anchor x="189.45454545454547" y="658.6363636363636" name="top"/>
+  <outline>
+    <component base="idotless"/>
+    <component base="acutecomb" xOffset="26.90909090909091" yOffset="-2.3863636363636362"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

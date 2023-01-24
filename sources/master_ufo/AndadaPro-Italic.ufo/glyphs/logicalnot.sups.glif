@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="logicalnot.sups" format="2">
+  <advance width="418.1"/>
+  <outline>
+    <contour>
+      <point x="295" y="370" type="line"/>
+      <point x="346" y="370" type="line"/>
+      <point x="363" y="514" type="line"/>
+      <point x="90" y="514" type="line"/>
+      <point x="84" y="461" type="line"/>
+      <point x="338" y="464" type="line"/>
+      <point x="311" y="494" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>10</integer>
+        <key>height</key>
+        <integer>60</integer>
+        <key>verticalShift</key>
+        <integer>330</integer>
+        <key>weight</key>
+        <integer>-25</integer>
+        <key>width</key>
+        <integer>62</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Symbol</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

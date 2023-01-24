@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="summation" format="2">
+  <advance width="604.375"/>
+  <unicode hex="2211"/>
+  <outline>
+    <contour>
+      <point x="17.522727272727273" y="-228.0" type="line"/>
+      <point x="482.52272727272725" y="-228.0" type="line"/>
+      <point x="493.29545454545456" y="-131.75" type="line"/>
+      <point x="103.45454545454545" y="-137.63636363636363" type="line"/>
+      <point x="124.0909090909091" y="-186.9090909090909" type="line"/>
+      <point x="454.47727272727275" y="244.0" type="line"/>
+      <point x="233.45454545454547" y="663.9090909090909" type="line"/>
+      <point x="200.5" y="614.75" type="line"/>
+      <point x="553.1136363636364" y="608.75" type="line"/>
+      <point x="564.7727272727273" y="705.0" type="line"/>
+      <point x="136.6590909090909" y="705.0" type="line"/>
+      <point x="118.77272727272728" y="641.1363636363636" type="line"/>
+      <point x="358.0" y="192.8409090909091" type="line"/>
+      <point x="370.20454545454544" y="292.27272727272725" type="line"/>
+      <point x="15.40909090909091" y="-162.25" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Symbol</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

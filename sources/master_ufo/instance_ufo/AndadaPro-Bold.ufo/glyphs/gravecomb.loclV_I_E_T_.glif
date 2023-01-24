@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gravecomb.loclVIET" format="2">
+  <anchor x="168.54545454545456" y="494.0" name="_top"/>
+  <anchor x="146.54545454545453" y="685.1818181818181" name="top"/>
+  <outline>
+    <contour>
+      <point x="232.36363636363637" y="547.0" type="line"/>
+      <point x="264.45454545454544" y="589.5454545454545" type="line"/>
+      <point x="71.27272727272727" y="697.1818181818181" type="line"/>
+      <point x="28.272727272727273" y="635.3636363636364" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <integer>80</integer>
+        <key>verticalShift</key>
+        <integer>99</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <real>286.4</real>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

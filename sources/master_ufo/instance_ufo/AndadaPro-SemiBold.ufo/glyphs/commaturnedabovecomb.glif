@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="commaturnedabovecomb" format="2">
+  <unicode hex="0312"/>
+  <anchor x="121.04545454545455" y="494.0" name="_top"/>
+  <anchor x="121.04545454545455" y="748.5454545454545" name="top"/>
+  <outline>
+    <contour>
+      <point x="100.5909090909091" y="747.9545454545455" type="line"/>
+      <point x="78.13636363636364" y="713.1363636363636"/>
+      <point x="48.45454545454545" y="651.7272727272727"/>
+      <point x="48.45454545454545" y="610.9090909090909" type="curve" smooth="yes"/>
+      <point x="48.45454545454545" y="567.0454545454545"/>
+      <point x="69.5" y="543.4090909090909"/>
+      <point x="105.5909090909091" y="543.4090909090909" type="curve" smooth="yes"/>
+      <point x="131.86363636363637" y="543.4090909090909"/>
+      <point x="160.13636363636363" y="561.6363636363636"/>
+      <point x="160.13636363636363" y="602.9090909090909" type="curve" smooth="yes"/>
+      <point x="160.13636363636363" y="652.5909090909091"/>
+      <point x="116.18181818181819" y="660.7272727272727"/>
+      <point x="99.77272727272727" y="658.5" type="curve"/>
+      <point x="128.0" y="635.5" type="line"/>
+      <point x="119.0909090909091" y="661.3181818181819"/>
+      <point x="134.6818181818182" y="716.1818181818181"/>
+      <point x="140.6818181818182" y="735.9545454545455" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <real>210.2</real>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

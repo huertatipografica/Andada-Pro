@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="won" format="2">
+  <advance width="1122.1"/>
+  <unicode hex="20A9"/>
+  <outline>
+    <contour>
+      <point x="356" y="0" type="line"/>
+      <point x="412" y="0" type="line"/>
+      <point x="568" y="501" type="line"/>
+      <point x="548" y="501" type="line"/>
+      <point x="720" y="0" type="line"/>
+      <point x="777" y="0" type="line"/>
+      <point x="934" y="505" type="line"/>
+      <point x="949" y="551"/>
+      <point x="980" y="600"/>
+      <point x="995" y="625" type="curve"/>
+      <point x="945" y="593" type="line"/>
+      <point x="1045" y="604" type="line"/>
+      <point x="1042" y="659" type="line"/>
+      <point x="1002" y="657"/>
+      <point x="938" y="655"/>
+      <point x="904" y="655" type="curve" smooth="yes"/>
+      <point x="890" y="655"/>
+      <point x="847" y="657"/>
+      <point x="818" y="659" type="curve"/>
+      <point x="813" y="608" type="line"/>
+      <point x="920" y="588" type="line"/>
+      <point x="888" y="620" type="line"/>
+      <point x="888" y="604"/>
+      <point x="886" y="567"/>
+      <point x="876" y="536" type="curve"/>
+      <point x="748" y="106" type="line"/>
+      <point x="766" y="106" type="line"/>
+      <point x="592" y="636" type="line"/>
+      <point x="544" y="636" type="line"/>
+      <point x="382" y="106" type="line"/>
+      <point x="401" y="106" type="line"/>
+      <point x="280" y="494" type="line"/>
+      <point x="262" y="551"/>
+      <point x="253" y="594"/>
+      <point x="251" y="618" type="curve"/>
+      <point x="220" y="590" type="line"/>
+      <point x="330" y="604" type="line"/>
+      <point x="326" y="659" type="line"/>
+      <point x="292" y="657"/>
+      <point x="233" y="655"/>
+      <point x="192" y="655" type="curve" smooth="yes"/>
+      <point x="178" y="655"/>
+      <point x="121" y="657"/>
+      <point x="82" y="659" type="curve"/>
+      <point x="77" y="608" type="line"/>
+      <point x="174" y="588" type="line"/>
+      <point x="124" y="621" type="line"/>
+      <point x="135" y="605"/>
+      <point x="161" y="566"/>
+      <point x="180" y="516" type="curve"/>
+    </contour>
+    <contour>
+      <point x="84" y="258" type="line"/>
+      <point x="299" y="268" type="line"/>
+      <point x="299" y="307" type="line"/>
+      <point x="82" y="298" type="line"/>
+    </contour>
+    <contour>
+      <point x="832" y="293" type="line"/>
+      <point x="1039" y="301" type="line"/>
+      <point x="1037" y="340" type="line"/>
+      <point x="832" y="331" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>21</integer>
+        <key>height</key>
+        <integer>93</integer>
+        <key>weight</key>
+        <integer>-2</integer>
+        <key>width</key>
+        <integer>96</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

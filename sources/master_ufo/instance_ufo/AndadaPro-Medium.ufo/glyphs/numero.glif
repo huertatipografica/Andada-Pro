@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="numero" format="2">
+  <advance width="1212.2045454545455"/>
+  <unicode hex="2116"/>
+  <anchor x="416.40909090909093" y="0.0" name="bottom"/>
+  <anchor x="397.8863636363636" y="720.0" name="top"/>
+  <outline>
+    <component base="N"/>
+    <component base="o.sups" xOffset="809.0909090909091"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="d.ss02" format="2">
+  <advance width="664.375"/>
+  <outline>
+    <contour>
+      <point x="281.09090909090907" y="16.795454545454547" type="curve" smooth="yes"/>
+      <point x="459.52272727272725" y="16.795454545454547"/>
+      <point x="581.5227272727273" y="130.38636363636363"/>
+      <point x="581.5227272727273" y="297.40909090909093" type="curve" smooth="yes"/>
+      <point x="581.5227272727273" y="419.0"/>
+      <point x="501.3181818181818" y="501.6363636363636"/>
+      <point x="345.27272727272725" y="501.6363636363636" type="curve" smooth="yes"/>
+      <point x="300.54545454545456" y="501.6363636363636"/>
+      <point x="250.13636363636363" y="498.6363636363636"/>
+      <point x="207.0" y="498.6363636363636" type="curve"/>
+      <point x="161.3181818181818" y="488.0" type="line"/>
+      <point x="162.3181818181818" y="466.75"/>
+      <point x="161.11363636363637" y="407.75"/>
+      <point x="159.11363636363637" y="390.3181818181818" type="curve" smooth="yes"/>
+      <point x="124.75" y="129.11363636363637" type="line" smooth="yes"/>
+      <point x="122.54545454545455" y="109.0909090909091"/>
+      <point x="107.1590909090909" y="54.13636363636364"/>
+      <point x="101.75" y="33.09090909090909" type="curve"/>
+      <point x="162.45454545454547" y="20.0" type="line"/>
+      <point x="200.45454545454547" y="20.0"/>
+      <point x="243.0909090909091" y="16.795454545454547"/>
+    </contour>
+    <contour>
+      <point x="-0.5909090909090908" y="0.0" type="line"/>
+      <point x="597.2727272727273" y="0.0" type="line"/>
+      <point x="607.0909090909091" y="45.68181818181818" type="line"/>
+      <point x="0.8181818181818182" y="45.68181818181818" type="line"/>
+    </contour>
+    <contour>
+      <point x="215.20454545454547" y="42.79545454545455" type="line"/>
+      <point x="214.79545454545456" y="56.18181818181818"/>
+      <point x="218.4318181818182" y="120.36363636363636"/>
+      <point x="222.8181818181818" y="149.11363636363637" type="curve" smooth="yes"/>
+      <point x="251.5909090909091" y="370.3181818181818" type="line" smooth="yes"/>
+      <point x="256.1818181818182" y="405.65909090909093"/>
+      <point x="269.3863636363636" y="463.20454545454544"/>
+      <point x="272.77272727272725" y="475.0" type="curve"/>
+      <point x="247.9090909090909" y="445.3181818181818" type="line"/>
+      <point x="262.65909090909093" y="445.52272727272725"/>
+      <point x="300.52272727272725" y="447.34090909090907"/>
+      <point x="332.20454545454544" y="447.34090909090907" type="curve" smooth="yes"/>
+      <point x="437.1136363636364" y="447.34090909090907"/>
+      <point x="478.84090909090907" y="379.79545454545456"/>
+      <point x="478.84090909090907" y="295.8636363636364" type="curve" smooth="yes"/>
+      <point x="478.84090909090907" y="161.63636363636363"/>
+      <point x="400.34090909090907" y="71.29545454545455"/>
+      <point x="281.4318181818182" y="71.29545454545455" type="curve" smooth="yes"/>
+      <point x="252.9090909090909" y="71.29545454545455"/>
+      <point x="233.02272727272728" y="72.0909090909091"/>
+      <point x="198.3181818181818" y="73.5" type="curve"/>
+    </contour>
+    <contour>
+      <point x="59.81818181818182" y="484.75" type="line"/>
+      <point x="665.4545454545455" y="484.75" type="line"/>
+      <point x="666.6590909090909" y="533.6136363636364" type="line"/>
+      <point x="68.79545454545455" y="533.6136363636364" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <integer>90</integer>
+        <key>verticalShift</key>
+        <integer>20</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sdotaccent.sc" format="2">
+  <advance width="539.2727272727273"/>
+  <anchor x="259.0681818181818" y="0.0" name="bottom"/>
+  <anchor x="278.6136363636364" y="728.2727272727273" name="top"/>
+  <outline>
+    <component base="s.sc"/>
+    <component base="dotaccentcomb" xOffset="162.4090909090909" yOffset="36.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

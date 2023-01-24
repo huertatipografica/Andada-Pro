@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Zcedilla" format="2">
+  <advance width="623"/>
+  <anchor x="261" y="-247" name="bottom"/>
+  <anchor x="326" y="353" name="center"/>
+  <anchor x="367" y="720" name="top"/>
+  <outline>
+    <component base="Z"/>
+    <component base="cedillacomb" xOffset="204"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

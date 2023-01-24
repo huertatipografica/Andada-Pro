@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="southEastArrow" format="2">
+  <advance width="487.7"/>
+  <unicode hex="2198"/>
+  <outline>
+    <contour>
+      <point x="390.3181818181818" y="57.36363636363637" type="line"/>
+      <point x="406.6363636363636" y="72.04545454545455" type="line"/>
+      <point x="429.5" y="460.0" type="line"/>
+      <point x="350.59090909090907" y="453.0" type="line"/>
+      <point x="331.77272727272725" y="94.0" type="line"/>
+      <point x="379.22727272727275" y="135.4090909090909" type="line"/>
+      <point x="36.27272727272727" y="160.8181818181818" type="line"/>
+      <point x="19.636363636363637" y="82.5" type="line"/>
+    </contour>
+    <contour>
+      <point x="332.9090909090909" y="76.27272727272728" type="line"/>
+      <point x="392.72727272727275" y="129.3181818181818" type="line"/>
+      <point x="107.4090909090909" y="469.6818181818182" type="line"/>
+      <point x="55.0" y="422.5" type="line"/>
+      <point x="55.0" y="406.8181818181818" type="line"/>
+      <point x="55.0" y="406.8181818181818"/>
+      <point x="116.0909090909091" y="347.9090909090909"/>
+      <point x="142.4090909090909" y="314.77272727272725" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

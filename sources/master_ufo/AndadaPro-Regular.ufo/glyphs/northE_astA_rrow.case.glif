@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="northEastArrow.case" format="2">
+  <advance width="642"/>
+  <outline>
+    <contour>
+      <point x="483" y="139" type="line"/>
+      <point x="511" y="529" type="line"/>
+      <point x="500" y="539" type="line"/>
+      <point x="110" y="510" type="line"/>
+      <point x="117" y="445" type="line"/>
+      <point x="476" y="472" type="line"/>
+      <point x="444" y="504" type="line"/>
+      <point x="419" y="146" type="line"/>
+    </contour>
+    <contour>
+      <point x="143" y="135" type="line"/>
+      <point x="156" y="135" type="line"/>
+      <point x="171" y="153"/>
+      <point x="202" y="186"/>
+      <point x="228" y="212" type="curve" smooth="yes"/>
+      <point x="506" y="491" type="line"/>
+      <point x="464" y="535" type="line"/>
+      <point x="104" y="174" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>verticalShift</key>
+        <integer>80</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

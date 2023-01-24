@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="period.sups" format="2">
+  <advance width="269"/>
+  <outline>
+    <contour>
+      <point x="142" y="320" type="curve" smooth="yes"/>
+      <point x="176" y="320"/>
+      <point x="201" y="347"/>
+      <point x="201" y="386" type="curve" smooth="yes"/>
+      <point x="201" y="414"/>
+      <point x="185" y="431"/>
+      <point x="157" y="431" type="curve" smooth="yes"/>
+      <point x="123" y="431"/>
+      <point x="98" y="402"/>
+      <point x="98" y="365" type="curve" smooth="yes"/>
+      <point x="98" y="337"/>
+      <point x="115" y="320"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>9</integer>
+        <key>height</key>
+        <integer>64</integer>
+        <key>verticalShift</key>
+        <integer>330</integer>
+        <key>weight</key>
+        <integer>-46</integer>
+        <key>width</key>
+        <integer>67</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

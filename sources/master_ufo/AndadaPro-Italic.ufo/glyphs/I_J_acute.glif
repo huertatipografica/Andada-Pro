@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="IJacute" format="2">
+  <advance width="660"/>
+  <unicode hex="E133"/>
+  <anchor x="137" y="0" name="bottom_1"/>
+  <anchor x="466" y="0" name="bottom_2"/>
+  <anchor x="268" y="10" name="ogonek"/>
+  <anchor x="276" y="993" name="top_1"/>
+  <anchor x="590" y="978" name="top_2"/>
+  <anchor x="94" y="705" name="topleft"/>
+  <outline>
+    <component base="Iacute_J.loclNLD"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Obreve" format="2">
+  <advance width="782.7954545454545"/>
+  <unicode hex="014E"/>
+  <anchor x="353.84090909090907" y="0.0" name="bottom"/>
+  <anchor x="403.84090909090907" y="353.0" name="center"/>
+  <anchor x="484.6363636363636" y="0.0" name="ogonek"/>
+  <anchor x="494.5" y="1012.5" name="top"/>
+  <anchor x="90.0909090909091" y="705.0" name="topleft"/>
+  <anchor x="628.0909090909091" y="620.0" name="topright"/>
+  <outline>
+    <component base="O"/>
+    <component base="brevecomb.case" xOffset="205.5681818181818" yOffset="15.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hookcomb" format="2">
+  <advance width="219.375"/>
+  <unicode hex="0321"/>
+  <outline>
+    <contour>
+      <point x="64.13636363636364" y="-235.0" type="line"/>
+      <point x="113.79545454545455" y="-160.4090909090909"/>
+      <point x="189.29545454545453" y="-41.79545454545455"/>
+      <point x="189.29545454545453" y="-10.0" type="curve" smooth="yes"/>
+      <point x="189.29545454545453" y="117.0" type="line"/>
+      <point x="117.06818181818181" y="117.0" type="line"/>
+      <point x="117.06818181818181" y="21.0" type="line" smooth="yes"/>
+      <point x="117.06818181818181" y="-12.204545454545455"/>
+      <point x="63.06818181818182" y="-135.1818181818182"/>
+      <point x="26.68181818181818" y="-213.77272727272728" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

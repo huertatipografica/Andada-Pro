@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="greaterequal.numr" format="2">
+  <advance width="416.625"/>
+  <outline>
+    <contour>
+      <point x="128.4318181818182" y="384.95454545454544" type="line"/>
+      <point x="331.84090909090907" y="529.3863636363636" type="line"/>
+      <point x="128.4318181818182" y="674.5909090909091" type="line"/>
+      <point x="86.45454545454545" y="618.2954545454545" type="line"/>
+      <point x="251.88636363636363" y="505.1818181818182" type="line"/>
+      <point x="251.88636363636363" y="554.4772727272727" type="line"/>
+      <point x="86.68181818181819" y="440.59090909090907" type="line"/>
+    </contour>
+    <contour>
+      <point x="60.34090909090909" y="300.0" type="line"/>
+      <point x="358.1818181818182" y="300.0" type="line"/>
+      <point x="358.1818181818182" y="364.40909090909093" type="line"/>
+      <point x="60.34090909090909" y="361.40909090909093" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>20</integer>
+        <key>height</key>
+        <integer>61</integer>
+        <key>verticalShift</key>
+        <integer>300</integer>
+        <key>weight</key>
+        <integer>-24</integer>
+        <key>width</key>
+        <integer>62</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Gdieresis" format="2">
+  <advance width="732.8181818181819"/>
+  <anchor x="423.27272727272725" y="0.0" name="bottom"/>
+  <anchor x="421.27272727272725" y="876.2272727272727" name="top"/>
+  <outline>
+    <component base="G"/>
+    <component base="dieresiscomb.case" xOffset="223.8181818181818" yOffset="15.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gcaron.sc" format="2">
+  <advance width="619.0454545454545"/>
+  <anchor x="327.9318181818182" y="0.0" name="bottom"/>
+  <anchor x="448.72727272727275" y="139.0" name="center"/>
+  <anchor x="426.1818181818182" y="698.5" name="top"/>
+  <outline>
+    <component base="g.sc"/>
+    <component base="caroncomb" xOffset="179.4318181818182" yOffset="36.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

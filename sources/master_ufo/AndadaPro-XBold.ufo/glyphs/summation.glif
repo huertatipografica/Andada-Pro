@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="summation" format="2">
+  <advance width="597"/>
+  <unicode hex="2211"/>
+  <outline>
+    <contour>
+      <point x="14" y="-228" type="line"/>
+      <point x="479" y="-228" type="line"/>
+      <point x="490" y="-128" type="line"/>
+      <point x="103" y="-134" type="line"/>
+      <point x="125" y="-186" type="line"/>
+      <point x="453" y="244" type="line"/>
+      <point x="233" y="663" type="line"/>
+      <point x="198" y="611" type="line"/>
+      <point x="548" y="605" type="line"/>
+      <point x="560" y="705" type="line"/>
+      <point x="132" y="705" type="line"/>
+      <point x="114" y="640" type="line"/>
+      <point x="353" y="190" type="line"/>
+      <point x="366" y="295" type="line"/>
+      <point x="12" y="-161" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Symbol</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

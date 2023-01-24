@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="periodcentered.sc" format="2">
+  <advance width="334.3"/>
+  <outline>
+    <contour>
+      <point x="167" y="183" type="curve" smooth="yes"/>
+      <point x="202" y="183"/>
+      <point x="221" y="207"/>
+      <point x="221" y="240" type="curve" smooth="yes"/>
+      <point x="221" y="276"/>
+      <point x="201" y="298"/>
+      <point x="167" y="298" type="curve" smooth="yes"/>
+      <point x="132" y="298"/>
+      <point x="113" y="273"/>
+      <point x="113" y="240" type="curve" smooth="yes"/>
+      <point x="113" y="207"/>
+      <point x="132" y="183"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>24</integer>
+        <key>height</key>
+        <integer>77</integer>
+        <key>verticalShift</key>
+        <integer>10</integer>
+        <key>weight</key>
+        <integer>-10</integer>
+        <key>width</key>
+        <integer>82</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="increment" format="2">
+  <advance width="771.0"/>
+  <unicode hex="2206"/>
+  <outline>
+    <contour>
+      <point x="137.25" y="45.5" type="line"/>
+      <point x="439.95454545454544" y="636.75" type="line"/>
+      <point x="429.25" y="636.75" type="line"/>
+      <point x="585.0454545454545" y="45.5" type="line"/>
+      <point x="661.25" y="52.70454545454545" type="line"/>
+      <point x="481.20454545454544" y="756.0" type="line"/>
+      <point x="417.20454545454544" y="756.0" type="line"/>
+      <point x="62.25" y="52.70454545454545" type="line"/>
+    </contour>
+    <contour>
+      <point x="61.86363636363636" y="0.0" type="line"/>
+      <point x="649.4090909090909" y="0.0" type="line"/>
+      <point x="661.25" y="52.70454545454545" type="line"/>
+      <point x="586.6590909090909" y="61.18181818181818" type="line"/>
+      <point x="139.45454545454547" y="61.18181818181818" type="line"/>
+      <point x="62.25" y="52.70454545454545" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Symbol</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

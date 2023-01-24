@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lessequal.numr" format="2">
+  <advance width="334.125"/>
+  <outline>
+    <contour>
+      <point x="254.25" y="374.27272727272725" type="line"/>
+      <point x="294.29545454545456" y="420.34090909090907" type="line"/>
+      <point x="152.0681818181818" y="533.3409090909091" type="line"/>
+      <point x="146.86363636363637" y="495.0681818181818" type="line"/>
+      <point x="316.8863636363636" y="608.2727272727273" type="line"/>
+      <point x="287.25" y="654.1363636363636" type="line"/>
+      <point x="80.38636363636364" y="513.9090909090909" type="line"/>
+    </contour>
+    <contour>
+      <point x="33.20454545454545" y="300.0" type="line"/>
+      <point x="311.09090909090907" y="300.0" type="line"/>
+      <point x="317.5" y="354.8636363636364" type="line"/>
+      <point x="39.40909090909091" y="351.8636363636364" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>20</integer>
+        <key>height</key>
+        <integer>61</integer>
+        <key>verticalShift</key>
+        <integer>300</integer>
+        <key>weight</key>
+        <integer>-24</integer>
+        <key>width</key>
+        <integer>62</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Symbol</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

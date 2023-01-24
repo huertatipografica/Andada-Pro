@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="one.osf.alt" format="2">
+  <advance width="453.2"/>
+  <outline>
+    <contour>
+      <point x="141" y="35" type="curve"/>
+      <point x="246" y="35" type="line"/>
+      <point x="245" y="71"/>
+      <point x="249" y="111"/>
+      <point x="253" y="144" type="curve" smooth="yes"/>
+      <point x="285" y="374" type="line" smooth="yes"/>
+      <point x="290" y="408"/>
+      <point x="305" y="466"/>
+      <point x="312" y="493" type="curve"/>
+      <point x="208" y="493" type="line"/>
+      <point x="209" y="471"/>
+      <point x="206" y="411"/>
+      <point x="204" y="394" type="curve" smooth="yes"/>
+      <point x="165" y="124" type="line" smooth="yes"/>
+      <point x="162" y="105"/>
+      <point x="148" y="57"/>
+    </contour>
+    <contour>
+      <point x="11" y="0" type="line"/>
+      <point x="369" y="0" type="line"/>
+      <point x="381" y="42" type="line"/>
+      <point x="13" y="42" type="line"/>
+    </contour>
+    <contour>
+      <point x="77" y="487" type="line"/>
+      <point x="445" y="487" type="line"/>
+      <point x="447" y="533" type="line"/>
+      <point x="89" y="533" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

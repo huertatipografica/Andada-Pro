@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="parenright.numr" format="2">
+  <advance width="232.5"/>
+  <outline>
+    <contour>
+      <point x="53.59090909090909" y="224.77272727272728" type="line"/>
+      <point x="151.1818181818182" y="307.22727272727275"/>
+      <point x="189.54545454545453" y="402.5"/>
+      <point x="189.54545454545453" y="513.1363636363636" type="curve" smooth="yes"/>
+      <point x="189.54545454545453" y="622.4090909090909"/>
+      <point x="151.36363636363637" y="718.2727272727273"/>
+      <point x="53.59090909090909" y="800.7272727272727" type="curve"/>
+      <point x="32.13636363636363" y="782.6818181818181" type="line"/>
+      <point x="86.18181818181819" y="709.5"/>
+      <point x="110.36363636363636" y="607.4090909090909"/>
+      <point x="110.36363636363636" y="513.1363636363636" type="curve" smooth="yes"/>
+      <point x="110.36363636363636" y="413.22727272727275"/>
+      <point x="84.54545454545455" y="312.72727272727275"/>
+      <point x="32.13636363636363" y="242.8181818181818" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>20</integer>
+        <key>height</key>
+        <integer>61</integer>
+        <key>verticalShift</key>
+        <integer>290</integer>
+        <key>weight</key>
+        <integer>-24</integer>
+        <key>width</key>
+        <integer>62</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

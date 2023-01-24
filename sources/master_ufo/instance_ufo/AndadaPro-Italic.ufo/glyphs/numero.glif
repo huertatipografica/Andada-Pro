@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="numero" format="2">
+  <advance width="1079"/>
+  <unicode hex="2116"/>
+  <anchor x="341" y="0" name="bottom_1"/>
+  <anchor x="928" y="330" name="bottom_2"/>
+  <anchor x="948" y="478" name="center"/>
+  <anchor x="966" y="332" name="ogonek"/>
+  <anchor x="442" y="720" name="top_1"/>
+  <anchor x="969" y="624" name="top_2"/>
+  <anchor x="1032" y="593" name="topright"/>
+  <outline>
+    <component base="N"/>
+    <component base="o.sups" xOffset="763"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Symbol</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

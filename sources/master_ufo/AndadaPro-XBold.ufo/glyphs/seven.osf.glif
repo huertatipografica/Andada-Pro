@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="seven.osf" format="2">
+  <advance width="551"/>
+  <outline>
+    <contour>
+      <point x="157" y="-220" type="line"/>
+      <point x="545" y="468" type="line"/>
+      <point x="538" y="537" type="line"/>
+      <point x="223" y="537" type="line" smooth="yes"/>
+      <point x="202" y="537"/>
+      <point x="108" y="546"/>
+      <point x="108" y="546" type="curve"/>
+      <point x="88" y="526" type="line"/>
+      <point x="53" y="316" type="line"/>
+      <point x="131" y="313" type="line"/>
+      <point x="144" y="358" type="line" smooth="yes"/>
+      <point x="147" y="369"/>
+      <point x="174" y="418"/>
+      <point x="196" y="460" type="curve"/>
+      <point x="100" y="395" type="line"/>
+      <point x="138" y="399"/>
+      <point x="195" y="405"/>
+      <point x="216" y="405" type="curve" smooth="yes"/>
+      <point x="428" y="405" type="line"/>
+      <point x="389" y="465" type="line"/>
+      <point x="372" y="421"/>
+      <point x="320" y="288"/>
+      <point x="305" y="264" type="curve" smooth="yes"/>
+      <point x="36" y="-177" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>verticalShift</key>
+        <integer>-115</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

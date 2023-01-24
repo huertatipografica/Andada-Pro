@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lj.sc" format="2">
+  <advance width="799.3636363636364"/>
+  <anchor x="228.27272727272728" y="0.0" name="bottom"/>
+  <anchor x="173.0" y="273.0" name="center"/>
+  <anchor x="490.54545454545456" y="340.0" name="centerright"/>
+  <anchor x="242.6818181818182" y="530.0" name="top_1"/>
+  <anchor x="682.0" y="530.0" name="top_2"/>
+  <anchor x="404.27272727272725" y="380.0" name="topright"/>
+  <outline>
+    <component base="l.sc"/>
+    <component base="j.sc" xOffset="486.6363636363636"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

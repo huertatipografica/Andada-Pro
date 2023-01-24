@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dagger.sc" format="2">
+  <advance width="491.75"/>
+  <outline>
+    <contour>
+      <point x="217.5681818181818" y="0.0" type="line"/>
+      <point x="288.45454545454544" y="0.0" type="line"/>
+      <point x="279.6363636363636" y="161.63636363636363"/>
+      <point x="281.02272727272725" y="418.52272727272725"/>
+      <point x="291.45454545454544" y="568.0" type="curve"/>
+      <point x="275.45454545454544" y="582.0" type="line"/>
+      <point x="204.5681818181818" y="582.0" type="line"/>
+      <point x="212.0" y="427.52272727272725"/>
+      <point x="212.5909090909091" y="171.9090909090909"/>
+      <point x="202.5681818181818" y="14.0" type="curve"/>
+    </contour>
+    <contour>
+      <point x="392.45454545454544" y="266.95454545454544" type="curve"/>
+      <point x="406.45454545454544" y="281.75" type="line"/>
+      <point x="406.45454545454544" y="329.04545454545456" type="line"/>
+      <point x="298.02272727272725" y="325.84090909090907"/>
+      <point x="189.95454545454547" y="324.25"/>
+      <point x="101.56818181818181" y="331.25" type="curve"/>
+      <point x="86.56818181818181" y="317.04545454545456" type="line"/>
+      <point x="86.56818181818181" y="268.95454545454544" type="line"/>
+      <point x="196.38636363636363" y="272.95454545454544"/>
+      <point x="313.3863636363636" y="273.15909090909093"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>24</integer>
+        <key>height</key>
+        <integer>77</integer>
+        <key>weight</key>
+        <integer>-12</integer>
+        <key>width</key>
+        <integer>82</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

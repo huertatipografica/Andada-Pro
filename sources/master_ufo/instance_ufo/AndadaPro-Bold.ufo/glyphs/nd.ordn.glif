@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nd.ordn" format="2">
+  <advance width="901.7272727272727"/>
+  <anchor x="241.36363636363637" y="330.0" name="bottom"/>
+  <anchor x="247.27272727272728" y="638.0" name="top"/>
+  <anchor x="23.636363636363637" y="665.2727272727273" name="topleft"/>
+  <outline>
+    <component base="n.sups"/>
+    <component base="d.sups" xOffset="478.1818181818182"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

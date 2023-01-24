@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="plusminus.sups" format="2">
+  <advance width="415.7"/>
+  <outline>
+    <contour>
+      <point x="68" y="512" type="line"/>
+      <point x="349" y="515" type="line"/>
+      <point x="349" y="564" type="line"/>
+      <point x="68" y="564" type="line"/>
+    </contour>
+    <contour>
+      <point x="68" y="330" type="line"/>
+      <point x="349" y="330" type="line"/>
+      <point x="349" y="382" type="line"/>
+      <point x="68" y="379" type="line"/>
+    </contour>
+    <contour>
+      <point x="182" y="405" type="line"/>
+      <point x="235" y="405" type="line"/>
+      <point x="232" y="671" type="line"/>
+      <point x="182" y="671" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>20</integer>
+        <key>height</key>
+        <integer>61</integer>
+        <key>verticalShift</key>
+        <integer>330</integer>
+        <key>weight</key>
+        <integer>-24</integer>
+        <key>width</key>
+        <integer>62</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

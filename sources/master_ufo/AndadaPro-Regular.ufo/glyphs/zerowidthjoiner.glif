@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zerowidthjoiner" format="2">
+  <advance width="341"/>
+  <unicode hex="200D"/>
+  <outline>
+    <contour>
+      <point x="76" y="-244" type="line"/>
+      <point x="153" y="-244" type="line"/>
+      <point x="153" y="683" type="line"/>
+      <point x="329" y="683" type="line"/>
+      <point x="329" y="756" type="line"/>
+      <point x="76" y="756" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

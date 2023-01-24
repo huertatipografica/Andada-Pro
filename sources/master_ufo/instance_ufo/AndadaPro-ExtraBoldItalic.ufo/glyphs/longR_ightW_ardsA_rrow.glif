@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="longRightWardsArrow" format="2">
+  <advance width="1113.125"/>
+  <unicode hex="27F6"/>
+  <outline>
+    <contour>
+      <point x="797.4545454545455" y="-16.863636363636363" type="line"/>
+      <point x="1101.159090909091" y="240.02272727272728" type="line"/>
+      <point x="1103.0454545454545" y="267.4318181818182" type="line"/>
+      <point x="861.2272727272727" y="524.2045454545455" type="line"/>
+      <point x="790.2954545454545" y="452.04545454545456" type="line"/>
+      <point x="1020.9772727272727" y="216.1590909090909" type="line"/>
+      <point x="1029.5227272727273" y="291.29545454545456" type="line"/>
+      <point x="741.8409090909091" y="55.40909090909091" type="line"/>
+    </contour>
+    <contour>
+      <point x="75.88636363636364" y="203.1590909090909" type="line"/>
+      <point x="75.88636363636364" y="202.1590909090909"/>
+      <point x="204.6590909090909" y="208.1590909090909"/>
+      <point x="252.36363636363637" y="208.1590909090909" type="curve" smooth="yes"/>
+      <point x="1008.4318181818181" y="208.1590909090909" type="line"/>
+      <point x="1019.0909090909091" y="299.29545454545456" type="line"/>
+      <point x="74.88636363636364" y="299.29545454545456" type="line"/>
+      <point x="65.3409090909091" y="218.36363636363637" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Symbol</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>hyphen</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Arrow</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

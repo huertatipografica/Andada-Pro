@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresiscomb.narrow.loclVIET" format="2">
+  <anchor x="216.4090909090909" y="494.0" name="_top"/>
+  <anchor x="244.63636363636363" y="655.9090909090909" name="top"/>
+  <outline>
+    <contour>
+      <point x="139.77272727272728" y="562.1363636363636" type="curve" smooth="yes"/>
+      <point x="180.04545454545456" y="562.1363636363636"/>
+      <point x="205.27272727272728" y="594.1363636363636"/>
+      <point x="202.36363636363637" y="637.5454545454545" type="curve" smooth="yes"/>
+      <point x="201.22727272727272" y="665.3636363636364"/>
+      <point x="183.8181818181818" y="684.0"/>
+      <point x="154.72727272727272" y="684.0" type="curve" smooth="yes"/>
+      <point x="114.86363636363636" y="684.0"/>
+      <point x="89.4090909090909" y="651.0"/>
+      <point x="91.72727272727273" y="610.1363636363636" type="curve" smooth="yes"/>
+      <point x="93.27272727272727" y="581.2272727272727"/>
+      <point x="110.04545454545455" y="562.1363636363636"/>
+    </contour>
+    <contour>
+      <point x="314.3181818181818" y="562.1363636363636" type="curve" smooth="yes"/>
+      <point x="355.1818181818182" y="562.1363636363636"/>
+      <point x="379.22727272727275" y="595.3181818181819"/>
+      <point x="377.5" y="635.1818181818181" type="curve" smooth="yes"/>
+      <point x="375.77272727272725" y="668.3181818181819"/>
+      <point x="357.1818181818182" y="684.0"/>
+      <point x="329.8636363636364" y="684.0" type="curve" smooth="yes"/>
+      <point x="290.59090909090907" y="684.0"/>
+      <point x="264.54545454545456" y="652.7727272727273"/>
+      <point x="266.8636363636364" y="609.5454545454545" type="curve" smooth="yes"/>
+      <point x="267.8181818181818" y="581.2272727272727"/>
+      <point x="284.59090909090907" y="562.1363636363636"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <real>358.9</real>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

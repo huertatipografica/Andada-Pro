@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dagger.sc" format="2">
+  <advance width="350.125"/>
+  <outline>
+    <contour>
+      <point x="115.79545454545455" y="0.0" type="line"/>
+      <point x="186.6818181818182" y="0.0" type="line"/>
+      <point x="195.13636363636363" y="159.27272727272728"/>
+      <point x="232.61363636363637" y="408.09090909090907"/>
+      <point x="260.27272727272725" y="568.0" type="curve"/>
+      <point x="244.88636363636363" y="582.0" type="line"/>
+      <point x="174.79545454545453" y="582.0" type="line"/>
+      <point x="166.3409090909091" y="423.52272727272725"/>
+      <point x="124.88636363636364" y="158.0"/>
+      <point x="102.0" y="14.0" type="curve"/>
+    </contour>
+    <contour>
+      <point x="324.27272727272725" y="266.95454545454544" type="curve"/>
+      <point x="340.27272727272725" y="281.75" type="line"/>
+      <point x="345.6818181818182" y="329.04545454545456" type="line"/>
+      <point x="295.6818181818182" y="327.04545454545456"/>
+      <point x="244.45454545454547" y="326.04545454545456"/>
+      <point x="197.20454545454547" y="326.04545454545456" type="curve" smooth="yes"/>
+      <point x="137.52272727272728" y="326.04545454545456"/>
+      <point x="82.43181818181819" y="328.04545454545456"/>
+      <point x="40.59090909090909" y="331.25" type="curve"/>
+      <point x="23.795454545454547" y="317.04545454545456" type="line"/>
+      <point x="17.59090909090909" y="268.95454545454544" type="line"/>
+      <point x="68.4090909090909" y="270.95454545454544"/>
+      <point x="120.27272727272727" y="271.95454545454544"/>
+      <point x="168.54545454545453" y="271.95454545454544" type="curve" smooth="yes"/>
+      <point x="226.5909090909091" y="271.95454545454544"/>
+      <point x="281.04545454545456" y="270.15909090909093"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>24</integer>
+        <key>height</key>
+        <integer>77</integer>
+        <key>weight</key>
+        <integer>-12</integer>
+        <key>width</key>
+        <integer>82</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Symbol</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

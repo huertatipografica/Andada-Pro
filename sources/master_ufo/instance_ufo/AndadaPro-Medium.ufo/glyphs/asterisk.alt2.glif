@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="asterisk.alt2" format="2">
+  <advance width="504.75"/>
+  <outline>
+    <contour>
+      <point x="261.15909090909093" y="566.3636363636364" type="line"/>
+      <point x="422.1818181818182" y="646.7727272727273" type="line"/>
+      <point x="380.1363636363636" y="705.8409090909091" type="line"/>
+      <point x="242.9090909090909" y="591.6363636363636" type="line"/>
+    </contour>
+    <contour>
+      <point x="124.4090909090909" y="459.79545454545456" type="line"/>
+      <point x="261.6363636363636" y="574.0" type="line"/>
+      <point x="243.38636363636363" y="600.0681818181819" type="line"/>
+      <point x="82.36363636363636" y="519.6590909090909" type="line"/>
+    </contour>
+    <contour>
+      <point x="221.9318181818182" y="403.6363636363636" type="line"/>
+      <point x="294.6136363636364" y="410.04545454545456" type="line"/>
+      <point x="265.6136363636364" y="586.8636363636364" type="line"/>
+      <point x="233.13636363636363" y="583.4545454545455" type="line"/>
+    </contour>
+    <contour>
+      <point x="248.79545454545453" y="570.1590909090909" type="line"/>
+      <point x="261.4318181818182" y="598.4318181818181" type="line"/>
+      <point x="112.20454545454545" y="698.25" type="line"/>
+      <point x="81.77272727272727" y="633.3636363636364" type="line"/>
+    </contour>
+    <contour>
+      <point x="392.34090909090907" y="467.3863636363636" type="line"/>
+      <point x="423.5681818181818" y="533.0681818181819" type="line"/>
+      <point x="255.75" y="596.2727272727273" type="line"/>
+      <point x="243.11363636363637" y="567.2045454545455" type="line"/>
+    </contour>
+    <contour>
+      <point x="238.9318181818182" y="579.5681818181819" type="line"/>
+      <point x="271.40909090909093" y="582.1818181818181" type="line"/>
+      <point x="282.6136363636364" y="762.0" type="line"/>
+      <point x="209.9318181818182" y="755.5909090909091" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

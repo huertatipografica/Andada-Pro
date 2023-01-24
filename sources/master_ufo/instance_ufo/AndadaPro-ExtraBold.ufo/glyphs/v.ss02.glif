@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="v.ss02" format="2">
+  <advance width="701.0"/>
+  <outline>
+    <contour>
+      <point x="303.40909090909093" y="31.409090909090907" type="line"/>
+      <point x="385.95454545454544" y="31.409090909090907" type="line"/>
+      <point x="547.2045454545455" y="373.97727272727275" type="line" smooth="yes"/>
+      <point x="555.2272727272727" y="391.3636363636364"/>
+      <point x="614.3863636363636" y="501.6818181818182"/>
+      <point x="623.2727272727273" y="514.6818181818181" type="curve"/>
+      <point x="476.84090909090907" y="514.6818181818181" type="line"/>
+      <point x="474.84090909090907" y="496.90909090909093"/>
+      <point x="454.8863636363636" y="409.6590909090909"/>
+      <point x="447.77272727272725" y="393.4318181818182" type="curve" smooth="yes"/>
+      <point x="340.90909090909093" y="164.0" type="line"/>
+      <point x="373.4318181818182" y="164.0" type="line"/>
+      <point x="278.8636363636364" y="379.84090909090907" type="line" smooth="yes"/>
+      <point x="275.72727272727275" y="387.8863636363636"/>
+      <point x="247.20454545454544" y="489.25"/>
+      <point x="246.97727272727272" y="514.6818181818181" type="curve"/>
+      <point x="80.0" y="514.6818181818181" type="line"/>
+      <point x="85.27272727272728" y="506.5"/>
+      <point x="126.45454545454545" y="428.04545454545456"/>
+      <point x="133.79545454545453" y="411.47727272727275" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="19.09090909090909" y="0.0" type="line"/>
+      <point x="683.6363636363636" y="0.0" type="line"/>
+      <point x="687.6363636363636" y="49.40909090909091" type="line"/>
+      <point x="14.977272727272727" y="49.40909090909091" type="line"/>
+    </contour>
+    <contour>
+      <point x="-26.886363636363637" y="487.25" type="line"/>
+      <point x="730.5" y="487.25" type="line"/>
+      <point x="726.5" y="536.0" type="line"/>
+      <point x="-29.09090909090909" y="536.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>3</integer>
+        <key>height</key>
+        <integer>76</integer>
+        <key>weight</key>
+        <integer>-12</integer>
+        <key>width</key>
+        <integer>82</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

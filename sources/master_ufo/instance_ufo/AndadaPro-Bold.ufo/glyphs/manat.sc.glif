@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="manat.sc" format="2">
+  <advance width="706.1999999999999"/>
+  <outline>
+    <contour>
+      <point x="117.36363636363636" y="0.0" type="line"/>
+      <point x="237.1818181818182" y="0.0" type="line"/>
+      <point x="234.54545454545456" y="36.72727272727273"/>
+      <point x="231.1818181818182" y="104.63636363636364"/>
+      <point x="231.1818181818182" y="127.27272727272728" type="curve" smooth="yes"/>
+      <point x="231.1818181818182" y="243.54545454545456" type="line" smooth="yes"/>
+      <point x="231.1818181818182" y="339.3636363636364"/>
+      <point x="245.36363636363637" y="386.90909090909093"/>
+      <point x="353.1818181818182" y="386.90909090909093" type="curve" smooth="yes"/>
+      <point x="457.0" y="386.90909090909093"/>
+      <point x="474.1818181818182" y="343.3636363636364"/>
+      <point x="474.1818181818182" y="243.54545454545456" type="curve" smooth="yes"/>
+      <point x="474.1818181818182" y="150.27272727272728" type="line" smooth="yes"/>
+      <point x="474.1818181818182" y="108.9090909090909"/>
+      <point x="471.45454545454544" y="50.27272727272727"/>
+      <point x="469.1818181818182" y="8.0" type="curve"/>
+      <point x="477.1818181818182" y="0.0" type="line"/>
+      <point x="596.4545454545455" y="0.0" type="line"/>
+      <point x="593.5454545454545" y="30.09090909090909"/>
+      <point x="587.0" y="102.72727272727272"/>
+      <point x="587.0" y="127.27272727272728" type="curve" smooth="yes"/>
+      <point x="587.0" y="243.54545454545456" type="line" smooth="yes"/>
+      <point x="587.0" y="390.3636363636364"/>
+      <point x="487.6363636363636" y="471.0"/>
+      <point x="353.1818181818182" y="471.0" type="curve" smooth="yes"/>
+      <point x="217.0909090909091" y="471.0"/>
+      <point x="118.36363636363636" y="390.72727272727275"/>
+      <point x="118.36363636363636" y="243.54545454545456" type="curve" smooth="yes"/>
+      <point x="118.36363636363636" y="150.27272727272728" type="line" smooth="yes"/>
+      <point x="118.36363636363636" y="111.54545454545455"/>
+      <point x="113.63636363636364" y="46.27272727272727"/>
+      <point x="109.36363636363636" y="8.0" type="curve"/>
+    </contour>
+    <contour>
+      <point x="319.0" y="35.54545454545455" type="line"/>
+      <point x="368.45454545454544" y="35.54545454545455" type="line"/>
+      <point x="394.3636363636364" y="566.0" type="line"/>
+      <point x="344.27272727272725" y="568.3636363636364" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>24</integer>
+        <key>height</key>
+        <integer>77</integer>
+        <key>weight</key>
+        <integer>-10</integer>
+        <key>width</key>
+        <integer>82</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

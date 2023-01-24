@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quoteleft.sc" format="2">
+  <advance width="336.75"/>
+  <outline>
+    <contour>
+      <point x="213.72727272727272" y="629.9545454545455" type="line"/>
+      <point x="126.47727272727272" y="603.8636363636364"/>
+      <point x="96.25" y="528.7727272727273"/>
+      <point x="96.25" y="460.8863636363636" type="curve" smooth="yes"/>
+      <point x="96.25" y="412.6818181818182"/>
+      <point x="119.45454545454545" y="367.70454545454544"/>
+      <point x="167.6590909090909" y="367.70454545454544" type="curve" smooth="yes"/>
+      <point x="208.63636363636363" y="367.70454545454544"/>
+      <point x="238.8409090909091" y="404.79545454545456"/>
+      <point x="238.8409090909091" y="446.20454545454544" type="curve" smooth="yes"/>
+      <point x="238.8409090909091" y="497.72727272727275"/>
+      <point x="189.77272727272728" y="533.5909090909091"/>
+      <point x="128.70454545454547" y="500.8636363636364" type="curve"/>
+      <point x="176.0909090909091" y="459.27272727272725" type="line"/>
+      <point x="161.11363636363637" y="543.5909090909091"/>
+      <point x="193.9318181818182" y="577.5"/>
+      <point x="226.8409090909091" y="596.2045454545455" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>24</integer>
+        <key>height</key>
+        <integer>77</integer>
+        <key>weight</key>
+        <integer>-12</integer>
+        <key>width</key>
+        <integer>82</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

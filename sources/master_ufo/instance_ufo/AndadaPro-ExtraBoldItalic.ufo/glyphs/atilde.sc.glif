@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="atilde.sc" format="2">
+  <advance width="598.75"/>
+  <anchor x="268.54545454545456" y="0.0" name="bottom"/>
+  <anchor x="486.97727272727275" y="8.0" name="ogonek"/>
+  <anchor x="366.90909090909093" y="674.75" name="top"/>
+  <outline>
+    <component base="a.sc"/>
+    <component base="tildecomb" xOffset="117.36363636363636" yOffset="36.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

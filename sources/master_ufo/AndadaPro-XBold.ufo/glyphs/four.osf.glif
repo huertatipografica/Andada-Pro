@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="four.osf" format="2">
+  <advance width="567"/>
+  <outline>
+    <contour>
+      <point x="71" y="7" type="line"/>
+      <point x="285" y="7" type="line"/>
+      <point x="296" y="98" type="line"/>
+      <point x="88" y="98" type="line"/>
+      <point x="108" y="47" type="line"/>
+      <point x="364" y="355" type="line" smooth="yes"/>
+      <point x="383" y="378"/>
+      <point x="492" y="480"/>
+      <point x="492" y="480" type="curve"/>
+      <point x="402" y="564" type="line"/>
+      <point x="7" y="99" type="line"/>
+    </contour>
+    <contour>
+      <point x="245" y="-219" type="line"/>
+      <point x="392" y="-173" type="line"/>
+      <point x="439" y="243" type="line"/>
+      <point x="291" y="195" type="line"/>
+    </contour>
+    <contour>
+      <point x="396" y="7" type="line"/>
+      <point x="503" y="7" type="line"/>
+      <point x="516" y="112" type="line"/>
+      <point x="408" y="106" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>verticalShift</key>
+        <integer>-175</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

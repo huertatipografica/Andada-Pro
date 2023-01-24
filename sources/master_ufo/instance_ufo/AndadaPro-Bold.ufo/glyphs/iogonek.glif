@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iogonek" format="2">
+  <advance width="351.2"/>
+  <unicode hex="012F"/>
+  <outline>
+    <contour>
+      <point x="114.36363636363636" y="0.36363636363636365" type="curve"/>
+      <point x="323.3636363636364" y="0.0" type="line"/>
+      <point x="328.72727272727275" y="64.0909090909091" type="line"/>
+      <point x="206.54545454545456" y="75.36363636363636" type="line"/>
+      <point x="263.1818181818182" y="31.0" type="line"/>
+      <point x="258.54545454545456" y="69.18181818181819"/>
+      <point x="250.36363636363637" y="131.1818181818182"/>
+      <point x="250.36363636363637" y="182.45454545454544" type="curve" smooth="yes"/>
+      <point x="250.36363636363637" y="306.27272727272725" type="line" smooth="yes"/>
+      <point x="250.36363636363637" y="356.27272727272725"/>
+      <point x="256.72727272727275" y="449.45454545454544"/>
+      <point x="259.27272727272725" y="475.3636363636364" type="curve"/>
+      <point x="239.0" y="494.0" type="line"/>
+      <point x="163.0" y="494.0" type="line" smooth="yes"/>
+      <point x="141.27272727272728" y="494.0"/>
+      <point x="91.9090909090909" y="497.90909090909093"/>
+      <point x="56.18181818181818" y="501.1818181818182" type="curve"/>
+      <point x="48.63636363636364" y="435.54545454545456" type="line"/>
+      <point x="175.1818181818182" y="407.09090909090907" type="line"/>
+      <point x="116.45454545454545" y="469.72727272727275" type="line"/>
+      <point x="122.45454545454545" y="431.1818181818182"/>
+      <point x="134.0" y="361.1818181818182"/>
+      <point x="134.0" y="336.27272727272725" type="curve" smooth="yes"/>
+      <point x="134.0" y="152.45454545454544" type="line" smooth="yes"/>
+      <point x="134.0" y="126.45454545454545"/>
+      <point x="120.0909090909091" y="35.90909090909091"/>
+    </contour>
+    <component base="dotaccentcomb" xOffset="60.09090909090909" yOffset="24.0"/>
+    <component base="ogonekcomb" xOffset="-24.18181818181818"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>dotaccentcomb</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>ogonekcomb</string>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

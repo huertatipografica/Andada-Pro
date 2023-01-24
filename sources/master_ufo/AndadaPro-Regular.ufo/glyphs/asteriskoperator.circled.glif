@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="asteriskoperator.circled" format="2">
+  <advance width="930"/>
+  <unicode hex="229B"/>
+  <outline>
+    <contour>
+      <point x="465" y="12" type="curve" smooth="yes"/>
+      <point x="666" y="12"/>
+      <point x="829" y="175"/>
+      <point x="829" y="375" type="curve" smooth="yes"/>
+      <point x="829" y="576"/>
+      <point x="666" y="739"/>
+      <point x="465" y="739" type="curve" smooth="yes"/>
+      <point x="265" y="739"/>
+      <point x="102" y="576"/>
+      <point x="102" y="375" type="curve" smooth="yes"/>
+      <point x="102" y="175"/>
+      <point x="265" y="12"/>
+    </contour>
+    <contour>
+      <point x="368" y="191" type="line"/>
+      <point x="483" y="351" type="line"/>
+      <point x="440" y="384" type="line"/>
+      <point x="307" y="237" type="line"/>
+    </contour>
+    <contour>
+      <point x="463" y="338" type="line"/>
+      <point x="478" y="388" type="line"/>
+      <point x="294" y="465" type="line"/>
+      <point x="272" y="391" type="line"/>
+    </contour>
+    <contour>
+      <point x="562" y="188" type="line"/>
+      <point x="619" y="237" type="line"/>
+      <point x="489" y="383" type="line"/>
+      <point x="448" y="346" type="line"/>
+    </contour>
+    <contour>
+      <point x="465" y="74" type="curve" smooth="yes"/>
+      <point x="300" y="74"/>
+      <point x="164" y="210"/>
+      <point x="164" y="375" type="curve" smooth="yes"/>
+      <point x="164" y="542"/>
+      <point x="300" y="677"/>
+      <point x="465" y="677" type="curve" smooth="yes"/>
+      <point x="632" y="677"/>
+      <point x="767" y="542"/>
+      <point x="767" y="375" type="curve" smooth="yes"/>
+      <point x="767" y="210"/>
+      <point x="632" y="74"/>
+    </contour>
+    <contour>
+      <point x="434" y="363" type="line"/>
+      <point x="488" y="364" type="line"/>
+      <point x="496" y="561" type="line"/>
+      <point x="420" y="557" type="line"/>
+    </contour>
+    <contour>
+      <point x="468" y="339" type="line"/>
+      <point x="659" y="394" type="line"/>
+      <point x="632" y="465" type="line"/>
+      <point x="451" y="389" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>whiteCircle</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>whiteCircle</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

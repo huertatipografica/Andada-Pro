@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="southEastArrow" format="2">
+  <advance width="486.8"/>
+  <unicode hex="2198"/>
+  <outline>
+    <contour>
+      <point x="394" y="59" type="line"/>
+      <point x="405" y="70" type="line"/>
+      <point x="425" y="460" type="line"/>
+      <point x="360" y="453" type="line"/>
+      <point x="342" y="94" type="line"/>
+      <point x="378" y="126" type="line"/>
+      <point x="33" y="151" type="line"/>
+      <point x="18" y="87" type="line"/>
+    </contour>
+    <contour>
+      <point x="355" y="64" type="line"/>
+      <point x="405" y="106" type="line"/>
+      <point x="98" y="466" type="line"/>
+      <point x="55" y="427" type="line"/>
+      <point x="55" y="415" type="line"/>
+      <point x="55" y="415"/>
+      <point x="94" y="379"/>
+      <point x="124" y="343" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

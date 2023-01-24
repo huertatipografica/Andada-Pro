@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="X.ss02" format="2">
+  <advance width="764.3"/>
+  <outline>
+    <contour>
+      <point x="189" y="44" type="line"/>
+      <point x="202" y="65"/>
+      <point x="227" y="104"/>
+      <point x="242" y="123" type="curve" smooth="yes"/>
+      <point x="396" y="328" type="line"/>
+      <point x="361" y="328" type="line"/>
+      <point x="454" y="132" type="line" smooth="yes"/>
+      <point x="469" y="100"/>
+      <point x="482" y="64"/>
+      <point x="491" y="42" type="curve"/>
+      <point x="625" y="42" type="line"/>
+      <point x="605" y="67"/>
+      <point x="573" y="110"/>
+      <point x="566" y="123" type="curve" smooth="yes"/>
+      <point x="429" y="397" type="line"/>
+      <point x="422" y="335" type="line"/>
+      <point x="578" y="550" type="line" smooth="yes"/>
+      <point x="588" y="564"/>
+      <point x="662" y="650"/>
+      <point x="675" y="664" type="curve"/>
+      <point x="579" y="662" type="line"/>
+      <point x="536" y="596"/>
+      <point x="541" y="606"/>
+      <point x="527" y="584" type="curve" smooth="yes"/>
+      <point x="392" y="390" type="line"/>
+      <point x="432" y="391" type="line"/>
+      <point x="352" y="564" type="line" smooth="yes"/>
+      <point x="337" y="597"/>
+      <point x="322" y="653"/>
+      <point x="317" y="665" type="curve"/>
+      <point x="185" y="663" type="line"/>
+      <point x="194" y="649"/>
+      <point x="234" y="590"/>
+      <point x="246" y="566" type="curve" smooth="yes"/>
+      <point x="363" y="321" type="line"/>
+      <point x="369" y="382" type="line"/>
+      <point x="191" y="152" type="line" smooth="yes"/>
+      <point x="171" y="126"/>
+      <point x="98" y="56"/>
+      <point x="84" y="42" type="curve"/>
+    </contour>
+    <contour>
+      <point x="13" y="0" type="line"/>
+      <point x="687" y="0" type="line"/>
+      <point x="697" y="42" type="line"/>
+      <point x="15" y="42" type="line"/>
+    </contour>
+    <contour>
+      <point x="97" y="659" type="line"/>
+      <point x="778" y="659" type="line"/>
+      <point x="781" y="705" type="line"/>
+      <point x="105" y="705" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <integer>90</integer>
+        <key>verticalShift</key>
+        <integer>34</integer>
+        <key>width</key>
+        <integer>95</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

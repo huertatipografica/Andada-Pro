@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ydotbelow.sc" format="2">
+  <advance width="587.1136363636364"/>
+  <anchor x="226.63636363636363" y="-218.63636363636363" name="bottom"/>
+  <anchor x="328.5" y="530.0" name="top"/>
+  <anchor x="71.22727272727273" y="543.0" name="topleft"/>
+  <outline>
+    <component base="y.sc"/>
+    <component base="dotbelowcomb" xOffset="158.86363636363637"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

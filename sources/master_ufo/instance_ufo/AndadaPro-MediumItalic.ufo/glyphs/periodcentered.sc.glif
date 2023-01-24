@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="periodcentered.sc" format="2">
+  <advance width="309.0"/>
+  <outline>
+    <contour>
+      <point x="143.25" y="180.13636363636363" type="curve" smooth="yes"/>
+      <point x="181.6818181818182" y="180.13636363636363"/>
+      <point x="208.70454545454547" y="211.1590909090909"/>
+      <point x="208.70454545454547" y="252.4090909090909" type="curve" smooth="yes"/>
+      <point x="208.70454545454547" y="282.84090909090907"/>
+      <point x="190.88636363636363" y="300.8636363636364"/>
+      <point x="163.4318181818182" y="300.8636363636364" type="curve" smooth="yes"/>
+      <point x="126.0" y="300.8636363636364"/>
+      <point x="98.77272727272727" y="269.6363636363636"/>
+      <point x="98.77272727272727" y="228.5909090909091" type="curve" smooth="yes"/>
+      <point x="98.77272727272727" y="199.1590909090909"/>
+      <point x="115.20454545454545" y="180.13636363636363"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>24</integer>
+        <key>height</key>
+        <integer>77</integer>
+        <key>verticalShift</key>
+        <integer>10</integer>
+        <key>weight</key>
+        <integer>-10</integer>
+        <key>width</key>
+        <integer>82</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

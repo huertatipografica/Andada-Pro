@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="liraTurkish.sc" format="2">
+  <advance width="600.875"/>
+  <outline>
+    <contour>
+      <point x="349.6363636363636" y="-12.0" type="curve" smooth="yes"/>
+      <point x="399.45454545454544" y="-12.0"/>
+      <point x="453.6818181818182" y="0.0"/>
+      <point x="508.5" y="13.0" type="curve"/>
+      <point x="497.90909090909093" y="133.0681818181818" type="line"/>
+      <point x="444.65909090909093" y="129.6818181818182" type="line"/>
+      <point x="443.84090909090907" y="96.6590909090909" type="line" smooth="yes"/>
+      <point x="443.6363636363636" y="87.86363636363636"/>
+      <point x="435.4318181818182" y="51.43181818181818"/>
+      <point x="426.84090909090907" y="23.022727272727273" type="curve"/>
+      <point x="473.5681818181818" y="66.93181818181819" type="line"/>
+      <point x="433.1136363636364" y="55.75"/>
+      <point x="389.09090909090907" y="45.34090909090909"/>
+      <point x="348.6363636363636" y="45.34090909090909" type="curve" smooth="yes"/>
+      <point x="298.3181818181818" y="45.34090909090909"/>
+      <point x="267.54545454545456" y="75.1590909090909"/>
+      <point x="267.54545454545456" y="117.9090909090909" type="curve" smooth="yes"/>
+      <point x="267.54545454545456" y="403.09090909090907" type="line" smooth="yes"/>
+      <point x="267.54545454545456" y="442.09090909090907"/>
+      <point x="273.75" y="506.0681818181818"/>
+      <point x="278.3636363636364" y="535.0" type="curve"/>
+      <point x="269.5681818181818" y="543.0" type="line"/>
+      <point x="163.70454545454547" y="543.0" type="line"/>
+      <point x="167.3181818181818" y="519.1136363636364"/>
+      <point x="176.3181818181818" y="446.90909090909093"/>
+      <point x="176.3181818181818" y="426.09090909090907" type="curve" smooth="yes"/>
+      <point x="176.3181818181818" y="131.54545454545453" type="line" smooth="yes"/>
+      <point x="176.3181818181818" y="39.25"/>
+      <point x="250.77272727272728" y="-12.0"/>
+    </contour>
+    <contour>
+      <point x="99.79545454545455" y="209.0" type="line"/>
+      <point x="435.79545454545456" y="223.0" type="line"/>
+      <point x="433.79545454545456" y="264.5" type="line"/>
+      <point x="97.79545454545455" y="250.5" type="line"/>
+    </contour>
+    <contour>
+      <point x="95.79545454545455" y="290.0" type="line"/>
+      <point x="431.79545454545456" y="305.0" type="line"/>
+      <point x="429.79545454545456" y="346.5" type="line"/>
+      <point x="93.79545454545455" y="332.5" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>24</integer>
+        <key>height</key>
+        <integer>77</integer>
+        <key>weight</key>
+        <integer>-10</integer>
+        <key>width</key>
+        <integer>82</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

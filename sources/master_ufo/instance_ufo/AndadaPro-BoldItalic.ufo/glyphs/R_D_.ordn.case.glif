@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="RD.ordn.case" format="2">
+  <advance width="890.0"/>
+  <anchor x="230.0909090909091" y="330.0" name="bottom_1"/>
+  <anchor x="638.0909090909091" y="330.0" name="bottom_2"/>
+  <anchor x="583.6363636363636" y="550.5454545454545" name="center"/>
+  <anchor x="259.54545454545456" y="779.3636363636364" name="top_1"/>
+  <anchor x="704.0909090909091" y="779.3636363636364" name="top_2"/>
+  <outline>
+    <component base="R.sups"/>
+    <component base="D.sups" xOffset="421.1818181818182"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

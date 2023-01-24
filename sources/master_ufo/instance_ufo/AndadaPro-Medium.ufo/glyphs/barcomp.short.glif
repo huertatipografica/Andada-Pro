@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="barcomp.short" format="2">
+  <advance width="475.75"/>
+  <anchor x="239.3181818181818" y="603.1363636363636" name="_center"/>
+  <outline>
+    <contour>
+      <point x="77.52272727272727" y="579.8863636363636" type="line"/>
+      <point x="399.8636363636364" y="579.8863636363636" type="line"/>
+      <point x="405.09090909090907" y="626.3863636363636" type="line"/>
+      <point x="77.52272727272727" y="626.3863636363636" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>
