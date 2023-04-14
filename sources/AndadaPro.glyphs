@@ -1,5 +1,8 @@
 {
-.appVersion = "1361";
+.appVersion = "1364";
+DisplayStrings = (
+"minimo/space animado/space de/space cada/space anción/space ue/space e/space me/space ocruee,/space no/space e/space que/space odría/space odner/space en/space ta/space s/space ineas/space inintsartasa./space Wikamedia./space Maria./space Huertominimo/space animado/space de/space cada/space anción/space ue/space e/space me/space ocruee,/space no/space e/space que/space odría/space odner/space en/space ta/space s/space ineas/space inintsartasa./space Vikamedia./space Maria./space Huertominimo/space animado/space de/space cada/space anción/space ue/space e/space me/space ocruee,/space no/space e/space que/space odría/space odner/space en/space ta/space s/space ineas/space inintsartasaikamedia./space Maria./space Huertominimo/space animado/space de/space cada/space anción/space ue/space e/space me/space ocruee,/space no/space e/space que/space odría/space odner/space en/space ta/space s/space ineas/space inintsartasa./space Wikamedia./space Maria./space Huertominimo/space animado/space de/space cada/space anción/space ue/space e/space me/space ocruee,/space no/space e/space que/space odría/space odner/space en/space ta/space s/space ineas/space inintsartasa./space Wikamedia./space Maria./space Huerto"
+);
 classes = (
 {
 automatic = 1;
@@ -123413,6 +123416,9 @@ seven = {
 "@MMK_R_MSC_period" = -70;
 four = -20;
 };
+space = {
+"@MMK_R_UC_V" = -170;
+};
 };
 "16643525-C5DD-48EC-8E99-463BF28F5E85" = {
 "@MMK_L_A.sups" = {
@@ -123998,6 +124004,9 @@ seven = {
 "@MMK_R_MSC_colon" = -30;
 "@MMK_R_MSC_period" = -70;
 four = -20;
+};
+space = {
+"@MMK_R_UC_V" = -150;
 };
 };
 };
