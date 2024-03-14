@@ -1,6 +1,9 @@
 {
 .appVersion = "3246";
 .formatVersion = 3;
+DisplayStrings = (
+ffffffifl
+);
 axes = (
 {
 name = Weight;
@@ -2106,7 +2109,13 @@ sub asciicircum equal by downBlackTriangle;
 tag = dlig;
 },
 {
-code = "lookupflag IgnoreMarks;
+code = "sub f' f by f.f;
+sub f' @ascendentes by f.l;
+sub f t by f_t;
+sub f' @i by f.liga;
+sub f' @j by f.liga;
+
+lookupflag IgnoreMarks;
 sub f f i by f_f_i;
 sub f f l by f_f_l;
 sub f f by f_f;
@@ -2114,13 +2123,6 @@ sub f i by f_i;
 sub f l by fl;
 sub idotless dotaccentcomb by i.liga;
 sub jdotless dotaccentcomb by j.liga;
-
-
-sub f' f by f.f;
-sub f' @ascendentes by f.l;
-sub f t by f_t;
-sub f' @i by f.liga;
-sub f' @j by f.liga;
 
 # Arrows by ligadura
 sub less hyphen by leftArrow;
@@ -2137,7 +2139,16 @@ sub two bar three by twothirds;
 sub one bar eight by oneeighth;
 sub three bar eight by threeeighths;
 sub five bar eight by fiveeighths;
-sub seven bar eight by seveneighths;";
+sub seven bar eight by seveneighths;
+";
+notes = "lookupflag IgnoreMarks;
+sub f f i by f_f_i;
+sub f f l by f_f_l;
+sub f f by f_f;
+sub f i by f_i;
+sub f l by fl;
+sub idotless dotaccentcomb by i.liga;
+sub jdotless dotaccentcomb by j.liga;";
 tag = liga;
 },
 {
