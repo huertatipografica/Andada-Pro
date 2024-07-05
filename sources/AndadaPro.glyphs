@@ -2,66 +2,6 @@
 .appVersion = "3306";
 .formatVersion = 3;
 DisplayStrings = (
-"Ich rufe: also komm; danke
-Somit: haben wir; hinauf: das
-Er will? Ich soll! Er kann
-hinauf! herauf? Su/f_f ? Ka/f_f !
-¿Spanisch? ¡Natürlich!
-was?! wie!? was!! wie??
-Wer kann, kann. Wer, der.
-Sauf, rauf. Su/f_f , Ka/f_f . Sag, sag.
-luv. law. my. luv, law, my,
-(DAT) (fünf) (young) (ﬂu/f_f )
-(lall) (pas cinq) (gaz) (§)
-(jagen) (Jedermann)
-[greif] [jung] [JUT] [hohl]
-reif“ ruf‘ seif“ auf*  ho/f_f “
-T. S. Eliot L. W. Dupont
-V. K. Smith P. A. Meier
-A. Y. Jones F. R. Miller
-X. ä. Schulze
-sic (!) ..., nun (?) ... da
-hinauf ...; dahin ...:
-hinauf ...! hin ...? Toll“, leg“.
-nun (...) und ([...] sein
-‹›«»„“”‚‘’
-«habe recht» «die»
-»Wir« »Tim« »Viel« »Ybbs«
-«Wir» «Tim» «Viel» «Ybbs»
-»OUT« »MIV« »JAW« »AY«
-«OUT» «MIV» «JAW» «AY»
-›OUT‹ ›MIV‹ ›JAW‹ ›AY‹
-‹OUT› ‹MIV› ‹JAW› ‹AY›
-‚ja‘ ‚Ja‘ „ja“ „Ja“ ‚ga‘  „ga“
-„Tag“ „Vau“ „Wal“ „Yep“
-‚Tag‘ ‚Vau‘ ‚Wal‘ ‚Yep‘
-“Bus” “Van” “Jon” “lone” “Al”
-‘Bus“ ‘Van“ ‘Jon“ ‘lone“ ‘Al“
-»– bei –« »— und —«›– bei –‹ ›— und —‹
-«– bei –» «— und —»‹– bei –› ‹— und —›
-»sie«. »das«, »an«; »ich«:
-«sie». «das», «an»; «ich»:
-»sie.« »das,« »an!« »ich?«
-«sie.» «das,» «an!» «ich?»
-›sie‹. ›da‹, ›an‹; ›ich‹: 
-‹sie›. ‹das›, ‹an›; ‹ich›:
-›sie.‹ ›das,‹ ›an!‹ ›ich?‹
-‹sie.› ‹das,› ‹an!› ‹ich?›
-Mir!, das?, Ich!: Sie?:
-Mir!; das?; (»sie«) (›sie‹)
-nun –, hier –.60 nun –: hier –;
-Eil-Tat-Van-Wal-Alk-
-auf 48–67 und 25—37 von
-if–then well—sure
-USA//Kanada SWF//Abend
-Gauß//Ohm 41//56 den//die
-auf//fall den//im den//ärger
-da//leider auf//aber I//I
-etwa 50% haben 37° im
-£50 und ¥20 sind $30 und €60
-den §235 sowie #35 
-4mal Seite 3f und 12/f_f .
-Der §45a in den 20ern",
 "00102030405060708090
 10112131415161718191
 20212232425262728292
@@ -83,14 +23,6 @@ da 27. es 38. an 87, in 68, 674
 (96) (3) (5) (7) [96] [3 [5 [7
 2+3−4÷5-6±≥≤><
 (c) Friedrich Forssman",
-" Hi :)
-
-VERMUTUV. Has a good kerning setting of -180
-HUMU. Should have kerning as well (its currently 0)
-same for r.
-
-In general the left space of the dots and commas seems to be quite large,
-don't know if thats a specific spanish taste.",
 "THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG
 the quick brown fox jumps over the lazy dog
 Spacing
@@ -15193,11 +15125,11 @@ layers = (
 anchors = (
 {
 name = bottom;
-pos = (383,0);
+pos = (407,0);
 },
 {
 name = top;
-pos = (413,705);
+pos = (437,705);
 }
 );
 layerId = "16643525-C5DD-48EC-8E99-463BF28F5E85";
@@ -15216,11 +15148,11 @@ width = 740;
 anchors = (
 {
 name = bottom;
-pos = (375,0);
+pos = (390,0);
 },
 {
 name = top;
-pos = (427,705);
+pos = (442,705);
 }
 );
 layerId = "4E6502B1-B066-4D3E-9BD1-B1D9901B4F4F";
@@ -15252,7 +15184,7 @@ shapes = (
 ref = Uhorn;
 },
 {
-pos = (273,0);
+pos = (297,0);
 ref = acutecomb.case;
 }
 );
@@ -15265,7 +15197,7 @@ shapes = (
 ref = Uhorn;
 },
 {
-pos = (297,0);
+pos = (312,0);
 ref = acutecomb.case;
 }
 );
@@ -15289,7 +15221,7 @@ shapes = (
 ref = Uhorn;
 },
 {
-pos = (256,0);
+pos = (280,0);
 ref = dotbelowcomb;
 }
 );
@@ -15302,7 +15234,7 @@ shapes = (
 ref = Uhorn;
 },
 {
-pos = (260,0);
+pos = (275,0);
 ref = dotbelowcomb;
 }
 );
@@ -15326,7 +15258,7 @@ shapes = (
 ref = Uhorn;
 },
 {
-pos = (239,0);
+pos = (263,0);
 ref = gravecomb.case;
 }
 );
@@ -15339,7 +15271,7 @@ shapes = (
 ref = Uhorn;
 },
 {
-pos = (249,0);
+pos = (264,0);
 ref = gravecomb.case;
 }
 );
@@ -15363,7 +15295,7 @@ shapes = (
 ref = Uhorn;
 },
 {
-pos = (294,0);
+pos = (318,0);
 ref = hookabovecomb.case;
 }
 );
@@ -15376,7 +15308,7 @@ shapes = (
 ref = Uhorn;
 },
 {
-pos = (304,0);
+pos = (319,0);
 ref = hookabovecomb.case;
 }
 );
@@ -15400,7 +15332,7 @@ shapes = (
 ref = Uhorn;
 },
 {
-pos = (202,0);
+pos = (226,0);
 ref = tildecomb.case;
 }
 );
@@ -15413,7 +15345,7 @@ shapes = (
 ref = Uhorn;
 },
 {
-pos = (217,0);
+pos = (232,0);
 ref = tildecomb.case;
 }
 );
@@ -53320,11 +53252,11 @@ layers = (
 anchors = (
 {
 name = bottom;
-pos = (328,0);
+pos = (326,0);
 },
 {
 name = top;
-pos = (328,543);
+pos = (326,543);
 }
 );
 layerId = "16643525-C5DD-48EC-8E99-463BF28F5E85";
@@ -53343,11 +53275,11 @@ width = 699;
 anchors = (
 {
 name = bottom;
-pos = (318,0);
+pos = (317,0);
 },
 {
 name = top;
-pos = (384,543);
+pos = (383,543);
 }
 );
 layerId = "4E6502B1-B066-4D3E-9BD1-B1D9901B4F4F";
@@ -53377,7 +53309,7 @@ shapes = (
 ref = uhorn.sc;
 },
 {
-pos = (242,49);
+pos = (240,49);
 ref = acutecomb;
 }
 );
@@ -53390,7 +53322,7 @@ shapes = (
 ref = uhorn.sc;
 },
 {
-pos = (301,49);
+pos = (300,49);
 ref = acutecomb;
 }
 );
@@ -53412,7 +53344,7 @@ shapes = (
 ref = uhorn.sc;
 },
 {
-pos = (201,0);
+pos = (199,0);
 ref = dotbelowcomb;
 }
 );
@@ -53425,7 +53357,7 @@ shapes = (
 ref = uhorn.sc;
 },
 {
-pos = (203,0);
+pos = (202,0);
 ref = dotbelowcomb;
 }
 );
@@ -53447,7 +53379,7 @@ shapes = (
 ref = uhorn.sc;
 },
 {
-pos = (177,49);
+pos = (175,49);
 ref = gravecomb;
 }
 );
@@ -53460,7 +53392,7 @@ shapes = (
 ref = uhorn.sc;
 },
 {
-pos = (237,49);
+pos = (236,49);
 ref = gravecomb;
 }
 );
@@ -53484,7 +53416,7 @@ pos = (-2,0);
 ref = uhorn.sc;
 },
 {
-pos = (203,49);
+pos = (201,49);
 ref = hookabovecomb;
 }
 );
@@ -53522,7 +53454,7 @@ shapes = (
 ref = uhorn.sc;
 },
 {
-pos = (123,49);
+pos = (121,49);
 ref = tildecomb;
 }
 );
@@ -53535,7 +53467,7 @@ shapes = (
 ref = uhorn.sc;
 },
 {
-pos = (115,49);
+pos = (114,49);
 ref = tildecomb;
 }
 );
