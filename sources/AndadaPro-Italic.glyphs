@@ -1,6 +1,139 @@
 {
-.appVersion = "3246";
+.appVersion = "3306";
 .formatVersion = 3;
+DisplayStrings = (
+"00102030405060708090
+10112131415161718191
+20212232425262728292
+30313233435363738393
+40414243445464748494
+50515253545565758595
+60616263646566768696
+70717273747576778797
+80818283848586878898
+90919293949596979899
+.0.0.1.1.2.2.3.3.4.4.5.5.6.6.7.7.8.8.9.9.0.0
+,0,0,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,0,0
+:0:0:1:1:2:2:3:3:4:4:5:5:6:6:7:7:8:8:9:9:
+;0;0;1;1;2;2;3;3;4;4;5;5;6;6;7;7;8;8;9;9;
+von 18:30 bis 20:15 Uhr
+um 1995 die 28184 und
+und 8.8 und 8,8 da 8.–8.
+da 27. es 38. an 87, in 68, 674
+(96) (3) (5) (7) [96] [3 [5 [7
+2+3−4÷5-6±≥≤><
+(c) Friedrich Forssman",
+"THE QUICK BROWN FOX 
+JUMPS OVER THE LAZY DOG
+the quick brown fox jumps 
+over the lazy dog
+Spacing
+nanbncndnenfngnhninjnknlnmn
+nonpnqnrnsntnunvnwnxnynzn
+HAHBHCHDHEHFHGHHIHJHKHL
+LHMHNHOHPHQHRHSH
+HTHUHVHWHXHYHZH
+0102030405060708090
+lower case//lower case
+aufkauf aufhalt aufbleib
+verﬂixt auflassen 
+ho/f_f e auffassen
+ﬁle aufißt raufjagen fıne
+aufﬁnden Tiefﬂieger
+Sto/f_f los Mu/f_f on Sto/f_f igel O/f_f zier
+Ra/f_f band Tu/f_f höhle Su/f_f kopp 
+führen fördern fähre
+wegjagen Bargfeld
+kyrie afro arte axe luvwärts
+Gevatter wann 
+ever gewettet severe
+davon gewonnen down
+wichtig recken
+ndnďlďhďoďnď*ď”
+nlnľlľhľoľnľ*ľ”dłh
+fîî tíì lïïë thĩĩ nsa
+Versal//Kleinbuchstaben
+Farbe Fest Firn Fjord Font
+Frau Fuß Fähre Förde Füße
+Rest Rohr Röhre Rymer
+Test Tod Tauf Tim Tja Turm
+Traum Tsara Twist Tyrol
+Tüte Töten Täter TéTêTèVeste VamogsVeV
+ Vogel VéVêVèVater Vijf Vlut Vulkan
+Vytautas Vroni Väter Vögel Vs Ws Vz Wz
+Weste Wolf Wüste Wörpe Wärter Waage Wiege Wlasta
+Wurst Wyhl Wrasen Hamburg
+Yeats Yoni auf Yqem
+Yak Ybbs Yggdrasil Yps Hola
+Ysop Ytong Yuma
+Versal//Versal
+ATK AVI AWL AYN LTK
+LVI LWL LYN ĽV ĽTH
+RTK TVI RWL RYN
+TABULA VATER WASSER
+YAKUZA FABEL PAPST
+UNÐE HĐ",
+"Ich rufe: also komm; danke
+Somit: haben wir; hinauf: das
+Er will? Ich soll! Er kann
+hinauf! herauf? Su/f_f ? Ka/f_f !
+¿Spanisch? ¡Natürlich!
+was?! wie!? was!! wie??
+Wer kann, kann. Wer, der.
+Sauf, rauf. Su/f_f , Ka/f_f . Sag, sag.
+luv. law. my. luv, law, my,
+(DAT) (fünf) (young) (ﬂu/f_f )
+(lall) (pas cinq) (gaz) (§)
+(jagen) (Jedermann)
+[greif] [jung] [JUT] [hohl]
+reif“ ruf‘ seif“ auf*  ho/f_f “
+T. S. Eliot L. W. Dupont
+V. K. Smith P. A. Meier
+A. Y. Jones F. R. Miller
+X. ä. Schulze
+sic (!) ..., nun (?) ... da
+hinauf ...; dahin ...:
+hinauf ...! hin ...? Toll“, leg“.
+nun (...) und ([...] sein
+‹›«»„“”‚‘’
+«habe recht» «die»
+»Wir« »Tim« »Viel« »Ybbs«
+«Wir» «Tim» «Viel» «Ybbs»
+»OUT« »MIV« »JAW« »AY«
+«OUT» «MIV» «JAW» «AY»
+›OUT‹ ›MIV‹ ›JAW‹ ›AY‹
+‹OUT› ‹MIV› ‹JAW› ‹AY›
+‚ja‘ ‚Ja‘ „ja“ „Ja“ ‚ga‘  „ga“
+„Tag“ „Vau“ „Wal“ „Yep“
+‚Tag‘ ‚Vau‘ ‚Wal‘ ‚Yep‘
+“Bus” “Van” “Jon” “lone” “Al”
+‘Bus“ ‘Van“ ‘Jon“ ‘lone“ ‘Al“
+»– bei –« »— und —«›– bei –‹ ›— und —‹
+«– bei –» «— und —»‹– bei –› ‹— und —›
+»sie«. »das«, »an«; »ich«:
+«sie». «das», «an»; «ich»:
+»sie.« »das,« »an!« »ich?«
+«sie.» «das,» «an!» «ich?»
+›sie‹. ›da‹, ›an‹; ›ich‹: 
+‹sie›. ‹das›, ‹an›; ‹ich›:
+›sie.‹ ›das,‹ ›an!‹ ›ich?‹
+‹sie.› ‹das,› ‹an!› ‹ich?›
+Mir!, das?, Ich!: Sie?:
+Mir!; das?; (»sie«) (›sie‹)
+nun –, hier –.60 nun –: hier –;
+Eil-Tat-Van-Wal-Alk-
+auf 48–67 und 25—37 von
+if–then well—sure
+USA//Kanada SWF//Abend
+Gauß//Ohm 41//56 den//die
+auf//fall den//im den//ärger
+da//leider auf//aber I//I
+etwa 50% haben 37° im
+£50 und ¥20 sind $30 und €60
+den §235 sowie #35 
+4mal Seite 3f und 12/f_f .
+Der §45a in den 20ern"
+);
 axes = (
 {
 name = Weight;
@@ -126552,11 +126685,14 @@ type = variable;
 );
 kerningLTR = {
 "3088057A-3552-44D5-8A67-1301E2609A93" = {
+"@MMK_L_Fig_Round" = {
+"@MMK_R_MSC_period" = -40;
+};
 "@MMK_L_Fig_Seven" = {
 "@MMK_R_Fig_Four" = -40;
 "@MMK_R_MSC_colon" = -30;
 "@MMK_R_MSC_dash" = -33;
-"@MMK_R_MSC_period" = -70;
+"@MMK_R_MSC_period" = -110;
 };
 "@MMK_L_MSC_colon" = {
 "@MMK_R_UC_T" = -30;
@@ -126572,6 +126708,7 @@ kerningLTR = {
 };
 "@MMK_L_MSC_period" = {
 "@MMK_R_Fig_Four" = -30;
+"@MMK_R_Fig_Round" = -40;
 "@MMK_R_UC_T" = -80;
 "@MMK_R_UC_V" = -90;
 "@MMK_R_fig_three" = -30;
@@ -126725,6 +126862,7 @@ kerningLTR = {
 "@MMK_R_UC_V" = -100;
 };
 "@MMK_L_lc_LongtStemCaron" = {
+"@MMK_R_asterisk" = 80;
 "@MMK_R_lc_LongtStem" = 149;
 "@MMK_R_lc_LongtStemSinSerifCaron" = 80;
 };
@@ -126735,6 +126873,7 @@ kerningLTR = {
 "@MMK_R_saltillo" = 10;
 };
 "@MMK_L_lc_ShortStem" = {
+"@MMK_R_asterisk" = -20;
 "@MMK_R_lc_t" = -20;
 "@MMK_R_puso_l" = -60;
 };
@@ -126750,6 +126889,7 @@ kerningLTR = {
 "@MMK_R_puso_l" = -50;
 };
 "@MMK_L_lc_e" = {
+"@MMK_R_UC_V" = -60;
 "@MMK_R_asterisk" = -20;
 "@MMK_R_lc_x" = -10;
 "@MMK_R_puso_l" = -50;
@@ -126860,14 +127000,17 @@ kerningLTR = {
 "@MMK_R_uc_a.sc" = -30;
 };
 space = {
-"@MMK_R_UC_V" = -110;
+"@MMK_R_UC_V" = -50;
 };
 };
 "B953D09C-6DD0-450A-A78C-8C2188DD4016" = {
+"@MMK_L_Fig_Round" = {
+"@MMK_R_MSC_period" = -40;
+};
 "@MMK_L_Fig_Seven" = {
 "@MMK_R_Fig_Four" = -50;
 "@MMK_R_MSC_colon" = -30;
-"@MMK_R_MSC_period" = -70;
+"@MMK_R_MSC_period" = -100;
 };
 "@MMK_L_MSC_colon" = {
 "@MMK_R_UC_T" = -30;
@@ -126882,6 +127025,7 @@ space = {
 };
 "@MMK_L_MSC_period" = {
 "@MMK_R_Fig_Four" = -30;
+"@MMK_R_Fig_Round" = -40;
 "@MMK_R_UC_T" = -80;
 "@MMK_R_UC_V" = -90;
 "@MMK_R_fig_three" = -30;
@@ -127035,6 +127179,7 @@ space = {
 "@MMK_R_lc_LongtStem" = 0;
 };
 "@MMK_L_lc_LongtStemCaron" = {
+"@MMK_R_asterisk" = 70;
 "@MMK_R_lc_LongtStem" = 160;
 "@MMK_R_lc_LongtStemSinSerifCaron" = 100;
 };
@@ -127048,6 +127193,7 @@ space = {
 "@MMK_R_saltillo" = 10;
 };
 "@MMK_L_lc_ShortStem" = {
+"@MMK_R_asterisk" = -10;
 "@MMK_R_lc_t" = -10;
 "@MMK_R_puso_l" = -60;
 };
@@ -127062,6 +127208,7 @@ space = {
 "@MMK_R_puso_l" = -50;
 };
 "@MMK_L_lc_e" = {
+"@MMK_R_UC_V" = -50;
 "@MMK_R_asterisk" = -20;
 "@MMK_R_lc_x" = -10;
 "@MMK_R_puso_l" = -50;
@@ -127172,7 +127319,7 @@ space = {
 "@MMK_R_uc_a.sc" = -30;
 };
 space = {
-"@MMK_R_UC_V" = -100;
+"@MMK_R_UC_V" = -50;
 };
 };
 };
