@@ -1,0 +1,939 @@
+# buildVariable: Build a variable font from a source file
+rule buildVariable
+  command = $
+      /Users/carolinagiovagnoli/Documents/GitHub/Andada-Pro/env/bin/python3.9 $
+      -m gftools.builder.jobrunner fontmake --output-path $out -o variable $
+      $fontmake_type $in $args $stamp
+  description = buildVariable
+
+# fix: Run gftools-fix
+rule fix
+  command = $
+      /Users/carolinagiovagnoli/Documents/GitHub/Andada-Pro/env/bin/python3.9 $
+      -m gftools.builder.jobrunner gftools-fix-font -o $out $args $in $stamp
+  description = fix
+
+# compress: Compress to webfont
+rule compress
+  command = $
+      /Users/carolinagiovagnoli/Documents/GitHub/Andada-Pro/env/bin/python3.9 $
+      -m gftools.builder.jobrunner fonttools ttLib.woff2 compress -o $out $
+      $in $stamp
+  description = compress
+
+# remapLayout: Run gftools-remap-layout to change a font's layout rules
+rule remapLayout
+  command = $
+      /Users/carolinagiovagnoli/Documents/GitHub/Andada-Pro/env/bin/python3.9 $
+      -m gftools.builder.jobrunner gftools-remap-layout -o $out $in $args $
+      $stamp
+  description = remapLayout
+
+# rename: Rename a font
+rule rename
+  command = $
+      /Users/carolinagiovagnoli/Documents/GitHub/Andada-Pro/env/bin/python3.9 $
+      -m gftools.builder.jobrunner gftools-rename-font -o $out $args $in $
+      "$name" $stamp
+  description = rename
+
+# buildStat: Build a STAT table from one or more source files
+rule buildSTAT-operation
+  command = gftools-gen-stat --out $tempdir $args -- $in && mv $finalfile $
+      $out $stamp
+rule buildSTAT-postprocess
+  command = gftools-gen-stat --inplace $args -- $in $stamp
+
+# instantiateUfo: Create instance UFOs from a Glyphs or designspace file
+rule instantiateUfo
+  command = $
+      /Users/carolinagiovagnoli/Documents/GitHub/Andada-Pro/env/bin/python3.9 $
+      -m gftools.builder.jobrunner fontmake -i "$instance_name" -o ufo $
+      $fontmake_type $in $args $stamp
+  description = instantiateUfo
+
+# buildTTF: Build a TTF from a source file
+rule buildTTF
+  command = $
+      /Users/carolinagiovagnoli/Documents/GitHub/Andada-Pro/env/bin/python3.9 $
+      -m gftools.builder.jobrunner fontmake --output-path $out -o ttf $
+      $fontmake_type $in $args $stamp
+  description = buildTTF
+
+# autohint: Run gftools-autohint
+rule autohint
+  command = $
+      /Users/carolinagiovagnoli/Documents/GitHub/Andada-Pro/env/bin/python3.9 $
+      -m gftools.builder.jobrunner gftools-autohint $args -o $out $in $stamp
+  description = autohint
+
+# buildOTF: Build a OTF from a source file
+rule buildOTF
+  command = $
+      /Users/carolinagiovagnoli/Documents/GitHub/Andada-Pro/env/bin/python3.9 $
+      -m gftools.builder.jobrunner fontmake --output-path $out -o otf $
+      $fontmake_type $in $args $stamp
+  description = buildOTF
+
+# copy: Copy a file
+rule copy
+  command = $
+      /Users/carolinagiovagnoli/Documents/GitHub/Andada-Pro/env/bin/python3.9 $
+      -m gftools.builder.jobrunner cp $in $out $stamp
+  description = copy
+
+# Generating /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpgjj9ojuj
+build /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpgjj9ojuj: $
+    buildVariable AndadaPro.glyphs
+  operation = buildVariable
+  args = --filter ...  --filter FlattenComponentsFilter --filter $
+      DecomposeTransformedComponentsFilter
+  fontmake_type = -g
+  fontmake_args =  --verbose WARNING 
+# Generating instance_ufos/AndadaPro-Regular.ufo.json
+build instance_ufos/AndadaPro-Regular.ufo.json: instantiateUfo $
+    AndadaPro.glyphs
+  operation = instantiateUfo
+  instance_name = Andada Pro Regular
+  fontmake_type = -g
+  fontmake_args =  --verbose WARNING 
+  args =  --ufo-structure=json --instance-dir instance_ufos
+# Generating instance_ufos/AndadaPro-Medium.ufo.json
+build instance_ufos/AndadaPro-Medium.ufo.json: instantiateUfo AndadaPro.glyphs
+  operation = instantiateUfo
+  instance_name = Andada Pro Medium
+  fontmake_type = -g
+  fontmake_args =  --verbose WARNING 
+  args =  --ufo-structure=json --instance-dir instance_ufos
+# Generating instance_ufos/AndadaPro-SemiBold.ufo.json
+build instance_ufos/AndadaPro-SemiBold.ufo.json: instantiateUfo $
+    AndadaPro.glyphs
+  operation = instantiateUfo
+  instance_name = Andada Pro SemiBold
+  fontmake_type = -g
+  fontmake_args =  --verbose WARNING 
+  args =  --ufo-structure=json --instance-dir instance_ufos
+# Generating instance_ufos/AndadaPro-Bold.ufo.json
+build instance_ufos/AndadaPro-Bold.ufo.json: instantiateUfo AndadaPro.glyphs
+  operation = instantiateUfo
+  instance_name = Andada Pro Bold
+  fontmake_type = -g
+  fontmake_args =  --verbose WARNING 
+  args =  --ufo-structure=json --instance-dir instance_ufos
+# Generating instance_ufos/AndadaPro-ExtraBold.ufo.json
+build instance_ufos/AndadaPro-ExtraBold.ufo.json: instantiateUfo $
+    AndadaPro.glyphs
+  operation = instantiateUfo
+  instance_name = Andada Pro ExtraBold
+  fontmake_type = -g
+  fontmake_args =  --verbose WARNING 
+  args =  --ufo-structure=json --instance-dir instance_ufos
+# Generating ../fonts/webfonts/AndadaPro[wght].woff2
+build ../fonts/webfonts/AndadaPro[wght].woff2: compress $
+    ../fonts/variable/AndadaPro[wght].ttf
+  operation = compress
+# Generating /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmp20_1r2i8
+build /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmp20_1r2i8: $
+    remapLayout ../fonts/variable/AndadaPro[wght].ttf
+  operation = remapLayout
+  args = 'smcp -> ccmp'
+# Generating /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmp_9jxgve4
+build /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmp_9jxgve4: $
+    buildVariable AndadaPro-Italic.glyphs
+  operation = buildVariable
+  args = --filter ...  --filter FlattenComponentsFilter --filter $
+      DecomposeTransformedComponentsFilter
+  fontmake_type = -g
+  fontmake_args =  --verbose WARNING 
+# Generating instance_ufos/AndadaPro-Italic.ufo.json
+build instance_ufos/AndadaPro-Italic.ufo.json: instantiateUfo $
+    AndadaPro-Italic.glyphs
+  operation = instantiateUfo
+  instance_name = Andada Pro Italic
+  fontmake_type = -g
+  fontmake_args =  --verbose WARNING 
+  args =  --ufo-structure=json --instance-dir instance_ufos
+# Generating instance_ufos/AndadaPro-MediumItalic.ufo.json
+build instance_ufos/AndadaPro-MediumItalic.ufo.json: instantiateUfo $
+    AndadaPro-Italic.glyphs
+  operation = instantiateUfo
+  instance_name = Andada Pro Medium Italic
+  fontmake_type = -g
+  fontmake_args =  --verbose WARNING 
+  args =  --ufo-structure=json --instance-dir instance_ufos
+# Generating instance_ufos/AndadaPro-SemiBoldItalic.ufo.json
+build instance_ufos/AndadaPro-SemiBoldItalic.ufo.json: instantiateUfo $
+    AndadaPro-Italic.glyphs
+  operation = instantiateUfo
+  instance_name = Andada Pro SemiBold Italic
+  fontmake_type = -g
+  fontmake_args =  --verbose WARNING 
+  args =  --ufo-structure=json --instance-dir instance_ufos
+# Generating instance_ufos/AndadaPro-BoldItalic.ufo.json
+build instance_ufos/AndadaPro-BoldItalic.ufo.json: instantiateUfo $
+    AndadaPro-Italic.glyphs
+  operation = instantiateUfo
+  instance_name = Andada Pro Bold Italic
+  fontmake_type = -g
+  fontmake_args =  --verbose WARNING 
+  args =  --ufo-structure=json --instance-dir instance_ufos
+# Generating instance_ufos/AndadaPro-ExtraBoldItalic.ufo.json
+build instance_ufos/AndadaPro-ExtraBoldItalic.ufo.json: instantiateUfo $
+    AndadaPro-Italic.glyphs
+  operation = instantiateUfo
+  instance_name = Andada Pro ExtraBold Italic
+  fontmake_type = -g
+  fontmake_args =  --verbose WARNING 
+  args =  --ufo-structure=json --instance-dir instance_ufos
+# Generating ../fonts/webfonts/AndadaPro-Italic[wght].woff2
+build ../fonts/webfonts/AndadaPro-Italic[wght].woff2: compress $
+    ../fonts/variable/AndadaPro-Italic[wght].ttf
+  operation = compress
+# Generating /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpjjor_tmh
+build /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpjjor_tmh: $
+    remapLayout ../fonts/variable/AndadaPro-Italic[wght].ttf
+  operation = remapLayout
+  args = 'smcp -> ccmp'
+# Generating ../fonts/webfonts/AndadaPro-Regular.woff2
+build ../fonts/webfonts/AndadaPro-Regular.woff2: compress $
+    ../fonts/ttf/AndadaPro-Regular.ttf
+  operation = compress
+# Generating /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmp3yn9prgy
+build /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmp3yn9prgy: $
+    remapLayout ../fonts/ttf/AndadaPro-Regular.ttf
+  operation = remapLayout
+  args = 'smcp -> ccmp'
+# Generating /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpwjkdhzd3
+build /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpwjkdhzd3: $
+    remapLayout ../fonts/otf/AndadaPro-Regular.otf
+  operation = remapLayout
+  args = 'smcp -> ccmp'
+# Generating ../fonts/webfonts/AndadaPro-Medium.woff2
+build ../fonts/webfonts/AndadaPro-Medium.woff2: compress $
+    ../fonts/ttf/AndadaPro-Medium.ttf
+  operation = compress
+# Generating /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpa6ej_zjb
+build /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpa6ej_zjb: $
+    remapLayout ../fonts/ttf/AndadaPro-Medium.ttf
+  operation = remapLayout
+  args = 'smcp -> ccmp'
+# Generating /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpo86zpqc9
+build /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpo86zpqc9: $
+    remapLayout ../fonts/otf/AndadaPro-Medium.otf
+  operation = remapLayout
+  args = 'smcp -> ccmp'
+# Generating ../fonts/webfonts/AndadaPro-SemiBold.woff2
+build ../fonts/webfonts/AndadaPro-SemiBold.woff2: compress $
+    ../fonts/ttf/AndadaPro-SemiBold.ttf
+  operation = compress
+# Generating /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpghotclzr
+build /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpghotclzr: $
+    remapLayout ../fonts/ttf/AndadaPro-SemiBold.ttf
+  operation = remapLayout
+  args = 'smcp -> ccmp'
+# Generating /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmp_82pp_yf
+build /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmp_82pp_yf: $
+    remapLayout ../fonts/otf/AndadaPro-SemiBold.otf
+  operation = remapLayout
+  args = 'smcp -> ccmp'
+# Generating ../fonts/webfonts/AndadaPro-Bold.woff2
+build ../fonts/webfonts/AndadaPro-Bold.woff2: compress $
+    ../fonts/ttf/AndadaPro-Bold.ttf
+  operation = compress
+# Generating /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmphlf8bmw5
+build /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmphlf8bmw5: $
+    remapLayout ../fonts/ttf/AndadaPro-Bold.ttf
+  operation = remapLayout
+  args = 'smcp -> ccmp'
+# Generating /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmph8dm1u1m
+build /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmph8dm1u1m: $
+    remapLayout ../fonts/otf/AndadaPro-Bold.otf
+  operation = remapLayout
+  args = 'smcp -> ccmp'
+# Generating ../fonts/webfonts/AndadaPro-ExtraBold.woff2
+build ../fonts/webfonts/AndadaPro-ExtraBold.woff2: compress $
+    ../fonts/ttf/AndadaPro-ExtraBold.ttf
+  operation = compress
+# Generating /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpzt0reh6l
+build /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpzt0reh6l: $
+    remapLayout ../fonts/ttf/AndadaPro-ExtraBold.ttf
+  operation = remapLayout
+  args = 'smcp -> ccmp'
+# Generating /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpyf_0qj_w
+build /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpyf_0qj_w: $
+    remapLayout ../fonts/otf/AndadaPro-ExtraBold.otf
+  operation = remapLayout
+  args = 'smcp -> ccmp'
+# Generating ../fonts/webfonts/AndadaPro-Italic.woff2
+build ../fonts/webfonts/AndadaPro-Italic.woff2: compress $
+    ../fonts/ttf/AndadaPro-Italic.ttf
+  operation = compress
+# Generating /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpnpv9_v5r
+build /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpnpv9_v5r: $
+    remapLayout ../fonts/ttf/AndadaPro-Italic.ttf
+  operation = remapLayout
+  args = 'smcp -> ccmp'
+# Generating /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpgkx49bi_
+build /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpgkx49bi_: $
+    remapLayout ../fonts/otf/AndadaPro-Italic.otf
+  operation = remapLayout
+  args = 'smcp -> ccmp'
+# Generating ../fonts/webfonts/AndadaPro-MediumItalic.woff2
+build ../fonts/webfonts/AndadaPro-MediumItalic.woff2: compress $
+    ../fonts/ttf/AndadaPro-MediumItalic.ttf
+  operation = compress
+# Generating /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpt2jdj0m8
+build /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpt2jdj0m8: $
+    remapLayout ../fonts/ttf/AndadaPro-MediumItalic.ttf
+  operation = remapLayout
+  args = 'smcp -> ccmp'
+# Generating /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpandzc4gw
+build /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpandzc4gw: $
+    remapLayout ../fonts/otf/AndadaPro-MediumItalic.otf
+  operation = remapLayout
+  args = 'smcp -> ccmp'
+# Generating ../fonts/webfonts/AndadaPro-SemiBoldItalic.woff2
+build ../fonts/webfonts/AndadaPro-SemiBoldItalic.woff2: compress $
+    ../fonts/ttf/AndadaPro-SemiBoldItalic.ttf
+  operation = compress
+# Generating /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpndu9ab3a
+build /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpndu9ab3a: $
+    remapLayout ../fonts/ttf/AndadaPro-SemiBoldItalic.ttf
+  operation = remapLayout
+  args = 'smcp -> ccmp'
+# Generating /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpt95vvg2t
+build /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpt95vvg2t: $
+    remapLayout ../fonts/otf/AndadaPro-SemiBoldItalic.otf
+  operation = remapLayout
+  args = 'smcp -> ccmp'
+# Generating ../fonts/webfonts/AndadaPro-BoldItalic.woff2
+build ../fonts/webfonts/AndadaPro-BoldItalic.woff2: compress $
+    ../fonts/ttf/AndadaPro-BoldItalic.ttf
+  operation = compress
+# Generating /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmp40_hlxd2
+build /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmp40_hlxd2: $
+    remapLayout ../fonts/ttf/AndadaPro-BoldItalic.ttf
+  operation = remapLayout
+  args = 'smcp -> ccmp'
+# Generating /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpz0czoowi
+build /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpz0czoowi: $
+    remapLayout ../fonts/otf/AndadaPro-BoldItalic.otf
+  operation = remapLayout
+  args = 'smcp -> ccmp'
+# Generating ../fonts/webfonts/AndadaPro-ExtraBoldItalic.woff2
+build ../fonts/webfonts/AndadaPro-ExtraBoldItalic.woff2: compress $
+    ../fonts/ttf/AndadaPro-ExtraBoldItalic.ttf
+  operation = compress
+# Generating /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpzxh79bke
+build /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpzxh79bke: $
+    remapLayout ../fonts/ttf/AndadaPro-ExtraBoldItalic.ttf
+  operation = remapLayout
+  args = 'smcp -> ccmp'
+# Generating /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmp5joq6ahu
+build /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmp5joq6ahu: $
+    remapLayout ../fonts/otf/AndadaPro-ExtraBoldItalic.otf
+  operation = remapLayout
+  args = 'smcp -> ccmp'
+# Postprocessing  with BuildSTAT
+build $
+    /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpgwyraphd.buildStatstamp: $
+    buildSTAT-postprocess ../fonts/variable/AndadaProSC-Italic[wght].ttf $
+    ../fonts/variable/AndadaProSC[wght].ttf $
+    ../fonts/variable/AndadaPro-Italic[wght].ttf $
+    ../fonts/variable/AndadaPro[wght].ttf
+  stamp =  && touch $
+      /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpgwyraphd.buildStatstamp
+  postprocess = buildStat
+# Generating ../fonts/variable/AndadaPro[wght].ttf
+build ../fonts/variable/AndadaPro[wght].ttf: fix $
+    /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpgjj9ojuj
+  operation = fix
+  args = 
+# Generating /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmp92qve4p3
+build /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmp92qve4p3: rename $
+    /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmp20_1r2i8
+  operation = rename
+  args = --just-family
+  name = Andada Pro SC
+# Generating ../fonts/variable/AndadaProSC[wght].ttf
+build ../fonts/variable/AndadaProSC[wght].ttf: fix $
+    /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmp92qve4p3
+  operation = fix
+  args = 
+# Generating ../fonts/variable/AndadaPro-Italic[wght].ttf
+build ../fonts/variable/AndadaPro-Italic[wght].ttf: fix $
+    /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmp_9jxgve4
+  operation = fix
+  args = 
+# Generating /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmp45401sic
+build /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmp45401sic: rename $
+    /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpjjor_tmh
+  operation = rename
+  args = --just-family
+  name = Andada Pro SC
+# Generating ../fonts/variable/AndadaProSC-Italic[wght].ttf
+build ../fonts/variable/AndadaProSC-Italic[wght].ttf: fix $
+    /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmp45401sic
+  operation = fix
+  args = 
+# Generating /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmprvmenyer
+build /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmprvmenyer: $
+    buildTTF instance_ufos/AndadaPro-Regular.ufo.json
+  operation = buildTTF
+  args = --filter ...  --filter FlattenComponentsFilter --filter $
+      DecomposeTransformedComponentsFilter
+  fontmake_type = -u
+  fontmake_args =  --verbose WARNING 
+# Generating /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpfgyc_n4z
+build /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpfgyc_n4z: $
+    buildOTF instance_ufos/AndadaPro-Regular.ufo.json
+  operation = buildOTF
+  args = --filter ...  --filter FlattenComponentsFilter --filter $
+      DecomposeTransformedComponentsFilter
+  fontmake_type = -u
+  fontmake_args =  --verbose WARNING 
+# Generating /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpfpggtm8g
+build /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpfpggtm8g: $
+    autohint /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmprvmenyer
+  operation = autohint
+  args = --fail-ok 
+# Generating ../fonts/ttf/AndadaPro-Regular.ttf
+build ../fonts/ttf/AndadaPro-Regular.ttf: fix $
+    /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpfpggtm8g
+  operation = fix
+  args = 
+# Generating /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmptdfhk2t3
+build /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmptdfhk2t3: rename $
+    /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmp3yn9prgy
+  operation = rename
+  args = --just-family
+  name = Andada Pro SC
+# Generating ../fonts/ttf/AndadaProSC-Regular.ttf
+build ../fonts/ttf/AndadaProSC-Regular.ttf: fix $
+    /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmptdfhk2t3
+  operation = fix
+  args = 
+# Generating ../fonts/otf/AndadaPro-Regular.otf
+build ../fonts/otf/AndadaPro-Regular.otf: fix $
+    /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpfgyc_n4z
+  operation = fix
+  args = 
+# Generating /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmppiq4f0_h
+build /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmppiq4f0_h: rename $
+    /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpwjkdhzd3
+  operation = rename
+  args = --just-family
+  name = Andada Pro SC
+# Generating ../fonts/otf/AndadaProSC-Regular.otf
+build ../fonts/otf/AndadaProSC-Regular.otf: fix $
+    /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmppiq4f0_h
+  operation = fix
+  args = 
+# Generating /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpwag71zg0
+build /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpwag71zg0: $
+    buildTTF instance_ufos/AndadaPro-Medium.ufo.json
+  operation = buildTTF
+  args = --filter ...  --filter FlattenComponentsFilter --filter $
+      DecomposeTransformedComponentsFilter
+  fontmake_type = -u
+  fontmake_args =  --verbose WARNING 
+# Generating /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpy18ridf6
+build /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpy18ridf6: $
+    buildOTF instance_ufos/AndadaPro-Medium.ufo.json
+  operation = buildOTF
+  args = --filter ...  --filter FlattenComponentsFilter --filter $
+      DecomposeTransformedComponentsFilter
+  fontmake_type = -u
+  fontmake_args =  --verbose WARNING 
+# Generating /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmp0fxxrr8y
+build /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmp0fxxrr8y: $
+    autohint /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpwag71zg0
+  operation = autohint
+  args = --fail-ok 
+# Generating ../fonts/ttf/AndadaPro-Medium.ttf
+build ../fonts/ttf/AndadaPro-Medium.ttf: fix $
+    /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmp0fxxrr8y
+  operation = fix
+  args = 
+# Generating /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmp78_wzraq
+build /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmp78_wzraq: rename $
+    /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpa6ej_zjb
+  operation = rename
+  args = --just-family
+  name = Andada Pro SC
+# Generating ../fonts/ttf/AndadaProSC-Medium.ttf
+build ../fonts/ttf/AndadaProSC-Medium.ttf: fix $
+    /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmp78_wzraq
+  operation = fix
+  args = 
+# Generating ../fonts/otf/AndadaPro-Medium.otf
+build ../fonts/otf/AndadaPro-Medium.otf: fix $
+    /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpy18ridf6
+  operation = fix
+  args = 
+# Generating /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmp_vlhkk1g
+build /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmp_vlhkk1g: rename $
+    /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpo86zpqc9
+  operation = rename
+  args = --just-family
+  name = Andada Pro SC
+# Generating ../fonts/otf/AndadaProSC-Medium.otf
+build ../fonts/otf/AndadaProSC-Medium.otf: fix $
+    /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmp_vlhkk1g
+  operation = fix
+  args = 
+# Generating /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpy0z_4kiy
+build /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpy0z_4kiy: $
+    buildTTF instance_ufos/AndadaPro-SemiBold.ufo.json
+  operation = buildTTF
+  args = --filter ...  --filter FlattenComponentsFilter --filter $
+      DecomposeTransformedComponentsFilter
+  fontmake_type = -u
+  fontmake_args =  --verbose WARNING 
+# Generating /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpgqubgf9g
+build /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpgqubgf9g: $
+    buildOTF instance_ufos/AndadaPro-SemiBold.ufo.json
+  operation = buildOTF
+  args = --filter ...  --filter FlattenComponentsFilter --filter $
+      DecomposeTransformedComponentsFilter
+  fontmake_type = -u
+  fontmake_args =  --verbose WARNING 
+# Generating /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpalvtuetv
+build /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpalvtuetv: $
+    autohint /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpy0z_4kiy
+  operation = autohint
+  args = --fail-ok 
+# Generating ../fonts/ttf/AndadaPro-SemiBold.ttf
+build ../fonts/ttf/AndadaPro-SemiBold.ttf: fix $
+    /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpalvtuetv
+  operation = fix
+  args = 
+# Generating /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpomzi2bxg
+build /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpomzi2bxg: rename $
+    /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpghotclzr
+  operation = rename
+  args = --just-family
+  name = Andada Pro SC
+# Generating ../fonts/ttf/AndadaProSC-SemiBold.ttf
+build ../fonts/ttf/AndadaProSC-SemiBold.ttf: fix $
+    /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpomzi2bxg
+  operation = fix
+  args = 
+# Generating ../fonts/otf/AndadaPro-SemiBold.otf
+build ../fonts/otf/AndadaPro-SemiBold.otf: fix $
+    /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpgqubgf9g
+  operation = fix
+  args = 
+# Generating /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpw22vuluc
+build /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpw22vuluc: rename $
+    /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmp_82pp_yf
+  operation = rename
+  args = --just-family
+  name = Andada Pro SC
+# Generating ../fonts/otf/AndadaProSC-SemiBold.otf
+build ../fonts/otf/AndadaProSC-SemiBold.otf: fix $
+    /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpw22vuluc
+  operation = fix
+  args = 
+# Generating /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmp4a7f3cww
+build /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmp4a7f3cww: $
+    buildTTF instance_ufos/AndadaPro-Bold.ufo.json
+  operation = buildTTF
+  args = --filter ...  --filter FlattenComponentsFilter --filter $
+      DecomposeTransformedComponentsFilter
+  fontmake_type = -u
+  fontmake_args =  --verbose WARNING 
+# Generating /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpsyih0cjr
+build /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpsyih0cjr: $
+    buildOTF instance_ufos/AndadaPro-Bold.ufo.json
+  operation = buildOTF
+  args = --filter ...  --filter FlattenComponentsFilter --filter $
+      DecomposeTransformedComponentsFilter
+  fontmake_type = -u
+  fontmake_args =  --verbose WARNING 
+# Generating /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpzanlheg7
+build /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpzanlheg7: $
+    autohint /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmp4a7f3cww
+  operation = autohint
+  args = --fail-ok 
+# Generating ../fonts/ttf/AndadaPro-Bold.ttf
+build ../fonts/ttf/AndadaPro-Bold.ttf: fix $
+    /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpzanlheg7
+  operation = fix
+  args = 
+# Generating /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpd7k0mbg0
+build /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpd7k0mbg0: rename $
+    /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmphlf8bmw5
+  operation = rename
+  args = --just-family
+  name = Andada Pro SC
+# Generating ../fonts/ttf/AndadaProSC-Bold.ttf
+build ../fonts/ttf/AndadaProSC-Bold.ttf: fix $
+    /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpd7k0mbg0
+  operation = fix
+  args = 
+# Generating ../fonts/otf/AndadaPro-Bold.otf
+build ../fonts/otf/AndadaPro-Bold.otf: fix $
+    /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpsyih0cjr
+  operation = fix
+  args = 
+# Generating /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpte3bvox7
+build /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpte3bvox7: rename $
+    /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmph8dm1u1m
+  operation = rename
+  args = --just-family
+  name = Andada Pro SC
+# Generating ../fonts/otf/AndadaProSC-Bold.otf
+build ../fonts/otf/AndadaProSC-Bold.otf: fix $
+    /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpte3bvox7
+  operation = fix
+  args = 
+# Generating /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmp6wzlg79x
+build /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmp6wzlg79x: $
+    buildTTF instance_ufos/AndadaPro-ExtraBold.ufo.json
+  operation = buildTTF
+  args = --filter ...  --filter FlattenComponentsFilter --filter $
+      DecomposeTransformedComponentsFilter
+  fontmake_type = -u
+  fontmake_args =  --verbose WARNING 
+# Generating /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpxfw7s5z4
+build /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpxfw7s5z4: $
+    buildOTF instance_ufos/AndadaPro-ExtraBold.ufo.json
+  operation = buildOTF
+  args = --filter ...  --filter FlattenComponentsFilter --filter $
+      DecomposeTransformedComponentsFilter
+  fontmake_type = -u
+  fontmake_args =  --verbose WARNING 
+# Generating /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmp9u_qzd78
+build /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmp9u_qzd78: $
+    autohint /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmp6wzlg79x
+  operation = autohint
+  args = --fail-ok 
+# Generating ../fonts/ttf/AndadaPro-ExtraBold.ttf
+build ../fonts/ttf/AndadaPro-ExtraBold.ttf: fix $
+    /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmp9u_qzd78
+  operation = fix
+  args = 
+# Generating /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmp8wppaezi
+build /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmp8wppaezi: rename $
+    /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpzt0reh6l
+  operation = rename
+  args = --just-family
+  name = Andada Pro SC
+# Generating ../fonts/ttf/AndadaProSC-ExtraBold.ttf
+build ../fonts/ttf/AndadaProSC-ExtraBold.ttf: fix $
+    /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmp8wppaezi
+  operation = fix
+  args = 
+# Generating ../fonts/otf/AndadaPro-ExtraBold.otf
+build ../fonts/otf/AndadaPro-ExtraBold.otf: fix $
+    /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpxfw7s5z4
+  operation = fix
+  args = 
+# Generating /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpgxvvq__4
+build /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpgxvvq__4: rename $
+    /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpyf_0qj_w
+  operation = rename
+  args = --just-family
+  name = Andada Pro SC
+# Generating ../fonts/otf/AndadaProSC-ExtraBold.otf
+build ../fonts/otf/AndadaProSC-ExtraBold.otf: fix $
+    /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpgxvvq__4
+  operation = fix
+  args = 
+# Generating /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpmc4bfmyk
+build /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpmc4bfmyk: $
+    buildTTF instance_ufos/AndadaPro-Italic.ufo.json
+  operation = buildTTF
+  args = --filter ...  --filter FlattenComponentsFilter --filter $
+      DecomposeTransformedComponentsFilter
+  fontmake_type = -u
+  fontmake_args =  --verbose WARNING 
+# Generating /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmp491askm1
+build /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmp491askm1: $
+    buildOTF instance_ufos/AndadaPro-Italic.ufo.json
+  operation = buildOTF
+  args = --filter ...  --filter FlattenComponentsFilter --filter $
+      DecomposeTransformedComponentsFilter
+  fontmake_type = -u
+  fontmake_args =  --verbose WARNING 
+# Generating /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmp26widi6q
+build /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmp26widi6q: $
+    autohint /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpmc4bfmyk
+  operation = autohint
+  args = --fail-ok 
+# Generating ../fonts/ttf/AndadaPro-Italic.ttf
+build ../fonts/ttf/AndadaPro-Italic.ttf: fix $
+    /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmp26widi6q
+  operation = fix
+  args = 
+# Generating /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmp4njbuxzk
+build /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmp4njbuxzk: rename $
+    /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpnpv9_v5r
+  operation = rename
+  args = --just-family
+  name = Andada Pro SC
+# Generating ../fonts/ttf/AndadaProSC-Italic.ttf
+build ../fonts/ttf/AndadaProSC-Italic.ttf: fix $
+    /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmp4njbuxzk
+  operation = fix
+  args = 
+# Generating ../fonts/otf/AndadaPro-Italic.otf
+build ../fonts/otf/AndadaPro-Italic.otf: fix $
+    /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmp491askm1
+  operation = fix
+  args = 
+# Generating /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpim0xtta8
+build /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpim0xtta8: rename $
+    /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpgkx49bi_
+  operation = rename
+  args = --just-family
+  name = Andada Pro SC
+# Generating ../fonts/otf/AndadaProSC-Italic.otf
+build ../fonts/otf/AndadaProSC-Italic.otf: fix $
+    /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpim0xtta8
+  operation = fix
+  args = 
+# Generating /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmp5d214yy2
+build /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmp5d214yy2: $
+    buildTTF instance_ufos/AndadaPro-MediumItalic.ufo.json
+  operation = buildTTF
+  args = --filter ...  --filter FlattenComponentsFilter --filter $
+      DecomposeTransformedComponentsFilter
+  fontmake_type = -u
+  fontmake_args =  --verbose WARNING 
+# Generating /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmp9pq6n934
+build /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmp9pq6n934: $
+    buildOTF instance_ufos/AndadaPro-MediumItalic.ufo.json
+  operation = buildOTF
+  args = --filter ...  --filter FlattenComponentsFilter --filter $
+      DecomposeTransformedComponentsFilter
+  fontmake_type = -u
+  fontmake_args =  --verbose WARNING 
+# Generating /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpietsadz0
+build /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpietsadz0: $
+    autohint /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmp5d214yy2
+  operation = autohint
+  args = --fail-ok 
+# Generating ../fonts/ttf/AndadaPro-MediumItalic.ttf
+build ../fonts/ttf/AndadaPro-MediumItalic.ttf: fix $
+    /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpietsadz0
+  operation = fix
+  args = 
+# Generating /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmp30jg3thg
+build /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmp30jg3thg: rename $
+    /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpt2jdj0m8
+  operation = rename
+  args = --just-family
+  name = Andada Pro SC
+# Generating ../fonts/ttf/AndadaProSC-MediumItalic.ttf
+build ../fonts/ttf/AndadaProSC-MediumItalic.ttf: fix $
+    /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmp30jg3thg
+  operation = fix
+  args = 
+# Generating ../fonts/otf/AndadaPro-MediumItalic.otf
+build ../fonts/otf/AndadaPro-MediumItalic.otf: fix $
+    /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmp9pq6n934
+  operation = fix
+  args = 
+# Generating /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpkcu84dng
+build /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpkcu84dng: rename $
+    /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpandzc4gw
+  operation = rename
+  args = --just-family
+  name = Andada Pro SC
+# Generating ../fonts/otf/AndadaProSC-MediumItalic.otf
+build ../fonts/otf/AndadaProSC-MediumItalic.otf: fix $
+    /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpkcu84dng
+  operation = fix
+  args = 
+# Generating /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpgzjywdgj
+build /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpgzjywdgj: $
+    buildTTF instance_ufos/AndadaPro-SemiBoldItalic.ufo.json
+  operation = buildTTF
+  args = --filter ...  --filter FlattenComponentsFilter --filter $
+      DecomposeTransformedComponentsFilter
+  fontmake_type = -u
+  fontmake_args =  --verbose WARNING 
+# Generating /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmph0if65su
+build /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmph0if65su: $
+    buildOTF instance_ufos/AndadaPro-SemiBoldItalic.ufo.json
+  operation = buildOTF
+  args = --filter ...  --filter FlattenComponentsFilter --filter $
+      DecomposeTransformedComponentsFilter
+  fontmake_type = -u
+  fontmake_args =  --verbose WARNING 
+# Generating /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmp8yehk6ez
+build /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmp8yehk6ez: $
+    autohint /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpgzjywdgj
+  operation = autohint
+  args = --fail-ok 
+# Generating ../fonts/ttf/AndadaPro-SemiBoldItalic.ttf
+build ../fonts/ttf/AndadaPro-SemiBoldItalic.ttf: fix $
+    /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmp8yehk6ez
+  operation = fix
+  args = 
+# Generating /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpaq_t1boe
+build /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpaq_t1boe: rename $
+    /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpndu9ab3a
+  operation = rename
+  args = --just-family
+  name = Andada Pro SC
+# Generating ../fonts/ttf/AndadaProSC-SemiBoldItalic.ttf
+build ../fonts/ttf/AndadaProSC-SemiBoldItalic.ttf: fix $
+    /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpaq_t1boe
+  operation = fix
+  args = 
+# Generating ../fonts/otf/AndadaPro-SemiBoldItalic.otf
+build ../fonts/otf/AndadaPro-SemiBoldItalic.otf: fix $
+    /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmph0if65su
+  operation = fix
+  args = 
+# Generating /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmp3jgzslwe
+build /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmp3jgzslwe: rename $
+    /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpt95vvg2t
+  operation = rename
+  args = --just-family
+  name = Andada Pro SC
+# Generating ../fonts/otf/AndadaProSC-SemiBoldItalic.otf
+build ../fonts/otf/AndadaProSC-SemiBoldItalic.otf: fix $
+    /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmp3jgzslwe
+  operation = fix
+  args = 
+# Generating /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpomr9j2sq
+build /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpomr9j2sq: $
+    buildTTF instance_ufos/AndadaPro-BoldItalic.ufo.json
+  operation = buildTTF
+  args = --filter ...  --filter FlattenComponentsFilter --filter $
+      DecomposeTransformedComponentsFilter
+  fontmake_type = -u
+  fontmake_args =  --verbose WARNING 
+# Generating /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpod1ejo3c
+build /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpod1ejo3c: $
+    buildOTF instance_ufos/AndadaPro-BoldItalic.ufo.json
+  operation = buildOTF
+  args = --filter ...  --filter FlattenComponentsFilter --filter $
+      DecomposeTransformedComponentsFilter
+  fontmake_type = -u
+  fontmake_args =  --verbose WARNING 
+# Generating /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmp0u485hcb
+build /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmp0u485hcb: $
+    autohint /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpomr9j2sq
+  operation = autohint
+  args = --fail-ok 
+# Generating ../fonts/ttf/AndadaPro-BoldItalic.ttf
+build ../fonts/ttf/AndadaPro-BoldItalic.ttf: fix $
+    /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmp0u485hcb
+  operation = fix
+  args = 
+# Generating /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmprgpa6fam
+build /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmprgpa6fam: rename $
+    /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmp40_hlxd2
+  operation = rename
+  args = --just-family
+  name = Andada Pro SC
+# Generating ../fonts/ttf/AndadaProSC-BoldItalic.ttf
+build ../fonts/ttf/AndadaProSC-BoldItalic.ttf: fix $
+    /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmprgpa6fam
+  operation = fix
+  args = 
+# Generating ../fonts/otf/AndadaPro-BoldItalic.otf
+build ../fonts/otf/AndadaPro-BoldItalic.otf: fix $
+    /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpod1ejo3c
+  operation = fix
+  args = 
+# Generating /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmp22hjyaye
+build /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmp22hjyaye: rename $
+    /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpz0czoowi
+  operation = rename
+  args = --just-family
+  name = Andada Pro SC
+# Generating ../fonts/otf/AndadaProSC-BoldItalic.otf
+build ../fonts/otf/AndadaProSC-BoldItalic.otf: fix $
+    /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmp22hjyaye
+  operation = fix
+  args = 
+# Generating /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpw9wu9g2w
+build /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpw9wu9g2w: $
+    buildTTF instance_ufos/AndadaPro-ExtraBoldItalic.ufo.json
+  operation = buildTTF
+  args = --filter ...  --filter FlattenComponentsFilter --filter $
+      DecomposeTransformedComponentsFilter
+  fontmake_type = -u
+  fontmake_args =  --verbose WARNING 
+# Generating /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmp6i438poe
+build /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmp6i438poe: $
+    buildOTF instance_ufos/AndadaPro-ExtraBoldItalic.ufo.json
+  operation = buildOTF
+  args = --filter ...  --filter FlattenComponentsFilter --filter $
+      DecomposeTransformedComponentsFilter
+  fontmake_type = -u
+  fontmake_args =  --verbose WARNING 
+# Generating /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpaijb5qng
+build /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpaijb5qng: $
+    autohint /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpw9wu9g2w
+  operation = autohint
+  args = --fail-ok 
+# Generating ../fonts/ttf/AndadaPro-ExtraBoldItalic.ttf
+build ../fonts/ttf/AndadaPro-ExtraBoldItalic.ttf: fix $
+    /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpaijb5qng
+  operation = fix
+  args = 
+# Generating /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmp0pghykrg
+build /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmp0pghykrg: rename $
+    /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpzxh79bke
+  operation = rename
+  args = --just-family
+  name = Andada Pro SC
+# Generating ../fonts/ttf/AndadaProSC-ExtraBoldItalic.ttf
+build ../fonts/ttf/AndadaProSC-ExtraBoldItalic.ttf: fix $
+    /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmp0pghykrg
+  operation = fix
+  args = 
+# Generating ../fonts/otf/AndadaPro-ExtraBoldItalic.otf
+build ../fonts/otf/AndadaPro-ExtraBoldItalic.otf: fix $
+    /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmp6i438poe
+  operation = fix
+  args = 
+# Generating /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpafieunqz
+build /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpafieunqz: rename $
+    /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmp5joq6ahu
+  operation = rename
+  args = --just-family
+  name = Andada Pro SC
+# Generating ../fonts/otf/AndadaProSC-ExtraBoldItalic.otf
+build ../fonts/otf/AndadaProSC-ExtraBoldItalic.otf: fix $
+    /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpafieunqz
+  operation = fix
+  args = 
+default ../fonts/webfonts/AndadaPro[wght].woff2 $
+    ../fonts/webfonts/AndadaPro-Italic[wght].woff2 $
+    ../fonts/webfonts/AndadaPro-Regular.woff2 $
+    ../fonts/webfonts/AndadaPro-Medium.woff2 $
+    ../fonts/webfonts/AndadaPro-SemiBold.woff2 $
+    ../fonts/webfonts/AndadaPro-Bold.woff2 $
+    ../fonts/webfonts/AndadaPro-ExtraBold.woff2 $
+    ../fonts/webfonts/AndadaPro-Italic.woff2 $
+    ../fonts/webfonts/AndadaPro-MediumItalic.woff2 $
+    ../fonts/webfonts/AndadaPro-SemiBoldItalic.woff2 $
+    ../fonts/webfonts/AndadaPro-BoldItalic.woff2 $
+    ../fonts/webfonts/AndadaPro-ExtraBoldItalic.woff2 $
+    /var/folders/tc/nmzwthn1469d5f1k5_vpxzl00000gn/T/tmpgwyraphd.buildStatstamp $
+    ../fonts/variable/AndadaProSC[wght].ttf $
+    ../fonts/ttf/AndadaProSC-Regular.ttf $
+    ../fonts/otf/AndadaProSC-Regular.otf $
+    ../fonts/ttf/AndadaProSC-Medium.ttf ../fonts/otf/AndadaProSC-Medium.otf $
+    ../fonts/ttf/AndadaProSC-SemiBold.ttf $
+    ../fonts/otf/AndadaProSC-SemiBold.otf ../fonts/ttf/AndadaProSC-Bold.ttf $
+    ../fonts/otf/AndadaProSC-Bold.otf $
+    ../fonts/ttf/AndadaProSC-ExtraBold.ttf $
+    ../fonts/otf/AndadaProSC-ExtraBold.otf $
+    ../fonts/ttf/AndadaProSC-Italic.ttf ../fonts/otf/AndadaProSC-Italic.otf $
+    ../fonts/ttf/AndadaProSC-MediumItalic.ttf $
+    ../fonts/otf/AndadaProSC-MediumItalic.otf $
+    ../fonts/ttf/AndadaProSC-SemiBoldItalic.ttf $
+    ../fonts/otf/AndadaProSC-SemiBoldItalic.otf $
+    ../fonts/ttf/AndadaProSC-BoldItalic.ttf $
+    ../fonts/otf/AndadaProSC-BoldItalic.otf $
+    ../fonts/ttf/AndadaProSC-ExtraBoldItalic.ttf $
+    ../fonts/otf/AndadaProSC-ExtraBoldItalic.otf

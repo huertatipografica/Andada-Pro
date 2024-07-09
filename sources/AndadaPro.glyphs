@@ -23,53 +23,18 @@ da 27. es 38. an 87, in 68, 674
 (96) (3) (5) (7) [96] [3 [5 [7
 2+3−4÷5-6±≥≤><
 (c) Friedrich Forssman",
-"THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG
-the quick brown fox jumps over the lazy dog
-Spacing
-nanbncndnenfngnhninjnknlnmn
-nonpnqnrnsntnunvnwnxnynzn
-HAHBHCHDHEHFHGHHIHJHKHL
-LHMHNHOHPHQHRHSHTHUHVHWHXHYHZH
-0102030405060708090
-lower case//lower case
-aufkauf aufhalt aufbleib
-verﬂixt auflassen 
-ho/f_f e auffassen
-ﬁle aufißt raufjagen fıne
-aufﬁnden Tiefﬂieger
-Sto/f_f los Mu/f_f on Sto/f_f igel O/f_f zier
-Ra/f_f band Tu/f_f höhle Su/f_f kopp 
-führen fördern fähre
-wegjagen Bargfeld
-kyrie afro arte axe luvwärts
-Gevatter wann 
-ever gewettet severe
-davon gewonnen down
-wichtig recken
-ndnďlďhďoďnď*ď”
-nlnľlľhľoľnľ*ľ”dłh
-fîî tíì lïïë thĩĩ nsa
-Versal//Kleinbuchstaben
-Farbe Fest Firn Fjord Font
-Frau Fuß Fähre Förde Füße
-Rest Rohr Röhre Rymer
-Test Tod Tauf Tim Tja Turm
-Traum Tsara Twist Tyrol
-Tüte Töten Täter TéTêTèVeste VamogsVeV
- Vogel VéVêVèVater Vijf Vlut Vulkan
-Vytautas Vroni Väter Vögel Vs Ws Vz Wz
-Weste Wolf Wüste Wörpe Wärter Waage Wiege Wlasta
-Wurst Wyhl Wrasen
-Yeats Yoni auf Yqem
-Yak Ybbs Yggdrasil Yps Hola
-Ysop Ytong Yuma
-Versal//Versal
-ATK AVI AWL AYN LTK
-LVI LWL LYN ĽV ĽTH
-RTK TVI RWL RYN
-TABULA VATER WASSER
-YAKUZA FABEL PAPST
-UNÐE HĐ"
+"Tzotzil
+Batsꞌi kꞌop jkꞌoptik chꞌichꞌ chꞌayopoxil
+jkꞌanojot Kꞌelabachꞌel Tꞌanal tꞌom Pꞌij pꞌin
+
+Wonaan:
+Mʌg kꞌʌd hatꞌeempäi choorbabaadëiim pʌ
+Tꞌ/vturnedtilde rjim tꞌ/vturnedtilde rjim mʌ jãiüvipꞌüa KꞋɅD TꞋ/Vturnedtilde RJIM
+
+Guaraní:
+Koꞌá/gtilde ã l’uso Oyapo˜i avañeꞌ˜e Ohechávo yva
+Káꞌa mbür/gtilde eꞌi foñt˜e yvyra ndoitýi Mboꞌehára 
+KÁꞋA MBÜREꞋI FOÑT˜E YVYRA NDOITÝI "
 );
 axes = (
 {
@@ -11500,7 +11465,7 @@ pos = (273,15);
 ref = acutecomb.case;
 }
 );
-width = 829;
+width = 870;
 },
 {
 layerId = "4E6502B1-B066-4D3E-9BD1-B1D9901B4F4F";
@@ -11517,7 +11482,7 @@ pos = (268,15);
 ref = acutecomb.case;
 }
 );
-width = 815;
+width = 823;
 }
 );
 metricLeft = O;
@@ -15125,11 +15090,11 @@ layers = (
 anchors = (
 {
 name = bottom;
-pos = (407,0);
+pos = (431,0);
 },
 {
 name = top;
-pos = (437,705);
+pos = (461,705);
 }
 );
 layerId = "16643525-C5DD-48EC-8E99-463BF28F5E85";
@@ -15148,11 +15113,11 @@ width = 740;
 anchors = (
 {
 name = bottom;
-pos = (390,0);
+pos = (405,0);
 },
 {
 name = top;
-pos = (442,705);
+pos = (457,705);
 }
 );
 layerId = "4E6502B1-B066-4D3E-9BD1-B1D9901B4F4F";
@@ -15184,7 +15149,7 @@ shapes = (
 ref = Uhorn;
 },
 {
-pos = (297,0);
+pos = (321,0);
 ref = acutecomb.case;
 }
 );
@@ -15197,7 +15162,7 @@ shapes = (
 ref = Uhorn;
 },
 {
-pos = (312,0);
+pos = (327,0);
 ref = acutecomb.case;
 }
 );
@@ -15221,7 +15186,7 @@ shapes = (
 ref = Uhorn;
 },
 {
-pos = (280,0);
+pos = (304,0);
 ref = dotbelowcomb;
 }
 );
@@ -15234,7 +15199,7 @@ shapes = (
 ref = Uhorn;
 },
 {
-pos = (275,0);
+pos = (290,0);
 ref = dotbelowcomb;
 }
 );
@@ -15258,7 +15223,7 @@ shapes = (
 ref = Uhorn;
 },
 {
-pos = (263,0);
+pos = (287,0);
 ref = gravecomb.case;
 }
 );
@@ -15271,7 +15236,7 @@ shapes = (
 ref = Uhorn;
 },
 {
-pos = (264,0);
+pos = (279,0);
 ref = gravecomb.case;
 }
 );
@@ -15295,7 +15260,7 @@ shapes = (
 ref = Uhorn;
 },
 {
-pos = (318,0);
+pos = (342,0);
 ref = hookabovecomb.case;
 }
 );
@@ -15308,7 +15273,7 @@ shapes = (
 ref = Uhorn;
 },
 {
-pos = (319,0);
+pos = (334,0);
 ref = hookabovecomb.case;
 }
 );
@@ -15332,7 +15297,7 @@ shapes = (
 ref = Uhorn;
 },
 {
-pos = (226,0);
+pos = (250,0);
 ref = tildecomb.case;
 }
 );
@@ -15345,7 +15310,7 @@ shapes = (
 ref = Uhorn;
 },
 {
-pos = (232,0);
+pos = (247,0);
 ref = tildecomb.case;
 }
 );
@@ -26063,7 +26028,7 @@ nodes = (
 );
 }
 );
-width = 292;
+width = 282;
 }
 );
 unicode = 108;
@@ -26098,7 +26063,7 @@ pos = (3,51);
 ref = acutecomb.case;
 }
 );
-width = 292;
+width = 282;
 }
 );
 unicode = 314;
@@ -26168,7 +26133,7 @@ pos = (43,0);
 ref = commaaccentcomb;
 }
 );
-width = 292;
+width = 282;
 }
 );
 unicode = 316;
@@ -26241,7 +26206,7 @@ pos = (33,0);
 ref = dotbelowcomb;
 }
 );
-width = 292;
+width = 282;
 }
 );
 unicode = 7735;
@@ -26272,11 +26237,11 @@ shapes = (
 ref = l;
 },
 {
-pos = (292,0);
+pos = (282,0);
 ref = j;
 }
 );
-width = 557;
+width = 547;
 }
 );
 unicode = 457;
@@ -26311,7 +26276,7 @@ pos = (-66,0);
 ref = macronbelowcomb;
 }
 );
-width = 292;
+width = 282;
 }
 );
 unicode = 7739;
@@ -35963,7 +35928,7 @@ shapes = (
 ref = ffl;
 }
 );
-width = 1015;
+width = 1005;
 }
 );
 metricLeft = f;
@@ -37602,7 +37567,7 @@ shapes = (
 ref = fl;
 }
 );
-width = 655;
+width = 645;
 },
 {
 background = {
@@ -38426,7 +38391,7 @@ nodes = (
 );
 }
 );
-width = 655;
+width = 645;
 }
 );
 metricLeft = f;
@@ -53252,11 +53217,11 @@ layers = (
 anchors = (
 {
 name = bottom;
-pos = (326,0);
+pos = (324,0);
 },
 {
 name = top;
-pos = (326,543);
+pos = (324,543);
 }
 );
 layerId = "16643525-C5DD-48EC-8E99-463BF28F5E85";
@@ -53275,11 +53240,11 @@ width = 699;
 anchors = (
 {
 name = bottom;
-pos = (317,0);
+pos = (316,0);
 },
 {
 name = top;
-pos = (383,543);
+pos = (382,543);
 }
 );
 layerId = "4E6502B1-B066-4D3E-9BD1-B1D9901B4F4F";
@@ -53309,7 +53274,7 @@ shapes = (
 ref = uhorn.sc;
 },
 {
-pos = (240,49);
+pos = (238,49);
 ref = acutecomb;
 }
 );
@@ -53322,7 +53287,7 @@ shapes = (
 ref = uhorn.sc;
 },
 {
-pos = (300,49);
+pos = (299,49);
 ref = acutecomb;
 }
 );
@@ -53344,7 +53309,7 @@ shapes = (
 ref = uhorn.sc;
 },
 {
-pos = (199,0);
+pos = (197,0);
 ref = dotbelowcomb;
 }
 );
@@ -53357,7 +53322,7 @@ shapes = (
 ref = uhorn.sc;
 },
 {
-pos = (202,0);
+pos = (201,0);
 ref = dotbelowcomb;
 }
 );
@@ -53379,7 +53344,7 @@ shapes = (
 ref = uhorn.sc;
 },
 {
-pos = (175,49);
+pos = (173,49);
 ref = gravecomb;
 }
 );
@@ -53392,7 +53357,7 @@ shapes = (
 ref = uhorn.sc;
 },
 {
-pos = (236,49);
+pos = (235,49);
 ref = gravecomb;
 }
 );
@@ -53454,7 +53419,7 @@ shapes = (
 ref = uhorn.sc;
 },
 {
-pos = (121,49);
+pos = (119,49);
 ref = tildecomb;
 }
 );
@@ -53467,7 +53432,7 @@ shapes = (
 ref = uhorn.sc;
 },
 {
-pos = (114,49);
+pos = (113,49);
 ref = tildecomb;
 }
 );
@@ -70376,7 +70341,7 @@ nodes = (
 );
 }
 );
-width = 1015;
+width = 1005;
 }
 );
 metricLeft = f;

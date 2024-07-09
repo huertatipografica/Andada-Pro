@@ -1,0 +1,6 @@
+[console_scripts]
+normalize_vfb2ufo = vfbLib.ufo.helpers:normalize
+vfb2json = vfbLib.cmdline:vfb2json
+vfb3ufo = vfbLib.cmdline:vfb2ufo
+vfbcu2qu = vfbLib.cu2qu:vfbcu2qu
+vfbdiff = vfbLib.diff:diffvfb

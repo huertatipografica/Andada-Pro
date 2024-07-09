@@ -1,0 +1,24 @@
+Metadata-Version: 2.1
+Name: resvg-cli
+Version: 0.22.0.post3
+Summary: Precompiled binaries for the 'resvg' CLI tool, from the homonymous SVG rendering library.
+Keywords: svg,render,raster,skia
+Author: Yevhenii Reizner <razrfalcon@gmail.com>
+Author-email: Yevhenii Reizner <razrfalcon@gmail.com>
+Maintainer-email: Cosimo Lupo <cosimo@anthrotype.com>
+License: MPL-2.0
+Project-URL: repository, https://github.com/anthrotype/resvg-wheels
+
+|CI Status|
+
+resvg wheels
+============
+
+This repository is used to build and publish precompiled Python
+`wheels <https://pythonwheels.com/>`__ for the
+`resvg <https://github.com/RazrFalcon/resvg>`__ command-line tool, using
+`maturin <https://maturin.rs/>`__.
+
+.. |CI Status| image:: https://github.com/anthrotype/resvg-wheels/actions/workflows/ci.yml/badge.svg
+   :target: https://github.com/anthrotype/resvg-wheels/actions/workflows/ci.yml
+
