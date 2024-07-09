@@ -15090,11 +15090,11 @@ layers = (
 anchors = (
 {
 name = bottom;
-pos = (431,0);
+pos = (455,0);
 },
 {
 name = top;
-pos = (461,705);
+pos = (485,705);
 }
 );
 layerId = "16643525-C5DD-48EC-8E99-463BF28F5E85";
@@ -15113,11 +15113,11 @@ width = 740;
 anchors = (
 {
 name = bottom;
-pos = (405,0);
+pos = (420,0);
 },
 {
 name = top;
-pos = (457,705);
+pos = (472,705);
 }
 );
 layerId = "4E6502B1-B066-4D3E-9BD1-B1D9901B4F4F";
@@ -15149,7 +15149,7 @@ shapes = (
 ref = Uhorn;
 },
 {
-pos = (321,0);
+pos = (345,0);
 ref = acutecomb.case;
 }
 );
@@ -15162,7 +15162,7 @@ shapes = (
 ref = Uhorn;
 },
 {
-pos = (327,0);
+pos = (342,0);
 ref = acutecomb.case;
 }
 );
@@ -15186,7 +15186,7 @@ shapes = (
 ref = Uhorn;
 },
 {
-pos = (304,0);
+pos = (328,0);
 ref = dotbelowcomb;
 }
 );
@@ -15199,7 +15199,7 @@ shapes = (
 ref = Uhorn;
 },
 {
-pos = (290,0);
+pos = (305,0);
 ref = dotbelowcomb;
 }
 );
@@ -15223,7 +15223,7 @@ shapes = (
 ref = Uhorn;
 },
 {
-pos = (287,0);
+pos = (311,0);
 ref = gravecomb.case;
 }
 );
@@ -15236,7 +15236,7 @@ shapes = (
 ref = Uhorn;
 },
 {
-pos = (279,0);
+pos = (294,0);
 ref = gravecomb.case;
 }
 );
@@ -15260,7 +15260,7 @@ shapes = (
 ref = Uhorn;
 },
 {
-pos = (342,0);
+pos = (366,0);
 ref = hookabovecomb.case;
 }
 );
@@ -15273,7 +15273,7 @@ shapes = (
 ref = Uhorn;
 },
 {
-pos = (334,0);
+pos = (349,0);
 ref = hookabovecomb.case;
 }
 );
@@ -15297,7 +15297,7 @@ shapes = (
 ref = Uhorn;
 },
 {
-pos = (250,0);
+pos = (274,0);
 ref = tildecomb.case;
 }
 );
@@ -15310,7 +15310,7 @@ shapes = (
 ref = Uhorn;
 },
 {
-pos = (247,0);
+pos = (262,0);
 ref = tildecomb.case;
 }
 );
@@ -26098,7 +26098,7 @@ pos = (203,0);
 ref = caroncomb.alt;
 }
 );
-width = 292;
+width = 282;
 }
 );
 unicode = 318;
@@ -26311,7 +26311,7 @@ pos = (-100,17);
 ref = slashcomb;
 }
 );
-width = 292;
+width = 282;
 }
 );
 unicode = 322;
@@ -53217,11 +53217,11 @@ layers = (
 anchors = (
 {
 name = bottom;
-pos = (324,0);
+pos = (322,0);
 },
 {
 name = top;
-pos = (324,543);
+pos = (322,543);
 }
 );
 layerId = "16643525-C5DD-48EC-8E99-463BF28F5E85";
@@ -53240,11 +53240,11 @@ width = 699;
 anchors = (
 {
 name = bottom;
-pos = (316,0);
+pos = (315,0);
 },
 {
 name = top;
-pos = (382,543);
+pos = (381,543);
 }
 );
 layerId = "4E6502B1-B066-4D3E-9BD1-B1D9901B4F4F";
@@ -53274,7 +53274,7 @@ shapes = (
 ref = uhorn.sc;
 },
 {
-pos = (238,49);
+pos = (236,49);
 ref = acutecomb;
 }
 );
@@ -53287,7 +53287,7 @@ shapes = (
 ref = uhorn.sc;
 },
 {
-pos = (299,49);
+pos = (298,49);
 ref = acutecomb;
 }
 );
@@ -53309,7 +53309,7 @@ shapes = (
 ref = uhorn.sc;
 },
 {
-pos = (197,0);
+pos = (195,0);
 ref = dotbelowcomb;
 }
 );
@@ -53322,7 +53322,7 @@ shapes = (
 ref = uhorn.sc;
 },
 {
-pos = (201,0);
+pos = (200,0);
 ref = dotbelowcomb;
 }
 );
@@ -53344,7 +53344,7 @@ shapes = (
 ref = uhorn.sc;
 },
 {
-pos = (173,49);
+pos = (171,49);
 ref = gravecomb;
 }
 );
@@ -53357,7 +53357,7 @@ shapes = (
 ref = uhorn.sc;
 },
 {
-pos = (235,49);
+pos = (234,49);
 ref = gravecomb;
 }
 );
@@ -53419,7 +53419,7 @@ shapes = (
 ref = uhorn.sc;
 },
 {
-pos = (119,49);
+pos = (117,49);
 ref = tildecomb;
 }
 );
@@ -53432,7 +53432,7 @@ shapes = (
 ref = uhorn.sc;
 },
 {
-pos = (113,49);
+pos = (112,49);
 ref = tildecomb;
 }
 );
